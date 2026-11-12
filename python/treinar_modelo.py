@@ -48,11 +48,20 @@ def main():
     structural=np.column_stack([
         df['year'].to_numpy(float), df['position'].to_numpy(float),
         df['text'].str.len().to_numpy(float),
-        df['skillCode'].notna().to_numpy(float),
     ])
     structural=np.nan_to_num(structural)
-    X=np.hstack([reduced, StandardScaler().fit_transform(structural)]).astype(np.float32)
+    numeric_scaler=StandardScaler().fit(structural[tr])
+    numeric= numeric_scaler.transform(structural).astype(np.float32)
+    categorical_columns=['assunto','competencia','habilidade','dificuldade']
+    for column in categorical_columns:
+        if column not in df.columns: df[column]='__missing__'
+        df[column]=df[column].fillna('__missing__').astype(str).str.strip().replace('', '__missing__')
+    encoder=OneHotEncoder(handle_unknown='ignore',sparse_output=False,dtype=np.float32)
+    encoder.fit(df.iloc[tr][categorical_columns])
+    categorical=encoder.transform(df[categorical_columns])
+    X=np.hstack([reduced, numeric, categorical]).astype(np.float32)
     print(f'Base de treino: {len(df)} linhas | {df.itemCode.nunique()} itens | MiniLM: {DIMENSIONS} -> PCA: {args.embedding_dim}', flush=True)
+    print(f'Metadados categóricos: {categorical_columns} -> {categorical.shape[1]} colunas one-hot', flush=True)
     print(f'Divisão: {len(tr)} treino / {len(te)} teste | grupos separados por CO_ITEM', flush=True)
     estimators={
       'ridge':Ridge(alpha=10.0),
@@ -87,7 +96,8 @@ def main():
     score=metrics[~metrics.model.str.startswith('baseline')].groupby('model').MAE.mean(); best=score.idxmin()
     preds=fitted[best].predict(X[te]); test=df.iloc[te].copy()
     test[['pred_a','pred_b','pred_c']]=preds; test.to_csv(args.out/'previsoes_teste.csv',index=False)
-    joblib.dump({'model':fitted[best],'pca':pca,'model_input_dimensions':X.shape[1],
+    joblib.dump({'model':fitted[best],'pca':pca,'numeric_scaler':numeric_scaler,'categorical_encoder':encoder,
+                 'categorical_columns':categorical_columns,'model_input_dimensions':X.shape[1],
                  'embedding_model':MODEL,'embedding_dimensions':DIMENSIONS,
                  'reduced_embedding_dimensions':args.embedding_dim,'targets':['a','b','c']},args.out/'estimador_tri.joblib')
     print(metrics.to_string(index=False), flush=True); print(f'Melhor pela MAE média: {best}', flush=True)
