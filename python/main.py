@@ -38,7 +38,10 @@ def main():
         for color in colors: cmd += ['--color',color]
         if args.delete_zips: cmd += ['--delete-zips']
         run(cmd)
-    if not args.skip_extract:
+    text_is_valid=json_path.exists() and json_path.stat().st_size > 500 and not json_path.read_bytes()[:40].startswith(b'version https://git-lfs.github.com')
+    if not args.skip_extract or not text_is_valid:
+        if args.skip_extract and not text_is_valid:
+            print(f'JSON de texto ausente/vazio; regenerando {json_path}', flush=True)
         cmd=[sys.executable,str(PYDIR/'extrair_texto_questoes.py'),'--input',str(reduced_dir),'--output',str(text_dir)]
         for color in colors: cmd += ['--color',color]
         if args.ocr: cmd += ['--ocr']

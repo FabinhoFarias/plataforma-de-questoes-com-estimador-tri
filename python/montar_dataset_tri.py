@@ -84,7 +84,13 @@ def main():
     ap.add_argument('--color',action='append',help='Filtra cor; pode repetir. Padrão: todas com PDF.')
     ap.add_argument('--include-ambiguous',action='store_true',help='Inclui candidatos ambíguos e marca a qualidade do pareamento')
     args=ap.parse_args()
-    texts=json.loads(args.json.read_text(encoding='utf-8'))
+    raw=args.json.read_text(encoding='utf-8')
+    if raw.startswith('version https://git-lfs.github.com'):
+        raise RuntimeError(f'{args.json} é um ponteiro Git LFS. Execute `git lfs pull` antes da montagem.')
+    try:
+        texts=json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f'{args.json} não contém JSON válido; regenere a extração dos PDFs.') from exc
     years={int(x['year']) for x in texts}
     labels=read_item_rows(args.items,years)
     color_filter={COLOR_ALIASES.get(x.upper(),x.upper()) for x in args.color} if args.color else None
