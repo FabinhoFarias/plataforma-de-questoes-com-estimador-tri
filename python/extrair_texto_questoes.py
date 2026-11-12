@@ -16,7 +16,8 @@ except ImportError:
 COLOR_ALIASES = {"AZUL":"AZUL", "AMARELO":"AMARELO", "AMARELA":"AMARELO", "BRANCO":"BRANCO", "BRANCA":"BRANCO", "ROSA":"ROSA", "CINZA":"CINZA"}
 Q_RE = re.compile(r"(?im)^\s*(?:QUEST(?:Ã|A)O\s*)?(\d{1,3})\s*[.)-]\s*(?=\S)")
 EXPLICIT_Q_RE = re.compile(r"(?im)^\s*QUEST(?:Ã|A)O\s*(\d{1,3})\b")
-ALT_RE = re.compile(r"(?m)^\s*([A-E])\s*[)\].:-]\s*")
+ALT_RE = re.compile(r"(?m)^[ \t]*([A-E])(?:[ \t]*[)\].:-][ \t]*|[ \t]+)(?=\S)")
+ALT_ONLY_RE = re.compile(r"(?m)^[ \t]*([A-E])[ \t]*$")
 
 
 def normalize_color(text: str) -> str | None:
@@ -61,12 +62,12 @@ def extract_pdf(pdf_bytes: bytes, identity: dict, use_ocr: bool):
     doc = fitz.open(stream=pdf_bytes, filetype='pdf')
     pages=[]
     for page_no,page in enumerate(doc,1):
-        text=page.get_text('text',sort=True).strip()
+        text=page_text_in_reading_order(page)
         ocr_used=False
         if use_ocr and len(text)<30:
             try:
                 tp=page.get_textpage_ocr(language='por+eng',dpi=300)
-                text=page.get_text('text',textpage=tp,sort=True).strip(); ocr_used=True
+                text=page_text_in_reading_order(page,tp); ocr_used=True
             except Exception as e:
                 print(f'OCR indisponível na página {page_no}: {e}',file=sys.stderr)
         pages.append({"page":page_no,"text":text,"ocrUsed":ocr_used})
@@ -82,14 +83,13 @@ def extract_pdf(pdf_bytes: bytes, identity: dict, use_ocr: bool):
         block=full[m.start():end].strip()
         number=int(m.group(1))
         alternatives=[]
-        am=list(ALT_RE.finditer(block))
-        letters=[x.group(1) for x in am]
-        if len(am)==5 and letters==list('ABCDE'):
+        block,am=find_alternative_markers(block)
+        if len(am)==5:
             for j,a in enumerate(am):
                 stop=am[j+1].start() if j+1<len(am) else len(block)
                 alternatives.append({"letter":a.group(1),"text":block[a.end():stop].strip()})
             stem=block[:am[0].start()].strip()
-            alt_status='five_markers_detected'
+            alt_status='five_markers_detected' if all(a['text'] for a in alternatives) else 'needs_review'
         else:
             stem=block; alt_status='needs_review'
         blocks.append({**identity,"index":number,"title":f"Questão {number} - ENEM {identity['year']}",
@@ -107,6 +107,60 @@ def extract_pdf(pdf_bytes: bytes, identity: dict, use_ocr: bool):
            "ocrPages":[p['page'] for p in pages if p['ocrUsed']],"markerType":marker_type,
            "questionCount":len(blocks),"pages":pages}
     return blocks,audit
+
+
+def page_text_in_reading_order(page, textpage=None):
+    """Read each PDF column top-to-bottom, then move to the next column.
+
+    PyMuPDF's page-wide sort=True sorts by y before x. On ENEM's two-column
+    layouts that interleaves unrelated questions and creates large gaps.
+    """
+    raw_blocks = page.get_text('blocks', textpage=textpage, sort=False)
+    midpoint = page.rect.width / 2
+    columns = [[], []]
+    for block in raw_blocks:
+        x0, y0, x1, y1, raw_text, *_ = block
+        value = raw_text.strip()
+        if not value:
+            continue
+        if re.fullmatch(r'\*?[0-9]{5,}[A-Z0-9]{1,}\*?', value.replace(' ', '')):
+            continue
+        # Drop recurring running headers and page footers, keeping question text.
+        if y1 < 38:
+            continue
+        if y0 > page.rect.height - 80 and re.search(
+            r'(?i)(?:ENEM\s*20\d\d|CADERNO\s*\d.*AZUL|(?:AZUL|AMARELO)[–-]|\b[LCN]H?\s*[•–-]\s*\d+.*DIA)',
+            value,
+        ):
+            continue
+        column = 0 if (x0 + x1) / 2 < midpoint else 1
+        # Normalize spacing within each text block; retain block boundaries so
+        # answer options and paragraphs remain detectable.
+        value = re.sub(r'[ \t\u00a0]+', ' ', value)
+        value = re.sub(r' *\n *', '\n', value).strip()
+        # Recent INEP PDFs repeat this text as a diagonal watermark; it is not
+        # part of the question and can otherwise create enormous noisy blocks.
+        value = re.sub(r'(?i)(?:\bENEM\s*20\d{2}\b\s*){3,}', ' ', value).strip()
+        columns[column].append((y0, x0, value))
+    ordered = [entry[2] for col in columns for entry in sorted(col, key=lambda item: (item[0], item[1]))]
+    return '\n'.join(ordered).strip()
+
+
+def find_alternative_markers(block: str):
+    """Find a complete A-E sequence, ignoring duplicated PDF glyph labels."""
+    normalized = re.sub(
+        r'(?m)^[ \t]*([A-E])[ \t]*\n[ \t]*\1[ \t]*(?=\S)',
+        r'\1 ',
+        block,
+    )
+    candidates = list(ALT_RE.finditer(normalized))
+    candidates.extend(ALT_ONLY_RE.finditer(normalized))
+    candidates.sort(key=lambda match: match.start())
+    for start in range(max(0, len(candidates) - 4)):
+        group = candidates[start:start + 5]
+        if [match.group(1) for match in group] == list('ABCDE'):
+            return normalized, group
+    return normalized, []
 
 
 def main():
