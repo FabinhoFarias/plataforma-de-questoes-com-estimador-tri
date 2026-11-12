@@ -19,6 +19,20 @@ python -m python.main --skip-reduce --color AZUL
 python -m python.main --skip-reduce --skip-extract --skip-train --color AZUL
 ```
 
+Como os arquivos já reduzidos e o JSON de texto existem localmente, o comando
+para montar, vetorizar e treinar usando esses arquivos é:
+
+```bash
+python -m python.main --skip-reduce --skip-extract --color AZUL
+```
+
+O montador só aprova pareamentos que consegue validar por edição, área, posição
+e código de prova único. As demais linhas vão para `dataset_tri_revisao.csv`.
+Com os arquivos presentes hoje, o dataset aprovado cobre 2012–2014; versões de
+cadernos e variantes de idioma de outros anos continuam na revisão até haver
+um mapeamento inequívoco de `CO_PROVA` para o PDF correspondente. Assim o treino
+é parcial e não representa todas as edições disponíveis.
+
 Para executar só a vetorização MiniLM sobre um CSV já montado:
 
 ```bash

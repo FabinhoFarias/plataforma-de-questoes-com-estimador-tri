@@ -30,6 +30,9 @@ pnpm-debug.log*
 !.vscode/settings.json
 
 # ENEM datasets, extracted PDFs, embeddings and model artifacts (local only)
+.venv/
+__pycache__/
+*.py[cod]
 dados/microdados/
 dados/extraidos/
 dados/processados/

@@ -14,10 +14,38 @@ COLOR_ALIASES={'AMARELA':'AMARELO','BRANCA':'BRANCO'}
 PARAMS={'a':'NU_PARAM_A','b':'NU_PARAM_B','c':'NU_PARAM_C'}
 
 
+def area_for_index(year:int, index:int):
+    """Área que ocupa o número impresso, conforme a ordem da edição."""
+    if not 1 <= index <= 180:
+        return None
+    if year == 2009:
+        order=('CN','CH','LC','MT')
+    elif year <= 2015:
+        order=('CH','CN','LC','MT')
+    else:
+        order=('LC','CH','CN','MT')
+    return order[(index-1)//45]
+
+
+def item_exam_coordinates(year:int, area:str, position:int):
+    """Retorna dia e número impresso para uma posição oficial do item."""
+    if year == 2017:
+        # Em 2017 CO_POSICAO reinicia por área; os 10 itens de língua estrangeira
+        # (posições 1-10) são variantes das questões impressas 1-5.
+        if area == 'LC':
+            return (1, position if position <= 5 else position-5) if position <= 50 else (None,None)
+        offsets={'CH':45,'CN':90,'MT':135}
+        day=1 if area=='CH' else 2
+        return (day,offsets[area]+position) if area in offsets and 1 <= position <= 45 else (None,None)
+
+    day=(1 if area in ('CH','CN') else 2) if year <= 2015 else (1 if area in ('LC','CH') else 2)
+    # From 2009 through 2016 and again from 2018 onward, CO_POSICAO is the
+    # printed global position. The dataset files confirm each year's ranges.
+    return day,position
+
+
 def read_item_rows(root:Path, years:set[int]):
     rows=[]
-    for path in root.glob('* /itens/*.csv'):
-        pass
     for path in root.glob('*/itens/*.csv'):
         m=re.search(r'(19\d{2}|20\d{2})',path.parts[-3])
         if not m: continue
@@ -32,18 +60,13 @@ def read_item_rows(root:Path, years:set[int]):
             for r in reader:
                 color=COLOR_ALIASES.get(r['TX_COR'].strip().upper(),r['TX_COR'].strip().upper())
                 pos=int(r['CO_POSICAO'])
-                # edição 2009 tem posições globais em 4 faixas; outras edições usam posição por área/prova.
-                if year==2009:
-                    day=1 if pos<=135 else 2
-                    local_index=pos-45 if pos<=90 else pos-90 if pos<=135 else pos-135
-                else:
-                    # Mapeamento conservador: áreas CH/CN são dia 1; LC/MT dia 2 no formato pós-2009.
-                    day=1 if r['SG_AREA'] in ('CH','CN') else 2
-                    local_index=pos
+                area=r['SG_AREA'].strip()
+                day,local_index=item_exam_coordinates(year,area,pos)
                 rows.append({'year':year,'examColor':color,'day':day,'examCode':r['CO_PROVA'].strip(),
-                             'disciplineCode':r['SG_AREA'].strip(),'discipline':AREA_LABELS.get(r['SG_AREA'].strip()),
+                             'disciplineCode':area,'discipline':AREA_LABELS.get(area),
                              'position':pos,'index':local_index,'itemCode':r['CO_ITEM'].strip(),
                              'correctAlternative':r['TX_GABARITO'].strip().upper(),
+                             'languageCode':r.get('TP_LINGUA','').strip(),
                              'isAnnulled':r.get('IN_ITEM_ABAN','0').strip()=='1',
                              **{k:(float(r[v].replace(',','.')) if r[v].strip() else None) for k,v in PARAMS.items()},
                              'skillCode':r.get('CO_HABILIDADE','').strip() or None})
@@ -64,20 +87,33 @@ def main():
     years={int(x['year']) for x in texts}
     labels=read_item_rows(args.items,years)
     color_filter={COLOR_ALIASES.get(x.upper(),x.upper()) for x in args.color} if args.color else None
-    # Index text by exact year/color/day/local question number, preserving all duplicates for review.
+    # Index by year/color/day/area/printed question; duplicates remain visible for review.
     text_index={}
     for q in texts:
-        color=q['color']; key=(int(q['year']),color,int(q['day']),int(q['index']))
+        year=int(q['year']); area=area_for_index(year,int(q['index']))
+        color=q['color']; key=(year,color,int(q['day']),area,int(q['index']))
         text_index.setdefault(key,[]).append(q)
+    code_counts={}
+    for row in labels:
+        key=(row['year'],row['examColor'],row['disciplineCode'])
+        code_counts.setdefault(key,set()).add(row['examCode'])
     joined=[]; review=[]
     for r in labels:
         if r['isAnnulled'] or color_filter and r['examColor'] not in color_filter: continue
-        key=(r['year'],r['examColor'],r['day'],r['index'])
+        if r['day'] is None or r['index'] is None:
+            review.append({**r,'candidate_count':0,'reason':'unsupported_exam_position_mapping'}); continue
+        if r['languageCode']:
+            review.append({**r,'candidate_count':0,'reason':'language_variant_requires_exact_mapping'}); continue
+        if len(code_counts[(r['year'],r['examColor'],r['disciplineCode'])]) != 1:
+            review.append({**r,'candidate_count':0,'reason':'multiple_exam_codes_for_area_need_caderno_mapping'}); continue
+        key=(r['year'],r['examColor'],r['day'],r['disciplineCode'],r['index'])
         candidates=text_index.get(key,[])
         if len(candidates)!=1:
             review.append({**r,'candidate_count':len(candidates),'reason':'no_text_match' if not candidates else 'ambiguous_text_match'})
             continue
         q=candidates[0]
+        if q.get('alternativeStatus') != 'five_markers_detected':
+            review.append({**r,'candidate_count':1,'reason':'text_or_alternatives_need_visual_review'}); continue
         # If the PDF text explicitly provides five alternatives, enforce the official key exists.
         alts=q.get('alternatives',[])
         alt_letters={a['letter'] for a in alts}
