@@ -30,6 +30,8 @@ def main():
     Y=df[['a','b','c']].to_numpy(float)
     groups=df.itemCode.astype(str).to_numpy()
     tr,te=next(GroupShuffleSplit(n_splits=1,test_size=.2,random_state=42).split(X,Y,groups))
+    print(f'Base de treino: {len(df)} linhas | {df.itemCode.nunique()} itens | embeddings: {X.shape[1]} dimensões', flush=True)
+    print(f'Divisão: {len(tr)} treino / {len(te)} teste | grupos separados por CO_ITEM', flush=True)
     estimators={
       'ridge':MultiOutputRegressor(__import__('sklearn.linear_model',fromlist=['Ridge']).Ridge(alpha=10.0)),
       'extra_trees':MultiOutputRegressor(ExtraTreesRegressor(n_estimators=300,min_samples_leaf=2,random_state=42,n_jobs=-1)),
@@ -37,7 +39,9 @@ def main():
     }
     report=[]; fitted={}
     for name,model in estimators.items():
+        print(f'[{name}] treinando...', flush=True)
         model.fit(X[tr],Y[tr]); fitted[name]=model; pred=model.predict(X[te])
+        print(f'[{name}] concluído; calculando métricas', flush=True)
         for j,param in enumerate(['a','b','c']):
             report.append({'model':name,'parameter':param,'MAE':mean_absolute_error(Y[te,j],pred[:,j]),
                            'RMSE':mean_squared_error(Y[te,j],pred[:,j])**.5,'R2':r2_score(Y[te,j],pred[:,j])})
@@ -50,6 +54,6 @@ def main():
     preds=fitted[best].predict(X[te]); test=df.iloc[te].copy()
     test[['pred_a','pred_b','pred_c']]=preds; test.to_csv(args.out/'previsoes_teste.csv',index=False)
     joblib.dump({'model':fitted[best],'embedding_model':MODEL,'embedding_dimensions':DIMENSIONS,'targets':['a','b','c']},args.out/'estimador_tri.joblib')
-    print(metrics.to_string(index=False)); print(f'Melhor pela MAE média: {best}')
+    print(metrics.to_string(index=False), flush=True); print(f'Melhor pela MAE média: {best}', flush=True)
 
 if __name__=='__main__': main()

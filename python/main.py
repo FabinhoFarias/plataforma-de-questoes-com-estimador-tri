@@ -20,6 +20,7 @@ def main():
     ap.add_argument('--skip-extract',action='store_true',help='Reutiliza JSON de texto existente')
     ap.add_argument('--skip-embeddings',action='store_true',help='Reutiliza dataset com embeddings já calculados')
     ap.add_argument('--include-ambiguous',action='store_true',help='Maximiza a base mantendo pareamentos ambíguos marcados')
+    ap.add_argument('--force-embeddings',action='store_true',help='Recalcula embeddings mesmo se o CSV já existir')
     ap.add_argument('--skip-train',action='store_true')
     ap.add_argument('--delete-zips',action='store_true',help='Apaga ZIP após extração válida')
     ap.add_argument('--ocr',action='store_true',help='Aciona OCR; requer Tesseract e idiomas por+eng')
@@ -45,8 +46,10 @@ def main():
     mount=[sys.executable,str(PYDIR/'montar_dataset_tri.py'),'--items',str(reduced_dir),'--json',str(json_path),'--out',str(dataset),'--color',args.color]
     if args.include_ambiguous: mount.append('--include-ambiguous')
     run(mount)
-    if not args.skip_embeddings:
+    if not args.skip_embeddings and (args.force_embeddings or not embedded_dataset.exists()):
         run([sys.executable,'-m','python.tokenizar_dataset','--csv',str(dataset),'--out',str(embedded_dataset)])
+    elif not args.skip_embeddings:
+        print(f'Embeddings já existentes; reutilizando {embedded_dataset}', flush=True)
     if not args.skip_train:
         run([sys.executable,'-m','python.treinar_modelo','--csv',str(embedded_dataset),'--out',str(ROOT/'dados'/'modelos')])
 
