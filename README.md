@@ -86,12 +86,13 @@ docs/
 
 O extrator lê diretamente os ZIPs oficiais do INEP e não expande o CSV grande
 com respostas individuais. As dependências Python estão em
-[`requirements.txt`](requirements.txt). Recomendado: Python 3.11 ou 3.12.
+[`requirements.txt`](requirements.txt). Use Python 3.12; Python 3.15 ainda não
+tem wheels disponíveis para todas as dependências científicas usadas aqui.
 
 Na raiz do projeto, crie o ambiente e instale as dependências:
 
 ```bash
-python3 -m venv .venv
+python3.12 -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt

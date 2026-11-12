@@ -3,14 +3,14 @@
 Na raiz do projeto, instale as dependências e execute:
 
 ```bash
-python3 -m venv .venv
+python3.12 -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m python.main --color AZUL
 ```
 
-O comando percorre `dados/microdados`, reduz os ZIPs para tabelas de itens/documentação/PDFs da cor escolhida, extrai texto em JSON, junta o conteúdo aos parâmetros oficiais A/B/C e treina regressores com embeddings MiniLM. A primeira instalação baixa PyTorch, Sentence Transformers e o modelo MiniLM; reserve espaço em disco e use Python 3.11 ou 3.12. ZIPs são preservados por padrão. Para removê-los depois de uma extração validada, passe `--delete-zips`.
+O comando percorre `dados/microdados`, reduz os ZIPs para tabelas de itens/documentação/PDFs da cor escolhida, extrai texto em JSON, junta o conteúdo aos parâmetros oficiais A/B/C e treina regressores com embeddings MiniLM. Use Python 3.12 para evitar dependências sem wheels para versões recentes do Python. A primeira instalação baixa PyTorch, Sentence Transformers e o modelo MiniLM; reserve espaço em disco. ZIPs são preservados por padrão. Para removê-los depois de uma extração validada, passe `--delete-zips`.
 
 Opções para retomar etapas:
 

@@ -6,7 +6,6 @@ PyMuPDF>=1.24,<2.0
 pandas>=2.2,<4.0
 numpy>=1.26,<3.0
 scikit-learn>=1.5,<2.0
-pyarrow>=17,<25
 
 # Embeddings multilíngues MiniLM
 sentence-transformers>=3.0,<6.0
