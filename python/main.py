@@ -49,7 +49,11 @@ def main():
     mount=[sys.executable,str(PYDIR/'montar_dataset_tri.py'),'--items',str(reduced_dir),'--json',str(json_path),'--out',str(dataset),'--color',args.color]
     if args.include_ambiguous: mount.append('--include-ambiguous')
     run(mount)
-    if not args.skip_embeddings and (args.force_embeddings or not embedded_dataset.exists()):
+    embedded_is_valid=False
+    if embedded_dataset.exists():
+        head=embedded_dataset.read_bytes()[:1000]
+        embedded_is_valid=(not head.startswith(b'version https://git-lfs.github.com') and b'embedding' in head.splitlines()[0])
+    if not args.skip_embeddings and (args.force_embeddings or not embedded_is_valid):
         run([sys.executable,'-m','python.tokenizar_dataset','--csv',str(dataset),'--out',str(embedded_dataset)])
     elif not args.skip_embeddings:
         print(f'Embeddings já existentes; reutilizando {embedded_dataset}', flush=True)
