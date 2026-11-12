@@ -19,7 +19,7 @@ def main():
     ap.add_argument('--skip-reduce',action='store_true',help='Usa arquivos reduzidos que já existem')
     ap.add_argument('--skip-extract',action='store_true',help='Reutiliza JSON de texto existente')
     ap.add_argument('--skip-embeddings',action='store_true',help='Reutiliza dataset com embeddings já calculados')
-    ap.add_argument('--include-ambiguous',action='store_true',help='Maximiza a base mantendo pareamentos ambíguos marcados')
+    ap.add_argument('--include-ambiguous',action='store_true',help='Inclui linhas ambíguas no CSV; o treino usa somente exact')
     ap.add_argument('--force-embeddings',action='store_true',help='Recalcula embeddings mesmo se o CSV já existir')
     ap.add_argument('--skip-train',action='store_true')
     ap.add_argument('--delete-zips',action='store_true',help='Apaga ZIP após extração válida')

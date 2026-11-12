@@ -5,7 +5,12 @@ import argparse, json
 from pathlib import Path
 import numpy as np
 import pandas as pd
-from sklearn.ensemble import ExtraTreesRegressor, RandomForestRegressor
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.neural_network import MLPRegressor
+from sklearn.svm import SVR
+from sklearn.linear_model import Ridge, ElasticNet
 from sklearn.multioutput import MultiOutputRegressor
 from sklearn.model_selection import GroupShuffleSplit
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
@@ -23,19 +28,30 @@ def main():
         raise ValueError(f'{args.csv}: coluna embedding ausente; execute python -m python.tokenizar_dataset primeiro.')
     df=df.dropna(subset=['text','a','b','c','embedding']).copy()
     df['text']=df.text.astype(str).str.strip(); df=df[df.text.ne('')]
+    if 'matchQuality' in df.columns:
+        df=df[df.matchQuality.eq('exact')].copy()
+    df=df.drop_duplicates(subset=['itemCode']).reset_index(drop=True)
     if df.itemCode.nunique()<10: raise ValueError('Treino exige ao menos 10 CO_ITEM distintos após filtros.')
     X=np.asarray([json.loads(v) for v in df.embedding],dtype=np.float32)
     if X.ndim != 2 or X.shape[1] != DIMENSIONS or not np.isfinite(X).all():
         raise ValueError(f'Embeddings inválidos; esperado vetor finito de {DIMENSIONS} dimensões por linha.')
+    structural=np.column_stack([
+        df['year'].to_numpy(float), df['position'].to_numpy(float),
+        df['text'].str.len().to_numpy(float),
+        df['skillCode'].notna().to_numpy(float),
+    ])
+    structural=np.nan_to_num(structural)
+    X=np.hstack([X, StandardScaler().fit_transform(structural)]).astype(np.float32)
     Y=df[['a','b','c']].to_numpy(float)
     groups=df.itemCode.astype(str).to_numpy()
     tr,te=next(GroupShuffleSplit(n_splits=1,test_size=.2,random_state=42).split(X,Y,groups))
     print(f'Base de treino: {len(df)} linhas | {df.itemCode.nunique()} itens | embeddings: {X.shape[1]} dimensões', flush=True)
     print(f'Divisão: {len(tr)} treino / {len(te)} teste | grupos separados por CO_ITEM', flush=True)
     estimators={
-      'ridge':MultiOutputRegressor(__import__('sklearn.linear_model',fromlist=['Ridge']).Ridge(alpha=10.0)),
-      'extra_trees':MultiOutputRegressor(ExtraTreesRegressor(n_estimators=300,min_samples_leaf=2,random_state=42,n_jobs=-1)),
-      'random_forest':MultiOutputRegressor(RandomForestRegressor(n_estimators=300,min_samples_leaf=2,random_state=42,n_jobs=-1)),
+      'ridge':Ridge(alpha=10.0),
+      'elastic_net':MultiOutputRegressor(ElasticNet(alpha=0.01,l1_ratio=0.2,max_iter=3000,random_state=42)),
+      'mlp':MLPRegressor(hidden_layer_sizes=(128,64),early_stopping=True,max_iter=300,random_state=42),
+      'svr_rbf':MultiOutputRegressor(SVR(C=10.0,epsilon=0.05,kernel='rbf')),
     }
     report=[]; fitted={}
     for name,model in estimators.items():
@@ -45,12 +61,23 @@ def main():
         for j,param in enumerate(['a','b','c']):
             report.append({'model':name,'parameter':param,'MAE':mean_absolute_error(Y[te,j],pred[:,j]),
                            'RMSE':mean_squared_error(Y[te,j],pred[:,j])**.5,'R2':r2_score(Y[te,j],pred[:,j])})
-    baseline=np.tile(Y[tr].mean(axis=0),(len(te),1))
+    for label, indices in [('baseline_global', tr)]:
+        baseline=np.tile(Y[indices].mean(axis=0),(len(te),1))
+        for j,param in enumerate(['a','b','c']):
+            report.append({'model':label,'parameter':param,'MAE':mean_absolute_error(Y[te,j],baseline[:,j]),
+                           'RMSE':mean_squared_error(Y[te,j],baseline[:,j])**.5,'R2':r2_score(Y[te,j],baseline[:,j])})
+    train_groups=df.iloc[tr].groupby(['disciplineCode','year'])[['a','b','c']].mean()
+    baseline=[]
+    global_mean=Y[tr].mean(axis=0)
+    for i in te:
+        key=(df.iloc[i]['disciplineCode'],df.iloc[i]['year'])
+        baseline.append(train_groups.loc[key].to_numpy() if key in train_groups.index else global_mean)
+    baseline=np.asarray(baseline)
     for j,param in enumerate(['a','b','c']):
-        report.append({'model':'baseline_mean','parameter':param,'MAE':mean_absolute_error(Y[te,j],baseline[:,j]),
+        report.append({'model':'baseline_area_year','parameter':param,'MAE':mean_absolute_error(Y[te,j],baseline[:,j]),
                        'RMSE':mean_squared_error(Y[te,j],baseline[:,j])**.5,'R2':r2_score(Y[te,j],baseline[:,j])})
     metrics=pd.DataFrame(report); metrics.to_csv(args.out/'metricas.csv',index=False)
-    score=metrics[metrics.model!='baseline_mean'].groupby('model').MAE.mean(); best=score.idxmin()
+    score=metrics[~metrics.model.str.startswith('baseline')].groupby('model').MAE.mean(); best=score.idxmin()
     preds=fitted[best].predict(X[te]); test=df.iloc[te].copy()
     test[['pred_a','pred_b','pred_c']]=preds; test.to_csv(args.out/'previsoes_teste.csv',index=False)
     joblib.dump({'model':fitted[best],'embedding_model':MODEL,'embedding_dimensions':DIMENSIONS,'targets':['a','b','c']},args.out/'estimador_tri.joblib')
