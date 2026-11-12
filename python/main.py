@@ -46,8 +46,8 @@ def main():
     if args.include_ambiguous: mount.append('--include-ambiguous')
     run(mount)
     if not args.skip_embeddings:
-        run([sys.executable,str(PYDIR/'tokenizar_dataset.py'),'--csv',str(dataset),'--out',str(embedded_dataset)])
+        run([sys.executable,'-m','python.tokenizar_dataset','--csv',str(dataset),'--out',str(embedded_dataset)])
     if not args.skip_train:
-        run([sys.executable,str(PYDIR/'treinar_modelo.py'),'--csv',str(embedded_dataset),'--out',str(ROOT/'dados'/'modelos')])
+        run([sys.executable,'-m','python.treinar_modelo','--csv',str(embedded_dataset),'--out',str(ROOT/'dados'/'modelos')])
 
 if __name__=='__main__': main()
