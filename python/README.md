@@ -56,7 +56,7 @@ arquivo e grava métricas, previsões e o modelo em `dados/modelos/`.
 
 Antes da vetorização, a `main` cruza o CSV com `dados/QuestoesEnem/` e grava
 `dataset_tri_enriquecido.csv`, adicionando assunto, competência, habilidade,
-dificuldade e o status do pareamento.
+dificuldade, área, disciplina e o status do pareamento.
 
 O comando orquestra as etapas, mas o dataset ainda exige validação do pareamento por edição/caderno/área/posição. Revise `dataset_tri_revisao.csv` e a auditoria dos PDFs antes de usar as métricas como resultado final. Edições sem PDF de prova não geram texto, mesmo que tenham tabela A/B/C.
 

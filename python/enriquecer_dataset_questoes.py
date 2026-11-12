@@ -5,7 +5,7 @@ import argparse,csv,json,re,unicodedata
 from difflib import SequenceMatcher
 from pathlib import Path
 
-FIELDS=('assunto','competencia','habilidade','dificuldade','id_externo','banca','grande_area','disciplina')
+FIELDS=('assunto','competencia','habilidade','dificuldade','id_externo','grande_area','disciplina')
 
 def load_json_records(path:Path):
     raw=path.read_text(encoding='utf-8-sig')
