@@ -94,7 +94,7 @@ def main():
                        'textExtractionStatus':status,'tokenized_text':None})
     args.out.parent.mkdir(parents=True,exist_ok=True)
     fields=['year','examColor','day','examCode','disciplineCode','discipline','position','index','itemCode',
-            'correctAlternative','a','b','c','skillCode','title','context','alternatives','text','tokenized_text',
+            'correctAlternative','a','b','c','skillCode','title','context','alternatives','text',
             'sourcePdf','sourcePages','textExtractionStatus']
     with args.out.open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(joined)

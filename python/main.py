@@ -18,6 +18,7 @@ def main():
     ap.add_argument('--color',default='AZUL')
     ap.add_argument('--skip-reduce',action='store_true',help='Usa arquivos reduzidos que já existem')
     ap.add_argument('--skip-extract',action='store_true',help='Reutiliza JSON de texto existente')
+    ap.add_argument('--skip-embeddings',action='store_true',help='Reutiliza dataset com embeddings já calculados')
     ap.add_argument('--skip-train',action='store_true')
     ap.add_argument('--delete-zips',action='store_true',help='Apaga ZIP após extração válida')
     ap.add_argument('--ocr',action='store_true',help='Aciona OCR; requer Tesseract e idiomas por+eng')
@@ -27,6 +28,7 @@ def main():
     process=ROOT/'dados'/'processados'
     text_dir=process/'textos'; json_path=text_dir/'questoes_texto_inep.json'
     dataset=process/'dataset_tri.csv'
+    embedded_dataset=process/'dataset_com_embeddings.csv'
     colors=[args.color.upper()]
 
     if not args.skip_reduce:
@@ -40,7 +42,9 @@ def main():
         if args.ocr: cmd += ['--ocr']
         run(cmd)
     run([sys.executable,str(PYDIR/'montar_dataset_tri.py'),'--items',str(reduced_dir),'--json',str(json_path),'--out',str(dataset),'--color',args.color])
+    if not args.skip_embeddings:
+        run([sys.executable,str(PYDIR/'tokenizar_dataset.py'),'--csv',str(dataset),'--out',str(embedded_dataset)])
     if not args.skip_train:
-        run([sys.executable,str(PYDIR/'treinar_modelo.py'),'--csv',str(dataset),'--out',str(ROOT/'dados'/'modelos')])
+        run([sys.executable,str(PYDIR/'treinar_modelo.py'),'--csv',str(embedded_dataset),'--out',str(ROOT/'dados'/'modelos')])
 
 if __name__=='__main__': main()

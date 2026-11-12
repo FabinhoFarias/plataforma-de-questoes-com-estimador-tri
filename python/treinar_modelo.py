@@ -5,29 +5,28 @@ import argparse, json
 from pathlib import Path
 import numpy as np
 import pandas as pd
-from python.mac_embeddings.encoder import encode_texts
 from sklearn.ensemble import ExtraTreesRegressor, RandomForestRegressor
 from sklearn.multioutput import MultiOutputRegressor
 from sklearn.model_selection import GroupShuffleSplit
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import joblib
+from python.mac_embeddings.engine import DIMENSIONS, MODEL
 
 
 def main():
     ap=argparse.ArgumentParser(description=__doc__)
-    ap.add_argument('--csv',type=Path,default=Path('dados/processados/dataset_tri.csv'))
+    ap.add_argument('--csv',type=Path,default=Path('dados/processados/dataset_com_embeddings.csv'))
     ap.add_argument('--out',type=Path,default=Path('dados/modelos'))
-    ap.add_argument('--batch-size',type=int,default=64)
     args=ap.parse_args(); args.out.mkdir(parents=True,exist_ok=True)
     df=pd.read_csv(args.csv)
-    df=df.dropna(subset=['text','a','b','c']).copy()
+    if 'embedding' not in df.columns:
+        raise ValueError(f'{args.csv}: coluna embedding ausente; execute python -m python.tokenizar_dataset primeiro.')
+    df=df.dropna(subset=['text','a','b','c','embedding']).copy()
     df['text']=df.text.astype(str).str.strip(); df=df[df.text.ne('')]
     if df.itemCode.nunique()<10: raise ValueError('Treino exige ao menos 10 CO_ITEM distintos após filtros.')
-    X, engine=encode_texts(df.text.tolist(),batch_size=args.batch_size)
-    X=np.asarray(X,dtype=np.float32)
-    # Guardar cada vetor no CSV para inspeção/reutilização local.
-    df['embedding']=list(X.tolist())
-    df.to_csv(args.out/'dataset_com_embeddings.csv',index=False)
+    X=np.asarray([json.loads(v) for v in df.embedding],dtype=np.float32)
+    if X.ndim != 2 or X.shape[1] != DIMENSIONS or not np.isfinite(X).all():
+        raise ValueError(f'Embeddings inválidos; esperado vetor finito de {DIMENSIONS} dimensões por linha.')
     Y=df[['a','b','c']].to_numpy(float)
     groups=df.itemCode.astype(str).to_numpy()
     tr,te=next(GroupShuffleSplit(n_splits=1,test_size=.2,random_state=42).split(X,Y,groups))
@@ -50,7 +49,7 @@ def main():
     score=metrics[metrics.model!='baseline_mean'].groupby('model').MAE.mean(); best=score.idxmin()
     preds=fitted[best].predict(X[te]); test=df.iloc[te].copy()
     test[['pred_a','pred_b','pred_c']]=preds; test.to_csv(args.out/'previsoes_teste.csv',index=False)
-    joblib.dump({'model':fitted[best],'embedding_model':'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2','targets':['a','b','c']},args.out/'estimador_tri.joblib')
+    joblib.dump({'model':fitted[best],'embedding_model':MODEL,'embedding_dimensions':DIMENSIONS,'targets':['a','b','c']},args.out/'estimador_tri.joblib')
     print(metrics.to_string(index=False)); print(f'Melhor pela MAE média: {best}')
 
 if __name__=='__main__': main()

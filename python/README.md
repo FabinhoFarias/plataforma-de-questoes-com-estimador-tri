@@ -10,7 +10,7 @@ python -m pip install -r requirements.txt
 python -m python.main --color AZUL
 ```
 
-O comando percorre `dados/microdados`, reduz os ZIPs para tabelas de itens/documentação/PDFs da cor escolhida, extrai texto em JSON, junta o conteúdo aos parâmetros oficiais A/B/C e treina regressores com embeddings MiniLM. Use Python 3.12 para evitar dependências sem wheels para versões recentes do Python. A primeira instalação baixa PyTorch, Sentence Transformers e o modelo MiniLM; reserve espaço em disco. ZIPs são preservados por padrão. Para removê-los depois de uma extração validada, passe `--delete-zips`.
+O comando percorre `dados/microdados`, reduz os ZIPs para tabelas de itens/documentação/PDFs da cor escolhida, extrai texto em JSON, junta o conteúdo aos parâmetros oficiais A/B/C, gera embeddings MiniLM e treina regressores. O embedding é um vetor de 384 números por questão, não a sequência de IDs internos do tokenizador. Use Python 3.12 para evitar dependências sem wheels para versões recentes do Python. A primeira instalação baixa PyTorch, Sentence Transformers e o modelo MiniLM; reserve espaço em disco. ZIPs são preservados por padrão. Para removê-los depois de uma extração validada, passe `--delete-zips`.
 
 Opções para retomar etapas:
 
@@ -18,6 +18,18 @@ Opções para retomar etapas:
 python -m python.main --skip-reduce --color AZUL
 python -m python.main --skip-reduce --skip-extract --skip-train --color AZUL
 ```
+
+Para executar só a vetorização MiniLM sobre um CSV já montado:
+
+```bash
+python -m python.tokenizar_dataset \
+  --csv dados/processados/dataset_tri.csv \
+  --out dados/processados/dataset_com_embeddings.csv
+```
+
+O CSV com embeddings mantém os metadados e parâmetros A/B/C e inclui a coluna
+`embedding` com um vetor JSON de 384 dimensões por linha. O treinamento lê esse
+arquivo e grava métricas, previsões e o modelo em `dados/modelos/`.
 
 O comando orquestra as etapas, mas o dataset ainda exige validação do pareamento por edição/caderno/área/posição. Revise `dataset_tri_revisao.csv` e a auditoria dos PDFs antes de usar as métricas como resultado final. Edições sem PDF de prova não geram texto, mesmo que tenham tabela A/B/C.
 
