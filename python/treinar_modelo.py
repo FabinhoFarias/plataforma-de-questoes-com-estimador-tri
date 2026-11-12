@@ -14,6 +14,7 @@ from sklearn.linear_model import Ridge, ElasticNet
 from sklearn.multioutput import MultiOutputRegressor
 from sklearn.model_selection import GroupShuffleSplit
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.decomposition import PCA
 import joblib
 from python.mac_embeddings.engine import DIMENSIONS, MODEL
 
@@ -22,6 +23,7 @@ def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--csv',type=Path,default=Path('dados/processados/dataset_com_embeddings.csv'))
     ap.add_argument('--out',type=Path,default=Path('dados/modelos'))
+    ap.add_argument('--embedding-dim',type=int,default=6,help='Dimensões PCA usadas no treino')
     args=ap.parse_args(); args.out.mkdir(parents=True,exist_ok=True)
     df=pd.read_csv(args.csv)
     if 'embedding' not in df.columns:
@@ -32,20 +34,25 @@ def main():
         df=df[df.matchQuality.eq('exact')].copy()
     df=df.drop_duplicates(subset=['itemCode']).reset_index(drop=True)
     if df.itemCode.nunique()<10: raise ValueError('Treino exige ao menos 10 CO_ITEM distintos após filtros.')
-    X=np.asarray([json.loads(v) for v in df.embedding],dtype=np.float32)
-    if X.ndim != 2 or X.shape[1] != DIMENSIONS or not np.isfinite(X).all():
+    raw_X=np.asarray([json.loads(v) for v in df.embedding],dtype=np.float32)
+    if raw_X.ndim != 2 or raw_X.shape[1] != DIMENSIONS or not np.isfinite(raw_X).all():
         raise ValueError(f'Embeddings inválidos; esperado vetor finito de {DIMENSIONS} dimensões por linha.')
+    if not 2 <= args.embedding_dim <= min(DIMENSIONS, len(df)-1):
+        raise ValueError(f'--embedding-dim deve estar entre 2 e {min(DIMENSIONS, len(df)-1)}.')
+    Y=df[['a','b','c']].to_numpy(float)
+    groups=df.itemCode.astype(str).to_numpy()
+    tr,te=next(GroupShuffleSplit(n_splits=1,test_size=.2,random_state=42).split(raw_X,Y,groups))
+    pca=PCA(n_components=args.embedding_dim,random_state=42)
+    pca.fit(raw_X[tr])
+    reduced=pca.transform(raw_X).astype(np.float32)
     structural=np.column_stack([
         df['year'].to_numpy(float), df['position'].to_numpy(float),
         df['text'].str.len().to_numpy(float),
         df['skillCode'].notna().to_numpy(float),
     ])
     structural=np.nan_to_num(structural)
-    X=np.hstack([X, StandardScaler().fit_transform(structural)]).astype(np.float32)
-    Y=df[['a','b','c']].to_numpy(float)
-    groups=df.itemCode.astype(str).to_numpy()
-    tr,te=next(GroupShuffleSplit(n_splits=1,test_size=.2,random_state=42).split(X,Y,groups))
-    print(f'Base de treino: {len(df)} linhas | {df.itemCode.nunique()} itens | embeddings: {X.shape[1]} dimensões', flush=True)
+    X=np.hstack([reduced, StandardScaler().fit_transform(structural)]).astype(np.float32)
+    print(f'Base de treino: {len(df)} linhas | {df.itemCode.nunique()} itens | MiniLM: {DIMENSIONS} -> PCA: {args.embedding_dim}', flush=True)
     print(f'Divisão: {len(tr)} treino / {len(te)} teste | grupos separados por CO_ITEM', flush=True)
     estimators={
       'ridge':Ridge(alpha=10.0),
@@ -80,7 +87,9 @@ def main():
     score=metrics[~metrics.model.str.startswith('baseline')].groupby('model').MAE.mean(); best=score.idxmin()
     preds=fitted[best].predict(X[te]); test=df.iloc[te].copy()
     test[['pred_a','pred_b','pred_c']]=preds; test.to_csv(args.out/'previsoes_teste.csv',index=False)
-    joblib.dump({'model':fitted[best],'embedding_model':MODEL,'embedding_dimensions':DIMENSIONS,'targets':['a','b','c']},args.out/'estimador_tri.joblib')
+    joblib.dump({'model':fitted[best],'pca':pca,'model_input_dimensions':X.shape[1],
+                 'embedding_model':MODEL,'embedding_dimensions':DIMENSIONS,
+                 'reduced_embedding_dimensions':args.embedding_dim,'targets':['a','b','c']},args.out/'estimador_tri.joblib')
     print(metrics.to_string(index=False), flush=True); print(f'Melhor pela MAE média: {best}', flush=True)
 
 if __name__=='__main__': main()
