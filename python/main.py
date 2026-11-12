@@ -19,6 +19,7 @@ def main():
     ap.add_argument('--skip-reduce',action='store_true',help='Usa arquivos reduzidos que já existem')
     ap.add_argument('--skip-extract',action='store_true',help='Reutiliza JSON de texto existente')
     ap.add_argument('--skip-embeddings',action='store_true',help='Reutiliza dataset com embeddings já calculados')
+    ap.add_argument('--include-ambiguous',action='store_true',help='Maximiza a base mantendo pareamentos ambíguos marcados')
     ap.add_argument('--skip-train',action='store_true')
     ap.add_argument('--delete-zips',action='store_true',help='Apaga ZIP após extração válida')
     ap.add_argument('--ocr',action='store_true',help='Aciona OCR; requer Tesseract e idiomas por+eng')
@@ -41,7 +42,9 @@ def main():
         for color in colors: cmd += ['--color',color]
         if args.ocr: cmd += ['--ocr']
         run(cmd)
-    run([sys.executable,str(PYDIR/'montar_dataset_tri.py'),'--items',str(reduced_dir),'--json',str(json_path),'--out',str(dataset),'--color',args.color])
+    mount=[sys.executable,str(PYDIR/'montar_dataset_tri.py'),'--items',str(reduced_dir),'--json',str(json_path),'--out',str(dataset),'--color',args.color]
+    if args.include_ambiguous: mount.append('--include-ambiguous')
+    run(mount)
     if not args.skip_embeddings:
         run([sys.executable,str(PYDIR/'tokenizar_dataset.py'),'--csv',str(dataset),'--out',str(embedded_dataset)])
     if not args.skip_train:

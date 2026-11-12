@@ -26,6 +26,10 @@ para montar, vetorizar e treinar usando esses arquivos é:
 python -m python.main --skip-reduce --skip-extract --color AZUL
 ```
 
+Para maximizar a quantidade de exemplos, incluindo pareamentos com mais de um
+caderno candidato, acrescente `--include-ambiguous`. Essas linhas recebem
+`matchQuality=ambiguous` e `candidateCount` no CSV.
+
 O montador só aprova pareamentos que consegue validar por edição, área, posição
 e código de prova único. As demais linhas vão para `dataset_tri_revisao.csv`.
 Com os arquivos presentes hoje, o dataset aprovado cobre 2012–2014; versões de

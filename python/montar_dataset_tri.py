@@ -82,6 +82,7 @@ def main():
     ap.add_argument('--json',type=Path,default=Path('dados/processados/textos/questoes_texto_inep.json'))
     ap.add_argument('--out',type=Path,default=Path('dados/processados/dataset_tri.csv'))
     ap.add_argument('--color',action='append',help='Filtra cor; pode repetir. Padrão: todas com PDF.')
+    ap.add_argument('--include-ambiguous',action='store_true',help='Inclui candidatos ambíguos e marca a qualidade do pareamento')
     args=ap.parse_args()
     texts=json.loads(args.json.read_text(encoding='utf-8'))
     years={int(x['year']) for x in texts}
@@ -104,34 +105,34 @@ def main():
             review.append({**r,'candidate_count':0,'reason':'unsupported_exam_position_mapping'}); continue
         if r['languageCode']:
             review.append({**r,'candidate_count':0,'reason':'language_variant_requires_exact_mapping'}); continue
-        if len(code_counts[(r['year'],r['examColor'],r['disciplineCode'])]) != 1:
+        if len(code_counts[(r['year'],r['examColor'],r['disciplineCode'])]) != 1 and not args.include_ambiguous:
             review.append({**r,'candidate_count':0,'reason':'multiple_exam_codes_for_area_need_caderno_mapping'}); continue
         key=(r['year'],r['examColor'],r['day'],r['disciplineCode'],r['index'])
         candidates=text_index.get(key,[])
-        if len(candidates)!=1:
+        if len(candidates)!=1 and not args.include_ambiguous:
             review.append({**r,'candidate_count':len(candidates),'reason':'no_text_match' if not candidates else 'ambiguous_text_match'})
             continue
-        q=candidates[0]
-        if q.get('alternativeStatus') != 'five_markers_detected':
-            review.append({**r,'candidate_count':1,'reason':'text_or_alternatives_need_visual_review'}); continue
-        # If the PDF text explicitly provides five alternatives, enforce the official key exists.
-        alts=q.get('alternatives',[])
-        alt_letters={a['letter'] for a in alts}
-        status=q['alternativeStatus']
-        if alt_letters and r['correctAlternative'] not in alt_letters:
-            review.append({**r,'candidate_count':1,'reason':'answer_key_not_in_extracted_alternatives'})
-            continue
-        text=' '.join([normalize_text(q.get('context')),normalize_text(q.get('alternativesIntroduction'))]+
-                      [normalize_text(a.get('text')) for a in alts])
-        if not text:
-            review.append({**r,'candidate_count':1,'reason':'empty_text'}); continue
-        joined.append({**r,'title':q['title'],'context':q['context'],'alternatives':json.dumps(alts,ensure_ascii=False),
-                       'text':text,'sourcePdf':q['pdf'],'sourcePages':json.dumps(q['sourcePages']),
-                       'textExtractionStatus':status,'tokenized_text':None})
+        if not candidates:
+            review.append({**r,'candidate_count':0,'reason':'no_text_match'}); continue
+        for q in candidates:
+            if q.get('alternativeStatus') != 'five_markers_detected':
+                review.append({**r,'candidate_count':len(candidates),'reason':'text_or_alternatives_need_visual_review'}); continue
+            alts=q.get('alternatives',[])
+            alt_letters={a['letter'] for a in alts}
+            status=q['alternativeStatus']
+            if alt_letters and r['correctAlternative'] not in alt_letters:
+                review.append({**r,'candidate_count':len(candidates),'reason':'answer_key_not_in_extracted_alternatives'}); continue
+            text=' '.join([normalize_text(q.get('context')),normalize_text(q.get('alternativesIntroduction'))]+[normalize_text(a.get('text')) for a in alts])
+            if not text:
+                review.append({**r,'candidate_count':len(candidates),'reason':'empty_text'}); continue
+            joined.append({**r,'title':q['title'],'context':q['context'],'alternatives':json.dumps(alts,ensure_ascii=False),
+                           'text':text,'sourcePdf':q['pdf'],'sourcePages':json.dumps(q['sourcePages']),
+                           'textExtractionStatus':status,'matchQuality':'ambiguous' if len(candidates)>1 else 'exact',
+                           'candidateCount':len(candidates)})
     args.out.parent.mkdir(parents=True,exist_ok=True)
     fields=['year','examColor','day','examCode','disciplineCode','discipline','position','index','itemCode',
             'correctAlternative','a','b','c','skillCode','title','context','alternatives','text',
-            'sourcePdf','sourcePages','textExtractionStatus']
+            'sourcePdf','sourcePages','textExtractionStatus','matchQuality','candidateCount']
     with args.out.open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(joined)
     review_path=args.out.with_name(args.out.stem+'_revisao.csv')
