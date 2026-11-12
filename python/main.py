@@ -30,6 +30,7 @@ def main():
     process=ROOT/'dados'/'processados'
     text_dir=process/'textos'; json_path=text_dir/'questoes_texto_inep.json'
     dataset=process/'dataset_tri.csv'
+    enriched_dataset=process/'dataset_tri_enriquecido.csv'
     embedded_dataset=process/'dataset_com_embeddings.csv'
     colors=[args.color.upper()]
 
@@ -49,12 +50,13 @@ def main():
     mount=[sys.executable,str(PYDIR/'montar_dataset_tri.py'),'--items',str(reduced_dir),'--json',str(json_path),'--out',str(dataset),'--color',args.color]
     if args.include_ambiguous: mount.append('--include-ambiguous')
     run(mount)
+    run([sys.executable,'-m','python.enriquecer_dataset_questoes','--dataset',str(dataset),'--out',str(enriched_dataset)])
     embedded_is_valid=False
     if embedded_dataset.exists():
         head=embedded_dataset.read_bytes()[:1000]
         embedded_is_valid=(not head.startswith(b'version https://git-lfs.github.com') and b'embedding' in head.splitlines()[0])
     if not args.skip_embeddings and (args.force_embeddings or not embedded_is_valid):
-        run([sys.executable,'-m','python.tokenizar_dataset','--csv',str(dataset),'--out',str(embedded_dataset)])
+        run([sys.executable,'-m','python.tokenizar_dataset','--csv',str(enriched_dataset),'--out',str(embedded_dataset)])
     elif not args.skip_embeddings:
         print(f'Embeddings já existentes; reutilizando {embedded_dataset}', flush=True)
     if not args.skip_train:
