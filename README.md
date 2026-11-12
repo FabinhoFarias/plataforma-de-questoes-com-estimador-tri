@@ -75,11 +75,61 @@ src/
 └── types/
     └── enem.ts           # tipos das respostas da API
 docs/
+├── microdados-enem-e-api.md
 ├── produto/
 │   └── MATRIZ_REQUISITOS.md
 └── requisitos/
     └── requisitos.md
 ```
+
+## Pipeline local de extração e IA
+
+O extrator lê diretamente os ZIPs oficiais do INEP e não expande o CSV grande
+com respostas individuais. As dependências Python estão em
+[`requirements.txt`](requirements.txt). Recomendado: Python 3.11 ou 3.12.
+
+Na raiz do projeto, crie o ambiente e instale as dependências:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+Depois, coloque os ZIPs oficiais em `dados/microdados/` e execute o pipeline
+completo para provas azuis:
+
+```bash
+python -m python.main --color AZUL
+```
+
+O pipeline preserva os ZIPs por padrão. Para retomar etapas, pular redução,
+extração ou treino, ou remover os ZIPs depois de validar a extração, consulte
+[python/README.md](python/README.md). Os pesos MiniLM são baixados na primeira
+execução do treino, então será necessária conexão com a internet ou cache local.
+OCR é opcional; para usá-lo instale Tesseract e os idiomas `por` e `eng`, e
+adicione `--ocr` ao comando. A extração de texto e o pareamento com `CO_PROVA`
+precisam de auditoria antes de tratar as métricas do modelo como resultado final.
+
+O pipeline grava os arquivos intermediários em `dados/extraidos/` e
+`dados/processados/`; esses dados locais estão excluídos do Git.
+
+### Extrair arquivos necessários dos ZIPs do INEP
+
+Para comparar a estrutura dos pacotes e extrair somente as tabelas de itens,
+provas, gabaritos e documentos de layout (sem expandir o CSV de respostas):
+
+```bash
+python python/extrair_pacotes_inep.py \
+  --input dados/microdados \
+  --output dados/extraidos
+```
+
+O script gera `estrutura_pacote.json` por edição e
+`relatorio_estrutura.json` consolidado. Os ZIPs originais permanecem intactos.
+A estrutura conceitual é estável, mas nomes de arquivos, dias, cadernos e
+códigos mudam entre anos; o relatório preserva essas diferenças.
 
 ## API utilizada
 
@@ -106,6 +156,9 @@ O detalhamento completo está em
 [docs/requisitos/requisitos.md](docs/requisitos/requisitos.md), e o
 acompanhamento de implementação está em
 [docs/produto/MATRIZ_REQUISITOS.md](docs/produto/MATRIZ_REQUISITOS.md).
+
+A pesquisa sobre a organização dos microdados oficiais e a cobertura da API
+está em [docs/microdados-enem-e-api.md](docs/microdados-enem-e-api.md).
 
 ## Licença e fontes
 
