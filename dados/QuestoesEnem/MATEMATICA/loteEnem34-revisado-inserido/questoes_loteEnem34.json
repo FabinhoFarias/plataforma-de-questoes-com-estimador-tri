@@ -1,0 +1,1098 @@
+[
+  {
+    "id_externo": "Questao_10c2eb76-4ec4-46d8-8ee9-21b62104e04a",
+    "title": "Questão M3083 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma fábrica produzia e vendia 200.000 garrafas de 2 litros de um suco. O administrador da fábrica decidiu aumentar a produção de suco em 20%, utilizando garrafas de menor capacidade. Com isso, precisou aumentar em 60% a quantidade de garrafas utilizadas, em relação à quantidade inicial, de modo a conseguir envazar todo o suco produzido.",
+    "introducao_alternativas": "Qual é a quantidade máxima de suco, em litro, que deverá ser reduzida na nova embalagem, em relação à de 2 litros?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,5",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1,2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8a318eaf-d3d2-476c-8618-1acf493da2fc",
+    "title": "Questão M3000 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A final de um campeonato de futebol foi disputada em 2 tempos regulamentares, de 45 minutos cada, sem acréscimos, com uma prorrogação de 30 minutos, também sem acréscimos. Um jogador entrou no início do segundo tempo, com um equipamento para medir a distância percorrida durante sua participação no jogo. Ao final do segundo tempo regulamentar, esse jogador havia percorrido 4,5 km. Ele manteve na prorrogação a mesma velocidade média que havia mantido no segundo tempo regulamentar.",
+    "introducao_alternativas": "A distância percorrida por esse jogador durante sua participação na partida, em quilômetro, foi",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7,5.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "12,0.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0d248492-6abf-4229-a924-0ba52266efca",
+    "title": "Questão M3001 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm. [IMAGEM_0] A figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas. Considere 3,1 como valor aproximado para π.",
+    "introducao_alternativas": "Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3001_-_enem_2013_4f90e6f3-d4f4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "288",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "297",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "567",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "990",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.134",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_18317818-c861-4093-8158-119726b17f49",
+    "title": "Questão M3002 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Três dados cúbicos, com faces numeradas de 1 a 6, foram utilizados em um jogo. Artur escolheu dois dados, e João ficou com o terceiro. O jogo consiste em ambos lançarem seus dados, observarem os números nas faces voltadas para cima e compararem o maior número obtido por Artur com o número obtido por João. Vence o jogador que obtiver o maior número. Em caso de empate, a vitória é de João.",
+    "introducao_alternativas": "O jogador que tem a maior probabilidade de vitória é",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artur, com probabilidade de 2/3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "João, com probabilidade de 4/9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Artur, com probabilidade de 91/216.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "João, com probabilidade de 91/216.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Artur, com probabilidade de 125/216.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7ad732cd-8145-486c-a819-781e07c3c8c1",
+    "title": "Questão M3084 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O Sistema Nacional de Transplantes (SNT) é o órgão federal responsável pela captação e distribuição de tecidos, órgãos e partes retiradas do corpo humano para transplantes. Um modo de aumentar os investimentos na área seria ter aplicado em 2013 um aumento percentual igual ao maior aumento percentual entre dois anos consecutivos no período de 2007 a 2012. O gráfico apresenta os investimentos nesse sistema nesse período. Investimentos no sistema Nacional de transplantes (2007-2012) [IMAGEM_0] Disponível em: http://portalsaude.saude.gov.br. Acesso em: 29 mar. 2014.",
+    "introducao_alternativas": "Se esse aumento percentual tivesse ocorrido, o valor mais próximo ao do investimento, em real, nesse sistema em 2013 teria sido de",
+    "assunto": "Matemática Básica",
+    "competencia": 4,
+    "habilidade": 16,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3084_-_enem_ppl_2013_af6e01e6-53ad-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.498,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1.600,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.680,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2.087,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2.744,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_efc0594c-e7e4-4d71-aac4-4142d3513e6a",
+    "title": "Questão M3003 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A luminância de um objeto é a grandeza que descreve a quantidade de luz produzida ou refletida por sua superfície. Ela está definida como a razão entre a intensidade luminosa, medida em candela (cd), e o quadrado da distância do objeto até o foco de luz, medida em metro (m).",
+    "introducao_alternativas": "A unidade de medida da luminância de um objeto é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H10",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cd/m²",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "m²/cd",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "cd/m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "m/cd",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "m/cd²",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6afbd9e4-48fd-461f-9930-b68ab39f74ef",
+    "title": "Questão M3085 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa comprará uma tinta especial para pintar, com apenas uma demão, uma parede que tem medida de 320 m² de área. Para pintar uma área de 10 m², é necessário exatamente 1 L de tinta. Em uma loja, essa tinta está em promoção e é vendida em latas de diversas capacidades, mas só é possível comprar latas do mesmo tipo. A pessoa tem como objetivo gastar o menor valor possível, em real, com a compra dessa tinta e observa os seguintes dados referentes aos tipos de latas disponíveis: \n– I: contém 0,6 L de tinta e custa R$ 18,00; \n– II: contém 0,8 L de tinta e custa R$ 23,00; \n– III: contém 1,0 L de tinta e custa R$ 29,00; \n– IV: contém 3,0 L de tinta e custa R$ 85,00; \n– V: contém 5,0 L de tinta e custa R$ 150,00.",
+    "introducao_alternativas": "Para atingir seu objetivo, essa pessoa deverá comprar latas do tipo",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_da179366-3f77-4ac8-b6c5-ebb291782ec5",
+    "title": "Questão M3004 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Quatro amigos, cada um com 100 moedas, criaram um jogo, no qual cada um assume uma das quatro posições, 1, 2, 3 ou 4, indicadas na figura, e nela permanece até o final. [IMAGEM_0] O desenvolvimento do jogo se dá em rodadas e, em todas elas, cada jogador transfere e recebe uma quantidade de moedas, da seguinte maneira: \n– o jogador na posição 1 transfere 1 moeda para o jogador na posição 2;\n– o jogador na posição 2 transfere 2 moedas para o jogador na posição 3;\n– o jogador na posição 3 transfere 3 moedas para o jogador na posição 4;\n– o jogador na posição 4 transfere 4 moedas para o jogador na posição 1, completando a rodada.",
+    "introducao_alternativas": "Ao final da rodada n, qual é a expressão algébrica que representa o número de moedas do jogador na posição 1?",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 5,
+    "habilidade": "H21",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3004_-_enem_2013_354193a0-932a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "103 + 4n",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "103 + 3n",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "100 + 4n",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "100 + 3n",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "99 + 4n",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_316a8524-787d-4645-9cf6-03ffc9b673d6",
+    "title": "Questão M3086 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O esquema apresenta dois postes de 6 metros de altura sobre um solo horizontal, com um fio elétrico passando pelos pontos A e B, distando 8 metros entre si, que representam os extremos superiores de cada poste. [IMAGEM_0] Considerando o ponto A como origem do plano cartesiano e o segmento AB contido no eixo horizontal desse plano, admita que a curva que o fio elétrico forma entre A e B seja modelada pela função quadrática y = 0,02x² – 0,16x, com x e y em metro.",
+    "introducao_alternativas": "A menor distância, em metro, dessa parte do fio até o solo é",
+    "assunto": "Função Quadrática",
+    "competencia": 2,
+    "habilidade": "H8",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3086_-_enem_ppl_2013_3388b20d-a6a9-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5,36.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5,68.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,84.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,98.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5,99.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7e5d9f8e-82c7-4b00-b242-6937a1e3fb33",
+    "title": "Questão M3087 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma tecelagem oferece para venda diversos tecidos com diferentes espessuras. O preço de venda estabelecido para esses tecidos considera uma grandeza que é diretamente proporcional à sua massa, em quilograma, e à sua área, em metro quadrado.",
+    "introducao_alternativas": "A unidade de medida do tipo de grandeza utilizada por essa tecelagem para estabelecer o preço de venda é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H10",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "m.kg^(−1)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "m2.kg^(−1)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "kg.m^(−2)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "kg.m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "kg.m^(2)",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e8cd2359-d918-4d15-ad83-164fd5dc6469",
+    "title": "Questão M3088 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Pedro elaborou uma maquete de sua escola. A escala utilizada nessa maquete foi 1:100. Ao considerar que a maquete de Pedro ficou muito grande, Artur elaborou, com base na maquete de Pedro, uma menor aplicando a escala 4:1.",
+    "introducao_alternativas": "Em relação à escola, a maquete elaborada por Artur está na escala",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 11,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1:25.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1:60.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1:140.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1:250.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1:400.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0359fe10-f95b-4db5-98ef-848e8d5067cf",
+    "title": "Questão M3089 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Pretende-se utilizar uma bomba de combustível para abastecer, simultaneamente, duas aeronaves (A1 e A2), usando para isso vazões σ1 > 0 e σ2 > 0, respectivamente. A aeronave A2 tem um volume de 100 litros de combustível antes do início do abastecimento, mas A1 está sem combustível. Portanto, passados t segundos a partir do início do abastecimento, os volumes de combustível nas aeronaves são dados por V1 = σ1t e V2 = σ2t + 100. A vazão σ1 é ajustável, mas a vazão σ2 deve ser mantida a um valor fixo de 2 litros por segundo, conforme especificado pelo fabricante de A2. O abastecimento das duas aeronaves se inicia no mesmo instante, e o operador da bomba foi orientado para programá-la de modo que A1 e A2 tenham o mesmo volume VT de combustível após 10 minutos de abastecimento.",
+    "introducao_alternativas": "Após ser ajustada, a vazão σ1, em termos do volume VT, é expressa por",
+    "assunto": "Sistemas Lineares",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "σ1 = (VT + 100) VT / 2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "σ1 = (VT – 100) VT / 2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "σ1 = 2VT / (VT – 100)",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "σ1 = 2VT / (VT + 100)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "σ1 = VT / (VT – 50)",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_523d3399-a4b1-4923-bd16-ed5afb44bb97",
+    "title": "Questão M3090 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um país, todos os produtos comercializados estão associados a uma única sequência numérica de 13 dígitos, e cada sequência numérica pode ser representada por um código de barras. Essas sequências são formadas de acordo com as seguintes regras: \n– os três primeiros dígitos são associados ao país que comercializa o produto. Esses dígitos são 7, 8 e 9 (nessa ordem); \n– dígitos nas posições quatro a nove identificam a empresa que comercializa o produto. Eles assumem os valores 4, 5, 6 ou 7; \n– dígitos nas posições dez a doze identificam o produto. \nEles podem ser qualquer algarismo de 0 a 9. O último dígito, chamado de dígito verificador, é consequência dos doze primeiros, sendo obtido por meio de operações, previamente definidas, realizadas com os doze primeiros.",
+    "introducao_alternativas": "Quantos diferentes códigos de barras podem estar associados a produtos comercializados nesse país?",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": "H2",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4^6 x 9^3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4^6 x 10^3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10^6 x 10v3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3! x 4^6 x 10^3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(6 x 4) x (10 x 3)",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b3f5cb01-78ce-4105-a424-cea6d4f9a75c",
+    "title": "Questão M3091 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Com o intuito de revestir o piso de uma sala retangular, com 8 m de largura por 4 m de comprimento, um construtor dirigiu-se a uma loja de revestimentos. Ao chegar à loja, constatou que dois tipos de porcelanato estavam com preços promocionais, caso fossem comprados em caixas fechadas, sem fracionamento. O quadro apresenta as características dos porcelanatos em promoção, como tamanho das peças, preço por caixa e quantidade de peças em cada caixa. [IMAGEM_0] O construtor pretende adquirir o tipo de porcelanato que apresente o menor custo para revestir todo o piso da sala.",
+    "introducao_alternativas": "Para garantir o menor custo, o construtor deve comprar o porcelanato do tipo",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3091_-_enem_ppl_2013_ce505ff9-7b07-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, pois apresenta valor unitário por peça menor do que o tipo 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2, pois utilizará 10 caixas, enquanto seriam necessárias 100 caixas do tipo 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1, pois gastará 600,00 reais, enquanto com as peças do tipo 2 gastaria 700,00 reais.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2, pois serão necessárias 50 peças, enquanto seriam necessárias 200 peças do tipo 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2, pois a quantidade de peças por caixa e o tamanho das peças são maiores do que as do tipo 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_154d5fb4-9d70-4b4c-84f1-3b19be118baa",
+    "title": "Questão M3092 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Durante anos, as medições de colesterol e triglicerídeos no sangue têm sido usadas para avaliar o risco de doenças cardíacas. Estudos descobriram que a relação entre os níveis de triglicerídeos e o colesterol HDL se correlacionam fortemente com a incidência da doença arterial coronariana. Se a razão entre os níveis de triglicerídeos (T) e de colesterol HDL (C), nessa ordem, for superior a 4, ela indica risco de doença arterial coronariana. Disponível em: www.docsopinion.com. Acesso em: 2 dez. 2018 (adaptado).",
+    "introducao_alternativas": "A expressão algébrica que relaciona T e C indicando o risco de doença arterial coronariana é",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "T.C",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "T.C > 4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "T – C > 4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "C/T > 1/4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "C/T",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_be4602ff-38f1-44cd-adbe-bfcef6081637",
+    "title": "Questão M3093 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma locadora de veículos possui uma frota distribuída em todas as cinco regiões brasileiras. Um levantamento indica que 18% dessa frota está no Nordeste, 12% encontra-se na região Centro-Oeste, e as regiões Sul e Norte, juntas, correspondem a 3/8 da frota. Objetivando concentrar um quantitativo maior de veículos no Sudeste, a região mais populosa do Brasil, a gerência da locadora estabelece que nessa região deverão estar 40% da frota total de veículos, e que um percentual do total da frota das regiões Sul e Norte deverá para lá ser transferido.",
+    "introducao_alternativas": "Qual percentual da frota total das regiões Sul e Norte deverá ser transferido?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7,5%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "14%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "20%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "23%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_299592d4-e8cf-4812-b4df-f66f42aaeb5a",
+    "title": "Questão M3094 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "As folhas de papel retangular de tamanho A0, A1, A2, A3 e A4 são confeccionadas de maneira que uma folha A0 corresponde a duas folhas A1, que, por sua vez, corresponde a duas folhas A2, e assim por diante, conforme representado na figura. Além disso, a razão entre as medidas lineares, largura (medida menor) e altura (medida maior) de cada folha é igual a 1/√2. [IMAGEM_0] Considere k a razão entre a medida da altura da folha de tamanho A1 pela altura da folha de tamanho A4.",
+    "introducao_alternativas": "Qual é o valor de k?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3094_-_enem_ppl_2013_dd1c5bf9-bfd7-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3√2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2√2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3/√2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/√2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1/(2√2)",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_884afcb5-30aa-48fc-9e17-c954f7d5a4a6",
+    "title": "Questão M2984 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância D da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo T, em minuto, de acordo com uma função do tipo D = k + tg[p(T + m)], sendo os parâmetros k, p e m números reais, para T variando entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de D. [IMAGEM_0]",
+    "introducao_alternativas": "A expressão algébrica que representa a relação entre D e T é",
+    "assunto": "Trigonometria",
+    "competencia": 4,
+    "habilidade": 19,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m2984_-_enem_2013_13d2a0e5-920e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2984_-_enem_2013_alt_A_eb0b5ed2-1687-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2984_-_enem_2013_alt_B_ce123c12-578f-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2984_-_enem_2013_alt_C_8189df17-ac0a-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2984_-_enem_2013_alt_D_6e64f3a3-6ce1-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2984_-_enem_2013_alt_E_d71ed6a2-0f91-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_84ac026f-7b97-4b47-b187-d9e239db41a6",
+    "title": "Questão M3039 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para realizar uma brincadeira, foram utilizadas 4 caixas numeradas de 1 a 4 contendo, cada uma, a mesma quantidade de objetos. Em cada rodada dessa brincadeira, 2 objetos da Caixa 1 são transferidos para a Caixa 2; 2 dessa caixa são transferidos para a Caixa 3, e 2 dessa terceira caixa são transferidos para a Caixa 4. Após 3 dessas rodadas, a Caixa 4 continha 30 objetos.",
+    "introducao_alternativas": "Após as 3 rodadas, quantos objetos havia na Caixa 1?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "18",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "22",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "24",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "36",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_be9c416b-ce34-4fae-90ec-657934554134",
+    "title": "Questão M3060 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A prefeitura de uma cidade lançou um edital convidando empresas para um processo de licitação, para execução de serviços relacionados a obras em uma rodovia. Cinco empresas se inscreveram para participar do pregão. Elas devem dar lances em três modalidades: maquinário, recursos humanos e manta asfáltica. As regras a serem seguidas no dia do pregão são: \n– lances apresentados são conhecidos por todos e não podem ser alterados até o fim do pregão; \n– para a prestação de serviço em cada modalidade, os lances devem ser de valores múltiplos de R$ 500,00; \n– para cada modalidade haverá um período de 10 minutos para as empresas fazerem seus lances. \nA empresa cuja soma dos valores dos lances for menor que a das outras participantes será a vencedora. Em caso de empate, vence a licitação a empresa que tiver oferecido o lance de menor valor na modalidade “maquinário”. Se os lances das empresas empatadas forem iguais nessa modalidade, elas compartilharão os serviços. No dia do pregão, o dono da Empresa 2 organizou um quadro para registrar os valores dos lances. Em determinado momento, faltava apenas seu lance para manta asfáltica. [IMAGEM_0] Ele pretende que seu lance seja do maior valor possível, mas que permita que sua empresa seja a única vencedora nesse processo licitatório.",
+    "introducao_alternativas": "O valor do lance a ser feito pelo dono da Empresa 2 deverá ser, em real, de",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": "H21",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3060_-_enem_ppl_2013_26e20a14-191d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4.500,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6.500,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "9.000,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9.500,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10.500,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a873b7b9-f007-422e-b0f6-def5cd87a623",
+    "title": "Questão M3248 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para confeccionar, em madeira, um cesto de lixo que comporá o ambiente decorativo de uma sala de aula, um marceneiro utilizará, para as faces laterais, retângulos e trapézios isósceles e, para o fundo, um quadrilátero, com os lados de mesma medida e ângulos retos.",
+    "introducao_alternativas": "Qual das figuras representa o formato de um cesto que possui as características estabelecidas?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3248_-_enem_ppl_2013_alt_A_23d8882a-049c-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3248_-_enem_ppl_2013_alt_B_93049b9c-7bf8-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m3248_-_enem_ppl_2013_alt_C_6e8bc779-710b-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3248_-_enem_ppl_2013_alt_D_c766b626-9820-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3248_-_enem_ppl_2013_alt_E_332e8678-50c4-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b3706422-ca30-4106-beb7-012c5a16e8c5",
+    "title": "Questão M2879 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma região de uma fábrica deve ser isolada, pois nela os empregados ficam expostos a riscos de acidentes. Essa região está representada pela porção de cor cinza (quadrilátero de área S) na figura. [IMAGEM_0] Para que os funcionários sejam orientados sobre a localização da área isolada, cartazes informativos serão afixados por toda a fábrica. Para confeccioná-los, um programador utilizará um software que permite desenhar essa região a partir de um conjunto de desigualdades algébricas.",
+    "introducao_alternativas": "As desigualdades que devem ser utilizadas no referido software, para o desenho da região de isolamento, são",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2879_-_enem_2013_f8a1f986-c1e4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3y – x ≤ 0; 2y – x ≥ 0; y ≤ 8; x ≤ 9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3y – x ≤ 0; 2y – x ≥ 0; y ≤ 9; x ≤ 8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3y – x ≤ 0; 2y – x ≤ 0; y ≤ 9; x ≤ 8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4y – 9x ≤ 0; 8y – 3x ≥ 0; y ≤ 8; x ≤ 9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4y – 9x ≤ 0; 8y – 3x ≥ 0; y ≤ 9; x ≤ 8.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

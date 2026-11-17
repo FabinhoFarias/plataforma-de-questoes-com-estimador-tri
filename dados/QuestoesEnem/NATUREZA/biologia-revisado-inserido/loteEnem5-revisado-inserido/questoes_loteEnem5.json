@@ -1,0 +1,2463 @@
+[
+  {
+    "id_externo": "Questao_30ceb542-26a9-457b-ba2a-a104f54e093e",
+    "title": "Questão B3893 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem – os cloroplastos – e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas- do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem. Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
+    "introducao_alternativas": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+    "assunto": "Bioenergética",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ácidos nucleicos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "carboidratos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "proteínas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "vitaminas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "lipídios.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5f035e27-bbd8-4a61-a6ed-6f5d6f77ba7f",
+    "title": "Questão B3584 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O fósforo, geralmente representado pelo íon de fosfato (PO43-), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon.",
+    "introducao_alternativas": "Uma medida que amenizaria esse problema seria:",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0f7e3ad7-a370-47b3-b4fc-19cce4cde802",
+    "title": "Questão B1175 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A variação da quantidade de anticorpos específicos foi medida por meio de uma experiência controlada, em duas crianças durante um certo período de tempo. Para a imunização de cada uma das crianças foram utilizados dois procedimentos diferentes: Criança I: aplicação de soro imune. Criança II: vacinação.",
+    "introducao_alternativas": "O gráfico que melhor representa as taxas de variação da quantidade de anticorpos nas crianças I e II é:",
+    "assunto": "Histologia Animal",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b1175_-_enem_alt_A_af534303-6277-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_b1175_-_enem_alt_B_f2f25e79-1d0f-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b1175_-_enem_alt_C_6ff06183-0607-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b1175_-_enem_alt_D_f321920e-3d8d-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b1175_-_enem_alt_E_c03a9ebc-d511-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d941ed59-f1c2-490c-b101-dde006f1e0bb",
+    "title": "Questão B3891 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+    "introducao_alternativas": "O coquetel de inibidores impediu o(a)",
+    "assunto": "Reprodução Humana",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formação do pronúcleo masculino.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "início da divisão mitótica do zigoto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "término da segunda divisão meiótica do ovócito.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "passagem do espermatozoide pela corona radiata e zona pelúcida.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "fusão das membranas plasmáticas do ovócito e do espermatozoide.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_85cdbecf-96a1-4b4d-a1b4-281b50acb57a",
+    "title": "Questão B4031 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Doenças negligenciadas são um grupo de enfermidades tropicais endêmicas que incapacitam ou matam milhões de pessoas e representam uma necessidade médica importante que permanece não atendida. Comuns em áreas pobres do mundo, as populações atingidas por essas doenças não possuem recursos para pagar por um tratamento que exigiria anos de pesquisa e um alto investimento dos laboratórios. Por isso, uma parcela considerável de investimentos aplicados em estudos dessas doenças vem de atividades filantrópicas.",
+    "introducao_alternativas": "Esses investimentos filantrópicos poderiam melhorar a realidade de doentes acometidos pelo(a):",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infarto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Câncer.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Alzheimer.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Influenza A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Leishmaniose.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8139f4cf-be9d-43a2-8b0f-dd54ef5faf86",
+    "title": "Questão B2362 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "No ano de 2009, registrou-se um surto global de gripe causada por uma variante do vírus Influenza A, designada H1N1. A Organização Mundial de Saúde (OMS) solicitou que os países intensificassem seus programas de prevenção para que não houvesse uma propagação da doença. Uma das ações mais importantes recomendadas pela OMS era a higienização adequada das mãos, especialmente após tossir e espirrar.",
+    "introducao_alternativas": "A ação recomendada pela OMS tinha como objetivo",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reduzir a reprodução viral.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "impedir a penetração do vírus pela pele.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "reduzir o processo de autoinfecção viral.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "reduzir a transmissão do vírus no ambiente.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "impedir a seleção natural de vírus resistentes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a514eb51-41d8-4dd8-8d37-3cc2ad0667b3",
+    "title": "Questão B4003 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais.",
+    "introducao_alternativas": "Para superar essa limitação, o exoesqueleto deve ser",
+    "assunto": "Zoologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formado somente na fase adulta do animal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fragmentado para expansão nas áreas de articulação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "modelado continuamente para ajuste ao tamanho do corpo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "substituído por meio de mudas que ocorrem periodicamente.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "impregnado por pequena quantidade de sais para sua distensão.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_64ca95d2-23d4-4334-93b2-d365bbedbb44",
+    "title": "Questão B3813 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Na música \"Bye, bye, Brasil\", de Chico Buarque de Holanda e Roberto Menescal, os versos \"puseram uma usina no mar talvez fique ruim pra pescar\" poderiam estar se referindo à usina nuclear de Angra dos Reis, no litoral do Estado do Rio de Janeiro.",
+    "introducao_alternativas": "No caso de tratar-se dessa usina, em funcionamento normal, dificuldades para a pesca nas proximidades poderiam ser causadas",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo aquecimento das águas, utilizadas para refrigeração da usina, que alteraria a fauna marinha.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "pela oxidação de equipamentos pesados e por detonações que espantariam os peixes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "pelos rejeitos radioativos lançados continuamente no mar, que provocariam a morte dos peixes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "pela contaminação por metais pesados dos processos de enriquecimento do urânio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "pelo vazamento de lixo atômico colocado em tonéis e lançado ao mar nas vizinhanças da usina.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7fb43a2b-3d09-4982-a05d-c10aa48bae75",
+    "title": "Questão B3943 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Algumas espécies de tubarões, como o tubarão-branco e o tubarão-martelo, são superpredadores da cadeia alimentar subaquática. Seus órgãos dos sentidos são especialmente adaptados para a localização de presas até mesmo a quilômetros de distância. Pesquisadores americanos, trabalhando com tubarões do gênero Squalus, verificaram que a capacidade de detecção e captura de presas por esses indivíduos é diminuída quando eles se encontram expostos a campos magnéticos gerados artificialmente na água. STONER, A. W.; KAIMMER, S. M. Fisheries Research, n. 92, 2008.",
+    "introducao_alternativas": "Considerando-se os órgãos dos sentidos típicos desses animais, que tipo de receptor foi afetado no experimento?",
+    "assunto": "Zoologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fotorreceptor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mecanorreceptor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Eletrorreceptor.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Termorreceptor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Quimiorreceptor.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f9c18a5f-31f5-47a7-b42e-44cdfa60384f",
+    "title": "Questão B0889 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Recentemente, foi descoberta uma nova espécie de inseto o flebotomídeo, batizado de Lutzomya maruaga, o novo inseto possui apenas fêmeas que se reproduzem a partir da produção de ovos sem a intervenção de machos, em um processo conhecido como partenogênese. A espécie está restrita a uma caverna na região amazônica, não sendo encontrada em outros lugares. O inseto não se alimenta de sangue nem transmite doenças, como o fazem outros mosquitos de seu mesmo gênero. Os adultos não se alimentam e as larvas parecem se alimentar apenas de fezes de morcego (guano) existente no fundo da caverna. Essa dieta larval acumularia reservas a serem usadas na fase adulta.",
+    "introducao_alternativas": "Em relação a essa descoberta, vê-se que a nova espécie de flebotomídeo",
+    "assunto": "Reprodução Humana",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve apresentar maior variabilidade genética que seus congêneres.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Deve ter uma fase adulta longa se comparado com seus congêneres.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "É mais vulnerável a desequilíbrios em seu ambiente que seus congêneres.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Está livre de hábitos hematófagos e de transmissão e de transmissão de doenças devido à ausência de machos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Em grandes chances de se dispensar para outros ambientes, tornando-se potencialmente invasora.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b65fefa8-5c7a-4e04-8bad-34ffb19b95fe",
+    "title": "Questão B1661 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.",
+    "introducao_alternativas": "Nessa situação o sistema excretor dos estudantes",
+    "assunto": "Fisiologia Animal",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aumentou a filtração glomerular.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "produziu maior volume de urina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "produziu urina com menos ureia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "produziu urina com maior concentração de sais.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "reduziu a reabsorção de glicose e aminoácidos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_418a9aaa-4721-4c23-990c-cef67acc184d",
+    "title": "Questão B3747 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.",
+    "introducao_alternativas": "As características descritas referem-se a plantas adaptadas ao bioma:",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cerrado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pampas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pantanal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Manguezal.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mata dos Cocais.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7bc6edaf-88c0-4531-b67e-e3e5e3ef7ec1",
+    "title": "Questão B2099 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os ratos Peromyscus polionotus encontram-se distribuídos em ampla região na América do Norte. A pelagem de ratos dessa espécie varia do marrom claro até o escuro, sendo que os ratos de uma mesma população têm coloração muito semelhante. Em geral, a coloração da pelagem também é muito parecida à cor do solo da região em que se encontram, que também apresenta a mesma variação de cor, distribuída ao longo de um gradiente sul-norte. Na figura, encontram-se representadas sete diferentes populações de P. polionotus. Cada população é representada pela pelagem do rato, por uma amostra de solo e por sua posição geográfica no mapa. [IMAGEM_0]",
+    "introducao_alternativas": "O mecanismo evolutivo envolvido na associação entre cores de pelagem e de substrato é",
+    "assunto": "Evolução",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b2099_-_enem_36c4cce7-cf0b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "o fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1218b09a-def0-4d14-9a30-dd90411d635a",
+    "title": "Questão B1356 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A retina é um tecido sensível à luz, localizado na parte posterior do olho, onde ocorre o processo de formação de imagem. Nesse tecido, encontram-se vários tipos celulares específicos. Um desses tipos celulares são os cones, os quais convertem os diferentes comprimentos de onda da luz visível em sinais elétricos, que são transmitidos pelo nervo óptico até o cérebro. Disponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado).",
+    "introducao_alternativas": "Em relação à visão, a degeneração desse tipo celular irá",
+    "assunto": "Fisiologia Animal",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comprometer a capacidade de visão em cores.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "impedir a projeção dos raios luminosos na retina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "provocar a formação de imagens invertidas na retina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "causar dificuldade de visualização de objetos próximos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "acarretar a perda da capacidade de alterar o diâmetro da pupila.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_df20d538-9f07-4eac-8864-c9c0eee43abe",
+    "title": "Questão B0198 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A obesidade, que nos países desenvolvidos já é tratada como epidemia, começa a preocupar especialistas no Brasil. Os últimos dados da Pesquisa de Orçamentos Familiares, realizada entre 2002 e 2003 pelo IBGE, mostram que 40,6% da população brasileira estão acima do peso, ou seja, 38,8 milhões de adultos. Desse total, 10,5 milhões são considerados obesos. Várias são as dietas e os remédios que prometem um emagrecimento rápido e sem riscos. Há alguns anos foi lançado no mercado brasileiro um remédio de ação diferente dos demais, pois inibe a ação das lipases, enzimas que aceleram a reação de quebra de gorduras. Sem serem quebradas elas não são absorvidas pelo intestino, e parte das gorduras ingeridas é eliminada com as fezes. Como os lipídios são altamente energéticos, a pessoa tende a emagrecer. No entanto, esse remédio apresenta algumas contra-indicações, pois a gordura não absorvida lubrifica o intestino, causando desagradáveis diarréias.",
+    "introducao_alternativas": "Além do mais, podem ocorrer casos de baixa absorção de vitaminas lipossolúveis, como as A, D, E e K, pois",
+    "assunto": "Bioquímica",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "essas vitaminas, por serem mais energéticas que as demais, precisam de lipídios para sua absorção.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a ausência dos lipídios torna a absorção dessas vitaminas desnecessária.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "essas vitaminas reagem com o remédio, transformando-se em outras vitaminas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "as lipases também desdobram as vitaminas para que essas sejam absorvidas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "essas vitaminas se dissolvem nos lipídios e só são absorvidas junto com eles.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3926b1e2-8499-4c0b-93f1-9d2110da41d8",
+    "title": "Questão B3559 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. O resíduo pode ser utilizado como fertilizante, pois contém cerca de 6,5% de pectina (um polissacarídeo), aproximadamente 25% de açúcares fermentáveis (frutose, sacarose e galactose), bem como resíduos de alcaloides (compostos aminados) que não foram extraídos no processo. LIMA, L. K. S. et al. Utilização de resíduo oriundo da torrefação do café na agricultura em substituição à adubação convencional. ACSA — Agropecuária Científica no Semi-Árido, v. 10, n. 1, jan.-mar., 2014 (adaptado).",
+    "introducao_alternativas": "Esse resíduo contribui para a fertilidade do solo, pois",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "possibilita a reciclagem de carbono e nitrogênio.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "promove o deslocamento do alumínio, que é tóxico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "melhora a compactação do solo por causa da presença de pectina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "eleva o pH do solo em função da degradação dos componentes do resíduo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e2260b7a-5d50-40fd-8779-4ee7c90affed",
+    "title": "Questão B3815 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A indústria têxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das águas dos rios causado pelo despejo desses corantes pode desencadear uma série de problemas no ecossistema aquático.",
+    "introducao_alternativas": "Considerando esse escurecimento das águas, o impacto negativo inicial que ocorre é o(a)",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "eutrofização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "proliferação de algas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "inibição da fotossíntese.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "fotodegradação da matéria orgânica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "aumento da quantidade de gases dissolvidos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d38a78e7-1c02-4140-8e1a-3f3a0e0a45dd",
+    "title": "Questão B0280 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Define-se genoma como o conjunto de todo o material genético de uma espécie, que, na maioria dos casos, são as moléculas de DNA. Durante muito tempo, especulou-se sobre a possível relação entre o tamanho do genoma – medido pelo número de pares de bases (pb) – , o número de proteínas produzidas e a complexidade do organismo. As primeiras respostas começam a aparecer e já deixam claro que essa relação não existe, como mostra a tabela abaixo. [IMAGEM_0] Internet: www.cbs.dtu.dk e.",
+    "introducao_alternativas": "De acordo com as informações acima,",
+    "assunto": "Biologia Molecular e Engenharia Genética",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b0280_-_enem_0f4b7615-6084-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o conjunto de genes de um organismo define o seu DNA.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a produção de proteínas não está vinculada à molécula de DNA.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "o tamanho do genoma não é diretamente proporcional ao número de proteínas produzidas pelo organismo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "quanto mais complexo o organismo, maior o tamanho de seu genoma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "genomas com mais de um bilhão de pares de bases são encontrados apenas nos seres vertebrados.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6782dacb-b38e-4c18-ada8-a69faad7fbb4",
+    "title": "Questão B1475 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Hipóxia ou mal das alturas consiste na diminuição de oxigênio (O2) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO2) em equilíbrio no sangue, conforme a relação: Hb (aq) + O2(aq) ⇌HbO2(aq) Mal da montanha. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev.",
+    "introducao_alternativas": "2015 (adaptado) A alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)",
+    "assunto": "Fisiologia Animal",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "elevação da pressão arterial.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "aumento da temperatura corporal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "redução da temperatura do ambiente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "queda da pressão parcial de oxigênio.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "diminuição da quantidade de hemácias.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9f0a9a96-4528-4b8f-a3b2-bb860d216e5f",
+    "title": "Questão B2439 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.",
+    "introducao_alternativas": "Na terapêutica das doenças mencionadas, alguns desses fármacos atuam",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ativando o sistema imunológico do hospedeiro",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "interferindo na cascata bioquímica da inflamação",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "removendo as toxinas sintetizadas pelas bactérias",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "combatendo as células hospedeiras das bactérias",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "danificando estruturas específicas da célula bacteriana.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3a1d1b48-a521-4db9-87e6-16ad0383218e",
+    "title": "Questão B3727 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Apesar da riqueza das florestas tropicais, elas estão geralmente baseadas em solos inférteis e improdutivos. Grande parte dos nutrientes é armazenada nas folhas que caem sobre o solo, não no solo propriamente dito. Quando esse ambiente é intensamente modificado pelo ser humano, a vegetação desaparece, o ciclo dos nutrientes é alterado e a terra se torna rapidamente infértil. CORSON, Walter H. Manual Global de Ecologia, 1993 No texto anterior, pode parecer uma contradição a existência de florestas tropicais exuberantes sobre solo pobres.",
+    "introducao_alternativas": "No entanto, este fato é explicado pela",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 9,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "profundidade do solo, pois, embora pobre, sua espessura garante a disponibilidade de nutrientes para a sustentação dos vegetais da região.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "boa iluminação das regiões tropicais, uma vez que a duração regular do dia e da noite garante os ciclos dos nutrientes nas folhas dos vegetais da região.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "existência de grande diversidade animal, com número expressivo de populações que, com seus dejetos, fertilizam o solo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "capacidade de produção abundante de oxigênio pelas plantas das florestas tropicais, consideradas os “pulmões” do mundo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "rápida reciclagem dos nutrientes, potencializada pelo calor e umidade das florestas tropicais, o que favorece a vida dos decompositores.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5cd13de0-b5ff-4f02-a23c-f5f99a949f02",
+    "title": "Questão B0070 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Estudos mostram que a prática de esportes pode aumentar a produção de radicais livres, um subproduto da nossa respiração que está ligado ao processo de envelhecimento celular e ao surgimento de doenças como o câncer. Para neutralizar essas moléculas nas células, quem faz esporte deve dar atenção especial aos antioxidantes. As vitaminas C, E e o selênio fazem parte desse grupo. SÁ, V. Exercícios bem nutridos. Disponível em: http://saude.abril.com.br. Acesso em: 29 abr. 2010.(adaptado).",
+    "introducao_alternativas": "A ação antioxidante das vitaminas C e E e do selênio deve-se às suas capacidades de",
+    "assunto": "Bioquímica",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reagir com os radicais livres gerados no metabolismo celular através do processo de oxidação.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "diminuir a produção de oxigênio no organismo e o processo de combustão que gera radicais livres.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "aderir à membrana das mitocôndrias, interferindo no mecanismo de formação desses radicais livres.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "inibir as reações em cadeia utilizadas no metabolismo celular para geração dos radicais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "induzir a adaptação do organismo em resposta à geração desses radicais.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a481e7f6-9af8-4044-a636-649da5463fdc",
+    "title": "Questão B1397 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Portadores de diabetes insipidusreclamam da confusão feita pelos profissionais da saúde quanto aos dois tipos de diabetes: mellituse insipidus. Enquanto o primeiro tipo está associado aos níveis ou à ação da insulina, o segundo não está ligado à deficiência desse hormônio. O diabetes insipidusé caracterizado por um distúrbio na produção ou no funcionamento do hormônio antidiurético (na sigla em inglês, ADH), secretado pela neuro-hipófise para controlar a reabsorção de água pelos túbulos renais.",
+    "introducao_alternativas": "Tendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes insipidus?",
+    "assunto": "Fisiologia Animal",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alta taxa de glicose no sangue.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão arterial.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ganho de massa corporal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia Crônica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desidratação.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_09c3cdd4-d1c3-454f-888b-32bde5e25cdb",
+    "title": "Questão B0791 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas, SANDES, A R. R. BLASI, G. Biodiversidade e diversidade química e genética. Disponível em: http://novastecnologias.com.br. Acesso em 22 set 2015 (adaptado). O incremento da variabilidade ocorre em razão da permuta genética, a qual propicia a troca de segmentos entre cromátides não irmãs na meiose.",
+    "introducao_alternativas": "Essa troca de segmentos é determinante na",
+    "assunto": "Núcleo e Divisão Celular",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "produção de indivíduos mais férteis.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "transmissão de novas características adquiridas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "recombinação genética na formação dos gametas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ocorrência de mutações somáticas nos descendentes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "variação do número de cromossomos característico da espécie.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_39dabc89-876f-4e81-a098-e73ed7e9f6fb",
+    "title": "Questão B3885 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.",
+    "introducao_alternativas": "Uma medida profilática comum a essas duas doenças é o(a)",
+    "assunto": "Zoologia",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "incineração do lixo orgânico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "construção de rede de esgoto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "uso de vermífugo pela população.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "controle das populações dos vetores.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "consumo de carnes vermelhas bem cozidas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_34963f7b-51b9-44b5-80fa-075afd421b77",
+    "title": "Questão B0289 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Um estudante relatou que o mapeamento do DNA da cevada foi quase todo concluído e seu código genético desvendado. Chamou atenção para o número de genes que compõem esse código genético e que a semente da cevada, apesar de pequena, possui um genoma mais complexo que o humano, sendo boa parte desse código constituída de sequências repetidas. Nesse contexto, o conceito de código genético está abordado de forma equivocada.",
+    "introducao_alternativas": "Cientificamente, esse conceito é definido como",
+    "assunto": "Biologia Molecular e Engenharia Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trincas de nucleotídeos que codificam os aminoácidos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "localização de todos os genes encontrados em um genoma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "codificação de sequências repetidas presentes em um genoma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "conjunto de todos os RNAs mensageiros transcritos em um organismo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "todas as sequências de pares de bases presentes em um organismo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b0719ddf-1815-43d8-8e2f-dd48785abf98",
+    "title": "Questão B3397 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O cladograma representa relações filogenéticas entre os vertebrados. [IMAGEM_0]",
+    "introducao_alternativas": "A correspondência correta entre as indicações numéricas no cladograma e a característica evolutiva é:",
+    "assunto": "Zoologia",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b3397_-_enem_ppl_05f5e24c-7d19-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I - endotermia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II - coluna vertebral.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III - ovo amniótico.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV - respiração pulmonar.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V - membros locomotores.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a9b6554c-a80d-4b92-a481-ce8c841c503b",
+    "title": "Questão B1821 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Antes de técnicas modernas de determinação de paternidade por exame de DNA, o sistema de determinação sanguínea ABO foi amplamente utilizado como ferramenta para excluir possíveis pais. Embora restrito à análise fenotípica, era possível concluir a exclusão de genótipos também. Considere que uma mulher teve um filho cuja paternidade estava sendo contestada. A análise do sangue revelou que ela era tipo sanguíneo AB e o filho, tipo sanguíneo B.",
+    "introducao_alternativas": "O genótipo do homem, pelo sistema ABO, que exclui a possibilidade de paternidade desse filho é",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IAIA.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "IAi.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "IBIB.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IBi.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ii.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9df36357-0362-4e4e-bd17-e2703ddeea9c",
+    "title": "Questão B3749 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O mangue é composto por três tipos de árvores (Rhizophora mangle – mangue-bravo ou vermelho, Avicennia schaueriana – mangue-seriba, e Laguncularia racemosa – mangue-branco). Uma característica morfológica comum aos três tipos de árvores encontradas no mangue está relacionada à pouca disponibilidade de oxigênio encontrado em seu solo. ALVES, J. R. P. (Org.). Manguezais: educar para proteger. Rio de Janeiro: Femar; Semads, 2001 (adaptado).",
+    "introducao_alternativas": "A característica morfológica de valor adaptativo referenciada no texto é a",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ausência de frutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "ausência de estômatos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "presença de folhas largas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "presença de raízes-escoras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "presença de pneumatóforos.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3f8d7153-1c0e-4f6d-a2c3-72e3811beef4",
+    "title": "Questão B3734 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Em uma aula de biologia sobre formação vegetal brasileira, a professora destacou que, em uma região, a flora convive com condições curiosas. As características dessas plantas não estão relacionadas com a falta de água, mas com as condições do solo, que é pobre em sais minerais, ácido e rico em alumínio. Além disso, essas plantas possuem adaptações ao fogo.",
+    "introducao_alternativas": "As características adaptativas das plantas que correspondem à região destacada pela professora são:",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "raízes escoras e respiratórias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "raízes tabulares e folhas largas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "casca grossa e galhos retorcidos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "raízes aéreas e perpendiculares ao solo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "folhas reduzidas ou modificadas em espinhos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6083e194-49be-4260-94a6-12c127e7a9fe",
+    "title": "Questão B3987 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Anualmente, o número de casos de dengue aumenta substancialmente no Brasil, mas ainda não há uma vacina amplamente disponível. Quatro sorotipos do vírus circulam no país e são todos transmitidos pelas fêmeas do mosquito Aedes aegypti. Os casos mais graves evoluem para a fase hemorrágica, que pode levar à morte por choque hipovolêmico. Muitos desses casos acontecem quando o indivíduo contrai a doença pela segunda vez com um sorotipo diferente daquele contra o qual já produziu anticorpos.",
+    "introducao_alternativas": "O que tem dificultado o desenvolvimento de uma vacina para essa doença é a",
+    "assunto": "Histologia Animal",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "resistência do homem contra antígenos específicos do vírus.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "baixa resposta imunogênica da espécie humana contra o vírus.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "obtenção de antígenos que representem os quatro sorotipos do vírus.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "reação cruzada de anticorpos produzidos pelo indivíduo contra outros vírus.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ausência de resposta imune dos indivíduos após a primeira infecção pelo vírus.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_32716cbb-cd49-4cf7-b66c-0be897673341",
+    "title": "Questão B3642 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e produzem auxinas, substâncias que estimulam diretamente o crescimento do tomateiro. PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento tomateiro mediados pro rizobactérias. Tropical Plant Pathology, v. 36, n 2, mar.-abri.: 2011 (adaptado).",
+    "introducao_alternativas": "Qual dos processos biológicos mencionados indica uma relação ecológica de competição?",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fixação de nitrogênio para o tomateiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Disponibilização de cálcio para o tomateiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da quantidade de ferro disponível para o fungo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Liberação de substâncias que inibem o crescimento do fungo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Liberação de auxinas que estimulam o crescimento do tomateiro.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4b7ababc-f94e-4b1a-8303-5e7596abfa4a",
+    "title": "Questão B0906 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os efeitos do exercício físico na redução de doenças cardiovasculares são bem conhecidos, aumentando, por exemplo, a tolerância a infartos em comparação com indivíduos sedentários. Visando ganho de força, de massa muscular e perda de gordura, verifica-se o uso de anabolizantes por alguns esportistas. Em uma pesquisa com ratos, confirmou-se a melhora na condição cardíaca em resposta ao exercício, mas verificou-se que os efeitos benéficos do exercício físico são prejudicados pelo uso de anabolizantes, como o decanoato de nandrolona, aumentando a área cardíaca afetada pelo infarto. CHAVES, E.A. et al. Cardioproteção induzida pelo exercício é prejudicada pelo tratamento com anabolizante decanoato de nandrolona. Brazilian Journal of Biomotricity, v.1 n. 3, 2007 (adaptado).",
+    "introducao_alternativas": "Qual gráfico representa os resultados desse estudo?",
+    "assunto": "Reprodução Humana",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b0906_-_enem_ppl_alt_A_3ee71d7f-8a27-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_b0906_-_enem_ppl_alt_B_781655a5-e15c-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b0906_-_enem_ppl_alt_C_38e93dc4-36f8-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b0906_-_enem_ppl_alt_D_40bfc2c7-c933-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b0906_-_enem_ppl_alt_E_ffcaa9f2-7f9f-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_857e9fde-16a3-4d3a-913c-e4421294beb0",
+    "title": "Questão B4025 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O uso excessivo de embalagens plásticas ocasionou um aumento na quantidade de resíduos plásticos descartados no meio ambiente. Para minimizar o impacto causado pelo acúmulo desses resíduos, pode-se empregar alguns procedimentos: I. Incineração; II. Reciclagem; III. Acondicionamento em aterros sanitários; IV. Substituição por plásticos biodegradáveis; V. Substituição por plásticos oxibiodegradáveis.",
+    "introducao_alternativas": "Do ponto de vista ambiental, o procedimento adequado para solucionar o problema de acúmulo desses materiais é",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "incinerar, pois isso reduz a quantidade de resíduos sólidos, e os gases liberados nesse processo não são poluentes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reciclar, pois o plástico descartado é utilizado para a produção de novos objetos, e isso evita a síntese de maior quantidade de matéria-prima.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "utilizar plásticos biodegradáveis, uma vez que a matéria-prima é de fonte renovável e a produção desses materiais é simples e de baixo custo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "dispensar em aterros sanitários, já que esses locais são dimensionados para receber uma grande quantidade de resíduos e sua capacidade não se esgota rapidamente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "substituir por plásticos oxibiodegradáveis, visto que, ao serem descartados, são rapidamente assimilados pelos microrganismos e não se acumulam no meio ambiente.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2674775d-422b-434c-8405-bfba7a3c9f85",
+    "title": "Questão B3795 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Corredores ecológicos visam mitigar os efeitos da fragmentação dos ecossistemas promovendo a ligação entre diferentes áreas, como o objetivo de proporcionar o deslocamento de animais, a dispersão de sementes e o aumento da cobertura vegetal. São instituídos com base em informações como estudos sobre o deslocamento de espécies, sua área de vida (área necessária para o suprimento de suas necessidades vitais e reprodutivas) e a distribuição de suas populações. Disponível em: www.mma.gov.br. Acesso em: 30 nov. 2017 (adaptado).",
+    "introducao_alternativas": "Nessa estratégia, a recuperação da biodiversidade é efetiva porque",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "propicia o fluxo gênico.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "intensifica o manejo de espécies.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "amplia o processo de ocupação humana.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aumenta o número de indivíduos nas populações.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "favorece a formação de ilhas de proteção integral.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_76770a4e-eaf8-4a28-a2e3-a1b7066b9478",
+    "title": "Questão B3589 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os seres vivos mantêm constantes trocas de matéria com o ambiente mediante processos conhecidos como ciclos biogeoquímicos. O esquema representa um dos ciclos que ocorrem nos ecossistemas. [IMAGEM_0]",
+    "introducao_alternativas": "O esquema apresentado corresponde ao ciclo biogeoquímico do(a):",
+    "assunto": "Ecologia",
+    "competencia": 4,
+    "habilidade": 9,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_b3589_-_enem_ea2c5b12-7785-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fósforo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "enxofre.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "carbono.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "nitrogênio.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4d4fe350-b3ca-4adb-a08c-98a956e55c80",
+    "title": "Questão B2401 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Na família Retroviridae encontram-se diversos vírus que infectam aves e mamíferos, sendo caracterizada pela produção de DNA a partir de uma molécula de RNA. Alguns retrovírus infectam exclusivamente humanos, não necessitando de outros hospedeiros, reservatórios ou vetores biológicos. As infecções ocasionadas por esses vírus vêm causando mortes e grandes prejuízos ao desenvolvimento social e econômico. Nesse contexto, pesquisadores têm produzido medicamentos que contribuem para o tratamento dessas doenças.",
+    "introducao_alternativas": "Que avanços tecnológicos têm contribuído para o tratamento dessas infecções virais?",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Melhoria dos métodos de controle dos vetores desses vírus.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fabricação de soros mutagênicos para combate desses vírus.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Investimento da indústria em equipamentos de proteção individual.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Produção de vacinas que evitam a infecção das células hospedeiras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2354a7e7-70c9-4bcc-8b7e-af998ec6edf7",
+    "title": "Questão B1579 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A vesícula biliar é um órgão muscular onde a bile é armazenada. Os cálculos biliares que algumas vezes se formam neste órgão devem ser removidos cirurgicamente, dependendo da avaliação da gravidade das complicações decorrentes da presença desses cálculos no indivíduo. Entretanto, apesar de algum prejuízo causado pela remoção da vesícula biliar, o indivíduo pode ter uma vida relativamente normal.",
+    "introducao_alternativas": "A remoção cirúrgica desse órgão retardará a",
+    "assunto": "Fisiologia Animal",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síntese de glicogênio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "produção de bile.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "secreção de suco gástrico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "produção de enzimas digestivas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "digestão de gorduras.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4737f431-285f-4729-b8c8-8fe86c8422c6",
+    "title": "Questão B4036 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A proprietária de um haras comprou um cavalo e, após alguns dias, descobriu que o animal apresentava uma doença viral séria. Sentindo-se prejudicada, iniciou uma disputa judicial para determinar se o cavalo já foi comprado infectado ou se ele adquiriu a doença na nova propriedade. Nesses casos, os anticorpos podem auxiliar na decisão do juiz, pois sabe-se que a presença da imunoglobulina M (IgM), primeira classe de anticorpo a ser secretada, refere-se a infecções recentes (primárias ou recorrentes), e que a imunoglobulina G (IgG) refere-se a infecções um pouco mais antigas. Além das classes, a força de ligação do anticorpo (avidez) também poderá trazer informações importantes, porque quanto maior a avidez, mais antiga é a infecção inicial.",
+    "introducao_alternativas": "Qual resultado laboratorial favorecerá a nova proprietária no julgamento?",
+    "assunto": "Histologia Animal",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IgM positivo e IgG positivo, com baixa avidez.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "IgM negativo e IgG negativo, com baixa avidez.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "IgM negativo e IgG positivo, independentemente da avidez.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IgM positivo e IgG positivo, independentemente da avidez.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "IgM positivo e IgG negativo, independentemente da avidez",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8dca1483-b717-42dc-b912-86eb8f2231f1",
+    "title": "Questão B2542 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A malária é uma doença típica de regiões tropicais. De acordo com dados do Ministério da Saúde, no final do século XX, foram registrados mais de 600 mil casos de malária no Brasil, 99% dos quais na região amazônica.",
+    "introducao_alternativas": "Os altos índices de malária nessa região podem ser explicados por várias razões, entre as quais:",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as características genéticas das populações locais facilitam a transmissão e dificultam o tratamento da doença.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a falta de saneamento básico propicia o desenvolvimento do mosquito transmissor da malária nos esgotos não tratados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a inexistência de predadores capazes de eliminar o causador e o transmissor em seus focos impede o controle da doença.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a temperatura elevada e os altos índices de chuva na floresta equatorial favorecem a proliferação do mosquito transmissor.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o Brasil é o único país do mundo que não implementou medidas concretas para interromper sua transmissão em núcleos urbanos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_14efca4f-7032-45ca-b57c-aa89a89ee9e4",
+    "title": "Questão B3443 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Insetos podem apresentar três tipos de desenvolvimento. Um deles, a holometabolia (desenvolvimento completo), é constituído pelas fases de ovo, larva, pupa e adulto sexualmente maduro, que ocupam diversos hábitats. Os insetos com holometabolia pertencem às ordens mais numerosas em termos de espécies conhecidas.",
+    "introducao_alternativas": "Esse tipo de desenvolvimento está relacionado a um maior número de espécies em razão da",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "proteção na fase de pupa, favorecendo a sobrevivência de adultos férteis.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "produção de muitos ovos, larvas e pupas, aumentando o número de adultos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "exploração de diferentes nichos, evitando a competição entre as fases da vida.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ingestão de aumentos em todas as fases de vida, garantindo o surgimento do adulto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "utilização do mesmo alimento em todas as fases, otimizando a nutrição do organismo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_71317be9-c838-4d03-a919-80387725699e",
+    "title": "Questão B0414 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A fluidez da membrana celular é caracterizada pela capacidade de movimento das moléculas componentes dessa estrutura. Os seres vivos mantêm essa propriedade de duas formas: controlando a temperatura e/ou alterando a composição lipídica da membrana. Neste último aspecto, o tamanho e o grau de instauração das caudas hidrocarbônicas dos fosfolipídios, conforme representados na figura, influenciam significativamente a fluidez. Isso porque quanto maior for a magnitude das interações entre os fosfolipídios, menor será a fluidez da membrana. [IMAGEM_0] Assim, existem bicamadas lipídicas com diferentes composições de fosfolipídios, como as mostradas de I a V. [IMAGEM_1]",
+    "introducao_alternativas": "Qual das bicamadas lipídicas apresentadas possui maior fluidez?",
+    "assunto": "Citologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b0414_-_enem_305ae545-879c-4.png",
+      "questao_b0414_-_enem_1c8935b4-bb9a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2d6d31ec-3cd7-442a-9bd3-44a3d29a9610",
+    "title": "Questão B0494 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os sapos passam por uma metamorfose completa. Os girinos apresentam cauda e brânquias externas, mas não têm pernas. Com o crescimento e desenvolvimento do girino, as brânquias desaparecem, as pernas surgem e a cauda encolhe. Posteriormente, a cauda desaparece por apoptose ou morte celular programada, regulada por genes, resultando num sapo adulto jovem.",
+    "introducao_alternativas": "A organela citoplasmática envolvida diretamente no desaparecimento da cauda é o",
+    "assunto": "Citologia",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ribossomo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "lisossomo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "peroxissomo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "complexo golgiense.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "retículo endoplasmático.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_abb00e6f-8e26-406f-ad13-fa33aa50ea0e",
+    "title": "Questão B3864 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O lixão que recebia 130 toneladas de lixo e contaminava a região com o seu chorume (líquido derivado da decomposição de compostos orgânicos) foi recuperado, transformando-se em um aterro sanitário controlado, mudando a qualidade de vida e a paisagem e proporcionando condições dignas de trabalho para os que dele subsistiam. Revista Promoção da Saúde da Secretaria de Políticas de Saúde. Ano 1, n° 4, dez. 2000 (adaptado).",
+    "introducao_alternativas": "Quais procedimentos técnicos tornam o aterro sanitário mais vantajoso que o lixão, em relação às problemáticas abordadas no texto?",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lixo é recolhido e incinerado pela combustão a altas temperaturas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "O lixo hospitalar é separado para ser enterrado e sobre ele, colocada cal virgem.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "O lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "O lixo orgânico é completamente separado do lixo inorgânico, evitando a formação de chorume.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O lixo industrial é separado e acondicionado de forma adequada, formando uma bolsa de resíduos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2802a4b9-22b3-47ea-9878-dae88c056935",
+    "title": "Questão B0079 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A produção de biocombustíveis é resultado direto do fomento a pesquisas científicas em biotecnologia que ocorreu no Brasil nas últimas décadas. A escolha do vegetal a ser usado considera, entre outros aspectos, a produtividade da matéria-prima em termos de rendimento e custo associados. O etanol é produzido a partir da fermentação de carboidratos e quanto mais simples a molécula de glicídio, mais eficiente é o processo. Etanol de quê? Revista Pesquisa Fapesp, 28 nov. 2007 (adaptado).",
+    "introducao_alternativas": "O vegetal que apresenta maior eficiência na produção de etanol é",
+    "assunto": "Bioquímica",
+    "competencia": 3,
+    "habilidade": 11,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o milho, pois apresenta sementes com alto teor de amido.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a mandioca, pois apresenta raízes com alto teor de celulose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a soja, pois apresenta sementes com alto teor de glicogênio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "o feijão, pois apresenta sementes com alto teor de quitina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a cana-de-açúcar, pois apresenta colmos com alto teor de sacarose.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e49ce41d-fddf-4e31-ac27-2aa7e4eab439",
+    "title": "Questão B4024 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O cágado-de-barbelas vive nas águas poluídas do Rio Preto, em São José do Rio Preto, interior de São Paulo. Os animais dessa espécie, usados em estudos de ecotoxicologia, são atraídos para esses locais por causa do acúmulo de matéria orgânica nos pontos de despejo de esgoto, ambientes com grande quantidade de metais e baixíssimo teor de oxigênio. Disponível em: www.unesp.br. Acesso em: 4 nov. 2014 (adaptado).",
+    "introducao_alternativas": "Nesse contexto, do ponto de vista ecológico, esses animais são considerados",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bioindicadores.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "biorremediadores.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "organismos invasores.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "anaeróbios facultativos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "decompositores adaptados.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5530c740-833f-455e-8f70-e3d2ae2e1848",
+    "title": "Questão B3505 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Ao percorrer o trajeto de uma cadeia alimentar, o carbono, elemento essencial e majoritário da matéria orgânica que compõe os indivíduos, ora se encontra em sua forma inorgânica, ora se encontra em sua forma orgânica. Em uma cadeia alimentar composta por fitoplâncton, zooplâncton, moluscos, crustáceos e peixes ocorre a transição desse elemento da forma inorgânica para a orgânica.",
+    "introducao_alternativas": "Em qual grupo de organismos ocorre essa transição?",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 9,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fitoplâncton.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Zooplâncton.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Moluscos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Crustáceos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Peixes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_df8ec46e-8399-4b90-9244-2c5e9eb40353",
+    "title": "Questão B2126 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "As superbactérias respondem por um número crescente de infecções e mortes em todo o mundo. O termo superbactérias é atribuído às bactérias que apresentam resistência a praticamente todos os antibióticos. Dessa forma, no organismo de um paciente, a população de uma espécie bacteriana patogênica pode ser constituída principalmente por bactérias sensíveis a antibióticos usuais e por um número reduzido de superbactérias que, por mutação ou intercâmbio de material genético, tornaram-se resistentes aos antibióticos existentes. FERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. Superbactérias: o problema mundial da resistência a antibióticos. Ciência Hoje, n. 287, nov. 2011 (adaptado).",
+    "introducao_alternativas": "Qual figura representa o comportamento populacional das bactérias ao longo de uma semana de tratamento com um antibiótico comum?",
+    "assunto": "Evolução",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b2126_-_enem_ppl_alt_A_82639039-fa04-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_b2126_-_enem_ppl_alt_B_49178a05-9843-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b2126_-_enem_ppl_alt_C_b6b3f539-3095-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b2126_-_enem_ppl_alt_D_6d76bcb6-a74f-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b2126_-_enem_ppl_alt_E_1488e375-cb38-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4b2c9774-d8bf-4f43-b466-ec1e889afc41",
+    "title": "Questão B3993 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "No calor tórrido e seco da Serra do Cabral, em Minas Gerais, o delgado talo com translúcidas flores lilases desponta da areia branca. Philcoxia minensis recorre a truques para sobreviver. Um deles é manter as folhas enterradas, protegidas do sol, que mesmo assim chega suficiente para a fotossíntese. O segundo é atrair vermes subterrâneos, que viram suplemento alimentar num solo pobre. A digestão fica por conta das fosfatases secretadas pelas glândulas. Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 7 jul. 2015 (adaptado).",
+    "introducao_alternativas": "Qual tipo de substância liberada pelos vermes digeridos é absorvida por Philcoxia minensis?",
+    "assunto": "Botânica",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aminoácidos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Sais minerais.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fosfolipídeos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ácidos nucleicos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ae4be9fd-19e3-438e-bfb2-403e9aa532f9",
+    "title": "Questão B3874 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.",
+    "introducao_alternativas": "Esse tipo de doping está diretamente relacionado ao aumento da",
+    "assunto": "Histologia Animal",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "frequência cardíaca.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "capacidade pulmonar.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "massa muscular do indivíduo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "atividade anaeróbica da musculatura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "taxa de transporte de oxigênio pelo sangue.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

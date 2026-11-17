@@ -1,0 +1,2494 @@
+[
+  {
+    "id_externo": "Questao_49844e73-5420-4562-95a9-79f636778433",
+    "title": "Questão F2072 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.",
+    "introducao_alternativas": "Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "forem ambas audíveis.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "tiverem a mesma potência.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "tiverem a mesma frequência.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "tiverem a mesma intensidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "propagarem-se com velocidades diferentes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1abe5b9f-eced-4cea-a0b4-5a0868dd9051",
+    "title": "Questão F0321 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.",
+    "introducao_alternativas": "Essa diferenciação se deve principalmente ao(a)",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "intensidade sonora do som de cada instrumento musical.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "potência sonora do som emitido pelos diferentes instrumentos musicais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "diferente velocidade de propagação do som emitido por cada instrumento musical.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7ac84cb9-c88a-4d2a-9799-820e58e0d30e",
+    "title": "Questão F0707 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O curling é um dos esportes de inverno mais antigos e tradicionais. No jogo, dois times com quatro pessoas têm de deslizar pedras de granito sobre uma área marcada de gelo e tentar colocá-las o mais próximo possível do centro. A pista de curling é feita para ser o mais nivelada possível, para não interferir no decorrer do jogo. Após o lançamento, membros da equipe varrem (com vassouras especiais) o gelo imediatamente à frente da pedra, porém sem tocá-la. Isso é fundamental para o decorrer da partida, pois influi diretamente na distância percorrida e na direção do movimento da pedra. Em um lançamento retilíneo, sem a interferência dos varredores, verifica-se que o módulo da desaceleração da pedra é superior se comparado à desaceleração da mesma pedra lançada com a ação dos varredores. [IMAGEM_0]",
+    "introducao_alternativas": "A menor desaceleração da pedra de granito ocorre porque a ação dos varredores diminui o módulo da",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0707_-_enem_5c40d09a-0429-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "força motriz sobre a pedra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "força de atrito cinético sobre a pedra.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "força peso paralela ao movimento da pedra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "força de arrasto do ar que atua sobre a pedra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "força de reação normal que a superfície exerce sobre a pedra.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f3ed7ad8-6f5b-4237-a4ab-5d2ebbfa7270",
+    "title": "Questão F0533 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Alguns peixes, como o poraquê, a enguia-elétrica da Amazônia, podem produzir uma corrente elétrica quando se encontram em perigo. Um poraquê de 1 metro de comprimento, em perigo, produz uma corrente em torno de 2 ampères e uma voltagem de 600 volts. O quadro apresenta a potência aproximada de equipamentos elétricos. [IMAGEM_0]",
+    "introducao_alternativas": "O equipamento elétrico que tem potência similar àquela produzida por esse peixe em perigo é o(a):",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 18,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f0533_-_enem_2ca5ca90-f450-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "exaustor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "computador.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "aspirador de pó.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "churrasqueira elétrica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "secadora de roupas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_56c26bfe-9d1b-4dd1-80dc-97c6358a589f",
+    "title": "Questão F1708 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Para que se faça a reciclagem das latas de alumínio são necessárias algumas ações, dentre elas: \n1) recolher as latas e separá-las de outros materiais diferentes do alumínio por catação; \n2) colocar as latas em uma máquina que separa as mais leves das mais pesadas por meio de um intenso jato de ar; \n3) retirar, por ação magnética, os objetos restantes que contêm ferro em sua composição.",
+    "introducao_alternativas": "As ações indicadas possuem em comum o fato de",
+    "assunto": "Dinâmica",
+    "competencia": 3,
+    "habilidade": "8",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "exigirem o fornecimento de calor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fazerem uso da energia luminosa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "necessitarem da ação humana direta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "serem relacionadas a uma corrente elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ocorrerem sob a realização de trabalho de uma força.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a1261d23-8b1e-47c2-a642-f80d91473b8b",
+    "title": "Questão F0071 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em 1543, Nicolau Copérnico publicou um livro revolucionário em que propunha a Terra girando em torno do seu próprio eixo e rodando em torno do Sol. Isso contraria a concepção aristotélica, que acredita que a Terra é o centro do universo. Para os aristotélicos, se a Terra gira do oeste para o leste, coisas como nuvens e pássaros, que não estão presas à Terra, pareceriam estar sempre se movendo do leste para o oeste, justamente como o Sol. Mas foi Galileu Galilei que, em 1632, baseando-se em experiências, rebateu a crítica aristotélica, confirmando assim o sistema de Copérnico. Seu argumento, adaptado para a nossa época, é se uma pessoa, dentro de um vagão de trem em repouso, solta uma bola, ela cai junto a seus pés. Mas se o vagão estiver se movendo com velocidade constante, a bola também cai junto a seus pés. Isto porque a bola, enquanto cai, continua a compartilhar do movimento do vagão.",
+    "introducao_alternativas": "O princípio físico usado por Galileu para rebater o argumento aristotélico foi",
+    "assunto": "Dinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a lei da inércia.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "ação e reação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a segunda lei de Newton.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a conservação da energia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o princípio da equivalência.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0df1dad3-ddf0-4494-a0f1-c4d8f7688ead",
+    "title": "Questão F1294 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Na cidade de São Paulo, as ilhas de calor são responsáveis pela alteração da direção do fluxo da brisa marítima que deveria atingir a região de mananciais. Mas, ao cruzar a ilha de calor, a brisa marítima agora encontra um fluxo de ar vertical, que transfere para ela energia térmica absorvida das superfícies quentes da cidade, deslocando-a para altas altitudes. Dessa maneira, há condensação e chuvas fortes no centro da cidade, em vez de na região de mananciais. A imagem apresenta os três subsistemas que trocam energia nesse fenômeno. [IMAGEM_0] No processo de fortes chuvas no centro da cidade de São Paulo, há dois mecanismos dominantes de transferência de calor: entre o Sol e a ilha de calor, e entre a ilha de calor e a brisa marítima. VIVEIROS, M. Ilhas de calor afastam chuvas de represas. Disponível em: www2.feis.unesp.br. Acesso em: 3 dez. 2019 (adaptado).",
+    "introducao_alternativas": "Esses mecanismos são, respectivamente,",
+    "assunto": "Termologia",
+    "competencia": 4,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1294_-_enem_4031eb99-95f6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "irradiação e convecção.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "irradiação e irradiação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "condução e irradiação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "convecção e irradiação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "convecção e convecção.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c546e7ee-deed-4249-ba91-a15a71031f77",
+    "title": "Questão F2037 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O uso de equipamentos elétricos custa dinheiro e libera carbono na atmosfera. Entretanto, diferentes usinas de energia apresentam custos econômicos e ambientais distintos. O gráfico mostra o custo, em centavo de real, e a quantidade de carbono liberado, dependendo da fonte utilizada para converter energia. Considera-se apenas o custo da energia produzida depois de instalada a infraestrutura necessária para sua produção. [IMAGEM_0]",
+    "introducao_alternativas": "Em relação aos custos associados às fontes energéticas apresentadas, a energia obtida a partir do vento é",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2037_-_enem_ppl_8f81f5f1-3421-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mais cara que a energia nuclear e emite maior quantidade de carbono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a segunda fonte mais cara e é livre de emissões de carbono.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "mais cara que a energia solar e ambas são livres de emissões de carbono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "mais barata que as demais e emite grandes quantidades de carbono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a fonte que gera energia mais barata e livre de emissões de carbono.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_56054b90-6cb0-403b-9c12-eb38eac09e32",
+    "title": "Questão F2053 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Estudos apontam que o meteorito que atingiu o céu da Rússia em fevereiro de 2013 liberou uma energia equivalente a 500 quilotoneladas de TNT (trinitrotolueno), cerca de 30 vezes mais forte que a bomba atômica lançada pelos Estados Unidos em Hiroshima, no Japão, em 1945. Os cálculos estimam que o meteorito estava a 19 quilômetros por segundo no momento em que atingiu a atmosfera e que seu brilho era 30 vezes mais intenso do que o brilho do Sol.",
+    "introducao_alternativas": "A energia liberada pelo meteorito ao entrar na atmosfera terrestre é proveniente, principalmente,",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da queima de combustíveis contidos no meteorito.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "de reações nucleares semelhantes às que ocorrem no Sol.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "da energia cinética associada à grande velocidade do meteorito.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "de reações semelhantes às que ocorrem em explosões nucleares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "da queima da grande quantidade de trinitrotolueno presente no meteorito.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3cd9c32b-80ae-4408-b02b-e9a62e816a3e",
+    "title": "Questão F0250 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "É comum nos referirmos a dias quentes como dias “de calor”. Muitas vezes ouvimos expressões como “hoje está calor” ou “hoje o calor está muito forte” quando a temperatura ambiente está alta.",
+    "introducao_alternativas": "No contexto científico, é correto o significado de “calor” usado nessas expressões?",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sim, pois o calor de um corpo depende de sua temperatura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sim, pois calor é sinônimo de alta temperatura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Não, pois calor é energia térmica em trânsito.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Não, pois calor é a quantidade de energia térmica contida em um corpo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Não, pois o calor é diretamente proporcional à temperatura, mas são conceitos diferentes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0d1e4ce5-7f52-445a-b51f-2f6ab091a513",
+    "title": "Questão F2107 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas, que durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente. \nDAY, C. Crumple Zones. Disponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado). Assim, além dos cintos de segurança e dos airbags, os carros modernos passaram a contar com o dispositivo de segurança conhecido como crumple zone (região deformável, em inglês), conforme a figura. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando o carro, seus ocupantes e o muro da figura como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2107_-_enem_c88153a0-b788-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aciona os airbags do veículo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "absorve a energia cinética do sistema.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "consome a quantidade de movimento do sistema.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "cria uma barreira de proteção para seus ocupantes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "diminui a velocidade do centro de massa do sistema.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7c773564-f54b-41b7-adf8-b2ce12d6ac7d",
+    "title": "Questão F1838 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em uma manhã ensolarada, uma jovem vai até um parque para acampar e ler. Ela monta sua barraca próxima de seu carro, de uma árvore e de um quiosque de madeira. Durante sua leitura, a jovem não percebe a aproximação de uma tempestade com muitos relâmpagos.",
+    "introducao_alternativas": "A melhor maneira de essa jovem se proteger dos relâmpagos é",
+    "assunto": "Eletrostática",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "entrar no carro.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "entrar na barraca.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "entrar no quiosque.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "abrir um guarda-chuva.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ficar embaixo da árvore.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_78cfa769-c3e1-442d-83ce-59cb414e3c42",
+    "title": "Questão F0612 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor. WENDLING, M. Sensores. Disponível em: www2.feg.unesp.br. Acesso em: 7 maio 2014 (adaptado).",
+    "introducao_alternativas": "A radiação captada por esse detector encontra-se na região de frequência",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da luz visível.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "do ultravioleta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "do infravermelho.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "das micro-ondas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "das ondas longas de rádio.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e75e8e39-369e-4600-a413-95c20b80de79",
+    "title": "Questão F1273 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Os fones de ouvido tradicionais transmitem a música diretamente para os nossos ouvidos. Já os modelos dotados de tecnologia redutora de ruído – Cancelamento de Ruído (CR) – além de transmitirem música, também reduzem todo ruído inconsistente à nossa volta, como o barulho de turbinas de avião e aspiradores de pó. Os fones de ouvido CR não reduzem realmente barulhos irregulares como discursos e choros de bebês. Mesmo assim, a supressão do ronco das turbinas do avião contribui para reduzir a “fadiga de ruído”, um cansaço persistente provocado pela exposição a um barulho alto por horas a fio. Esses aparelhos também permitem que nós ouçamos músicas ou assistamos a vídeos no trem ou no avião a um volume muito menor (e mais seguro). Disponível em: http://tecnologia.uol.com.br. Acesso em: 21 abr. 2015 (adaptado).",
+    "introducao_alternativas": "A tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Absorção.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Interferência.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Polarização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Difração.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f722e346-888a-499e-a746-852564962666",
+    "title": "Questão F0547 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em 1962, um jingle (vinheta musical) criado por Heitor Carillo fez tanto sucesso que extrapolou as fronteiras do rádio e chegou à televisão ilustrado por um desenho animado. Nele, uma pessoa respondia ao fantasma que batia em sua porta, personificando o “frio”, que não o deixaria entrar, pois não abriria a porta e compraria lãs e cobertores para aquecer sua casa. Apesar de memorável, tal comercial televisivo continha incorreções a respeito de conceitos físicos relativos à calorimetria. DUARTE, M. Jingle é a alma do negócio: livro revela os bastidores das músicas de propagandas. Disponível em: https://guiadoscuriosos.uol.com.br. Acesso em: 24 abr. 2019 adaptado).",
+    "introducao_alternativas": "Para solucionar essas incorreções, deve-se associar à porta e aos cobertores, respectivamente, as funções de:",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aquecer a casa e os corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Evitar a entrada do frio na casa e nos corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Minimizar a perda de calor pela casa e pelos corpos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuir a entrada do frio na casa e aquecer os corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aquecer a casa e reduzir a perda de calor pelos corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e455db95-cd3e-4c4a-8d2c-d55a5b66273f",
+    "title": "Questão F2122 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Quando utilizadas na iluminação pública noturna, as lâmpadas de LED brancas produzem uma luz branco-azulada, cujo brilho difuso dificulta a observação das estrelas, que também chegam aos nossos olhos como luz azulada. Por isso, esse tipo de iluminação pública pode ser considerada uma nova forma de poluição: a “poluição azul”, que afeta a dinâmica de várias espécies. A cidade de Flagstaff, nos Estados Unidos, foi uma das pioneiras na resolução dessa questão. Embora sua iluminação pública seja feita com lâmpadas de LED brancas, a cidade tomou medidas para impedir o brilho azulado. Conforme estudos de uma equipe de cientistas australianos, com a aplicação de um material, é possível alterar a transmissão das frequências indesejadas, mantendo a intensidade total da lâmpada. As figuras do estudo indicam: \n– o espectro de emissão correspondente a uma lâmpada LED branca (A); \n– o espectro de emissão correspondente a uma lâmpada LED branca coberta com o material do estudo (B). [IMAGEM_0]",
+    "introducao_alternativas": "Nesse estudo, o material utilizado na cobertura",
+    "assunto": "Óptica",
+    "competencia": 3,
+    "habilidade": "10",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2122_-_enem_ppl_cb1bbe61-ffd5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reflete a luz azul.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "difrata a luz azul.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "absorve a luz azul e emite luz amarelo-alaranjada.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "absorve a luz azul e emite luz ultravioleta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "polariza a luz azul transmitida.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_badddb4c-7473-44b0-b5be-dbca256ff091",
+    "title": "Questão F2055 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um menino está ajudando sua mãe na cozinha. Ela lhe pede que tire do fogo uma panela que já estava lá há bastante tempo, em fogo baixo, orientando-lhe que tome cuidado para não se queimar, buscando tocar apenas no cabo de madeira, e não na base de metal da panela.",
+    "introducao_alternativas": "A mãe lhe fez essa recomendação porque o metal, em relação à madeira, apresenta maior",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 18,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "calor específico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "energia interna.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "temperatura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "condutividade térmica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "coeficiente de dilatação térmica.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f15b4b41-b587-4387-9574-791ec6fd90ae",
+    "title": "Questão F2009 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Ao sintonizar uma estação de rádio AM, o ouvinte está selecionando apenas uma dentre as inúmeras ondas que chegam à antena receptora do aparelho. Essa seleção acontece em razão da ressonância do circuito receptor com a onda que se propaga.",
+    "introducao_alternativas": "O fenômeno físico abordado no texto é dependente de qual característica da onda?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amplitude.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Polarização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Frequência.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Intensidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Velocidade.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_448859aa-3d4e-44f0-a601-eaf4b5bfe1dd",
+    "title": "Questão F0318 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "As moléculas de água são dipolos elétricos que podem se alinhar com o campo elétrico, da mesma forma que uma bússola se alinha com um campo magnético. Quando o campo elétrico oscila, as moléculas de água fazem o mesmo. No forno de micro-ondas, a frequência de oscilação do campo elétrico é igual à frequência natural de rotação das moléculas de água. Assim, a comida é cozida quando o movimento giratório das moléculas de água transfere a energia térmica às moléculas circundantes. HEWITT, P. Física conceitual. Porto Alegre: Bookman, 2002 (adaptado).",
+    "introducao_alternativas": "A propriedade das ondas que permite, nesse caso, um aumento da energia de rotação das moléculas de água é a",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "refração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "ressonância.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "superposição.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "difração.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d064582f-a1e1-443d-9821-5b4e1beace68",
+    "title": "Questão F1277 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, ao invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V0), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão.",
+    "introducao_alternativas": "Qual figura melhor representa a trajetória de queda da bolinha?",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1277_-_enem_alt_A_fd2423fe-d40b-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1277_-_enem_alt_B_85d8e075-8353-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1277_-_enem_alt_C_9aeb19f9-83cf-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f1277_-_enem_alt_D_da835574-6f77-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1277_-_enem_alt_E_572d1c82-d828-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1ab8157b-563b-479b-aae9-ee5662cabe7c",
+    "title": "Questão F0535 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A tecnologia de comunicação da etiqueta RFID (chamada de etiqueta inteligente) é usada há anos para rastrear gado, vagões de trem, bagagem aérea e carros nos pedágios. Um modelo mais barato dessas etiquetas pode funcionar sem baterias e é constituído por três componentes: um microprocessador de silício; uma bobina de metal, feita de cobre ou de alumínio, que é enrolada em um padrão circular; e um encapsulador, que é um material de vidro ou polímero envolvendo o microprocessador e a bobina. Na presença de um campo de radiofrequência gerado pelo leitor, a etiqueta transmite sinais. A distância de leitura é determinada pelo tamanho da bobina e pela potência da onda de rádio emitida pelo leitor. Disponível em: http:eleletronicos.hsw.uol.com.br. Acesso em: 27 fev. 2012 (adaptado).",
+    "introducao_alternativas": "A etiqueta funciona sem pilhas porque o campo:",
+    "assunto": "Eletromagnetismo",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "elétrico da onda de rádio agita elétrons da bobina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "elétrico da onda de rádio cria uma tensão na bobina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "magnético da onda de rádio induz corrente na bobina.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "magnético da onda de rádio aquece os fios da bobina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "magnético da onda de rádio diminui a ressonância no interior da bobina.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f75130fa-0b23-4880-b56d-bc81d095e287",
+    "title": "Questão F2045 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Buscando conhecer as informações técnicas de um ferro elétrico para avaliar o consumo de energia, um estudante identifica algumas informações desse eletrodoméstico fornecidas pelo fabricante, como mostra a figura. [IMAGEM_0] Sabe-se que esse aparelho é utilizado, em média, 30 minutos por dia, durante 30 dias.",
+    "introducao_alternativas": "Qual é o valor mais próximo do consumo mensal de energia desse eletrodoméstico, em kWh?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f2045_-_enem_ppl_e5eb9c68-3c10-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,87",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,73",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,45",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "11,3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "22,5",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_15fc6117-0b5d-44c2-8269-33352b5e72dd",
+    "title": "Questão F2113 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O ouvido humano apresenta algumas características interessantes. Uma delas é que existe uma intensidade mínima, ou limiar de audibilidade, I0, abaixo da qual o som não é audível. O nível de audibilidade é a grandeza que quantifica a audibilidade (sensação) e sua unidade é o fon, medido em decibéis (dB). O gráfico contém, em escala logarítmica, curvas de igual audibilidade, isto é, cada curva representa uma mesma audibilidade para diferentes frequências. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando a frequência de 90 Hz, o menor nível de intensidade, em dB, para que possamos perceber algum som é, aproximadamente,",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_f2113_-_enem_ppl_620ad186-eb22-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "–20.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "30.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "40.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4.000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a6f0fb0d-2cb2-4cb8-a140-6ae43be8ea2d",
+    "title": "Questão F2104 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto roda/pneu coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo. [IMAGEM_0]",
+    "introducao_alternativas": "Em qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?",
+    "assunto": "Estática",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2104_-_enem_ddc36edb-4eff-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_46bd6c1d-066c-4059-bd49-94bd1afcccd6",
+    "title": "Questão F0594 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Será que uma miragem ajudou a afundar o Titanic? O fenômeno ótico conhecido como Fata Morgana pode fazer com que uma falsa parede de água apareça sobre o horizonte molhado. Quando as condições são favoráveis, a luz refletida pela água fria pode ser desviada por uma camada incomum de ar quente acima, chegando até o observador, vinda de muitos ângulos diferentes. De acordo com estudos de pesquisadores da Universidade de San Diego, uma Fata Morgana pode ter obscurecido os icebergs da visão da tripulação que estava a bordo do Titanic. Dessa forma, a certa distância, o horizonte verdadeiro fica encoberto por uma névoa escurecida, que se parece muito com águas calmas no escuro. Disponível em: http://apod.nasa.gov. Acesso em: 6 set. 2012 (adaptado).",
+    "introducao_alternativas": "O fenômeno ótico que, segundo os pesquisadores, provoca a Fata Morgana é a",
+    "assunto": "Óptica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ressonância.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "refração.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "difração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "difusão.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_29d15b9f-4590-4eda-ad0b-efe3006dc753",
+    "title": "Questão F0436 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Duas irmãs que dividem o mesmo quarto de estudos combinaram de comprar duas caixas com tampas para guardarem seus pertences dentro de suas caixas, evitando, assim, a bagunça sobre a mesa de estudos. Uma delas comprou uma metálica, e a outra, uma caixa de madeira de área e espessura lateral diferentes, para facilitar a identificação. Um dia as meninas foram estudar para a prova de Física e, ao se acomodarem na mesa de estudos, guardaram seus celulares ligados dentro de suas caixas. Ao longo desse dia, uma delas recebeu ligações telefônicas, enquanto os amigos da outra tentavam ligar e recebiam a mensagem de que o celular estava fora da área de cobertura ou desligado.",
+    "introducao_alternativas": "Para explicar essa situação, um físico deveria afirmar que o material da caixa, cujo telefone celular não recebeu as ligações é de",
+    "assunto": "Eletrostática",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "madeira e o telefone não funcionava porque a madeira não é um bom condutor de eletricidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "metal e o telefone não funcionava devido à blindagem eletrostática que o metal proporcionava.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "metal e o telefone não funcionava porque o metal refletia todo tipo de radiação que nele incidia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "metal e o telefone não funcionava porque a área lateral da caixa de metal era maior.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "madeira e o telefone não funcionava porque a espessura desta caixa era maior que a espessura da caixa de metal.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_56850c44-f703-4a0a-bb95-45d74e9deceb",
+    "title": "Questão F0320 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Ao diminuir o tamanho de um orifício atravessado por um feixe de luz, passa menos luz por intervalo de tempo, e próximo da situação de completo fechamento do orifício, verifica-se que a luz apresenta um comportamento como o ilustrado nas figuras. Sabe-se que o som, dentro de suas particularidades, também pode se comportar dessa forma. [IMAGEM_0]",
+    "introducao_alternativas": "Em qual das situações a seguir está representado o fenômeno descrito no texto?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0320_-_enem_960ed3c9-2e98-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao se esconder atrás de um muro, um menino ouve a conversa de seus colegas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ao gritar diante de um desfiladeiro, uma pessoa ouve a repetição do seu próprio grito.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ao encostar o ouvido no chão, um homem percebe o som de uma locomotiva antes de ouvi-lo pelo ar.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ao ouvir uma ambulância se aproximando, uma pessoa percebe o som mais agudo do que quando aquela se afasta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ao emitir uma nota musical muito aguda, uma cantora de ópera faz com que uma taça de cristal se despedace.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8c8d9623-c2af-40f4-b7b2-e530bb9a1a61",
+    "title": "Questão F2111 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A palavra força é usada em nosso cotidiano com diversos significados. Em física, essa mesma palavra possui um significado próprio, diferente daqueles da linguagem do nosso dia a dia. As cinco frases seguintes, todas encontradas em textos literários ou jornalísticos, contêm a palavra força empregada em diversos contextos. \n1. “As Forças Armadas estão de prontidão para defender as nossas fronteiras.” \n2. “Por motivo de força maior, o professor não poderá dar aula hoje.” \n3. “A força do pensamento transforma o mundo.” \n4. “A bola bateu na trave e voltou com mais força ainda.” \n5. “Tudo é atraído para o centro da Terra pela força da gravidade.\"",
+    "introducao_alternativas": "A abordagem científica do termo força aparece na frase",
+    "assunto": "Dinâmica",
+    "competencia": 5,
+    "habilidade": "17",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_475d47c8-47bd-4ae4-b6a5-c4f9e7f7b3a8",
+    "title": "Questão F1279 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível. OLIVEIRA, A. Raios nas tempestades de verão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 10 dez. 2014 (adaptado).",
+    "introducao_alternativas": "Qual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?",
+    "assunto": "Eletrostática",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Isolamento elétrico dos pneus.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Efeito de para-raios da antena.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Blindagem pela carcaça metálica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Escoamento da água pela lataria.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aterramento pelo fio terra da bateria.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9a038a91-d75d-43d9-b005-54fa83a21269",
+    "title": "Questão F2097 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento. [IMAGEM_0]",
+    "introducao_alternativas": "Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
+    "assunto": "Eletrostática",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2097_-_enem_0248e8a5-a53a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2097_-_enem_alt_A_0cc3989d-ad91-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2097_-_enem_alt_B_c474e17e-b48a-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2097_-_enem_alt_C_8dc1d69c-28b6-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2097_-_enem_alt_D_6e5caa8f-5105-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f2097_-_enem_alt_E_230487cb-9303-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7225af01-4312-41ce-9a77-c3bc67febc14",
+    "title": "Questão F2108 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A saúde do professor: acústica arquitetônica Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Assim, sentar-se no fundo da sala de aula pode prejudicar a aprendizagem dos estudantes, por impedir que eles distingam, com precisão, os sons emitidos, diminuindo a inteligibilidade da fala de seus professores. Considere a situação exemplificada pelo infográfico: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído. [IMAGEM_0]",
+    "introducao_alternativas": "Para um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de",
+    "assunto": "Ondulatória",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2108_-_enem_3f0b2d35-ab62-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3,0 m.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,5 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6,5 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8,0 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9,5 m.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6d7a2802-d64d-4c0a-858f-0c21154b58d2",
+    "title": "Questão F1282 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "Por qual motivo ocorre a eletrização ilustrada na tirinha?",
+    "assunto": "Eletrostática",
+    "competencia": 5,
+    "habilidade": "17",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1282_-_enem_8c4f5762-3235-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Troca de átomos entre a calça e os pelos do gato.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição do número de prótons nos pelos do gato.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Criação de novas partículas eletrizadas nos pelos do gato.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Movimentação de elétrons entre a calça e os pelos do gato.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Repulsão entre partículas elétricas da calça e dos pelos do gato.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7947919b-1367-4401-a70c-994f71e0d9c1",
+    "title": "Questão F2068 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.",
+    "introducao_alternativas": "A corrente elétrica mencionada é induzida por",
+    "assunto": "Eletromagnetismo",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radiação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "condução.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "campo elétrico variável.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "campo magnético variável.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ressonância eletromagnética.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_30948165-7695-4d2b-8f22-a6bc9ada3c2f",
+    "title": "Questão F1819 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em museus de ciências, é comum encontrarem-se máquinas que eletrizam materiais e geram intensas descargas elétricas. O gerador de Van de Graaff (Figura 1) é um exemplo, como atestam as faíscas (Figura 2) que ele produz. O experimento fica mais interessante quando se aproxima do gerador em funcionamento, com a mão, uma lâmpada fluorescente (Figura 3). Quando a descarga atinge a lâmpada, mesmo desconectada da rede elétrica, ela brilha por breves instantes. Muitas pessoas pensam que é o fato de a descarga atingir a lâmpada que a faz brilhar. Contudo, se a lâmpada for aproximada dos corpos da situação (Figura 2), no momento em que a descarga ocorrer entre eles, a lâmpada também brilhará, apesar de não receber nenhuma descarga elétrica. [IMAGEM_0]",
+    "introducao_alternativas": "A grandeza física associada ao brilho instantâneo da lâmpada fluorescente, por estar próxima a uma descarga elétrica, é o(a)",
+    "assunto": "Eletrostática",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1819_-_enem_dd682e12-5f3c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "carga elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "campo elétrico.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "corrente elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "capacitância elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "condutividade elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3a032c56-cc9a-423d-93cd-e58d5d32e183",
+    "title": "Questão F1271 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Pesquisadores conseguiram estimular a absorção de energia luminosa em plantas graças ao uso de nanotubos de carbono. Para isso, nanotubos de carbono “se inseriram” no interior dos cloroplastos por uma montagem espontânea, através das membranas dos cloroplastos. Pigmentos da platna absorvem as radiações luminosas, os elétrons são “excitados” e se deslocam no interior de membranas de cloroplastos, e a planta utiliza em seguida essa energia elétrica para a fabricação de açúcares. Os nanotubos de carbono podem absorver comprimentos de onda habitualmente não utilizados pelos cloroplastos, e os pesquisadores tiveram a ideia de utilizá-los como “antenas”, estimulando a conversão de energia solar pelos cloroplastos, com o aumento do transporte de elétrons. Nanotubos de carbono incrementam a fotossíntese de plantas. Disponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).",
+    "introducao_alternativas": "O aumento da eficiência fotossintética ocorreu pelo fato de os nanotubos de carbono promoverem diretamente a",
+    "assunto": "Física Moderna",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "utilização de água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "absorção de fótons.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "formação de gás oxigênio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "proliferação dos cloroplastos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "captação de dióxido de carbono.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8dfc39e4-10af-4743-91e0-c63628b76e0a",
+    "title": "Questão F1997 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Todo ano, cresce a demanda mundial de energia com o aumento das populações e do consumo. É cada vez mais necessário buscar fontes alternativas que não degradem os recursos do planeta nem comprometam a sobrevivência das espécies. Ainda há muito o que se descobrir sobre o uso eficiente de recursos energéticos provenientes de fontes renováveis, mas elas estão mais próximas do que parece da adoção em larga escala. BARBOSA, M. A sustentabilidade da energia renovável. Superinteressante, n. 102, 1996.",
+    "introducao_alternativas": "Os recursos energéticos do tipo citado são provenientes de",
+    "assunto": "Eletromagnetismo",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pilhas e baterias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "usinas nucleares e hidrelétricas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "células solares e geradores eólicos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "centrais geotérmicas e termoelétricas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "usinas maremotrizes e combustíveis fósseis.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4160ac0d-bfc5-48cf-9b95-1e7bdf9a92e3",
+    "title": "Questão F2035 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Alguns cinemas apresentam uma tecnologia em que as imagens dos filmes parecem tridimensionais, baseada na utilização de óculos 3D. Após atravessar cada lente dos óculos, as ondas luminosas, que compõem as imagens do filme, emergem vibrando apenas na direção vertical ou apenas na direção horizontal.",
+    "introducao_alternativas": "Com base nessas informações, o funcionamento dos óculos 3D ocorre por meio do fenômeno ondulatório de",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "difração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "dispersão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "refração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "polarização.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_88864502-1056-405e-9793-8047194a777a",
+    "title": "Questão F2119 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um experimento foi montado com o intuito de determinar o tempo de queda livre de corpos com tamanhos e massas distintas. Para isso, utilizou-se uma prateleira a 50,0 cm do chão, onde foram colocadas três frutas, conforme a figura. Em um determinado instante, a prateleira foi removida, liberando todas as frutas simultaneamente. [IMAGEM_0] Considere o tempo de queda da melancia como t1, do melão como t2 e da maçã como t3.",
+    "introducao_alternativas": "Desprezando-se as forças dissipativas, a relação entre os tempos de queda das frutas é",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": "17",
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f2119_-_enem_ppl_ee765ed9-286d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "t1 = t2 = t3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "t1 > t2 > t3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "t1 < t2 < t3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "t1 > t2 < t3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "t1 < t2 > t3.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_21fc3f84-b0db-4466-afc5-84381e53b33e",
+    "title": "Questão F1293 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "TEXTO I: \nNo cordel intitulado Senhor dos Anéis, de autoria de \nGonçalo Ferreira da Silva, lê-se a sextilha: \nA distância em relação \nAo nosso planeta amado \nPouco menos que a do Sol \nEle está distanciado \nE menos denso que a água \nQuando no normal estado \nMEDEIROS, A.; AGRA, J. T. M., A astronomia na literatura de cordel. Física na Escola, n. 1, abr, 2010 (fragmento). \n\nTEXTO II: Distâncias médias dos planetas ao Sol e suas densidades médias [IMAGEM_0] .Disponível em: www.astronoo.com. Acesso em: 8 nov. 2019 (adaptado).",
+    "introducao_alternativas": "Considerando os versos da sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+    "assunto": "Hidrostática",
+    "competencia": 1,
+    "habilidade": "2",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "image-384.webp"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mercúrio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Júpiter.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Urano.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Saturno.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Netuno.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e4e32472-aba5-4268-b30a-9a0f9d5c227f",
+    "title": "Questão F1887 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "No território brasileiro, existem períodos do ano que apresentam queda na umidade do ar, fazendo com que o ar fique bastante seco. Nessa época, é comum observar que as pessoas, ao saírem do carro e tocarem a maçaneta da porta, levam pequenos choques elétricos. Além disso, pessoas que ficam muito tempo em contato com aparelhos eletrodomésticos, ou que dormem com roupas feitas de determinados materiais, como a seda, ao tocarem objetos metálicos, também sentem as descargas elétricas, ou seja, levam um choque elétrico.",
+    "introducao_alternativas": "O corpo humano sofre com esse fenômeno de descarga elétrica, comportando-se como um condutor, pois",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "oferece resistência nula ao movimento da quantidade líquida de carga através do corpo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "permite que uma quantidade de carga se desloque com facilidade através do corpo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "permite que uma quantidade de carga se desloque com dificuldade através do corpo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "reduz o deslocamento da quantidade líquida de carga em função do aumento da diferença potencial.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "alterna a capacidade de deslocamento da quantidade de carga no corpo, facilitando ou dificultando o fenômeno.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_28f33d40-5694-4ad0-9976-847ea9c18ab6",
+    "title": "Questão F0591 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.",
+    "introducao_alternativas": "A dificuldade extra para reabrir a geladeira ocorre porque o (a)",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "volume de ar dentro da geladeira diminuiu.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "motor da geladeira está funcionando com potência máxima.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "força exercida pelo ímã fixado na porta da geladeira aumenta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "pressão no interior da geladeira está abaixo da pressão externa.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_60d14a6b-d2f4-4123-875a-d70065c46480",
+    "title": "Questão F2000 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A telefonia móvel no Brasil opera com celulares cuja potência média de radiação é cerca de 0,6 W. Por recomendação do ANSI/IEEE, foram estipulados limites para exposição humana а radiação emitida por esses aparelhos. Para o atendimento dessa recomendação, valem os conselhos: segurar o aparelho a uma pequena distância do ouvido, usar fones de ouvido para as chamadas de voz e utilizar o aparelho no modo viva voz ou com dispositivos bluetooth. Essas medidas baseiam-se no fato de que a intensidade da radiação emitida decai rapidamente conforme a distância aumenta, por isso, afastar o aparelho reduz riscos. COSTA, E. A. F. Efeitos na saúde humana da exposição aos campos de radiofrequência. Disponível em: www.ced.ufsc.br. Acesso em: 16 nov. 2011 (adaptado).",
+    "introducao_alternativas": "Para reduzir a exposição а radiação do celular de forma mais eficiente, o usuário deve utilizar",
+    "assunto": "Ondulatória",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fones de ouvido, com o aparelho na mão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fones de ouvido, com o aparelho no bolso da calça.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "fones bluetooth, com o aparelho no bolso da camisa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "o aparelho mantido a 1,5 cm do ouvido, segurado pela mão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o sistema viva voz, com o aparelho apoiado numa mesa de trabalho.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_77bfb9cd-98d5-4a87-aaab-75b0d112f417",
+    "title": "Questão F1993 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Algumas crianças, ao brincarem de esconde-esconde, tapam os olhos com as mãos, acreditando que, ao adotarem tal procedimento, não poderão ser vistas.",
+    "introducao_alternativas": "Essa percepção da criança contraria o conhecimento científico porque, para serem vistos, os objetos",
+    "assunto": "Óptica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "refletem partículas de luz (fótons), que atingem os olhos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "geram partículas de luz (fótons), convertidas pela fonte externa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "são atingidos por partículas de luz (fótons), emitidas pelos olhos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "refletem partículas de luz (fótons), que se chocam com os fótons emitidos pelos olhos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "são atingidos pelas partículas de luz (fótons), emitidas pela fonte externa e pelos olhos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_362b939a-56fd-4621-8383-305b7e90874e",
+    "title": "Questão F2073 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado a um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa. Cafeteria adota copo reutilizável feito com casca de café.Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez.2019 (adaptado).",
+    "introducao_alternativas": "Quais duas vantagens esse copo apresenta em comparação ao copo descartável?",
+    "assunto": "Termologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_69186db5-b602-4eb4-9c32-fe34765d0e36",
+    "title": "Questão F0072 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Durante uma faxina, a mãe pediu que o filho a ajudasse, deslocando um móvel para mudá-lo de lugar. Para escapar da tarefa, o filho disse ter aprendido na escola que não poderia puxar o móvel, pois a Terceira Lei de Newton define que se puxar o móvel, o móvel o puxará igualmente de volta, e assim não conseguirá exercer uma força que possa colocá-lo em movimento.",
+    "introducao_alternativas": "Qual argumento a mãe utilizará para apontar o erro de interpretação do garoto?",
+    "assunto": "Dinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A força de ação é aquela exercida pelo garoto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "A força resultante sobre o móvel é sempre nula.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "As forças que o chão exerce sobre o garoto se anulam.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "A força de ação é um pouco maior que a força de reação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O par de forças de ação e reação não atua em um mesmo corpo.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9a7d2a3a-e3df-4275-8efb-a5428cb10ea4",
+    "title": "Questão F0566 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente. Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente. [IMAGEM_0]",
+    "introducao_alternativas": "Qual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0566_-_enem_99e3ce72-f68f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Haleto metálico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tungstênio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mercúrio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Xênon.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "LED.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dfb1a5d6-8f95-49f6-8d42-a8cf7fe16367",
+    "title": "Questão F2112 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Aquecedores elétricos utilizam resistência de fio, suportando uma corrente máxima dimensionada pelo fabricante. O dimensionamento original do circuito elétrico de um aquecedor, esquematizado na figura, foi utilizado para provocar a elevação de temperatura em um volume de água, durante um determinado intervalo de tempo. [IMAGEM_0] Caso se pretenda utilizar uma tensão de 250 V, o circuito precisará ser redimensionado, para garantir o correto funcionamento do aquecedor. A corrente deve ser mantida, considerando-se o aquecimento do mesmo volume de água, à mesma temperatura, durante o mesmo intervalo de tempo.",
+    "introducao_alternativas": "Nesse redimensionamento, deve-se acrescentar ao circuito um resistor de",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 18,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2112_-_enem_ppl_caf7b17c-1c76-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22,5 Ω em paralelo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "22,5 Ω em série.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "71,1 Ω em paralelo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "71,1 Ω em série.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "101,1 Ω em paralelo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5330d119-58ec-4258-94b3-900cfb195572",
+    "title": "Questão F1296 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo). [IMAGEM_0] WEBER, S. B. et. al Ohm’s Law Survives to the Atomic Scale. Science. n. 335. jan. 2012 (adaptado).",
+    "introducao_alternativas": "As resistências elétricas dos fios, em ordem crescente, são",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1296_-_enem_79f97257-2e47-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R4",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b5e4db9e-4bec-46d7-9f92-ffce408ac797",
+    "title": "Questão F0236 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observa o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca). [IMAGEM_0] Nessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.",
+    "introducao_alternativas": "Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a",
+    "assunto": "Hidrodinâmica",
+    "competencia": 5,
+    "habilidade": "17",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0236_-_enem_e5b29dce-59df-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "69.120",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "17.280",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "11.520",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8.640",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2.880",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7ee6465f-60fa-40e6-b72c-b8fb44ccb1f8",
+    "title": "Questão F0210 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "No manual de uma torneira elétrica são fornecidas instruções básicas de instalação para que o produto funcione corretamente: \n- Se a torneira for conectada à caixa-d’água domiciliar, a pressão da água na entrada da torneira deve ser no mínimo 18 kPa e no máximo 38 kPa.\n- Para pressões da água entre 38 kPa e 75 kPa ou água proveniente diretamente da rede pública, é necessário utilizar o redutor de pressão que acompanha o produto.\n- Essa torneira elétrica pode ser instalada em um prédio ou em uma casa. Considere a massa específica da água 1.000 kg/m³ e a aceleração da gravidade 10 m/s². [IMAGEM_0]",
+    "introducao_alternativas": "Para que a torneira funcione corretamente, sem o uso do redutor de pressão, quais deverão ser a mínima e a máxima altura entre a torneira e a caixa-d’água?",
+    "assunto": "Hidrostática",
+    "competencia": 2,
+    "habilidade": "6",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0210_-_enem_7fd72aac-8b85-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,8 m e 3,8 m",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,8 m e 7,5 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,8 m e 7,5 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "18 m e 38 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "18 m e 75 m",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

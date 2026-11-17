@@ -1,0 +1,2390 @@
+[
+  {
+    "id_externo": "Questao_dd5e21b3-f573-4e6e-9f43-1bf736ef0599",
+    "title": "Questão M1518 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O PIB per capita de um país, em determinado ano, é o PIB daquele ano dividido pelo número de habitantes.",
+    "introducao_alternativas": "Se, em um determinado período, o PIB cresce 150% e a população cresce 100%, podemos afirmar que o PIB per capita nesse período cresce",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "35%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "45%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "50%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a4bb9fc1-1276-4165-85d3-6c590fb34729",
+    "title": "Questão M1523 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um investidor fez uma aplicação a juros compostos e a uma taxa de juros anual. Essa aplicação dobra de valor a cada 7 anos.",
+    "introducao_alternativas": "Sabendo que o montante após 28 anos será de 250 mil reais, o valor do capital inicial aplicado é um valor cuja soma dos algarismos vale",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "17",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "19",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "21",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "18",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fd4ad158-b6a7-465a-b028-250da8536e83",
+    "title": "Questão M2396 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma criança está sentada no topo de um escorregador cuja estrutura tem a forma de um triângulo ABC, que pode ser perfeitamente inscrito em um semicírculo de diâmetro AC = 4 m. O comprimento da escada do escorregador é AB = 2 m. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando que a energia potencial gravitacional da criança no ponto B, em relação ao solo horizontal que está no segmento de reta AC, é igual a 342 joules, e adotando g = 5,7√3 m/s2, a massa da criança é igual a",
+    "assunto": "Geometria Plana",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2396_-_unesp_2013_0b567259-7ac3-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "20 kg.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "24 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "18 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_080ad67c-83b7-4566-a864-7eca9f321f78",
+    "title": "Questão M0739 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Maria Luísa tem uma quantia em dinheiro a receber em pagamentos mensais. Ela recebeu R$ 100,00 no primeiro pagamento e, a partir do segundo pagamento, ela recebeu R$ 150,00 a mais do que no pagamento anterior. Acabou recebendo todo o dinheiro em 9 meses.",
+    "introducao_alternativas": "Porém, se o valor do primeiro pagamento fosse mantido, mas, a partir do segundo pagamento, ela recebesse o dobro do que recebeu no mês anterior, em quantos pagamentos receberia todo o dinheiro?",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "12",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6a1a6b4d-7b52-4912-8001-d112f051f921",
+    "title": "Questão M2690 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um experimento probabilístico, Joana retirará aleatoriamente 2 bolas de uma caixa contendo bolas azuis e bolas vermelhas. Ao montar se o experimento, colocam se 6 bolas azuis na caixa.",
+    "introducao_alternativas": "Quantas bolas vermelhas devem ser acrescentadas para que a probabilidade de Joana obter 2 azuis seja 1/3?",
+    "assunto": "Probabilidade",
+    "competencia": 1,
+    "habilidade": 28,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_21836688-3492-40d6-b628-429a448c1d34",
+    "title": "Questão M1224 - IFPE 2013",
+    "banca": "IFPE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Bira adquiriu uma cabra que pasta em um campo retangular. Para delimitar o gramado, ele pretende traçar uma elipse inscrita num terreno retangular de 10 m por 8 m. Para isso, ele deve utilizar um fio esticado preso por duas estacas M e N, conforme mostra a figura. [IMAGEM_0]",
+    "introducao_alternativas": "Qual deve ser a distância entre as estacas M e N?",
+    "assunto": "Cônicas",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1224_-_ifpe_2013_b9471363-bf32-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_239d21c2-28ba-4c88-8838-b7d985bb312d",
+    "title": "Questão M2381 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere o trecho da notícia veiculada no Reino Unido. A YouGov survey of more than 16,000 adults found that of the 40% of people who asked for a pay rise, just over a quarter succeeded. (www.theguardian.com, 03.04.2022.",
+    "introducao_alternativas": ") De acordo com os dados da notícia, do total de entrevistados, aqueles que conseguiram aumento salarial representam",
+    "assunto": "Matemática Básica",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,6%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "15%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4ae0f5c2-2481-4f4a-a4b6-0ceba3c49a16",
+    "title": "Questão M0198 - IFMG 2013",
+    "banca": "IFMG",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma cliente fez um empréstimo, a juros simples, de R$ 600,00 em um banco, a uma taxa de 4% ao mês, por dois meses. Quando ela foi pagar, o gerente do banco informou-lhe que poderia sortear uma taxa i para ter um desconto sobre o valor de sua dívida. Fez-se o sorteio e foi lhe concedido o desconto, resultando no pagamento de R$ 602,64.",
+    "introducao_alternativas": "Dessa forma, o valor da taxa i sorteada foi de",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_80a66011-979c-451a-8baf-2ba9ab00e970",
+    "title": "Questão M2415 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura indica o padrão de uma sequência de grades, feitas com vigas idênticas, que estão dispostas em posição horizontal e vertical. Cada viga tem 0,5 m de comprimento. O padrão da sequência se mantém até a última grade, que é feita com o total de 136,5 metros lineares de vigas. [IMAGEM_0]",
+    "introducao_alternativas": "O comprimento do total de vigas necessárias para fazer a sequência completa de grades, em metros, foi de",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2415_-_unesp_2013_76761333-2b14-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4.877.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4.640.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4.726.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5.195.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.162.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a01c0969-512f-4709-9fe5-8e02e656c947",
+    "title": "Questão M0905 - UERJ 2013",
+    "banca": "UERJ",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Observe a matriz A, quadrada e de ordem três. [IMAGEM_0] Considere que cada elemento aij dessa matriz é o valor do logaritmo decimal de (i + j).",
+    "introducao_alternativas": "O valor de x é igual a:",
+    "assunto": "Matrizes",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0905_-_uerj_2013_a4809f21-4528-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,50",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,70",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,77",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,87",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e4de9759-04cc-4463-b48f-8ab7f9741a80",
+    "title": "Questão M1353 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "O número de anagramas da palavra REFLORESTAMENTO que começam com a sequência FLORES é",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9!.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "9!/2!.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "9!/(2!2!).",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9!/(2!2!2!).",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8d06959d-796f-4a11-b485-d6d355532010",
+    "title": "Questão M0789 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere as funções f e g, cujos gráficos estão representados na figura abaixo. [IMAGEM_0]",
+    "introducao_alternativas": "O valor de f(g(1)) – g(f(1)) é igual a",
+    "assunto": "Funções",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0789_-_unicamp_2013_102a0e22-4bab-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "–1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3c05ba55-9d5c-4a6c-96b1-f20231f561e8",
+    "title": "Questão M0537 - IFPE 2013",
+    "banca": "IFPE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Biólogos estimam que a população P de certa espécie de aves é dada em função do tempo t, em anos, de acordo com a relação P = 250(1,2)t/5, sendo t = 0 o momento em que o estudo foi iniciado.",
+    "introducao_alternativas": "Em quantos anos a população dessa espécie de aves irá triplicar? (dados: log 2 = 0,3 e log 3 = 0,48)",
+    "assunto": "Logaritmo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "45",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "12",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "18",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "30",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6621b6ec-b44f-484f-88e4-82719e05dd4e",
+    "title": "Questão M0325 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um terreno retangular ABCD, de 20 m2, serão construídos um deque e um lago, ambos de superfícies retangulares de mesma largura, com as medidas indicadas na figura. O projeto de construção ainda prevê o plantio de grama na área restante, que corresponde a 48% do terreno. [IMAGEM_0]",
+    "introducao_alternativas": "No projeto descrito, a área da superfície do lago, em m2, será igual a",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0325_-_unesp_2013_d7ad68d9-4d50-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,0",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,8",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_eead28c9-b0e2-481d-8ea0-b20d963637ce",
+    "title": "Questão M0859 - UNISC 2013",
+    "banca": "UNISC",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Se f é uma função real dada por f(x) = 2 – cos(2x), então é correto afirmar que",
+    "assunto": "Trigonometria",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 ≤ f(x) ≤ 3 para todo x real.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "O gráfico de f intercepta o eixo x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "f(x) ≤ 2 para todo x real.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "f(0) = 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "f(x) ≥ 3 para todo x real.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_aa4bfc66-090b-4725-8b32-626eb1f69ce5",
+    "title": "Questão M0178 - UEMA 2013",
+    "banca": "UEMA",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa fabricante de suco que envasava o produto em frascos de vidro passou a fazer o envasamento em um novo vasilhame plástico com capacidade de 2/3 do frasco anterior. A lanchonete revendedora enche de suco um copo com capacidade de 1/5 do frasco de vidro.",
+    "introducao_alternativas": "A quantidade de copos de suco (inteiro + fração) que a lanchonete obtém com um frasco do novo vasilhame é igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 copo e 2/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 copos e 1/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2 copos e 2/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3 copos e 1/3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3 copos e 2/3",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c6148935-cffa-4037-81e0-5359b0876caf",
+    "title": "Questão M0847 - FAC. ALBERT EINSTEIN 2013",
+    "banca": "FAC. ALBERT EINSTEIN",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No pentágono ABCDE da figura, o lado AB mede 3 cm; o lado AE mede 8 cm e o lado CD mede 4 cm. [IMAGEM_0]",
+    "introducao_alternativas": "Sendo a área do triângulo BCE igual a 10,5 cm2 a medida, em cm, do lado DE é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m0847_-_fac_albert_einstein_2013_d53f5efc-5a62-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "√18",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "√20",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "√22",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "√24",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a6aa6b34-49b6-4839-aadb-e4de8b16489c",
+    "title": "Questão M1668 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma moto foi comprada e revendida, sucessivamente, por três pessoas. Cada uma das duas primeiras pessoas obteve, por ocasião da revenda, um lucro de 10%, e a terceira teve um prejuízo de 10% sobre o respectivo preço de compra.",
+    "introducao_alternativas": "Se a terceira pessoa vendeu a moto por R$ 13068,00, então a primeira o adquiriu por",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 12000,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 12124,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 12260,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 12389,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 12500,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_06da150f-0c8b-44ba-b85e-4b93e8d95541",
+    "title": "Questão M2467 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Seja ann∈ℕ = (a1, a2, a3,…) uma progressão aritmética de razão r e seja (s1, s2, s3,…) a sequência definida por sn = a1 + ⋅⋅⋅ + an, isto é, o seu n-ésimo termo é a soma dos n primeiros termos da sequência ann∈ℕ.",
+    "introducao_alternativas": "Sabendo que 168, 220 e 279 são termos consecutivos da sequência snn∈ℕ, a razão da progressão aritmética ann∈ℕ é",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "11.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2aff4b53-ee2d-426e-b1cd-e069550d2afa",
+    "title": "Questão M1143 - FGV 2013",
+    "banca": "FGV",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Sabendo-se que o resto da divisão do polinômio P(x) = x3 – x2 + 2k + 2 por x – 3 é igual a 4k – 220, o valor de k é",
+    "assunto": "Polinômios",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "– 4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "– 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e8d1b26e-467a-4fcc-bc45-4c46bd6f7359",
+    "title": "Questão M1400 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O preço da passagem de ônibus convencional de uma cidade do interior de São Paulo para a capital é de R$ 108,00. Adriana vai estudar nessa cidade e deseja visitar seus pais em São Paulo durante alguns finais de semana. Além da opção de fazer a viagem de ônibus convencional, ela também cogita a possibilidade de fazer a viagem com seu carro, cujo consumo de combustível na estrada é de 14 km por litro de gasolina. Considerando R$ 5,60 o preço do litro de gasolina e 20 centavos por quilômetro rodado o custo geral de manutenção do carro, os custos da viagem de ônibus e da viagem de carro são equivalentes.",
+    "introducao_alternativas": "De acordo com esses dados, a distância considerada entre a cidade em que ela vai estudar e a capital é igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "182 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "180 km.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "185 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "178 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "176 km.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d8278692-e4cd-478c-bb4f-9e88de1ee10d",
+    "title": "Questão M0797 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere o gráfico da função y = f(x) exibido na figura a seguir. [IMAGEM_0]",
+    "introducao_alternativas": "O gráfico da função inversa y = f–1 (x) é dado por",
+    "assunto": "Funções",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0797_-_unicamp_2013_2506742b-cf56-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0797_-_unicamp_2013_alt_A_04958342-fe76-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0797_-_unicamp_2013_alt_B_81343bd8-273a-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m0797_-_unicamp_2013_alt_C_f13f0ab7-f0ba-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0797_-_unicamp_2013_alt_D_02ed03ba-0da5-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c144ead9-36e3-4550-93bd-daed3009c334",
+    "title": "Questão M2615 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Sejam x e y números reais tais que x + yi = 3+4i, onde i é a unidade imaginária.",
+    "introducao_alternativas": "O valor de xy é igual a",
+    "assunto": "Números complexos",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "–2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "–1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1a463c69-0005-44dd-a757-6f726d43362a",
+    "title": "Questão M1543 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma festa de réveillon, uma casa noturna teve três fontes de renda: entradas, bebidas e comidas. O gerente da casa levantou as seguintes informações: - 53% do faturamento foi relativo às entradas vendidas; - 58% do faturamento resultou das bebidas vendidas; - 17% do faturamento foi relativo ao consumo de comida; - 13% do faturamento resultou das entradas e bebidas vendidas; - 10% do faturamento foi relativo às entradas e comidas vendidas; - 5% do faturamento resultou das entradas, bebidas e comidas vendidas; - 2% do faturamento foi relativo apenas ao consumo de comidas. Sabendo que o faturamento foi de R$ 200.",
+    "introducao_alternativas": "000,00 a renda obtida, unicamente, com as bebidas foi de:",
+    "assunto": "Conjuntos",
+    "competencia": 6,
+    "habilidade": 26,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 90.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 80.000,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 70.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 16.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 10.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d17634d1-3771-4987-86c1-b2e89ed56ed3",
+    "title": "Questão M0565 - UFPR 2013",
+    "banca": "UFPR",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Suponha que um líquido seja despejado, a uma vazão constante, em um recipiente cujo formato está indicado na figura abaixo. [IMAGEM_0]",
+    "introducao_alternativas": "Sabendo que inicialmente o recipiente estava vazio, qual dos gráficos abaixo melhor descreve a altura h, do nível do líquido, em termos do volume total V, do líquido despejado no recipiente?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0565_-_ufpr_2013_9b3f63d3-245c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0565_-_ufpr_2013_alt_A_7565c492-8e86-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0565_-_ufpr_2013_alt_B_ea4814b3-f2f4-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0565_-_ufpr_2013_alt_C_3e028303-0dd8-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m0565_-_ufpr_2013_alt_D_71e9fb59-581c-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0565_-_ufpr_2013_alt_E_82d48f46-6076-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fdcd44b6-515e-4d89-a977-7ca7a103f006",
+    "title": "Questão M0064 - UEPB 2013",
+    "banca": "UEPB",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "O número π – √3 pertence ao intervalo",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(1/2, 1]",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(1, 3/2]",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(3/2, 2]",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(0, 1/2]",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "[– 1/2, 0]",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9fb17988-eb36-425d-848f-bcc929231140",
+    "title": "Questão M0961 - UFRGS 2013",
+    "banca": "UFRGS",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os pontos A, B, C, D, E e F determinam um hexágono regular ABCDEF de lado 1, tal que o ponto A tem coordenadas (1, 0) e o ponto D tem coordenadas (–1, 0), como na figura abaixo. [IMAGEM_0]",
+    "introducao_alternativas": "A equação da reta que passa pelos pontos B e D é",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0961_-_ufrgs_2013_7970f1ec-778f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "y = (√3)x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "y = (√3)x/3 + (√3)/3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "y = (√3)x/2 + (√3)/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "y = (√3)x/3 – (√3)/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "y = (√3)x/2 – (√3)/2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_51a0527d-bd0d-48c1-96eb-25045f24650b",
+    "title": "Questão M1163 - PUCRJ 2013",
+    "banca": "PUCRJ",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere a equação a [IMAGEM_0] x2 + b · x + c = 0, a ≠ 0. Sabemos que a + b + c = 0 e que x = 3 é raiz da equação.",
+    "introducao_alternativas": "Quanto vale o produto das duas raízes da equação?",
+    "assunto": "Equações Algébricas",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1163_-_pucrj_2013_01aeecbf-a019-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "– 6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "– 3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_19db16b3-c570-412c-bdc2-0cb57e3a57ab",
+    "title": "Questão M1579 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma competição de canoagem será realizada em exatamente 4 dos 9 sábados disponíveis nos meses de outubro e novembro, com a condição de que não serão utilizados 4 sábados consecutivos.",
+    "introducao_alternativas": "Para atender às condições do calendário proposto, o número total de possibilidades distintas que podem ser formadas contendo 4 sábados é de:",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "80",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "96",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "120",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "126",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a2225899-640c-40fc-b2cd-7c838925d535",
+    "title": "Questão M1160 - PUCSP 2013",
+    "banca": "PUCSP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Se 2 é a única raiz real da equação x3 – 4x2 + 6x – 4 = 0, então, relativamente às demais raízes dessa equação, é verdade que são números complexos",
+    "assunto": "Equações Algébricas",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cujas imagens pertencem ao primeiro e quarto quadrantes do plano complexo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "que têm módulos iguais a 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "cujos argumentos principais são 45° e 135°.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "cuja soma é igual a 2i.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a3a1f2ef-dc6c-49b0-bd20-18af923229e0",
+    "title": "Questão M1135 - FGV 2013",
+    "banca": "FGV",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um dos fatores do polinômio P(x) = x3 + 2x2 – 5x – 6 é (x + 3).",
+    "introducao_alternativas": "Outro fator desse polinômio é",
+    "assunto": "Polinômios",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(x + 8)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(x – 5)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(x + 4)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(x – 1)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(x + 1)",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7c071a06-e700-4693-aef7-bdcbeeef3699",
+    "title": "Questão M0948 - UEA 2013",
+    "banca": "UEA",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Num plano cartesiano, sabe-se que os pontos A, B (1, 2) e C (2, 3) pertencem a uma mesma reta, e que o ponto A está sobre o eixo Oy.",
+    "introducao_alternativas": "O valor da ordenada de A é",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "– 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7bf6e2c8-43ce-4549-8bd2-5979ea356515",
+    "title": "Questão M0868 - PUCRJ 2013",
+    "banca": "PUCRJ",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Sabendo que π",
+    "assunto": "Trigonometria",
+    "competencia": null,
+    "habilidade": null,
+    "dificuldade": null,
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "–2/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "–1/6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "√3/8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/27",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4√2/9",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7cb07525-c74d-49f9-9c5c-9b73ff8fe776",
+    "title": "Questão M0508 - IFSUL 2013",
+    "banca": "IFSUL",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No lançamento de uma bola de basquete, a trajetória é parabólica. [IMAGEM_0]",
+    "introducao_alternativas": "Qual a função que descreve a trajetória da bola?",
+    "assunto": "Função Quadrática",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0508_-_ifsul_2013_013f42d7-3b6b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "y = -x211,04+ 7x11,04 + 2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "y = -x210,02 + 4x10,02 + 2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "y = -x26,25 + 2x6,25",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "y = -x23 + 4x3 + 2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d034c3af-3993-49bd-9e2d-936cd0c3e98e",
+    "title": "Questão M0762 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um mapa está na escala 1 : 500.000.",
+    "introducao_alternativas": "Se um quadrado deste mapa tem 4 cm2 de área, então a área real deste quadrado em km2 é:",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 11,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "100.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "200.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c77ead92-04ff-4272-b360-50c810a6db5a",
+    "title": "Questão M0735 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A aposta mínima possível na Mega-Sena é composta de 6 números diferentes. Cada cartão de apostas possui os números de 1 a 60. Uma pessoa ao escolher os números de sua aposta, percebeu que os números formavam uma progressão geométrica de razão inteira.",
+    "introducao_alternativas": "Dessa forma, é correto afirmar que",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "essa pessoa apostou no número 1.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a razão da PG é maior do que 3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "essa pessoa apostou no número 60.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a razão da PG é 3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "essa pessoa apostou somente em números ímpares.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_731bb947-ac9a-4c7c-9754-2ee6fc0f737b",
+    "title": "Questão M1357 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No plano cartesiano, considere a reta de equação x + 2y = 4, sendo A, B os pontos de interseção dessa reta com os eixos coordenados.",
+    "introducao_alternativas": "A equação da reta mediatriz do segmento de reta AB é dada por",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2x – y = 3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2x – y = 5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2x + y = 3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2x + y = 5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a1015ccb-5ca9-49fe-a33c-e75700ce600b",
+    "title": "Questão M1165 - MACKENZIE 2013",
+    "banca": "MACKENZIE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Seja P(x) = 2x3 – 11x2 + 17x – 6 um polinômio do 3º grau e 2x – 1 um de seus fatores.",
+    "introducao_alternativas": "A média aritmética das raízes de P(x) é",
+    "assunto": "Equações Algébricas",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "9/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "11/6",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_db78c242-fd30-4ade-99f0-0a11e2207c9e",
+    "title": "Questão M0531 - ESPM 2013",
+    "banca": "ESPM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura abaixo mostra o gráfico da função f(x) = 2x. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Função Exponencial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0531_-_espm_2013_8467ea41-8007-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3,0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,5",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5,0",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a204de0c-eadb-47fe-8d0f-d6c59d3dabb0",
+    "title": "Questão M0671 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para o pagamento de uma dívida da empresa TERMARIEL, houve o parcelamento em três vezes nos seguintes termos: a primeira parcela seria igual a um terço do total da dívida; a segunda igual a dois quintos do restante, após o primeiro pagamento, e a terceira, no valor de R$20.400,00.",
+    "introducao_alternativas": "Nestas condições, pode-se concluir acertadamente que o valor total da dívida se localiza entre",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 47.500,00 e R$ 49.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 49.000,00 e R$ 50.500,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 50.500,00 e R$ 52.000,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 52.000,00 e R$ 53.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 53.000,00 e R$ 54.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_af4a5415-1f0a-4192-a5d6-4f73905ac015",
+    "title": "Questão M0966 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere a circunferência de equação cartesiana x² + y² = x – y.",
+    "introducao_alternativas": "Qual das equações a seguir representa uma reta que divide essa circunferência em duas partes iguais?",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "x + y = –1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "x – y = –1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "x – y = 1.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "x + y = 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_23ed1ac5-cb72-4008-91ab-e79e6f00ec17",
+    "title": "Questão M2431 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Se a função f: ℝ – {2} →ℝ é definida por f(x) = 2x+1x-2 e a função g: ℝ – {2} → ℝ é definida por g(x) = f (f (x)), então g(x) é igual a",
+    "assunto": "Funções",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "x/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "x2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2x + 3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "x",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_26c8cec1-0fd4-475c-a1ca-76a0df96504f",
+    "title": "Questão M0641 - FGV 2013",
+    "banca": "FGV",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O número N de habitantes de uma cidade cresce exponencialmente com o tempo, de modo que, daqui a t anos, esse número será N = 20.000 · (1 + k)t, onde k é um número real.",
+    "introducao_alternativas": "Se daqui a 10 anos a população for de 24 000 habitantes, daqui a 20 anos ela será de:",
+    "assunto": "Logaritmo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "28 000 habitantes",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "28 200 habitantes",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "28 400 habitantes",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "28 600 habitantes",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "28 800 habitantes",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7bd26c21-484b-47ed-a092-c0d8a3858bc2",
+    "title": "Questão M0934 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "As companhias aéreas costumam estabelecer um limite de peso para a bagagem de cada passageiro, cobrando uma taxa por quilograma de excesso de peso. Quando dois passageiros compartilham a bagagem, seus limites são considerados em conjunto. Em um determinado voo, tanto um casal como um senhor que viajava sozinho transportaram 60 kg de bagagem e foram obrigados a pagar pelo excesso de peso. O valor que o senhor pagou correspondeu a 3,5 vezes o valor pago pelo casal.",
+    "introducao_alternativas": "Para determinar o peso excedente das bagagens do casal (x) e do senhor que viajava sozinho (y), bem como o limite de peso que um passageiro pode transportar sem pagar qualquer taxa (z), pode-se resolver o seguinte sistema linear:",
+    "assunto": "Sistemas Lineares",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m0934_-_unicamp_2013_alt_A_fc09e2a0-91fe-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0934_-_unicamp_2013_alt_B_35e990f1-b0eb-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0934_-_unicamp_2013_alt_C_23e1a9b5-9907-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0934_-_unicamp_2013_alt_D_dc92a202-4151-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e9b4a72b-64d6-40ac-980f-09f45844499f",
+    "title": "Questão M2705 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Cada uma das cinco listas dadas é a relação de notas obtidas por seis alunos de uma turma em uma certa prova. Assinale a única lista na qual a média das notas é maior do que a mediana.",
+    "assunto": "Estatística",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5, 5, 7, 8, 9, 10",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4, 5, 6, 7, 8, 8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4, 5, 6, 7, 8, 9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5, 5, 5, 7, 7, 9",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5, 5, 10, 10, 10, 10",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_efdbc807-9908-4e42-b5d1-de8ef6c1d8e7",
+    "title": "Questão M1491 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Malu, de três anos, estava com febre e muita tosse. Roberta, sua mãe, resolveu levá-la ao médico, que prescreveu o seguinte tratamento: - xarope “A”, de dez em dez horas, somente enquanto a tosse persistisse; - antitérmico “B”, de seis em seis horas, apenas enquanto a febre perdurasse; - antibiótico “C”, de oito em oito horas, durante dez dias ininterruptos. Roberta, muito precavida, logo após comprar toda a medicação, começou o tratamento, dando à menina uma dose (simultânea) dos três medicamentos, às 16 horas do dia 01/10/2017. Roberta também elaborou uma tabela, em que ia anotando todos os horários em que a Malu tomava cada um dos remédios. Sabe-se que a febre desapareceu ao final do terceiro dia completo de tratamento (72 horas), mas a tosse só acabou definitivamente após cinco dias inteiros de uso do xarope.",
+    "introducao_alternativas": "Sendo assim, podemos afirmar que, no dia 03/10/2017, às 16 horas, a menina tomou, simultaneamente, os medicamentos",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, B e C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "A e B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "B e C.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "A e C.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b6aeb466-ae3a-44da-864a-e1661ce79e15",
+    "title": "Questão M0994 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No conjunto ℝ dos números reais, o conjunto solução S da inequação modular |x|.",
+    "introducao_alternativas": "|x – 5| ≥ 6 é",
+    "assunto": "Módulo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S={x∈ℝ/-1≤x≤6}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "S={x∈ℝ/x≤-1 ou 2≤x≤3}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "S={x∈ℝ/x≤-1 ou 2≤x≤3 ou x≥6}",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "S={x∈ℝ/x≤2 ou x≥3}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "S=ℝ",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_aee7fcbc-c962-49b7-a69f-22924678b89c",
+    "title": "Questão M2468 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico de uma parábola de equação y = ax2 + bx + c passa pelos pontos P = (0,–4), Q = (2,–1) e M = (–2,5).",
+    "introducao_alternativas": "O valor do produto a ⋅ b ⋅ c é:",
+    "assunto": "Função Quadrática",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_aa7605fb-8c5a-4c5d-b791-99486e28b5e2",
+    "title": "Questão M1444 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Um fazendeiro possui dois terrenos quadrados de lados a e b, sendo a > b. Represente na forma de um produto notável a diferença das áreas destes quadrados.",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(a + b)(a + b)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(a + b)(a – b)",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(a – b)(a – b)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(a + b)2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(a – b)2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_05701637-bcf5-47af-a470-bcf380d39edc",
+    "title": "Questão M1371 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em (nm/s)2 na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas. [IMAGEM_0]",
+    "introducao_alternativas": "Sobre o estudo descrito, o que é possível inferir a partir dos dados apresentados?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 26,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1371_-_fuvest_2013_1a3ba659-02cc-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em nenhum sábado, a energia sísmica média registrada superou 380 (nm/s)2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Em todos os dias úteis da semana, pelo menos 20% das pessoas permaneceram o tempo todo em casa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Em alguns dos dias de domingo ou feriado, a energia sísmica média foi maior do que 600 (nm/s)2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Em dias úteis da semana, a energia sísmica média foi maior ou igual do que em sábados, domingos e feriados, para o mesmo número de pessoas que saiu de casa em um dia.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aos sábados, uma medição de energia sísmica média de 190 (nm/s)2 indica que mais de 60% das pessoas saíram de casa nesse dia.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

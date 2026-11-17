@@ -1,0 +1,2345 @@
+[
+  {
+    "id_externo": "Questao_c000c341-2489-4bfe-801e-e19dcb36e152",
+    "title": "Questão Q1387 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A forma das moléculas, como representadas no papel, nem sempre é planar. Em um determinado fármaco, a molécula contendo um grupo não planar é biologicamente ativa, enquanto moléculas contendo substituintes planares são inativas.",
+    "introducao_alternativas": "O grupo responsável pela bioatividade desse fármaco é",
+    "assunto": "Introdução à Química Orgânica",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_q1387_-_enem_alt_A_19140635-cbe5-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1387_-_enem_alt_B_a75d0c5e-7518-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1387_-_enem_alt_C_227a6932-7771-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1387_-_enem_alt_D_2e7d7254-2636-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1387_-_enem_alt_E_ff552437-4b44-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8815c420-0e1d-42ee-8d8d-a1700a8ac3fa",
+    "title": "Questão Q1298 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura. [IMAGEM_0] Para realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico.",
+    "introducao_alternativas": "Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
+    "assunto": "Funções Inorgânicas",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1298_-_enem_5b98cc6b-d277-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "H2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cl2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "CO",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "CO2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "HCl",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2fef4813-d85c-4f90-84bf-8957ab428839",
+    "title": "Questão Q0287 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Os métodos empregados nas análises químicas são ferramentas importantes para se conhecer a composição dos diversos materiais presentes no meio ambiente. É comum, na análise de metais presentes em amostras ambientais, como água de rio ou de mar, a adição de um ácido mineral forte, normalmente o ácido nítrico (HNO3), com a finalidade de impedir a precipitação de compostos pouco solúveis desses metais ao longo do tempo.",
+    "introducao_alternativas": "Na ocorrência de precipitação, o resultado da análise pode ser subestimado, porque",
+    "assunto": "Funções Inorgânicas",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ocorreu passagem de parte dos metais para uma fase sólida.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "houve volatilização de compostos dos metais para a atmosfera.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "os metais passaram a apresentar comportamento de não metais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "formou-se uma nova fase líquida, imiscível com a solução original.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "os metais reagiram com as paredes do recipiente que contém a amostra.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c39bbd0a-1ab1-4325-9e1d-601400374d0c",
+    "title": "Questão Q1392 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A revelação das chapas de raios X gera uma solução que contém íons prata na forma de Ag(S2O3)23–. Para evitar a descarga desse metal no ambiente, a recuperação de prata metálica pode ser feita tratando eletroquimicamente essa solução com uma espécie adequada. O quadro apresenta semirreações de redução de alguns íons metálicos. [IMAGEM_0]",
+    "introducao_alternativas": "Das espécies apresentadas, a adequada para essa recuperação é",
+    "assunto": "Eletroquímica",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1392_-_enem_96d3c2ec-0960-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cu(s).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pt(s).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Al3+(aq).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sn(s).",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Zn2+(aq).",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_862af788-05b4-4634-b083-a7cc818e3183",
+    "title": "Questão Q1581 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A fim de reaproveitar o resíduo de um processo industrial, cuja composição está indicada, foi proposto um tratamento seguindo o esquema de separações apresentado. [IMAGEM_0]",
+    "introducao_alternativas": "Os componentes do resíduo que estão presentes nas frações aquosas II e III são, respectivamente,",
+    "assunto": "Reações Orgânicas",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1581_-_enem_ppl_bc6732f5-33e4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fenol e anilina.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fenol e acetona.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "anilina e acetona.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ácido acético e anilina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ácido acético e acetona.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c18c7602-4ad7-48bf-bb3f-665a67b4f05d",
+    "title": "Questão Q1774 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Ácido nítrico é um importante reagente usado no preparo de nitrato de amônio, NH4NO3, um fertilizante nitrogenado. Industrialmente, o ácido nítrico é obtido a partir da reação da amônia com gás oxigênio, um processo que ocorre em três etapas, todas exotérmicas. Etapa 1: 4 NH3 (g) + 5 O2 (g)  4 NO (g) + 6 H2O (l) Etapa 2: 2 NO (g) + O2 (g)  2 NO2 (g) Etapa 3: 3 NO2 (g) + H2O (l)  2 HNO3 (aq) + NO (g) Na primeira etapa, forma-se NO, o qual reage com mais oxigênio formando NO2, um óxido ácido, que reage com a água formando HNO3 e NO. O composto NO é, portanto, um subproduto da reação. É importante o seu reaproveitamento, senão ele pode ser liberado para o ambiente, onde reagirá com o oxigênio, formando NO2. ATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).",
+    "introducao_alternativas": "O procedimento que permite diminuir a quantidade formada do subproduto NO é aumentar a",
+    "assunto": "Equilíbrio Químico",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pressão de oxigênio, na etapa 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "concentração de NO2, na etapa 3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "quantidade de amônia, na etapa 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "quantidade de oxigênio, na etapa 2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "temperatura dos reagentes, na etapa 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c63cbfb7-d84e-4ecd-9922-862211354a2c",
+    "title": "Questão Q1636 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Benjamin Franklin (1706-1790), por volta de 1757, percebeu que dois barcos que compunham a frota com a qual viajava para Londres permaneciam estáveis, enquanto os outros eram jogados pelo vento. Ao questionar o porquê daquele fenômeno, foi informado pelo capitão que provavelmente os cozinheiros haviam arremessado óleo pelos lados dos barcos. Inquirindo mais a respeito, soube que habitantes das ilhas do Pacífico jogavam óleo na água para impedir que o vento a agitasse e atrapalhasse a pesca. Em 1774, Franklin resolveu testar o fenômeno jogando uma colher de chá (4 mL) de óleo de oliva em um lago onde pequenas ondas eram formadas. Mais curioso que o efeito de acalmar as ondas foi o fato de que o óleo havia se espalhado completamente pelo lago, numa área de aproximadamente 2.000 m2, formando um filme fino. Embora não tenha sido a intenção original de Franklin, esse experimento permite uma estimativa da ordem de grandeza do tamanho das moléculas. Para isso, basta supor que o óleo se espalha até formar uma camada com uma única molécula de espessura. RAMOS, C. H. I. História. CBME Informação, n. 9, jan. 2006 (adaptado).",
+    "introducao_alternativas": "Nas condições do experimento realizado por Franklin, as moléculas do óleo apresentam um tamanho da ordem de",
+    "assunto": "Estequiometria",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10–3 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "10–5 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10–7 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10–9 m.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10–11 m.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6f32eb96-c78a-426b-8ac4-ba09399aa808",
+    "title": "Questão Q1653 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A obtenção de sistemas coloidais estáveis depende das interações entre as partículas dispersas e o meio onde se encontram. Em um sistema coloidal aquoso, cujas partículas são hidrofílicas, a adição de um solvente orgânico miscível em água, como etanol, desestabiliza o coloide, podendo ocorrer a agregação das partículas preliminarmente dispersas.",
+    "introducao_alternativas": "A desestabilização provocada pelo etanol ocorre porque",
+    "assunto": "Soluções",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a polaridade da água no sistema coloidal é reduzida.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "as cargas superficiais das partículas coloidais são diminuídas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "as camadas de solvatação de água nas partículas são diminuídas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "o processo de miscibilidade da água e do solvente libera calor para o meio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a intensidade dos movimentos brownianos das partículas coloidais é reduzida.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bc061f2f-aa47-4fa5-8fd3-92fd55ea3c6d",
+    "title": "Questão Q1662 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "As soluções de hipoclorito de sódio têm ampla aplicação como desinfetantes e alvejantes. Em uma empresa de limpeza, o responsável pela área de compras deve decidir entre dois fornecedores que têm produtos similares, mas com diferentes teores de cloro. Um dos fornecedores vende baldes de 10 kg de produto granulado, contendo 65% de cloro ativo, a um custo de R$ 65,00. Outro fornecedor oferece, a um custo de R$ 20,00, bombonas de 50 kg de produto líquido contendo 10% de cloro ativo.",
+    "introducao_alternativas": "Considerando apenas o quesito preço por kg de cloro ativo e desprezando outras variáveis, para cada bombona de 50 kg haverá uma economia de",
+    "assunto": "Estequiometria",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 4,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 6,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$10,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 30,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 45,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5a296d93-ca93-4905-885e-4d068458e028",
+    "title": "Questão Q1564 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Os riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes. Substância Incompatibilidade Riscos associados Ácidos minerais Fortes concentrados Bases fortes Cianetos Hipoclorito de sódio Reação enérgica, explosão, produção de oxidante forte e produto tóxico Ácido nítrico concentrado Matéria orgânica Reação enérgica, explosão e produto tóxico Considere que houve o descarte indevido de dois conjuntos de substâncias: (1) ácido clorídrico concentrado com cianeto de potássio; (2) ácido nítrico concentrado com sacarose. Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "introducao_alternativas": "O descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "assunto": "Funções Inorgânicas",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "liberação de gás tóxico e reação oxidativa forte.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reação oxidativa forte e liberação de gás tóxico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "formação de sais tóxicos e reação oxidativa forte.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "liberação de gás tóxico e liberação de gás oxidante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "formação de sais tóxicos e liberação de gás oxidante.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cfc944aa-54ed-4ea1-a4c7-e09e13388580",
+    "title": "Questão Q1296 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Em seu laboratório, um técnico em química foi incumbido de tratar um resíduo, evitando seu descarte direto no meio ambiente. Ao encontrar o frasco, observou a seguinte informação: “Resíduo: mistura de acetato de etila e água”. Considere os dados do acetato de etila: - Baixa solubilidade em água; - Massa específica = 0,9 g cm–3; - Temperatura de fusão = –83 ºC; - Pressão de vapor maior que a da água.",
+    "introducao_alternativas": "A fim de tratar o resíduo, recuperando o acetato de etila, o técnico deve",
+    "assunto": "Química Básica",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "evaporar o acetato de etila sem alterar o conteúdo de água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "filtrar a mistura utilizando um funil comum e um papel de filtro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "realizar uma destilação simples para separar a água do acetato de etila.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "proceder a uma centrifugação da mistura para remover o acetato de etila.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "decantar a mistura separando os dois componentes em um funil adequado.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0c7edd20-b594-4f24-a6ab-ebba95171f1f",
+    "title": "Questão Q1697 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Quando as pilhas, que contêm metais pesados, são descartadas no lixo comum, pode ocorrer o rompimento de sua blindagem e a liberação de seu conteúdo para o meio ambiente. Ao atingir o solo, um metal pesado pode ficar retido nas camadas superiores por três processos: reação com moléculas orgânicas que possuam oxigênio ou nitrogênio em sua estrutura, adsorção em argilas e minerais e reação com grupamento hidroxila, sulfeto ou metil, formando precipitado insolúvel.",
+    "introducao_alternativas": "Com bases nas informações apresentadas, são suscetíveis de serem formados no solo os compostos:",
+    "assunto": "Eletroquímica",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CdS e Zn(OH)2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pb(OH)2 e Na2S",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ni(OH)2 e Cr(C2H5)2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "CdSO4 e Pb(CH3CO2)2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Hg(CH3)2 e Ca(CH3CO2)2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2315690a-56fe-49ef-a69c-d0222877ada6",
+    "title": "Questão Q1641 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A água consumida na maioria das cidades brasileiras é obtida pelo tratamento da água de mananciais. A parte inicial do tratamento consiste no peneiramento e sedimentação de partículas maiores. Na etapa seguinte, dissolvem-se na água carbonato de sódio e, em seguida, sulfato de alumínio. O resultado é a precipitação de hidróxido de alumínio, que é pouco solúvel em água, o qual leva consigo as partículas poluentes menores. Posteriormente, a água passa por um processo de desinfecção e, finalmente, é disponibilizada para o consumo.",
+    "introducao_alternativas": "No processo descrito, a precipitação de hidróxido de alumínio é viabilizada porque",
+    "assunto": "Água",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a dissolução do alumínio resfria a solução.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "o excesso de sódio impossibilita sua solubilização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "oxidação provocada pelo sulfato produz hidroxilas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "as partículas contaminantes menores atraem essa substância.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o equilíbrio químico do carbonato em água torna o meio alcalino.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7da6d0a3-78f0-4f9d-b387-0a20e5a1b52c",
+    "title": "Questão Q1771 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Na produção do politereftalato de etileno, o PET, utiliza-se como reagente o para-dimetilbenzeno, também chamado de para-xileno, que deve ter alta pureza. No entanto, o para-xileno obtido do petróleo possui contaminação dos seus isômeros orto-xileno e meta-xileno, cujas estruturas são apresentadas na figura. No quadro, são listadas as temperaturas de fusão e ebulição desses três isômeros. [IMAGEM_0]",
+    "introducao_alternativas": "Isômero Temperatura de fusão (˚C) Temperatura de ebulição (˚C) orto-xileno –25 144 meta-xileno –47,4 139,3 para-xileno 13,5 137,5 Qual processo de separação permite a purificação desse reagente?",
+    "assunto": "Química Básica",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1771_-_enem_ppl_13f83dd3-2272-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Destilação simples.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cristalização simples.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Destilação fracionada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Extração líquido-líquido.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Solidificação fracionada.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_74d65cf8-2792-4304-a360-0a91729c6272",
+    "title": "Questão Q1175 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A indústria têxtil é responsável por um consumo elevado de água e de outros produtos, gerando grande quantidade de efluentes com concentração alta e composição complexa, principalmente nos processos de tingimento e acabamento.",
+    "introducao_alternativas": "Visando minimizar os efeitos ambientais nocivos ocasionados pela grande quantidade de efluente contaminado, a catálise – quebra de moléculas – recebeu atenção especial, visto que",
+    "assunto": "Água",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "permite a estocagem correta do efluente, evitando a contaminação de rios e lagos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "os catalisadores são substâncias que têm como objetivo principal a neutralização do pH do meio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "pode recuperar todos os produtos químicos presentes na água, permitindo a reutilização desses compostos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "associada a processos oxidativos, pode provocar a completa mineralização dos contaminantes, formando gás carbônico e água.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "permite o retorno do efluente contaminado para o processo, uma vez que provoca a floculação dos produtos, facilitando a separação.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_917310a4-a568-41d4-a27a-cb8499495681",
+    "title": "Questão Q1695 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Um cidadão que se mudou de Brasília para Recife, após algum tempo, percebeu que partes de seu carro estavam enferrujando muito rapidamente. Perguntou para seu filho, estudante do ensino médio, a explicação para o fenômeno. O filho pesquisou na internet e descobriu que, por causa da maresia, gotículas de água do mar atingem os objetos de aço (liga de ferro e carbono) e intensificam sua corrosão. Com base nessa informação, o estudante explicou corretamente ao pai o efeito do cloreto de sódio na corrosão.",
+    "introducao_alternativas": "A explicação correta de a maresia acelerar a corrosão do aço é porque",
+    "assunto": "Nox, Oxidação e Redução",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reduz o ferro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "oxida o carbono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "dissolve a pintura do carro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "torna a água mais condutora.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "diminui a dissolução do oxigênio na água.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_78557a29-556d-436c-8ada-3ac952155752",
+    "title": "Questão Q1428 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "As células e os organismos precisam realizar trabalho para permanecerem vivos e se reproduzirem. A energia metabólica necessária para a realização desse trabalho é oriunda da oxidação de combustíveis, gerados no ciclo do carbono, por meio de processos capazes de interconverter diferentes formas da energia. [IMAGEM_0]",
+    "introducao_alternativas": "Nesse ciclo, a formação de combustíveis está vinculada à conversão de energia",
+    "assunto": "Termoquímica",
+    "competencia": 4,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1428_-_enem_9b336d93-38c5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "térmica em cinética.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "química em térmica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "eletroquímica em calor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "cinética em eletromagnética.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "eletromagnética em química.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6d1f71f5-9524-4af4-977a-1564d0b894ad",
+    "title": "Questão Q1432 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos (R0) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de urna posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de T1 a T4 (temperaturas crescentes). [IMAGEM_0]",
+    "introducao_alternativas": "O deslocamento observado na distância média revela o fenômeno da",
+    "assunto": "Ligações Químicas",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1432_-_enem_7f70d5c8-40c4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ionização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "dilatação.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "dissociação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "quebra de ligações covalentes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "formação de ligações metálicas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_51aa3bcc-6078-4540-8563-aaafdb0c2d70",
+    "title": "Questão Q1804 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A filtração em carvão é uma das mais antigas formas de purificação de água. O carvão ativado, diferentemente do carvão comum, é útil para ser empregado na remoção de material orgânico, cloro e outros contaminantes. Essa capacidade decorre de suas propriedades de adsorção. A origem do material utilizado para produzir o carvão ativado pode influenciar sua porosidade e, consequentemente, interferir na capacidade do material de remover impurezas. Na figura, é ilustrada esquematicamente a diferença entre as estruturas físicas do carvão comum e do carvão ativado. [IMAGEM_0] CORRÊA, M. A. Cosmetologia: ciência e técnica. São Paulo: Medfarma, 2012 (adaptado).",
+    "introducao_alternativas": "Qual característica do carvão ativado explica a sua maior eficiência nesse processo?",
+    "assunto": "Química Básica",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1804_-_enem_72aa76d0-81db-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Massa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dureza.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Densidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Superfície.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Condutividade.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b6eab01d-567e-411d-94ac-bd42d8ae288c",
+    "title": "Questão Q1805 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia.",
+    "introducao_alternativas": "Essa água é chamada de",
+    "assunto": "Água",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "pesada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "sanitária.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "destilada.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "oxigenada.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_053f632f-08d4-4c3e-9bee-507a6212a2c7",
+    "title": "Questão Q1806 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural. [IMAGEM_0] Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático. Disponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021 (adaptado).",
+    "introducao_alternativas": "Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a",
+    "assunto": "Radioatividade",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_q1806_-_enem_832b597a-939d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diminuição do pH.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "liberação de gases poluentes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "contaminação por combustíveis.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "liberação de elementos radioativos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "diminuição da solubilidade do gás oxigênio.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_233de0b2-0d88-4452-91ff-09bfb83797ec",
+    "title": "Questão Q1807 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma fotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento permite identificar como os compostos químicos eram representados. [IMAGEM_0] O nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do oxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO2). Analogamente, o nitrato de sódio era representado por NaAzO3. Disponível em: www.novomilenio.inf.br. Acesso em: 29 ago. 2014 (adaptado).",
+    "introducao_alternativas": "Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:",
+    "assunto": "Funções Inorgânicas",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_q1807_-_enem_fbd8d9e0-7670-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HAzO3 e CaCl2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "HAz3O e Ca2Cl",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "H3AzO4 e CaCl",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "HAz3O e KCl2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "HAzO2 e KCl",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cf274bd5-6efa-4d60-b74a-07948b4f68bc",
+    "title": "Questão Q1808 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O fruto do cajueiro é um aquênio repleto de um líquido escuro, quase preto, cáustico e inflamável. Esse líquido da casca da castanha do caju (LCC) representa aproximadamente 25% da massa da castanha e é um subproduto de agronegócio do caju. Quando submetido a altas temperaturas, o ácido anacárdico presente no LCC é convertido a cardanol, que recebe a denominação de LCC técnico, conforme o esquema: [IMAGEM_0] MAZZETTO, S. E.; LOMONACO, D.; MELE, G. Óleo da castanha de caju: oportunidades e desafios no contexto do desenvolvimento e sustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado).",
+    "introducao_alternativas": "O LCC técnico é produzido por meio de uma reação orgânica do tipo",
+    "assunto": "Reações Orgânicas",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1808_-_enem_9f763216-73b1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hidrólise.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fenilação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "esterificação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "hidrogenação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "descarboxilação.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2655e33e-a28a-43a5-8fdc-ba4cb8be366e",
+    "title": "Questão Q1809 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "",
+    "introducao_alternativas": "A química nuclear é uma importante ferramenta na produção de substâncias utilizadas na área da saúde humana. A radiação emitida pelo cobalto-60 é utilizada na medicina como ferramenta de diagnóstico e no tratamento do câncer. No entanto, esse radioisótopo tem um tempo de armazenamento limitado, pois seu tempo de meia-vida é de 5,3 anos. Considere um frasco com uma amostra contendo 2,00 mg de cobalto-60, armazenado durante um período de 26,5 anos. A massa de cobalto-60, em miligrama, que restará ao final desse tempo é mais próxima de.",
+    "assunto": "Radioatividade",
+    "competencia": 7,
+    "habilidade": 26,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,00 mg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,00 mg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,40 mg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,13 mg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,06 mg.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9430556e-dddc-4082-a662-d40273957601",
+    "title": "Questão Q1810 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Em uma aula prática de química orgânica, um professor identificou os frascos de várias substâncias apenas por suas fórmulas moleculares. Em seguida, apresentou a representação tridimensional da molécula do borneol, um álcool secundário, conforme a figura. Ele explicou que, quando oxidado, o borneol dá origem à cânfora, uma cetona usada desde a Antiguidade como incenso e no preparo de medicamentos. Finalmente, o professor solicitou que os alunos identificassem o frasco contendo a substância cânfora. [IMAGEM_0] SANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária: um experimento simples de baixo custo e limpo. Química Nova, n. 6, 2009 (adaptado).",
+    "introducao_alternativas": "O frasco contendo cânfora apresenta a fórmula molecular:",
+    "assunto": "Introdução à Química Orgânica",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1810_-_enem_4ef91fc9-3855-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C9H16O",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "C9H17O",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "C10H16O",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "C10H16O2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "C10H18O2.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ee00f55b-226f-4d25-bbcd-02cdd112342f",
+    "title": "Questão Q1811 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Para a produção de titânio metálico ou dióxido de titânio puros, é necessário fazer a cloração do minério que contém dióxido de titânio, com o objetivo de separar esse óxido de outras substâncias presentes no minério. A principal reação química de cloração é representada por: TiO2 (s) + 2 Cl2 (g) ⇌ TiCl4 (g) + O2 (g) ΔH = + 175 kJ/mol Depois da cloração, o tetracloreto de titânio é condensado e convertido, novamente, a dióxido de titânio.",
+    "introducao_alternativas": "Após o sistema atingir o equilíbrio químico, como a formação do TiCl4 pode ser favorecida?",
+    "assunto": "Equilíbrio Químico",
+    "competencia": 7,
+    "habilidade": 27,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentando a pressão total do sistema.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuindo a temperatura do sistema.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentando a pressão parcial de O2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentando a pressão parcial de Cl2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Variando a quantidade de TiO2.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_08d86b8a-da77-4a90-81dd-81e79b0c3077",
+    "title": "Questão Q1812 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A dimetilamina é uma substância de elevada toxidez que entra em ebulição a 7 °C. Na madrugada de um dia frio, essa substância se espalhou por uma rodovia após um acidente de trânsito envolvendo um caminhão que transportava esse produto. Para minimizar a agressão ao meio ambiente, bem como evitar a evaporação da dimetilamina com a elevação da temperatura ao longo do dia, um químico considerou o uso de algumas substâncias ou misturas como água, vinagre, óleo de soja, sal de cozinha e bicarbonato de sódio.",
+    "introducao_alternativas": "Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar",
+    "assunto": "Reações Orgânicas",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "vinagre.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "óleo de soja.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "sal de cozinha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "bicarbonato de sódio.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_39947941-b8d9-43c5-bd0b-bff399b7b41c",
+    "title": "Questão Q1813 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Objetos de prata escurecem em contato com compostos contendo enxofre por causa da formação de uma fina camada de sulfeto de prata. Um método simples para clarear o objeto consiste em forrar um recipiente com papel alumínio, adicionar ao recipiente uma solução aquosa de cloreto de sódio e, enfim, mergulhar o objeto de prata enegrecido. Em cerca de três minutos, a prata volta à coloração original. As seguintes semirreações e os respectivos potenciais-padrão de redução são úteis para a compreensão dos fenômenos ocorridos. [IMAGEM_0] SARTORI, E. R.; BATISTA, E. F.; FATIBELLO-FILHO, O. Escurecimento e limpeza de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução. Química Nova na Escola, n. 30, 2008 (adaptado).",
+    "introducao_alternativas": "Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
+    "assunto": "Eletroquímica",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1813_-_enem_b815246b-55da-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "+0,54 V e +2,37 V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "+1,92 V e +0,99 V.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "–0,15 V e +5,43 V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "+2,61 V e +1,29 V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "+0,15 V e –1,29 V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_019c2eae-30fb-45f2-bc39-b51e1e4048ea",
+    "title": "Questão Q1814 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Apaixonada por culinária e química, uma chefe de cozinha calculou que, para promover o crescimento adequado da massa durante o cozimento de um bolo a 180 °C (453 K) e 1,00 atm, ela precisaria utilizar uma quantidade de fermento químico suficiente para produzir um volume de gás igual a 4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de amônio, um composto que, sob aquecimento, degrada-se em três gases distintos, que são os responsáveis pelo crescimento da massa. A decomposição do bicarbonato de amônio ocorre conforme a equação química apresentada e, nas condições do cozimento, seu rendimento é de 80%. NH4HCO3 (s) → NH3 (g) + CO2 (g) + H2O (g) Considere que a mistura dos gases se comporta como gás ideal nas condições de cozimento utilizadas pela chefe. Dados: Massa molar do NH4HCO3 = 79 g.mol−1 e R = 0,082 atm.L.mol−1.K−1.",
+    "introducao_alternativas": "A massa, em grama, de bicarbonato de amônio que ela deve utilizar é mais próxima de",
+    "assunto": "Gases - Química",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,3 g.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,5 g.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,9 g.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,8 g.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8,9 g.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3533a467-0ba5-4ea3-92e9-3445e7f761bb",
+    "title": "Questão Q1815 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Nos processos de transformação e reciclagem de recursos naturais, as velocidades das reações químicas são estudadas pela cinética química. Uma reação A → B é realizada na presença e na ausência de uma enzima, com todas as demais condições permanecendo inalteradas. Considere que, no gráfico da variação de energia ao longo dessa reação, a linha contínua representa o avanço da reação na ausência da enzima, e a linha pontilhada, na presença da enzima.",
+    "introducao_alternativas": "O gráfico que representa a situação descrita é:",
+    "assunto": "Cinética",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1815_-_enem_alt_A_d99215a7-e6a0-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1815_-_enem_alt_B_9af13ea6-d8fe-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1815_-_enem_alt_C_37b8ddef-30ef-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_q1815_-_enem_alt_D_e7c0d6b0-229a-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_q1815_-_enem_alt_E_c64501c7-76b5-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f6e6a675-bd4e-4236-b030-7ed06528994c",
+    "title": "Questão Q1816 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O Brasil é o maior produtor mundial de nióbio (massa molar = 93 g.mol–1), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb2O5 com excesso de 10% de Al (massa molar = 27 g.mol–1), em relação à quantidade estequiométrica da reação, representada pela equação química: 3 Nb2O5 (s) + 10 Al (s) → 6 Nb (s) + 5 Al2O3 (s) Uma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%. Disponível em: www.cbmm.com.br. Acesso em: 17 out. 2015 (adaptado).",
+    "introducao_alternativas": "A massa de alumínio, em quilograma, estimada pela engenheira é mais próxima de",
+    "assunto": "Estequiometria",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,7 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,0 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,1 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,5 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5,0 kg.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_05f34848-45f3-4388-b70b-e83f6212a018",
+    "title": "Questão Q1817 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica (SiO2), a terceira é formada pelo mesmo polímero e a última é um surfactante, conforme apresentado na figura. [IMAGEM_0] BROWN, P. S.; BHUSHAN, B. Mechanically durable, superoleophobic coatings prepared by layer-by-layer technique for anti-smudge and oil-water separation. Scientific Reports, v. 5, mar. 2015 (adaptado).",
+    "introducao_alternativas": "Na utilização desse dispositivo, a retenção do óleo ocorre",
+    "assunto": "Ligações Químicas",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1817_-_enem_a4f5f84f-efe7-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no surfactante.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "na camada superior de polímero.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "nas nanopartículas de sílica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "na camada inferior de polímero.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "na malha de aço.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_93bbda82-f195-42c3-b376-c2979aaeca60",
+    "title": "Questão Q1818 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Alguns hormônios sexuais têm ganhado notável atenção nos últimos anos por suas concentrações cada vez maiores no solo e na água em todo o mundo. O motivo da preocupação é porque, em níveis poluentes, eles têm sido associados ao câncer de mama e ao câncer de próstata, além de perturbarem a fisiologia dos peixes, podendo, ainda, afetarem o desenvolvimento reprodutivo de animais domésticos e selvagens. Assim, o descarte inadequado desses hormônios representa uma séria ameaça ao solo, plantas, recursos hídricos e humanos. De baixa polaridade, eles apresentam uma solubilidade pequena e variável em água, dependendo dos grupos presentes em suas estruturas, representando um grande risco para os ambientes aquáticos. As figuras a seguir apresentam as estruturas de alguns desses hormônios. [IMAGEM_0] MUHAMMAD, A. et al. Environmental Impact of Estrogens on Human, Animal and Plant Life: a Critical Review. Environment International, n. 99, 2017 (adaptado).",
+    "introducao_alternativas": "Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?",
+    "assunto": "Propriedades Físicas e Químicas de Compostos Orgânicos",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1818_-_enem_1d9aadd2-387e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estradiol.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Estriol.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Estrona.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Novestrol.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Noretindrona.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5cb6afd7-a0ed-4a35-8fe3-10230aa43384",
+    "title": "Questão Q1819 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A datação por decaimento radioativo é utilizada para determinar a idade de objetos encontrados em expedições arqueológicas e antropológicas. A quantidade de material radioativo nesses objetos geralmente é muito pequena, mas o desenvolvimento tecnológico tem permitido aplicar essa técnica com isótopos como o potássio 4019K. A técnica se baseia no tempo de meia-vida, definido como o tempo necessário para que a concentração do elemento se reduza à metade de sua concentração inicial. A determinação da idade só pode ser feita por esse método porque, no processo de decaimento radioativo, o tempo de meia-vida não depende da concentração inicial do elemento. A tabela a seguir apresenta a idade de um objeto estimada pela relação entre a proporção da concentração de potássio radioativo (4019K) e seus produtos de decaimento radioativo. [IMAGEM_0] Uma amostra de granito analisada apresentou 2,5 g de 4019K e 17,5 g de seus produtos de decaimento radioativo.",
+    "introducao_alternativas": "A idade estimada, em ano, para essa amostra de granito é:",
+    "assunto": "Radioatividade",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_q1819_-_enem_ppl_383b7040-b31d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,3 x 109 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,6 x 109 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,9 x 109 anos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,7 x 1010 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,1 x 1010 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c3db2109-359f-46f7-a806-f5a3e9c77035",
+    "title": "Questão Q1820 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Em ferros-velhos, são comuns anúncios de compra de sucatas, como: “Compram-se sucatas em geral: alumínio, cobre, chumbo e metal” Um grupo de estudantes de Química decidiu investigar qual seria o significado da palavra “metal” em meio a nomes de outros elementos químicos metálicos. Para isso, colheram amostras de peças feitas do dito “metal”. O grupo observou que, a olho nu, essas amostras tinham aparência homogênea em toda a sua extensão. Análises químicas indicaram que os elementos zinco e cobre compunham 100% da massa de todas as amostras.",
+    "introducao_alternativas": "Os estudantes concluíram que, na linguagem do ferro-velho, “metal” significa:",
+    "assunto": "Ligações Químicas",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Emulsão de cobre e zinco.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Liga metálica de cobre e zinco.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Suspensão de cobre com zinco.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Amálgama contendo cobre e zinco.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Composto salino formado por cobre e zinco.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0e60194d-08f3-4f7c-afe9-390fdfa077ff",
+    "title": "Questão Q1821 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O efeito do escurecimento observado em uma salada de frutas à base de banana, maçã e outras frutas consiste na reação catalisada por enzimas que oxidam compostos fenólicos em pH próximo da neutralidade.",
+    "introducao_alternativas": "Esse efeito é geralmente minimizado pela adição de",
+    "assunto": "Reações Orgânicas",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "água potável.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "suco de limão.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "mel de abelha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "sal de cozinha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "açúcar refinado.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f25a0e99-2aad-4620-947d-80e293c00607",
+    "title": "Questão Q1822 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "",
+    "introducao_alternativas": "A preparação do tetracloreto de carbono, CCl4, substância usada como solvente industrial e em procedimentos de análise química, pode ser feita a partir da reação de clorofórmio (CHCl3) com cloro (Cl2), em fase gasosa e em equilíbrio químico, representada a seguir: CHCl3 (g) + Cl2 (g) ⇌ CCl4 (g) + HCl (g) ∆H Para maximizar a formação de CCl4, é necessário",
+    "assunto": "Equilíbrio Químico",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "elevar a temperatura do sistema reacional.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reduzir o volume do sistema reacional.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "aumentar a concentração de HCl.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "elevar a concentração de CHCl3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "reduzir a pressão parcial de Cl2.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_41c5a176-8fd0-4781-ad5c-cd4cbcd41b7b",
+    "title": "Questão Q1823 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "Radionuclídeos são utilizados para a obtenção de imagens médicas de diferentes órgãos do corpo humano. No processo de geração de imagem, o radionuclídeo sofre desintegração com emissão de radiação. O tempo dessa desintegração deve ser suficiente para que haja acúmulo do radionuclídeo no órgão que se pretende examinar, e para que corresponda a cerca de uma vez e meia (1,5x) o tempo de duração do exame. Para se obterem imagens de um órgão num exame que tem duração de 4 horas, é necessário selecionar um radionuclídeo dentre os cinco apresentados no quadro. [IMAGEM_0] OLIVEIRA, R. et al. Preparações radiofarmacêuticas e suas aplicações. Rev. Bras. Ciênc. Farm., n. 2, 2006 (adaptado).",
+    "introducao_alternativas": "Qual é o radionuclídeo adequado para a obtenção dessas imagens?",
+    "assunto": "Radioatividade",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1823_-_enem_ppl_38510623-a599-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "13N",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "18F",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "64Cu",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "99Tc",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "124I",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_24f37c3a-7915-4588-9b53-ae8f19f21f64",
+    "title": "Questão Q1824 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "No processo de mosturação da cerveja, as enzimas presentes no malte degradam o amido antes da etapa de fermentação. A alfa-amilase atua entre 67 °C e 72 °C, degradando o malte em carboidratos de cadeia curta, e a beta-amilase, entre 55 °C e 65 °C, degradando-o em carboidratos de cadeia longa. Em uma etapa posterior, na fermentação alcoólica, as leveduras utilizam carboidratos de cadeias com até três átomos de carbono, preferencialmente. PALMER, J. J. How to Brew: Everything You Need to Know to Brew Beer Right the First Time. Boulder: Brewers Publications, 2006 (adaptado).",
+    "introducao_alternativas": "Uma mosturação realizada a 68 °C resultará em um produto final com maior",
+    "assunto": "Funções Oxigenadas",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "amargor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "densidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "viscosidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "teor alcoólico.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "teor de açúcares.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_449123fd-8045-4782-b756-b697accfade9",
+    "title": "Questão Q1825 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O Brasil produz em média 30 bilhões de litros de etanol por ano. Para cada litro de álcool produzido, são gerados, aproximadamente, 10 litros de vinhaça, resíduo rico em sais minerais e em matéria orgânica. Esse resíduo pode ser utilizado para a produção do óleo de microalgas para fabricação de biodiesel. A cada mil litros de vinhaça, são produzidos cerca de 2,8 L de óleo, prontos para produzir biodiesel. A proporção entre a massa do óleo consumida e a do biodiesel produzida é praticamente 1 : 1. Considere a densidade do óleo igual a 0,9 kg/L. Disponível em: https://revistapesquisa.fapesp.br. Acesso em: 2 dez. 2021 (adaptado).",
+    "introducao_alternativas": "Se toda a vinhaça produzida anualmente no Brasil fosse utilizada na produção de biodiesel, a massa obtida seria mais próxima de",
+    "assunto": "Estequiometria",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3,0 x 1011 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8,4 x 108 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7,6 x 108 kg.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8,4 x 107 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,6 x 107 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_62f2f256-169d-4869-b716-47e157aaee66",
+    "title": "Questão Q1826 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O Aquífero Guarani é uma grande reserva de água subterrânea potável cujas características físico-químicas dependem de fatores como a geologia da região e a qualidade da água que o alimenta. Análises no aquífero realizadas em determinada região mostraram que a água estava com o valor do pH igual a 4. A água captada nessa região deverá ter seu pH corrigido para que a concentração de íons H+ atinja 10−6 mol.L−1, tornando-a apropriada para o consumo humano.",
+    "introducao_alternativas": "Na correção do pH da água captada, a concentração de íons H+ deverá ser",
+    "assunto": "Equilíbrio Químico",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reduzida duas vezes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reduzida vinte vezes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "reduzida cem vezes.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aumentada duas vezes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "aumentada duzentas vezes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e9b2051a-15db-4e6f-b164-2d8ba18ddc53",
+    "title": "Questão Q1827 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A pilha seca ácida é muito comum no cotidiano e, sendo a mais barata, é usada para alimentar equipamentos portáteis. Dentro da pilha temos o ânodo (polo negativo) e o cátodo (polo positivo), que são formados por: Zn (s) → Zn2+ (aq) + 2 e− 2 MnO2 (aq) + 2 NH4+ (aq) + 2 e− → Mn2O3 (s) + 2 NH3 (g) + H2O (l) Durante esse processo, o aumento na produção do gás vai impedindo o fluxo de corrente elétrica no interior da pilha. É da sabedoria popular que, ao colocar a pilha no congelador, ela ganha uma sobrevida e pode ser usada por mais alguns minutos.",
+    "introducao_alternativas": "Esse fato ocorre porque",
+    "assunto": "Eletroquímica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a solubilidade do gás aumenta em baixa temperatura e restabelece o fluxo de elétrons.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "as condições reacionais de oxidação e redução se invertem e promovem a recarga da pilha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "o gás amônia sofre expansão ao ser resfriado e libera o fluxo de elétrons pela barra de grafita.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a produção dos gases em temperatura baixa cessa e possibilita a continuidade da passagem da corrente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a presença de bolhas de gás no interior da pilha aumenta e restabelece o fluxo de elétrons do cátodo para o ânodo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2c0e97f2-81e3-4189-9cf5-85b2cc07720c",
+    "title": "Questão Q1828 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O etanol é um combustível amplamente utilizado para o fornecimento de energia, e sua obtenção a partir da cana-de-açúcar envolve a fermentação da sacarose, conforme a equação: [IMAGEM_0] Dados: densidade do etanol = 0,8 g/mL; massa molar do etanol = 46 g/mol; massa molar da sacarose = 342 g/mol. Foi realizado um processo de fermentação a partir de 85 kg de biomassa, que contém 45 kg de sacarose. Ao final, o rendimento da produção de etanol foi de 85%.",
+    "introducao_alternativas": "A quantidade de etanol obtida, em litro, é mais próxima de",
+    "assunto": "Estequiometria",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1828_-_enem_ppl_18bd3cf0-094d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16 L.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20 L.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "24 L.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "26 L.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "30 L.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3592833c-3e79-4757-928a-c3e646cc61dd",
+    "title": "Questão Q1830 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O complexo mecanismo da visão humana depende de uma reação de isomerização da molécula do retinal quando ligada à proteína opsina, estimulada pela incidência de luz, conforme o esquema. [IMAGEM_0] MARTINS, G. B. C.; SUCUPIRA, R. R.; SUAREZ, P. A. Z. A química e as cores. Revista Virtual de Química, n. 7, 2015 (adaptado).",
+    "introducao_alternativas": "Portanto, o tipo de isomeria responsável pela visão humana é a",
+    "assunto": "Isomeria",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1830_-_enem_ppl_cdac2ff6-f2d5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "óptica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "de cadeia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "de posição.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "geométrica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "de compensação.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a9792b0f-697b-4d60-aeac-265c08219687",
+    "title": "Questão Q1831 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "A entalpia é uma função de estado que permite obter informações sobre as variações de energia, isto é, o calor trocado entre o sistema e a vizinhança, à pressão constante. Assim, é possível saber se uma reação química libera ou absorve calor. A reação entre hidrogênio e cloro gasosos, apresentada na equação, libera 43 kcal de energia. Consequentemente, a variação de entalpia da reação por mol de cloreto de hidrogênio formado é de −21,5 kcal. H2 (g) + Cl2 (g) → 2 HCl (g) Para calcular o valor da entalpia dessa reação, um estudante consultou dados tabelados sobre os reagentes utilizados e o produto obtido.",
+    "introducao_alternativas": "Esses dados são referentes ao(à)",
+    "assunto": "Termoquímica",
+    "competencia": 7,
+    "habilidade": 24,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "densidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "calor latente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "volume molar.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "calor específico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "energia de ligação.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d029f5f9-586a-4bb1-b3a7-221b227c3417",
+    "title": "Questão Q1832 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "O leite recém-ordenhado apresenta-se ligeiramente ácido, com pH entre 6,6 e 6,8 e acidez titulável, expressa em °D (grau Dornic), entre 14 e 18. Esses testes de acidez têm o objetivo de avaliar o possível aumento da concentração de ácido lático, decorrente da fermentação da lactose por bactérias mesófilas, permitindo assim inferir sobre a qualidade microbiológica da matéria-prima. Para análise de amostras com volume de 10 mL, 0,1 mL do titulante equivalem a 1 °D. Foram avaliadas cinco amostras de 5 mL de leite in natura, de diferentes origens, por meio da titulação com NaOH 0,111 mol/L (soda Dornic), sendo os volumes gastos apresentados na tabela. [IMAGEM_0] Instrução Normativa n. 62, de 29 de dezembro de 2011. Disponível em: www.gov.br/agricultura. Acesso em: 7 dez. 2017 (adaptado).",
+    "introducao_alternativas": "A amostra de leite que atende ao padrão de qualidade de acidez titulável é a",
+    "assunto": "Soluções",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_q1832_-_enem_ppl_3709fef2-2f94-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A1.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "A2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "A3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "A4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "A5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_956fe461-e86f-4425-8355-bdc588171504",
+    "title": "Questão Q1829 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "quimica",
+    "contexto": "As usinas termoelétricas que utilizam carvão mineral com alto teor de enxofre podem emitir grandes quantidades de SO2 para a atmosfera. Suponha que, a alguns quilômetros de uma usina termoelétrica, ocorreu uma precipitação de chuva de uma nuvem contendo 1.000 toneladas de água. É possível considerar que: \n(i) essa nuvem tenha absorvido todo o SO2 produzido pela usina; \n(ii) esse SO2 foi totalmente convertido em H2SO4, como mostrado pela sequência de equações a seguir; e \n(iii) esse ácido encontra-se totalmente ionizado no interior da nuvem. \nNessa situação, o valor de pH da água da chuva foi igual a 4,0. [IMAGEM_0]",
+    "introducao_alternativas": "A massa de SO2 emitida por essa usina foi mais próxima de",
+    "assunto": "Estequiometria",
+    "competencia": 7,
+    "habilidade": "25",
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "image.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,6 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,2 kg.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,0 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,9 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "6,4 kg.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

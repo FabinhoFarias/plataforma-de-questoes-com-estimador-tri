@@ -83,6 +83,7 @@ def main():
     ap.add_argument('--out',type=Path,default=Path('dados/processados/dataset_tri.csv'))
     ap.add_argument('--color',action='append',help='Filtra cor; pode repetir. Padrão: todas com PDF.')
     ap.add_argument('--include-ambiguous',action='store_true',help='Inclui candidatos ambíguos e marca a qualidade do pareamento')
+    ap.add_argument('--co-prova-map',type=Path,default=Path('dados/processados/mapa_co_prova.json'),help='Mapa verificado por gabaritos oficiais')
     args=ap.parse_args()
     raw=args.json.read_text(encoding='utf-8')
     if raw.startswith('version https://git-lfs.github.com'):
@@ -93,6 +94,13 @@ def main():
         raise RuntimeError(f'{args.json} não contém JSON válido; regenere a extração dos PDFs.') from exc
     years={int(x['year']) for x in texts}
     labels=read_item_rows(args.items,years)
+    verified={}
+    if args.co_prova_map.exists():
+        for entry in json.loads(args.co_prova_map.read_text(encoding='utf-8')):
+            key=(int(entry['year']),entry['pdf'],entry['area'])
+            if key in verified and verified[key]!=entry['examCode']:
+                raise ValueError(f'Mapeamento CO_PROVA conflitante para {key}')
+            verified[key]=entry['examCode']
     color_filter={COLOR_ALIASES.get(x.upper(),x.upper()) for x in args.color} if args.color else None
     # Index by year/color/day/area/printed question; duplicates remain visible for review.
     text_index={}
@@ -111,34 +119,38 @@ def main():
             review.append({**r,'candidate_count':0,'reason':'unsupported_exam_position_mapping'}); continue
         if r['languageCode']:
             review.append({**r,'candidate_count':0,'reason':'language_variant_requires_exact_mapping'}); continue
-        if len(code_counts[(r['year'],r['examColor'],r['disciplineCode'])]) != 1 and not args.include_ambiguous:
-            review.append({**r,'candidate_count':0,'reason':'multiple_exam_codes_for_area_need_caderno_mapping'}); continue
         key=(r['year'],r['examColor'],r['day'],r['disciplineCode'],r['index'])
-        candidates=text_index.get(key,[])
+        all_candidates=text_index.get(key,[])
+        candidates=[q for q in all_candidates if verified.get((r['year'],q['pdf'],r['disciplineCode']),r['examCode'])==r['examCode']]
+        mapped=[q for q in candidates if (r['year'],q['pdf'],r['disciplineCode']) in verified]
+        if mapped: candidates=mapped
+        code_is_unique=len(code_counts[(r['year'],r['examColor'],r['disciplineCode'])])==1
+        if not code_is_unique and not mapped and not args.include_ambiguous:
+            review.append({**r,'candidate_count':len(candidates),'reason':'multiple_exam_codes_for_area_need_caderno_mapping'}); continue
         if len(candidates)!=1 and not args.include_ambiguous:
             review.append({**r,'candidate_count':len(candidates),'reason':'no_text_match' if not candidates else 'ambiguous_text_match'})
             continue
         if not candidates:
-            review.append({**r,'candidate_count':0,'reason':'no_text_match'}); continue
+            review.append({**r,'candidate_count':0,'reason':'no_text_match'})
+            continue
         for q in candidates:
-            if q.get('alternativeStatus') != 'five_markers_detected':
-                review.append({**r,'candidate_count':len(candidates),'reason':'text_or_alternatives_need_visual_review'}); continue
+            pdf_complete=q.get('alternativeStatus') == 'five_markers_detected'
             alts=q.get('alternatives',[])
             alt_letters={a['letter'] for a in alts}
             status=q['alternativeStatus']
-            if alt_letters and r['correctAlternative'] not in alt_letters:
+            if pdf_complete and alt_letters and r['correctAlternative'] not in alt_letters:
                 review.append({**r,'candidate_count':len(candidates),'reason':'answer_key_not_in_extracted_alternatives'}); continue
             text=' '.join([normalize_text(q.get('context')),normalize_text(q.get('alternativesIntroduction'))]+[normalize_text(a.get('text')) for a in alts])
-            if not text:
-                review.append({**r,'candidate_count':len(candidates),'reason':'empty_text'}); continue
+            verified_pair=(r['year'],q['pdf'],r['disciplineCode']) in verified
             joined.append({**r,'title':q['title'],'context':q['context'],'alternatives':json.dumps(alts,ensure_ascii=False),
                            'text':text,'sourcePdf':q['pdf'],'sourcePages':json.dumps(q['sourcePages']),
-                           'textExtractionStatus':status,'matchQuality':'ambiguous' if len(candidates)>1 else 'exact',
+                           'textExtractionStatus':status,'matchQuality':'exact' if len(candidates)==1 and (verified_pair or code_is_unique) else 'ambiguous',
+                           'coProvaEvidence':'official_answer_key' if verified_pair else 'unique_code' if code_is_unique else '',
                            'candidateCount':len(candidates)})
     args.out.parent.mkdir(parents=True,exist_ok=True)
     fields=['year','examColor','day','examCode','disciplineCode','discipline','position','index','itemCode',
             'correctAlternative','a','b','c','skillCode','title','context','alternatives','text',
-            'sourcePdf','sourcePages','textExtractionStatus','matchQuality','candidateCount']
+            'sourcePdf','sourcePages','textExtractionStatus','matchQuality','coProvaEvidence','candidateCount']
     with args.out.open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(joined)
     review_path=args.out.with_name(args.out.stem+'_revisao.csv')

@@ -1,0 +1,2518 @@
+[
+  {
+    "id_externo": "Questao_81d9659f-6741-4fda-b2d8-bca047ae60bc",
+    "title": "Questão M2740 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A cisterna é um recipiente utilizado para armazenar água da chuva. Os principais critérios a serem observados para captação e armazenagem de água da chuva são: a demanda diária de água na propriedade; o índice médio de precipitação (chuva), por região, em cada período do ano; o tempo necessário para armazenagem; e a área de telhado necessária ou disponível para captação. Para fazer o cálculo do volume de uma cisterna, deve-se acrescentar um adicional relativo ao coeficiente de evaporação. Na dificuldade em se estabelecer um coeficiente confiável, a Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) sugere que sejam adicionados 10% ao volume calculado de água. Desse modo, o volume, em m³, de uma cisterna é calculado por Vc = Vd x Ndia, em que Vd = volume de demanda da água diária (m³), Ndia = número de dias de armazenagem, e este resultado deve ser acrescido de 10%. Para melhorar a qualidade da água, recomenda-se que a captação seja feita somente nos telhados das edificações. Considerando que a precipitação de chuva de 1 mm sobre uma área de 1 m² produz 1 litro de água, pode-se calcular a área de um telhado a fim de atender a necessidade de armazenagem da seguinte maneira: área do telhado (em m²) = volume da cisterna (em litros)/precipitação. Disponível em: www.cnpsa.embrapa.br. Acesso em: 8 jun. 2009 (adaptado). ",
+    "introducao_alternativas": "Para atender a uma demanda diária de 2.000 litros de água, com período de armazenagem de 15 dias e precipitação média de 110 mm, o telhado, retangular, deverá ter as dimensões mínimas de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 metros por 5 metros, pois assim teria uma área de 30 m².",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 metros por 20 metros, pois assim teria uma área de 300 m².",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "50 metros por 60 metros, pois assim teria uma área de 3.000 m².",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "91 metros por 30 metros, pois assim teria uma área de 2.730 m².",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "110 metros por 30 metros, pois assim teria uma área de 3.300 m².",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2fa39ecc-8192-4d54-8b76-cc159056d302",
+    "title": "Questão M2741 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um professor dividiu a lousa da sala de aula em quatro partes iguais. Em seguida, preencheu 75%, dela com conceitos e explicações, conforme a figura seguinte. [IMAGEM_0] Algum tempo depois, o professor apagou a lousa por completo e, adotando um procedimento semelhante ao anterior, voltou a preenchê-la, mas, dessa vez, utilizando 40% do espaço dela.",
+    "introducao_alternativas": "Uma representação possível para essa segunda situação é",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2741_-_enem_2013_86f8551e-ca0c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2741_-_enem_2013_alt_A_cb3f438b-0a46-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2741_-_enem_2013_alt_B_61d69797-c501-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2741_-_enem_2013_alt_C_a2b15094-55cd-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2741_-_enem_2013_alt_D_f46d2426-445d-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2741_-_enem_2013_alt_E_0e756419-dc8e-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a277c1df-4240-44c6-9684-00906f571cce",
+    "title": "Questão M2742 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Alguns testes de preferência por bebedouros de água foram realizados com bovinos, envolvendo três tipos de bebedouros, de formatos e tamanhos diferentes. Os bebedouros 1 e 2 têm a forma de um tronco de cone circular reto, de altura igual a 60 cm, e diâmetro da base superior igual a 120 cm e 60 cm, respectivamente. O bebedouro 3 é um semicilindro, com 30 cm de altura, 100 cm de comprimento e 60 cm de largura. Os três recipientes estão ilustrados na figura. [IMAGEM_0] A escolha do bebedouro. In: Biotemas. V. 22, n˚. 4, 2009 (adaptado).",
+    "introducao_alternativas": "Considerando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2742_-_enem_2013_19da8591-ab08-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2742_-_enem_2013_alt_A_cc04ed93-bd23-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2742_-_enem_2013_alt_B_f39b39af-28dc-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2742_-_enem_2013_alt_C_01ef9244-9781-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2742_-_enem_2013_alt_D_40904309-e645-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2742_-_enem_2013_alt_E_30914c53-c52b-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cfb60d06-7764-44ac-808b-017bfe2c57c0",
+    "title": "Questão M2743 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No monte de Cerro Armazones, no deserto de Atacama, no Chile, ficará o maior telescópio da superfície terrestre, o Telescópio Europeu Extremamente Grande (E-ELT). O E-ELT terá um espelho primário de 42 m de diâmetro, “o maior olho do mundo voltado para o céu”. Disponível em: http://www.estadao.com.br. Acesso em: 27 abr. 2010 (adaptado). Ao ler esse texto em uma sala de aula, uma professora fez uma suposição de que o diâmetro do olho humano mede aproximadamente 2,1 cm. Qual a razão entre o diâmetro aproximado do olho humano, suposto pela professora, e o diâmetro do espelho primário do telescópio citado.",
+    "introducao_alternativas": "Qual a razão entre o diâmetro aproximado do olho humano, suposto pela professora, e o diâmetro do espelho primário do telescópio citado.",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H10",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 20.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 100.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 200.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 1.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 2.000.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b75fa742-b426-4ae4-9466-46f1362a6cb1",
+    "title": "Questão M2744 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os dados do gráfico foram coletados por meio da Pesquisa Nacional por Amostra de Domicílios. [IMAGEM_0] Fonte: IBGE. Disponível em: http://www.ibge.gov.br. Acesso em: 28 abr. 2010 (adaptado). Supondo-se que, no Sudeste, 14.",
+    "introducao_alternativas": "900 estudantes foram entrevistados nessa pesquisa, quantos deles possuíam telefone móvel celular?",
+    "assunto": "Geometria Plana",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2744_-_enem_2013_363b48ec-a360-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5.513.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6.556.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7.450.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8.344.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9.536.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3577f7fa-5f93-4b9a-a431-deabc4bd9305",
+    "title": "Questão M2745 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Acompanhando o crescimento do filho, um casal constatou que, de 0 a 10 anos, a variação da sua altura se dava de forma mais rápida do que dos 10 aos 17 anos e, a partir de 17 anos, essa variação passava a ser cada vez menor, até se tornar imperceptível. Para ilustrar essa situação, esse casal fez um gráfico relacionando as alturas do filho nas idades consideradas.",
+    "introducao_alternativas": "Que gráfico melhor representa a altura do filho desse casal em função da idade?",
+    "assunto": "Estatística",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2745_-_enem_2013_alt_A_a4e0212b-a625-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2745_-_enem_2013_alt_B_62a3d51b-32b3-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2745_-_enem_2013_alt_C_ba6f3e8c-2f96-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2745_-_enem_2013_alt_D_6262feed-4708-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2745_-_enem_2013_alt_E_ad6b1c8f-07cc-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_48870a61-4017-4a95-81ee-6155967d6ce4",
+    "title": "Questão M2746 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A classificação de um país no quadro de medalhas nos Jogos Olímpicos depende do número de medalhas de ouro que obteve na competição, tendo como critérios de desempate o número de medalhas de prata seguido do número de medalhas de bronze conquistados. Nas Olimpíadas de 2004, o Brasil foi o décimo sexto colocado no quadro de medalhas, tendo obtido 5 medalhas de ouro, 2 de prata e 3 de bronze. Parte desse quadro de medalhas é reproduzida a seguir. [IMAGEM_0] Disponível em: http://www.quadroademedalhas.com.br. Acesso em: 05 abr. 2010 (adaptado).",
+    "introducao_alternativas": "Se o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2746_-_enem_2013_6569af98-1384-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "13˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "12˚.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "11˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9˚.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4b78b571-66ff-4e65-bfd1-3a416e0b9627",
+    "title": "Questão M2747 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A resistência elétrica e as dimensões do condutor A relação da resistência elétrica com as dimensões do condutor foi estudada por um grupo de cientistas por meio de vários experimentos de eletricidade. Eles verificaram que existe proporcionalidade entre: \n– resistência (R) e comprimento (l), dada a mesma secção transversal (A); \n– resistência (R) e área da secção transversal (A), dado o mesmo comprimento (l) e \n– comprimento (l) e área da secção transversal (A), dada a mesma resistência (R). \nConsiderando os resistores como fios, pode-se exemplificar o estudo das grandezas que influem na resistência elétrica utilizando as figuras seguintes. [IMAGEM_0] Disponível em: http://www.efeitojoule.com. Acesso em: abr. 2010 (adaptado).",
+    "introducao_alternativas": "As figuras mostram que as proporcionalidades existentes entre resistência (R) e comprimento (l), resistência (R) e área da secção transversal (A), e entre comprimento (l) e área da secção transversal (A) são, respectivamente,",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2747_-_enem_2013_3c2b6edf-1672-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "direta, direta e direta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "direta, direta e inversa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "direta, inversa e direta.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "inversa, direta e direta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "inversa, direta e inversa.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7b0c6186-eb91-4bd7-9054-6506f66cbf2a",
+    "title": "Questão M2748 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os dados do gráfico seguinte foram gerados a partir de dados colhidos no conjunto de seis regiões metropolitanas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). [IMAGEM_0] Disponível em: http://g1.globo.com. Acesso em: 28 abr. 2010 (adaptado). Supondo que o total de pessoas pesquisadas na região metropolitana de Porto Alegre equivale a 250.",
+    "introducao_alternativas": "000, o número de desempregados em março de 2010, nessa região, foi de?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2748_-_enem_2013_7ac2f6b3-d8c8-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24.500.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "220.500.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "223.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "227.500.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_52aba748-b53a-475b-887a-3f1a0298fa88",
+    "title": "Questão M2749 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A siderúrgica “Metal Nobre” produz diversos objetos maciços utilizando o ferro. Um tipo especial de peça feita nessa companhia tem o formato de um paralelepípedo retangular, de acordo com as dimensões indicadas na figura que segue. [IMAGEM_0]",
+    "introducao_alternativas": "O produto das três dimensões indicadas na peça resultaria na medida da grandeza?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2749_-_enem_2013_2e97aa5d-07ff-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "massa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "volume.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "superfície.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "capacidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "comprimento.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e6d8d602-728c-4ff3-81be-67827c5a948b",
+    "title": "Questão M2750 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura a seguir é a representação de uma região por meio de curvas de nível, que são curvas fechadas representando a altitude da região, com relação ao nível do mar. As coordenadas estão expressas em graus de acordo com a longitude, no eixo horizontal, e a latitude, no eixo vertical. A escala em tons de cinza desenhada à direita está associada à altitude da região. [IMAGEM_0] Um pequeno helicóptero usado para reconhecimento sobrevoa a região a partir do ponto X = (20; 60). O helicóptero segue o percurso: 0,8° L → 0,5° N → 0,2° O → 0,1° S → 0,4° N → 0,3° L. Ao final, desce verticalmente até pousar no solo.",
+    "introducao_alternativas": "De acordo com as orientações, o helicóptero pousou em um local cuja altitude é",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2750_-_enem_2013_a0980c7f-5b84-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "menor ou igual a 200 m.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "maior que 200 m e menor ou igual a 400 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "maior que 400 m e menor ou igual a 600 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "maior que 600 m e menor ou igual a 800 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "maior que 800 m.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f3be1c34-d91f-4f2b-b7b9-569ba8a7b563",
+    "title": "Questão M2751 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico a seguir apresenta o gasto militar dos Estados Unidos, no período de 1988 a 2006. [IMAGEM_0]",
+    "introducao_alternativas": "Com base no gráfico, o gasto militar no início da guerra no Iraque foi de",
+    "assunto": "Matemática Básica",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2751_-_enem_2013_987014ee-5b3e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "U$ 4.174.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "U$ 41.740.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "U$ 417.400.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "U$ 41.740.000.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "U$ 417.400.000.000,00.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1c1f33e7-1dcc-4443-bb06-daeb0b3c835a",
+    "title": "Questão M2752 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A loja Telas & Molduras cobra 20 reais por metro quadrado de tela, 15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais. Uma artista plástica precisa encomendar telas e molduras a essa loja, suficientes para 8 quadros retangulares (25 cm x 50 cm). Em seguida, fez uma segunda encomenda, mas agora para 8 quadros retangulares (50 cm x 100 cm).",
+    "introducao_alternativas": "O valor da segunda encomenda será",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "maior do que o valor da primeira encomenda, mas não o dobro.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "menor do que o valor da primeira encomenda, mas não a metade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fc060502-4265-4463-b2f1-8339bf7be0e8",
+    "title": "Questão M2753 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Dona Maria, diarista na casa da família Teixeira, precisa fazer café para servir as vinte pessoas que se encontram numa reunião na sala. Para fazer o café, Dona Maria dispõe de uma leiteira cilíndrica e copinhos plásticos, também cilíndricos. [IMAGEM_0] Com o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade.",
+    "introducao_alternativas": "Para que isso ocorra, Dona Maria deverá,",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2753_-_enem_2013_8ae29c1c-024e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_acb28bc0-1192-4538-b615-10a7a257bba2",
+    "title": "Questão M2755 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados. [IMAGEM_0]",
+    "introducao_alternativas": "Para que a propaganda seja fidedigna à porcentagem da área que aparece na divulgação, a medida do lado do retângulo que representa os 4%, deve ser de aproximadamente",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2755_-_enem_2013_1f98f848-b04e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "10 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "17 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "160 mm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "167 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_397d13e3-f1e7-40c2-a140-3bc2af4e90b3",
+    "title": "Questão M2756 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa possui um sistema de controle de qualidade que classifica o seu desempenho financeiro anual, tendo como base o do ano anterior. Os conceitos são: \ninsuficiente, quando o crescimento é menor que 1%; \nregular, quando o crescimento é maior ou igual a 1% e menor que 5%; \nbom, quando o crescimento é maior ou igual a 5% e menor que 10%; \nótimo, quando é maior ou igual a 10% e menor que 20%; e \nexcelente, quando é maior ou igual a 20%. \nEssa empresa apresentou lucro de R$ 132.000,00 em 2008 e de R$ 145.000,00 em 2009. De acordo com esse sistema de controle de qualidade, o desempenho financeiro dessa empresa no ano de 2009 deve ser considerado.",
+    "introducao_alternativas": "De acordo com esse sistema de controle de qualidade, o desempenho financeiro dessa empresa no ano de 2009 deve ser considerado.",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": "H3",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insuficiente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "regular.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "bom.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ótimo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "excelente.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d0e95bad-34bc-45b2-aae4-e4072cd0c6ed",
+    "title": "Questão M2757 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura I abaixo mostra um esquema das principais vias que interligam a cidade A com a cidade B. Cada número indicado na figura II representa a probabilidade de pegar um engarrafamento quando se passa na via indicada. Assim, há uma probabilidade de 30% de se pegar engarrafamento no deslocamento do ponto C ao ponto B, passando pela estrada E4, e de 50%, quando se passa por E3. Essas probabilidades são independentes umas das outras. [IMAGEM_0] Paula deseja se deslocar da cidade A para a cidade B usando exatamente duas das vias indicadas, percorrendo um trajeto com a menor probabilidade de engarrafamento possível.",
+    "introducao_alternativas": "O melhor trajeto para Paula é",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2757_-_enem_2013_2d962814-d70f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E1E3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "E1E4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "E2E4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "E2E5.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "E2E6.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f829815d-eba7-4636-890d-4016a19be751",
+    "title": "Questão M2758 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para construir uma manilha de esgoto, um cilindro com 2 m de diâmetro e 4 m de altura (de espessura desprezível), foi envolvido homogeneamente por uma camada de concreto, contendo 20 cm de espessura.",
+    "introducao_alternativas": "Supondo que cada metro cúbico de concreto custe R$ 10,00 e tomando 3,1 como valor aproximado de π, então o preço dessa manilha é igual a",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 230,40.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 124,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 104,16.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 54,56.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 49,60.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ba66c5fb-a13b-4ad2-8844-30d27b0d170f",
+    "title": "Questão M2759 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No manejo sustentável de florestas, é preciso muitas vezes obter o volume da tora que pode ser obtida a partir de uma árvore. Para isso, existe um método prático, em que se mede a circunferência da árvore à altura do peito de um homem (1,30 m), conforme indicado na figura. A essa medida denomina-se “rodo” da árvore. O quadro a seguir indica a fórmula para se cubar, ou seja, obter o volume da tora em m3 a partir da medida do rodo e da altura da árvore. [IMAGEM_0] Um técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de duas espécies diferentes, sendo \n– 3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m³; \n– 2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m³.",
+    "introducao_alternativas": "Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2759_-_enem_2013_52c30240-1a8a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "29,9 toneladas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "31,1 toneladas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "32,4 toneladas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "35,3 toneladas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "41,8 toneladas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_134bc824-2110-402c-893b-dbbc7639c25c",
+    "title": "Questão M2760 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Embora o Índice de Massa Corporal (IMC) seja amplamente utilizado, existem ainda inúmeras restrições teóricas ao uso e às faixas de normalidade preconizadas. O Recíproco do Índice Ponderal (RIP), de acordo com o modelo alométrico, possui uma melhor fundamentação matemática, já que a massa é uma variável de dimensões cúbicas e a altura, uma variável de dimensões lineares. As fórmulas que determinam esses índices são: [IMAGEM_0] ARAUJO, C. G. S.; RICARDO, D. R. Índice de Massa Corporal: Um Questionamento Científico Baseado em Evidências. Arq. Bras. Cardiologia, volume 79, no 1, 2002 (adaptado).",
+    "introducao_alternativas": "Se uma menina, com 64 kg de massa, apresenta IMC igual a 25 kg/m², então ela possui RIP igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2760_-_enem_2013_38eaa50d-b7ab-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,4 cm/kg^(1/3).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,5 cm/kg^(1/3).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8 cm/kg^(1/3).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "20 cm/kg^(1/3).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "40 cm/kg^(1/3).",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b581c77f-0e92-4987-9867-8b26c5761d15",
+    "title": "Questão M2761 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um satélite de telecomunicações, t minutos após ter atingido sua órbita, está a r quilômetros de distância do centro da Terra. Quando r assume seus valores máximo e mínimo, diz-se que o satélite atingiu o apogeu e o perigeu, respectivamente. Suponha que, para esse satélite, o valor de r em função de t seja dado por. [IMAGEM_0] Um cientista monitora o movimento desse satélite para controlar o seu afastamento do centro da Terra. Para isso, ele precisa calcular a soma dos valores de r, no apogeu e no perigeu, representada por S.",
+    "introducao_alternativas": "O cientista deveria concluir que, periodicamente, S atinge o valor de",
+    "assunto": "Trigonometria",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2761_-_enem_2013_6970c006-7c78-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12.765 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "12.000 km.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "11.730 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10.965 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.865 km.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_10ac9d18-bc4f-4acf-b9aa-9f3be0960c66",
+    "title": "Questão M2762 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa vende tanques de combustíveis de formato cilíndrico, em três tamanhos, com medidas indicadas nas figuras. O preço do tanque é diretamente proporcional à medida da área da superfície lateral do tanque. O dono de um posto de combustível deseja encomendar um tanque com menor custo por metro cúbico de capacidade de armazenamento. [IMAGEM_0]",
+    "introducao_alternativas": "Qual dos tanques deverá ser escolhido pelo dono do posto? (Considere π = 3)",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m2762_-_enem_2013_5512adc3-5103-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, pela relação área/capacidade de armazenamento de 1/3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "I, pela relação área/capacidade de armazenamento de 4/3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "II, pela relação área/capacidade de armazenamento de 3/4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "III, pela relação área/capacidade de armazenamento de 2/3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "III, pela relação área/capacidade de armazenamento de 7/12.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9de225a4-fa25-498e-b876-f849e018ce03",
+    "title": "Questão M2763 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma metalúrgica recebeu uma encomenda para fabricar, em grande quantidade, uma peça com o formato de um prisma reto com base triangular, cujas dimensões da base são 6 cm, 8 cm e 10 cm e cuja altura é 10 cm. Tal peça deve ser vazada de tal maneira que a perfuração na forma de um cilindro circular reto seja tangente às suas faces laterais, conforme mostra a figura. [IMAGEM_0]",
+    "introducao_alternativas": "O raio da perfuração da peça é igual a",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2763_-_enem_2013_c46cfc48-a07b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 cm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6676c8d6-0e8d-426e-a5fb-1c067d4207a0",
+    "title": "Questão M2764 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear. [IMAGEM_0] Favela Tem Memória. Época. No 621, 12 abr. 2010 (adaptado).",
+    "introducao_alternativas": "Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será",
+    "assunto": "Geometria Analítica",
+    "competencia": 4,
+    "habilidade": 16,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2764_-_enem_2013_04ef2b16-8548-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "menor que 1.150.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "218 unidades maior que em 2004.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "maior que 1.150 e menor que 1.200.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "177 unidades maior que em 2010.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "maior que 1.200.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_90195a7d-d491-469c-83be-2ba4c1a5dc7a",
+    "title": "Questão M2765 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas do Mundo desde a Copa de 1930 até a de 2006. [IMAGEM_0] Disponível em: http://www.suapesquisa.com. Acesso em: 23 abr. 2010 (adaptado).",
+    "introducao_alternativas": "A partir dos dados apresentados, qual a mediana das quantidades de gols marcados pelos artilheiros das Copas do Mundo?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 26,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2765_-_enem_2013_b632dab7-658b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 gols.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6,5 gols.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7 gols.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7,3 gols.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8,5 gols.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ce4e5ecb-9ada-48d9-b084-9b84455f8ee8",
+    "title": "Questão M2766 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um grupo de pacientes com Hepatite C foi submetido a um tratamento tradicional em que 40% desses pacientes foram completamente curados. Os pacientes que não obtiveram cura foram distribuídos em dois grupos de mesma quantidade e submetidos a dois tratamentos inovadores. No primeiro tratamento inovador, 35% dos pacientes foram curados e, no segundo, 45%.",
+    "introducao_alternativas": "Em relação aos pacientes submetidos inicialmente, os tratamentos inovadores proporcionaram cura de",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "24%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "32%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "48%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "64%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0e2245b4-0874-4b6d-931d-5f6c6e99ac1d",
+    "title": "Questão M2767 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em 2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões. Neste mesmo ano, a produção brasileira de etanol correspondeu a 43% da produção mundial, ao passo que a produção dos Estados Unidos da América, usando milho, foi de 45%. Disponível em: planetasustentavel.abril.com.br. Acesso em: 02 maio 2009.",
+    "introducao_alternativas": "Considerando que, em 2009, a produção mundial de etanol seja a mesma de 2006 e que os Estados Unidos produzirão somente a metade de sua produção de 2006, para que o total produzido pelo Brasil e pelos Estados Unidos continue correspondendo a 88% da produção mundial, o Brasil deve aumentar sua produção em, aproximadamente,",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "50,0%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "52,3%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "65,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "77,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7414b1f4-3f9c-4186-b116-93d1bc79a452",
+    "title": "Questão M2768 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "João mora na cidade A e precisa visitar cinco clientes, localizados em cidades diferentes da sua. Cada trajeto possível pode ser representado por uma sequência de 7 letras. Por exemplo, o trajeto ABCDEFA, informa que ele sairá da cidade A, visitando as cidades B, C, D, E e F nesta ordem, voltando para a cidade A. Além disso, o número indicado entre as letras informa o custo do deslocamento entre as cidades. A figura mostra o custo de deslocamento entre cada uma das cidades. [IMAGEM_0] Como João quer economizar, ele precisa determinar qual o trajeto de menor custo para visitar os cinco clientes. Examinando a figura, percebe que precisa considerar somente parte das sequências, pois os trajetos ABCDEFA e AFEDCBA têm o mesmo custo. Ele gasta 1min30s para examinar uma sequência e descartar sua simétrica, conforme apresentado.",
+    "introducao_alternativas": "O tempo mínimo necessário para João verificar todas as sequências possíveis no problema é de",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m2768_-_enem_2013_40b7cac2-737e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "90 min.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "120 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "180 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "360 min.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_397af713-c435-4f05-9cdb-8dbc0b5cde8b",
+    "title": "Questão M2769 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols. [IMAGEM_0]",
+    "introducao_alternativas": "Se X, Y e Z são, respectivamente, a média, a mediana e a moda desta distribuição, então",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": "H26",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2769_-_enem_2013_944f1ed2-c54d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X = Y < Z.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Z < X = Y.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Y < Z < X.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Z < X < Y.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Z < Y < X.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_06afba87-b37e-4f5e-aa50-a54a6ad5d7a6",
+    "title": "Questão M2770 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Ronaldo é um garoto que adora brincar com números. Numa dessas brincadeiras, empilhou caixas numeradas de acordo com a sequência conforme mostrada no esquema a seguir. [IMAGEM_0] Ele percebeu que a soma dos números em cada linha tinha uma propriedade e que, por meio dessa propriedade, era possível prever a soma de qualquer linha posterior às já construídas.",
+    "introducao_alternativas": "A partir dessa propriedade, qual será a soma da 9ª linha da sequência de caixas empilhadas por Ronaldo?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2770_-_enem_2013_60552215-9405-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "45.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "64.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "81.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "285.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0d5333d8-c106-427a-9640-1fb03170358f",
+    "title": "Questão M2771 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um porta-lápis de madeira foi construído no formato cúbico, seguindo o modelo ilustrado a seguir. O cubo de dentro é vazio. A aresta do cubo maior mede 12 cm e a do cubo menor, que é interno, mede 8 cm. [IMAGEM_0]",
+    "introducao_alternativas": "O volume de madeira utilizado na confecção desse objeto foi de?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": "H8",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2771_-_enem_2013_a720add7-cdb9-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 cm³.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "64 cm³.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "96 cm³.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.216 cm³.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.728 cm³.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0e2fdd32-a4ab-4fb2-94c0-611683229ba8",
+    "title": "Questão M2545 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para divulgar sua marca, uma empresa produziu um porta-canetas de brinde, na forma do sólido composto por um cilindro e um tronco de cone, como na figura. [IMAGEM_0] Para recobrir toda a superfície lateral do brinde, essa empresa encomendará um adesivo na forma planificada dessa superfície.",
+    "introducao_alternativas": "Que formato terá esse adesivo?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2545_-_enem_2013_99e4fdff-b53e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2545_-_enem_2013_alt_A_c713388e-14c7-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2545_-_enem_2013_alt_B_0d94b60f-aa7f-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2545_-_enem_2013_alt_C_1ffe18aa-4efa-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2545_-_enem_2013_alt_D_850915ae-0891-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2545_-_enem_2013_alt_E_0628cf82-b8f4-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d1d752c7-b9c1-47cb-b7de-08390f6f54f6",
+    "title": "Questão M2772 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para conseguir chegar a um número recorde de produção de ovos de Páscoa, as empresas brasileiras começam a se planejar para esse período com um ano de antecedência. O gráfico a seguir mostra o número de ovos de Páscoa produzidos no Brasil no período de 2005 a 2009. [IMAGEM_0] Revista Veja. São Paulo: Abril, ed. 2107, no 14, ano 42.",
+    "introducao_alternativas": "De acordo com o gráfico, o biênio que apresentou maior produção acumulada foi",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2772_-_enem_2013_bfbc930f-4939-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2004-2005.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2005-2006.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2006-2007.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2007-2008.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2008-2009.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e33b67dc-ea38-4254-9872-4382b9418846",
+    "title": "Questão M2773 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O medidor de energia elétrica de uma residência, conhecido por “relógio de luz”, é constituído de quatro pequenos relógios, cujos sentidos de rotação estão indicados conforme a figura: [IMAGEM_0] Disponível em: http://www.enersul.com.br. Acesso em: 26 abr. 2010. A medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.",
+    "introducao_alternativas": "O número obtido pela leitura em kWh, na imagem, é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2773_-_enem_2013_112e6a1e-01bf-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.614.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3.624.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2.715.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3.725.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4.162.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9e8b5dd8-8820-4e6a-a5be-ce6092e24ee1",
+    "title": "Questão M2774 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O dono de uma oficina mecânica precisa de um pistão das partes de um motor, de 68 mm de diâmetro, para o conserto de um carro. Para conseguir um, esse dono vai até um ferro velho e lá encontra pistões com diâmetros iguais a 68,21 mm; 68,102 mm; 68,001 mm; 68,02 mm e 68,012 mm. Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa.",
+    "introducao_alternativas": "Nessa condição, o dono da oficina deverá comprar o pistão de diâmetro",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "68,21 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "68,102 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "68,02 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "68,012 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "68,001 mm.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_da531dd2-53a1-4e30-8ed7-29ef9bfe586e",
+    "title": "Questão M2775 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura seguinte mostra um modelo de sombrinha muito usado em países orientais. [IMAGEM_0] Disponível em: http://mdmat.psico.ufrgs.br. Acesso em: 1 maio 2010.",
+    "introducao_alternativas": "Esta figura é uma representação de uma superfície de revolução chamada de",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2775_-_enem_2013_f13525a9-d268-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pirâmide.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "semiesfera.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "cilindro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "tronco de cone.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "cone.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c961ca7d-f2ac-4310-aa6e-8564de32e1e5",
+    "title": "Questão M2776 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos. Cinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6.000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados. Disponível em: http://www1.folha.uol.com.br. Acesso em: 21 abr. 2010 (adaptado). Considere que 1 metro equivale a aproximadamente 3,3 pés.",
+    "introducao_alternativas": "Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3.390 pés.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "9.390 pés.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "11.200 pés.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "19.800 pés.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "50.800 pés.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6e1689a5-2521-407b-805a-2303d5ec18ee",
+    "title": "Questão M2778 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma indústria fabrica brindes promocionais em forma de pirâmide. A pirâmide é obtida a partir de quatro cortes em um sólido que tem a forma de um cubo. No esquema, estão indicados o sólido original (cubo) e a pirâmide obtida a partir dele. [IMAGEM_0] Os pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas AD, BC, AB e CD, nessa ordem. Após os cortes, são descartados quatro sólidos.",
+    "introducao_alternativas": "Os formatos dos sólidos descartados são",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2778_-_enem_2013_1c509400-3e55-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todos iguais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "todos diferentes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "três iguais e um diferente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "apenas dois iguais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "iguais dois a dois.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f791deee-279f-47fb-92d7-6d822c414120",
+    "title": "Questão M2779 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Você pode adaptar as atividades do seu dia a dia de uma forma que possa queimar mais calorias do que as gastas normalmente, conforme a relação seguinte: \n– Enquanto você fala ao telefone, faça agachamentos: 100 calorias gastas em 20 minutos. \n– Meia hora de supermercado: 100 calorias. \n– Cuidar do jardim por 30 minutos: 200 calorias. \n– Passear com o cachorro: 200 calorias em 30 minutos. \n– Tirar o pó dos móveis: 150 calorias em 30 minutos. \n– Lavar roupas por 30 minutos: 200 calorias. \nDisponível em: http://cyberdiet.terra.com.br. Acesso em: 27 abr. 2010 (adaptado). \nUma pessoa deseja executar essas atividades, porém, ajustando o tempo para que, em cada uma, gaste igualmente 200 calorias.",
+    "introducao_alternativas": "A partir dos ajustes, quanto tempo a mais será necessário para realizar todas as atividades?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60 minutos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "80 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "120 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "170 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8a869052-8014-4787-bbb2-dae4ac35b064",
+    "title": "Questão M2780 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.",
+    "introducao_alternativas": "Que medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 11,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,8 e 11,2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7,0 e 3,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "11,2 e 4,8.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "28,0 e 12,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "30,0 e 70,0.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b0cc2262-48cc-4c74-9498-85ab2b77b0be",
+    "title": "Questão M2781 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Observe as dicas para calcular a quantidade certa de alimentos e bebidas para as festas de fim de ano: \n– Para o prato principal, estime 250 gramas de carne para cada pessoa. \n– Um copo americano cheio de arroz rende o suficiente para quatro pessoas. \n– Para a farofa, calcule quatro colheres de sopa por convidado. \n– Uma garrafa de vinho serve seis pessoas. \n– Uma garrafa de cerveja serve duas. \n– Uma garrafa de espumante serve três convidados. \nQuem organiza festas faz esses cálculos em cima do total de convidados, independente do gosto de cada um. Quantidade certa de alimentos e bebidas evita o desperdício da ceia. Jornal Hoje. 17 dez. 2010 (adaptado). Um anfitrião decidiu seguir essas dicas ao se preparar para receber 30 convidados para a ceia de Natal.",
+    "introducao_alternativas": "Para seguir essas orientações à risca, o anfitrião deverá dispor de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "75 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7,5 kg de carne, 7 copos americanos, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,5 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ba542057-5b33-439c-b1fc-02808e622092",
+    "title": "Questão M2782 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "As frutas que antes se compravam por dúzias, hoje em dia, podem ser compradas por quilogramas, existindo também a variação dos preços de acordo com a época de produção. Considere que, independente da época ou variação de preço, certa fruta custa R$ 1,75 o quilograma.",
+    "introducao_alternativas": "Dos gráficos a seguir, o que representa o preço m pago em reais pela compra de n quilogramas desse produto é",
+    "assunto": "Função Afim",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2782_-_enem_2013_alt_A_95ad14f3-9bca-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2782_-_enem_2013_alt_B_0500f9c8-ad05-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2782_-_enem_2013_alt_C_35ac9980-5ffd-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2782_-_enem_2013_alt_D_68894747-c2ad-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2782_-_enem_2013_alt_E_5085c068-80e7-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d94a739f-ab83-4995-9560-d26fbeb1d018",
+    "title": "Questão M2783 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um bairro de uma cidade foi planejado em uma região plana, com ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho. No plano de coordenadas cartesianas seguinte, esse bairro localiza-se no segundo quadrante, e as distâncias nos eixos são dadas em quilômetros. [IMAGEM_0] A reta de equação y = x + 4 representa o planejamento do percurso da linha do metrô subterrâneo que atravessará o bairro e outras regiões da cidade. No ponto P = (-5, 5), localiza-se um hospital público. A comunidade solicitou ao comitê de planejamento que fosse prevista uma estação do metrô de modo que sua distância ao hospital, medida em linha reta, não fosse maior que 5 km.",
+    "introducao_alternativas": "Atendendo ao pedido da comunidade, o comitê argumentou corretamente que isso seria automaticamente satisfeito, pois já estava prevista a construção de uma estação no ponto",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2783_-_enem_2013_41746089-1f85-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(–5, 0).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(–3, 1).",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(–2, 1).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(0, 4).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(2, 6).",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c788aaec-c3cf-49af-bd1a-7d4a5c728466",
+    "title": "Questão M2784 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O Índice de Massa Corporal (IMC) é largamente utilizado há cerca de 200 anos, mas esse cálculo representa muito mais a corpulência que a adiposidade, uma vez que indivíduos musculosos e obesos podem apresentar o mesmo IMC. Uma nova pesquisa aponta o Índice de Adiposidade Corporal (IAC) como uma alternativa mais fidedigna para quantificar a gordura corporal, utilizando a medida do quadril e a altura. A figura mostra como calcular essas medidas, sabendo- se que, em mulheres, a adiposidade normal está entre 19% e 26%. [IMAGEM_0] Disponível em: http://www1.folha.uol.com.br. Acesso em: 24 abr. 2011(adaptado). Uma jovem com IMC = 20 kg/m², 100 cm de circunferência dos quadris e 60 kg de massa corpórea resolveu averiguar seu IAC.",
+    "introducao_alternativas": "Para se enquadrar aos níveis de normalidade de gordura corporal, a atitude adequada que essa jovem deve ter diante da nova medida é (Use √3 = 1,7 e √1,7 = 1,3)",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2784_-_enem_2013_465a9145-bd28-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reduzir seu excesso de gordura em cerca de 1%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reduzir seu excesso de gordura em cerca de 27%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "manter seus níveis atuais de gordura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aumentar seu nível de gordura em cerca de 1%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "aumentar seu nível de gordura em cerca de 27%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_99468ff4-7c12-45b5-9ffc-70b3619c806d",
+    "title": "Questão M2785 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0] Disponível em: http://www.diaadia.pr.gov.br. Acesso em: 28 abr. 2010.",
+    "introducao_alternativas": "O polígono que dá forma a essa calçada é invariante por rotações, em torno de seu centro, de",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2785_-_enem_2013_87f9421d-88ff-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "45˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "90˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "120˚.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "180˚.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_524f75d3-fb04-44c2-9804-28dd49caefc0",
+    "title": "Questão M2786 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A tabela compara o consumo mensal, em kWh, dos consumidores residenciais e dos de baixa renda, antes e depois da redução da tarifa de energia no estado de Pernambuco. [IMAGEM_0] Diário de Pernambuco. 28 abr. 2010 (adaptado). Considere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh.",
+    "introducao_alternativas": "A diferença entre o gasto desses consumidores com 1 kWh, depois da redução da tarifa de energia, mais aproximada, é de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2786_-_enem_2013_6cb84215-ddd1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 0,27.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 0,29.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 0,32.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 0,34.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 0,61.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b51c6166-625e-447b-94a0-c236965abeb6",
+    "title": "Questão M2787 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um jovem investidor precisa escolher qual investimento lhe trará maior retorno financeiro em uma aplicação de R$ 500,00. Para isso, pesquisa o rendimento e o imposto a ser pago em dois investimentos: poupança e CDB (certificado de depósito bancário). [IMAGEM_0]",
+    "introducao_alternativas": "Para o jovem investidor, ao final de um mês, a aplicação mais vantajosa é",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2787_-_enem_2013_73380143-a9e1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a poupança, pois totalizará um montante de R$ 502,80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a poupança, pois totalizará um montante de R$ 500,56.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "o CDB, pois totalizará um montante de R$ 504,38.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "o CDB, pois totalizará um montante de R$ 504,21.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o CDB, pois totalizará um montante de R$ 500,87.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c4d88562-e7c9-4c2a-b59e-0a777ff2ea45",
+    "title": "Questão M2788 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3.800,00 gerado pela aplicação.",
+    "introducao_alternativas": "A quantia inicial que essa pessoa aplicou em ações corresponde ao valor de",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 4.222,22.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 4.523,80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 5.000,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 13.300,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 17.100,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bd9b624b-77f9-4489-bc08-2d71beb5e904",
+    "title": "Questão M2789 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4.800 W consome 4,8 kW por hora.",
+    "introducao_alternativas": "Uma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "11,2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "33,6",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bdd42b2a-df06-45da-90f7-49f1c56cf3f4",
+    "title": "Questão M2790 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km2 de área. Quando não chove, o homem do sertão e sua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo. Disponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010.",
+    "introducao_alternativas": "Segundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km², é de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H10",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "250.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,25.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,025.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

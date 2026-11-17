@@ -1,0 +1,2399 @@
+[
+  {
+    "id_externo": "Questao_6fcf82b6-e3f0-4cac-9856-b508ae794875",
+    "title": "Questão M0214 - UFSM 2013",
+    "banca": "UFSM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A safra nacional de grãos atingirá 192,3 milhões de toneladas neste ano, um crescimento de 2,2% em relação a 2013, quando foi de, aproximadamente, 188,1 milhões de toneladas. As estimativas são do Instituto Brasileiro de Geografia e Estatística (IBGE) e foram divulgadas na terça-feira, 10 de julho. O destaque na produção será a região Centro-Oeste responsável por 42% da produção nacional, seguida pela região Sul com 38% do total.",
+    "introducao_alternativas": "Qual será, aproximadamente, a quantidade, em milhões de toneladas, da produção da região Centro-Oeste em 2014?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "153,84.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "150,48.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "80,80.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "79,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "73,10.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_acc6eeeb-bb53-4270-b289-96ef83412a22",
+    "title": "Questão M1598 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um carpinteiro possui um cubo de madeira de volume 216 cm3 e deseja retirar o excesso de madeira para obter a esfera inscrita a esse cubo.",
+    "introducao_alternativas": "O volume dessa esfera será de",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "38π cm3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "36π cm3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "34π cm3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "32π cm3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "30π cm3.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_554d7e7b-ec04-48c9-962e-592b9ebb34fe",
+    "title": "Questão M1505 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para a construção de um teleférico, o engenheiro responsável decidiu utilizar um novo elevador de transporte de pessoas, com o objetivo de levar as pessoas do solo até o topo de um mirante. Testaram-se dois modelos de elevadores: o primeiro carrega 40 pessoas e demora 15 minutos para ir ao topo e retornar ao solo; o segundo carrega 60 pessoas por vez e demora 21 minutos para percorrer o mesmo trajeto. O engenheiro decide verificar quanto tempo o primeiro demora para carregar 280 pessoas até o topo e voltar. Em seguida, decide calcular a quantidade máxima de pessoas que o segundo elevador carregaria nesse mesmo tempo.",
+    "introducao_alternativas": "Nessas condições, a quantidade máxima de pessoas que o segundo elevador pode carregar é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "133.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "261.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "300.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "392.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "588.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_57e52329-2d8f-48a9-bb38-99f6d3a05f0a",
+    "title": "Questão M1519 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um automóvel foi anunciado com um financiamento “taxa zero” por R$24.000,00 (vinte e quatro mil reais), que poderiam ser pagos em doze parcelas iguais e sem entrada. Para efetivar a compra parcelada, no entanto, o consumidor precisaria pagar R$720,00 (setecentos e vinte reais) para cobrir despesas do cadastro.",
+    "introducao_alternativas": "Dessa forma, em relação ao valor anunciado, o comprador pagará um acréscimo",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inferior a 2,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "entre 2,5% e 3,5%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "entre 3,5% e 4,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "superior a 4,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3ff5d2f9-9465-4882-a404-8913896eae87",
+    "title": "Questão M1419 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma churrascaria, o assador leva 12 minutos para aquecer a churrasqueira e mais 22 minutos para assar um quilo de galeto.",
+    "introducao_alternativas": "Sabendo-se que a churrasqueira está fria, é correto afirmar que o tempo mínimo, em minutos, para assar uma quantidade de galeto que pesa 3,5 kg é de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "79",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "89",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "99",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "109",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e56c4623-7059-4060-b413-80fb0d17ed39",
+    "title": "Questão M0700 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Nos trabalhos científicos, números muito grandes ou próximos de zero, são escritos em notação científica, que consiste em um número x, tal que 1",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,45 × 10-9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,5 × 10-9",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "45 × 10-8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,5 × 10-10",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a4bd014e-7fa3-4e91-8e4c-7561881f2d97",
+    "title": "Questão M1688 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Abaixo está sendo representada uma sequência de triângulos que vai aumentado conforme o padrão apresentado. [IMAGEM_0]",
+    "introducao_alternativas": "Supondo que se mantenha constante o ritmo de aumento, qual o número de triângulos que obteremos na 60ª figura (somente nela)?",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1688_-_professor_ferretto_2013_d9b2bf0d-959a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "140",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "180",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "178",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "240",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "537",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f25db0a3-def8-4f60-9a25-d80c9a70be9e",
+    "title": "Questão M1683 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um jogador amador de tênis resolve registrar a quantidade de partidas que joga a cada semana. Nas últimas 7 semanas anotou os seguintes valores: 2, 7, 5, 3, 4, 7 e 8.",
+    "introducao_alternativas": "A mediana e a moda das partidas jogadas em cada semana são, respectivamente:",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 e 7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3 e 8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5 e 7",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5 e 8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5 e 9",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_85322b14-3063-45ae-bf38-5273042ce2d3",
+    "title": "Questão M2680 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma loja de departamentos fez uma pesquisa de opinião com 1.000 consumidores, para monitorar a qualidade de atendimento de seus serviços. Um dos consumidores que opinaram foi sorteado para receber um prêmio pela participação na pesquisa. A tabela mostra os resultados percentuais registrados na pesquisa, de acordo com as diferentes categorias tabuladas. [IMAGEM_0]",
+    "introducao_alternativas": "Se cada consumidor votou uma única vez, a probabilidade de o consumidor sorteado estar entre os que opinaram e ter votado na categoria péssimo é, aproximadamente,",
+    "assunto": "Probabilidade",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2680_-_unesp_2013_25135734-331f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "30%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "26%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "29%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "23%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6d205e65-43c8-4c5a-a20e-b048ddfd606f",
+    "title": "Questão M1594 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um dia frio, Érica prepara café para seus amigos e guarda-o em uma garrafa térmica de formato de um cilindro circular reto com fundo plano e diâmetro da base medindo 8,0 cm. Inicialmente, o nível do café está a 13 cm da base da garrafa, como ilustra a figura. Ricardo, que gosta muito de café, serve-se e enche completamente sua xícara, cujo interior é um cilindro reto de base plana, com diâmetro da base de 4 cm e altura de 7 cm. [IMAGEM_0] Considere π = 3.",
+    "introducao_alternativas": "Assim, é possível dizer que o volume de café restante na térmica é, em cm3, aproximadamente,",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1594_-_professor_ferretto_2013_16d0df5e-8426-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "250.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "380.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "540.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "620.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "800.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_96443502-f7e5-450f-88f7-49acad7d5e51",
+    "title": "Questão M2679 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para divulgar a venda de um galpão retangular de 5.000 m2, uma imobiliária elaborou um anúncio em que constava a planta simplificada do galpão, em escala, conforme mostra a figura. [IMAGEM_0]",
+    "introducao_alternativas": "O maior lado do galpão mede, em metros,",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2679_-_unesp_2013_a1f3cd56-5558-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "200.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "100.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_50cfc973-2016-43c9-ba25-f099e9a4dfdf",
+    "title": "Questão M0194 - EPCAR 2013",
+    "banca": "EPCAR",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa vai tomar um medicamento 3 vezes ao dia, durante 14 dias, em doses de 6 ml cada vez.",
+    "introducao_alternativas": "Se cada frasco contém 200 cm3 do medicamento, a quantidade do segundo frasco que NÃO será utilizada é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "menor que 75%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "exatamente 75%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "maior que 76%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "exatamente 76%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_502b42ac-0ff1-4ae8-b260-67e97514ee94",
+    "title": "Questão M0771 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um grupo de escoteiros resolveu amarrar uma árvore centenária, com 4 metros de diâmetro, utilizando pedaços de corda em torno de seu tronco. Considere que eles possuem pedaços de corda que medem, cada um, 0,4π metros.",
+    "introducao_alternativas": "Nessas condições, quantos pedaços de corda foram necessários para conseguir amarrar essa árvore?",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "10",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_635ea123-7ddc-4dc4-af0a-5c2148f88798",
+    "title": "Questão M0207 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura abaixo exibe, em porcentagem, a previsão da oferta de energia no Brasil em 2030, segundo o Plano Nacional de Energia. [IMAGEM_0] Segundo o plano, em 2030, a oferta total de energia do país irá atingir 557 milhões de tep (toneladas equivalentes de petróleo).",
+    "introducao_alternativas": "Nesse caso, podemos prever que a parcela oriunda de fontes renováveis, indicada em cinza na figura, equivalerá a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0207_-_unicamp_2013_1ff56d0c-c34d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "178,240 milhões de tep.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "297,995 milhões de tep.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "353,138 milhões de tep.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "259,562 milhões de tep.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2ff25184-3824-44ed-a045-4ece7243955d",
+    "title": "Questão M0649 - UFF 2013",
+    "banca": "UFF",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os gráficos I, II e III, a seguir, esboçados em uma mesma escala, ilustram modelos teóricos que descrevem a população de três espécies de pássaros ao longo do tempo. [IMAGEM_0] Sabe-se que a população da espécie A aumenta 20% ao ano, que a população da espécie B aumenta 100 pássaros ao ano e que a população da espécie C permanece estável ao longo dos anos.",
+    "introducao_alternativas": "Assim, a evolução das populações das espécies A, B e C, ao longo do tempo, correspondem, respectivamente, aos gráficos",
+    "assunto": "Estatística",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0649_-_uff_2013_dc844838-b0ac-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II, I e III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "III, I e II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "III, II e I.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4e929648-59c3-46b5-b6d6-dd777479929c",
+    "title": "Questão M0370 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Prato da culinária japonesa, o temaki é um tipo de sushi na forma de cone, enrolado externamente com nori, uma espécie de folha feita a partir de algas marinhas, e recheado com arroz, peixe cru, ovas de peixe, vegetais e uma pasta de maionese e cebolinha. [IMAGEM_0] Um temaki típico pode ser representado matematicamente por um cone circular reto em que o diâmetro da base mede 8 cm e a altura 10 cm.",
+    "introducao_alternativas": "Sabendo-se que, em um temaki típico de salmão, o peixe corresponde a 90% da massa do seu recheio, que a densidade do salmão é de 0,35 g/cm3, e tomando π=3 a quantidade aproximada de salmão, em gramas, nesse temaki, é de",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0370_-_unesp_2013_17e46807-522c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "46.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "58.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "54.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "50.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "62.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d376af38-2bf0-4aa2-a6b2-f9a3fab0f3d6",
+    "title": "Questão M0659 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma padaria vende doces a R$1,50 a unidade e salgados a R$1,10 a unidade. Foi realizada uma encomenda de 300 salgados e 100 doces. Na hora do pagamento da encomenda, o caixa se enganou e inverteu as quantidades, registrando 100 salgados e 300 doces.",
+    "introducao_alternativas": "Esse engano fez com que o valor cobrado fosse",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$80,00 a mais do que o valor correto.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$80,00 a menos do que o valor correto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$60,00 a mais do que o valor correto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$60,00 a menos do que o valor correto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "igual ao valor correto.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d779197e-dbcd-4077-ba17-1e195e5928d4",
+    "title": "Questão M0716 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empreiteira utilizou uma escavadeira para abrir uma vala.",
+    "introducao_alternativas": "Se essa máquina gastou 45 minutos para remover 5/8 do volume de terra, então o restante da terra deverá ser removido em:",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 hora.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "27 minutos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 hora e 10 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "30 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "35 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e1bd1fb5-cd08-40a1-a817-1892b6f52f50",
+    "title": "Questão M0625 - FER 2013",
+    "banca": "FER",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O número de bactérias de uma determinada cultura evolui, sob certas condições, conforme a função B(t) = 10 ·3t–1, em que B(t) expressa a quantidade de bactérias e t representa o tempo em horas.",
+    "introducao_alternativas": "Para atingir uma cultura de 810 bactérias, após o início do experimento, o tempo decorrido, em horas, corresponde a:",
+    "assunto": "Função Exponencial",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_77a27dab-b76b-411f-872f-4d94f762936c",
+    "title": "Questão M0698 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere que: - a distância média da Terra à Lua é de cerca de 400 000 km; e - a distância média da Terra ao Sol é de cerca de 150 milhões de quilômetros. Com base nessas informações, em relação à Terra, o Sol está N vezes mais longe do que a Lua.",
+    "introducao_alternativas": "O valor de N é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "450.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "425.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "400.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "375.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "350.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f5398bfc-e6cd-42a1-82f8-160a5d55622c",
+    "title": "Questão M0010 - UEMG 2013",
+    "banca": "UEMG",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa escolherá um plano de telefonia celular entre duas opções: A e B. [IMAGEM_0] Com base nessas informações, considere as seguintes afirmativas: I. Se a pessoa exceder 30 minutos de ligações para a mesma operadora, o plano A ficará mais vantajoso que o plano B. II. Se a pessoa usar apenas 60 minutos no mês, o melhor plano será o B. III. Se a pessoa exceder 10 minutos de ligações para a mesma operadora, os planos A e B ficarão equivalentes.",
+    "introducao_alternativas": "Assinale a alternativa CORRETA:",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0010_-_uemg_2013_b8adbea6-9911-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente II e III são verdadeiras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Somente II é verdadeira.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Somente I e III são verdadeiras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Somente III é verdadeira.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d466abd1-5832-4704-ba4d-c4949657781c",
+    "title": "Questão M0529 - ACAFE 2013",
+    "banca": "ACAFE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um dos perigos da alimentação humana são os microrganismos, que podem causar diversas doenças e até levar a óbito. Entre eles, podemos destacar a Salmonella. Atitudes simples como lavar as mãos, armazenar os alimentos em locais apropriados, ajudam a prevenir a contaminação pelos mesmos. Sabendo que certo microrganismo se prolifera rapidamente, dobrando sua população a cada 20 minutos, pode-se concluir que o tempo que a população de 100 microrganismos passará a ser composta de 3.",
+    "introducao_alternativas": "200 indivíduos é:",
+    "assunto": "Função Exponencial",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 h e 35 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 h e 40 min.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 h e 50 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 h e 55 min.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1dd1282b-f687-45ba-8695-96184193fed4",
+    "title": "Questão M0486 - UEG 2013",
+    "banca": "UEG",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O celular de Fabiano está com 50% de carga na bateria. Quando está completamente carregado, ele demora exatamente 20 horas para descarregar toda bateria em modo stand by, supondo-se que essa bateria se descarregue de forma linear. Ao utilizar o aparelho para brincar com um aplicativo a bateria passará a consumir 1% da carga a cada 3 minutos.",
+    "introducao_alternativas": "Quantos minutos Fabiano poderá brincar antes que a bateria se descarregue completamente?",
+    "assunto": "Função Afim",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Três horas",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Duas horas e meia",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Duas horas",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Uma hora e meia",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_eae7180b-6a61-4996-b5a5-2f225f0f7be5",
+    "title": "Questão M1458 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Entre as alternativas abaixo, assinale a de menor valor:",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(-1)3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "68",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "31",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "810",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fd62c1f4-2228-43a7-b18a-a49d38f5b9d4",
+    "title": "Questão M0781 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma laranja com formato esférico e com 6 cm de diâmetro foi descascada até a sua metade.",
+    "introducao_alternativas": "Considerando-se esses dados, verifica-se que a área total da casca retirada da laranja é de aproximadamente (use π=3,14)",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "48 cm2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "57 cm2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "74 cm2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "95 cm2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "100 cm2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1770e737-1066-4eb7-91e1-461a9cb7bd25",
+    "title": "Questão M0742 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um casal ao planejar sua viagem de férias estabeleceu uma programação quanto à quilometragem diária a ser percorrida durante os 20 dias que estarão viajando. Ficou decidido a seguinte regra: No primeiro dia, viajariam 500 km e, nos dias subsequentes, deveriam percorrer 20 km a mais que no dia anterior.",
+    "introducao_alternativas": "A partir das informações apresentadas, é correto afirmar que o casal, para cumprir o planejamento, deverá percorrer no mínimo:",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14.000 km",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "13.800 km",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "13.600 km",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "13.400 km",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "13.200 km",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b860b3ec-7510-472c-b901-e310ee67c306",
+    "title": "Questão M0302 - CPS 2013",
+    "banca": "CPS",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para se transpor um curso de água ou uma depressão de terreno pode-se construir uma ponte. Na imagem, vemos uma ponte estaiada, um tipo de ponte suspensa por cabos (estais) fixados em mastros. [IMAGEM_0] O esquema apresenta parte da estrutura de uma ponte estaiada do tipo denominado harpa, pois os estais são paralelos entre si. Cada estai tem uma extremidade fixada no mastro e a outra extremidade no tabuleiro da ponte (onde estão as vias de circulação). [IMAGEM_1] No esquema, considere que: - as retas AB e BC são perpendiculares entre si; - os segmentos AC e DE são paralelos entre si e representam estais subsequentes; - AB = 75 m, BC = 100 m e AD = 6 m; e, - no mastro dessa ponte, a partir do ponto A em sentido ao ponto B, as extremidades dos estais estão fixadas e distribuídas a iguais distâncias entre si.",
+    "introducao_alternativas": "Determine a distância entre os pontos E e C é, em metros,",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0302_-_cps_2013_5bad3328-6e4d-4.png",
+      "questao_m0302_-_cps_2013_7bed894b-d7e9-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "12",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "14",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c4a84ca9-ece3-43e8-8bb9-5c32776d5732",
+    "title": "Questão M0349 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um vulcão que entrou em erupção gerou uma nuvem de cinzas que atingiu rapidamente a cidade de Rio Grande, a 40 km de distância. Os voos com destino a cidades situadas em uma região circular com centro no vulcão e com raio 25% maior que a distância entre o vulcão e Rio Grande foram cancelados.",
+    "introducao_alternativas": "Nesse caso, a área da região que deixou de receber voos é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maior que 10000 km2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "menor que 8000 km2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "maior que 8000 km2 e menor que 9000 km2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "maior que 9000 km2 e menor que 10000 km2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0be49bef-c5e6-4abc-9bb9-723d317859a8",
+    "title": "Questão M0790 - UEPB 2013",
+    "banca": "UEPB",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Dada f(x) = x² + 2x + 5, o valor de f(f(-1)) é:",
+    "assunto": "Funções",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "– 56",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "85",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "– 29",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "29",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "– 85",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_306eaf95-2bee-4f90-a666-d1307d1f8105",
+    "title": "Questão M0660 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O caixa eletrônico de um banco foi abastecido apenas com cédulas de R$ 20,00 e de R$ 50,00. Um cliente, ao realizar um saque, constatou que o dispensador liberou 5 cédulas. Entre elas, havia pelo menos uma de cada valor.",
+    "introducao_alternativas": "Com base nesses dados, é correto afirmar que a única alternativa que apresenta uma quantia que poderia ter sido sacada pelo cliente é",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 120,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 140,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 160,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 180,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 200,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fcdfc49f-ea4f-4e1f-930f-0478da1a1a2a",
+    "title": "Questão M2471 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Luísa estava conversando com seu irmão ao telefone quando passou perto de uma feira de adoção de animais. Ela comentou que, na feira, havia cachorros, gatos e pintinhos. O irmão, curioso, perguntou-lhe quantos gatos havia. Luísa, que adora charadas matemáticas, limitou-se a dizer que a quantidade de gatos somada à quantidade de pintinhos era 4 a mais do que a quantidade de cachorros, e que a quantidade de gatos somada à quantidade de cachorros era 6 a mais do que a quantidade de pintinhos. O irmão de Luísa, que adora as aulas de matemática, rapidamente chegou à resposta correta.",
+    "introducao_alternativas": "Havia quantos gatos para adoção?",
+    "assunto": "Sistemas Lineares",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9fc61e78-a5e6-4276-804b-b0ddb01fa666",
+    "title": "Questão M0305 - UNIRIO 2013",
+    "banca": "UNIRIO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0] No desenho anterior apresentado, as frentes para a rua A dos quarteirões I e II medem, respectivamente, 250 m e 200 m, e a frente do quarteirão I para a rua B mede 40 m a mais do que a frente do quarteirão II para a mesma rua.",
+    "introducao_alternativas": "Sendo assim, pode-se afirmar que a medida, em metros, da frente do menor dos dois quarteirões para a rua B é:",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0305_-_unirio_2013_824a3841-8e39-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "160",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "180",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "200",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "220",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "240",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_60999006-0dc1-4ba0-85b8-a18d874dcdba",
+    "title": "Questão M0372 - UPE 2013",
+    "banca": "UPE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "Um torneiro mecânico construiu uma peça retirando, de um cilindro metálico maciço, uma forma cônica, de acordo com a figura 01 a seguir: Considere π=3 [IMAGEM_0] Qual é o volume aproximado da peça em milímetros cúbicos?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0372_-_upe_2013_531be75d-4379-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,16 x 105",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7,2 x 104",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,8 x 105",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8,32 x 104",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,14 x 105",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0ab8df95-60b8-49ec-be3c-a1384d2b6aaa",
+    "title": "Questão M0585 - UFRGS 2013",
+    "banca": "UFRGS",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "O gráfico abaixo mostra o registro das temperaturas máximas e mínimas em uma cidade, nos primeiros 21 dias do mês de setembro de 2013. [IMAGEM_0] Assinale a alternativa correta com base nos dados apresentados no gráfico.",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0585_-_ufrgs_2013_f44dd494-8d73-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No dia 13, foi registrada a menor temperatura mínima do período.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entre os dias 3 e 7, as temperaturas máximas foram aumentando dia a dia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Entre os dias 13 e 19, as temperaturas mínimas diminuíram dia a dia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "No dia 19, foi registrada a menor temperatura máxima do período.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "No dia 19, foi registrada a menor temperatura do período.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c0e93f4f-6f47-4615-ad3b-ed1efde7ab49",
+    "title": "Questão M2336 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "“Historiadores encontraram um mapa antigo onde não era possível identificar a escala do mapa. Com algum esforço e apoio de Geógrafos, foi possível avaliar a distância no mapa entre duas localidades como sendo de 20 centímetros. Buscando elementos na paisagem, foi possível quantificar a distância entre elas como equivalente a 40 quilômetros.” FITZ, Paulo Roberto. Cartografia Básica. São Paulo: Oficina de Textos, 2008 (Adaptado).",
+    "introducao_alternativas": "Com base nessas medidas, a escala numérica do mapa corresponde a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 11,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1:20.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1:200.000.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1:2.000.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1:2.200.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1:20.000.000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_116b0504-5189-49ca-9f1a-5ba92928f7d9",
+    "title": "Questão M2364 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um professor precisa elaborar uma prova multidisciplinar que consta de duas questões de Matemática e seis de Física. Ele deve escolher questões de um banco de dados que contém três questões de Matemática e oito de Física.",
+    "introducao_alternativas": "O número de provas distintas possíveis, sem levar em conta a ordem em que as questões aparecem, é:",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "42",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "54",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "62",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "72",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "84",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e10df74d-71ec-4afb-8f8d-c0d9550caf59",
+    "title": "Questão M1627 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O valor de uma casa, atualmente, é de R$ 280.000,00. Como a região será revitalizada com a plantação de árvores e a construção de uma praça, estima-se que tenha uma valorização linear com o tempo, de tal maneira que seu valor daqui a 3 anos seja de R$ 325.000,00.",
+    "introducao_alternativas": "Se as previsões estiverem corretas, o valor dessa casa daqui a 4 anos e 3 meses será de:",
+    "assunto": "Função Afim",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 346.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 345.250,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 344.500,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 343.750,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 343.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_172b48ea-f615-422f-bbaf-e068dd0bbca8",
+    "title": "Questão M2414 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma imobiliária exige dos novos locatários de imóveis o pagamento, ao final do primeiro mês no imóvel, de uma taxa, junto com a primeira mensalidade de aluguel. Rafael alugou um imóvel nessa imobiliária e pagou R$ 900,00 ao final do primeiro mês. No período de um ano de ocupação do imóvel, ele contabilizou gastos totais de R$ 6.950,00 com a locação do imóvel.",
+    "introducao_alternativas": "Na situação descrita, a taxa paga foi de",
+    "assunto": "Sistemas Lineares",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 450,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 250,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 300,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 350,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 550,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b1be643e-62d7-4adc-b018-fd3f16524cea",
+    "title": "Questão M0580 - UFRN 2013",
+    "banca": "UFRN",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O Triatlo Olímpico é uma modalidade de competição que envolve três etapas. Na primeira etapa, os competidores enfrentam 1,5 Km de natação em mar aberto; na segunda etapa, eles percorrem 40 Km de corrida ciclística; e, na terceira etapa, participam de uma meia maratona de 10 km.",
+    "introducao_alternativas": "O gráfico que melhor representa, aproximadamente, a distância percorrida, em quilômetros, por um atleta que completa a prova durante as duas horas da competição é:",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0580_-_ufrn_2013_alt_A_9f2c1cb3-15c6-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0580_-_ufrn_2013_alt_B_3f76be03-83b8-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m0580_-_ufrn_2013_alt_C_cc27191b-07ba-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0580_-_ufrn_2013_alt_D_c0ce1b95-3ccb-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e068dcd4-12fe-4f19-92c6-71734bc6f79d",
+    "title": "Questão M0760 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um pomar em formato triangular é composto por folhagens e árvores frutíferas onde as divisões são todas paralelas à base AB do triângulo ABC, conforme figura. [IMAGEM_0]",
+    "introducao_alternativas": "Sendo assim, as medidas x e y do pomar são, respectivamente:",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0760_-_professor_ferretto_2013_8aeb0cf1-81c1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 cm e 50 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "28 cm e 56 cm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "50 cm e 30 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "56 cm e 28 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "40 cm e 20 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3899011a-fc9f-457a-94f5-6bc65c9b71fd",
+    "title": "Questão M2462 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma lanchonete recebeu uma encomenda de 65 copos de sucos de frutas. Até 3 sabores podem ser misturados dentro do copo, sendo eles: abacaxi, laranja e morango. O diagrama a seguir representa algumas quantidades produzidas de cada tipo de suco. Por exemplo, foram pedidos 10 sucos exclusivamente de abacaxi e 6 sucos usando somente laranja e morango. [IMAGEM_0] Os sucos foram colocados em copos não rotulados.",
+    "introducao_alternativas": "Se uma pessoa escolher um copo ao acaso, qual a probabilidade de que ela tome um suco que tenha exatamente dois sabores?",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2462_-_unicamp_2013_94308927-c69a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5/13.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7/22.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2/7.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7c973f27-4189-45fa-b5b1-9d398bc027ef",
+    "title": "Questão M0729 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um empresário, devido à alta da inflação e para não repassar o aumento dos custos aos seus clientes, decidiu que no próximo mês 10% do volume do suco de uva que ele comercializa será composto por água, volume que atualmente é de apenas 4%.",
+    "introducao_alternativas": "Hoje são consumidos 10 mil litros de água no volume de suco de uva produzido, mantendo-se a mesma quantidade produzida, no próximo mês a quantidade de água consumida no volume desse suco será de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.000 litros",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "12.500 litros",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "16.000 litros",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "25.000 litros",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e45a112c-3858-4767-a930-1d9cf3e1df9b",
+    "title": "Questão M1577 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Cada uma das bolas da figura deverá ser pintada com uma cor, escolhida dentre três disponíveis. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1577_-_professor_ferretto_2013_d0db57f1-5c8a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "72",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "68",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "60",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "54",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "48",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_08fbea45-8fce-43d9-98c4-982980737c7d",
+    "title": "Questão M0303 - UFSM 2013",
+    "banca": "UFSM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A crise energética tem levado as médias e grandes empresas a buscarem alternativas na geração de energia elétrica para a manutenção do maquinário. Uma alternativa encontrada por uma fábrica foi a de construir uma pequena hidrelétrica, aproveitando a correnteza de um rio que passa próximo às suas instalações. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0303_-_ufsm_2013_1b2250e6-6535-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "33 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "38 m",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "43 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "48 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "53 m",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ea07eaa3-eae0-49d1-aadc-fe9bc2b287c3",
+    "title": "Questão M0765 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um ginásio de esportes, uma quadra retangular está situada no interior de uma pista de corridas circular, como mostra a figura. [IMAGEM_0]",
+    "introducao_alternativas": "A área interior à pista, excedente à da quadra retangular, em m2 é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0765_-_professor_ferretto_2013_1223f355-9b79-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50π – 48",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25π – 48",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "25π – 24",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "25/2π – 24",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10π – 30",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_70d37887-e00b-467d-8580-265e4dd83a9b",
+    "title": "Questão M0855 - PUCRS 2013",
+    "banca": "PUCRS",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A pressão arterial é a pressão que o sangue exerce sobre as paredes das artérias. Ela atinge o valor máximo (pressão sistólica) quando os ventrículos se contraem, e o valor mínimo (pressão diastólica) quando eles estão em repouso. Suponhamos que a variação da pressão arterial (em mmHg) de um cidadão portoalegrense em função do tempo (em segundos) é dada por P(t) = 100 – 20·cos (8π/3·t).",
+    "introducao_alternativas": "Diante disso, os valores da pressão diastólica e sistólica, em mmHg são iguais, respectivamente, a",
+    "assunto": "Trigonometria",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 e 100",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60 e 120",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "80 e 120",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "80 e 130",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "90 e 120",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_573d04a1-374b-4732-b419-cad7e58945f9",
+    "title": "Questão M2463 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Ana está treinando as habilidades matemáticas de seu irmão mais novo. Ela escolheu dois números reais x, y e avisou para seu irmão que os números satisfazem às desigualdades | x – 2 | ≤ 2 e | y – 3 | ≤ 1.",
+    "introducao_alternativas": "O que o irmão de Ana pode concluir corretamente sobre esses números?",
+    "assunto": "Módulo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "x2 + y2 ≤ 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "x + y ≥ 10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "x + y ≤ 8.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "x2 + y2 ≥ 36.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d4273d3e-6637-4214-8072-8e793b34dfc9",
+    "title": "Questão M1536 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico representa a função real definida por f(x) = a x + b. [IMAGEM_0]",
+    "introducao_alternativas": "O valor de a + b é igual a",
+    "assunto": "Função Afim",
+    "competencia": 4,
+    "habilidade": 19,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m1536_-_professor_ferretto_2013_5e19c39b-98ca-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,5.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,0.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e4cc75a3-6848-46d7-8da5-8e2a55915d90",
+    "title": "Questão M0386 - IFPE 2013",
+    "banca": "IFPE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na residência de Laércio, há uma caixa d’água vazia com capacidade de 5 metros cúbicos. Ele vai encher a caixa trazendo água de um poço próximo, em uma lata cuja base é um quadrado de lado 40 cm e cuja altura é 50 cm.",
+    "introducao_alternativas": "Qual é o número mínimo de vezes que Laércio precisará ir ao poço até encher integralmente a caixa d’água?",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "67",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "52",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "55",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "63",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "56",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5fc02d12-8133-460d-b8b5-e26a860be32a",
+    "title": "Questão M0777 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um reservatório de água, de formato cônico, com raio da tampa circular igual a 8 metros e altura igual a 9 metros, será substituído por outro de forma cúbica, de aresta igual a 10 metros.",
+    "introducao_alternativas": "Estando o reservatório cônico completamente cheio, ao se transferir a água para o reservatório cúbico, a altura do nível atingida pela água será de (considere π = 3)",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5,76 m",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,43 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6,38 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8,74 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,22 m",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

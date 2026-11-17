@@ -23,6 +23,12 @@ def main():
         parser.error('--batch-size precisa ser maior que zero')
 
     df = pd.read_csv(args.csv)
+    if 'text_source' in df.columns:
+        api_ok=df.get('api_match',pd.Series('',index=df.index)).eq('confirmed')
+        allowed=(df['text_source'].eq('ENEM.DEV') & api_ok) | \
+                 (df['text_source'].eq('QuestoesEnem') & df['metadata_match_status'].eq('confirmed'))
+        df = df[allowed].copy()
+        print(f'Textos API/fallback confirmados: {len(df)} linhas', flush=True)
     required = {'text', 'itemCode', 'a', 'b', 'c'}
     missing = required - set(df.columns)
     if missing:
@@ -36,14 +42,23 @@ def main():
 
     # Vetoriza cada texto único uma vez; provas diferentes podem repetir o mesmo item.
     unique_texts = df['text'].drop_duplicates().tolist()
-    vectors, _engine = encode_texts(unique_texts, batch_size=args.batch_size)
-    if len(vectors) != len(unique_texts) or any(len(vector) != DIMENSIONS for vector in vectors):
-        raise RuntimeError(f'Esperava embeddings de {DIMENSIONS} dimensões para cada texto.')
-
-    vector_by_text = {
-        text: json.dumps(vector, separators=(',', ':'), allow_nan=False)
-        for text, vector in zip(unique_texts, vectors)
-    }
+    vector_by_text = {}
+    if args.out.exists():
+        try:
+            old=pd.read_csv(args.out,usecols=['text','embedding'])
+            for text,vector in old.dropna().itertuples(index=False,name=None):
+                if isinstance(vector,str) and len(json.loads(vector))==DIMENSIONS:
+                    vector_by_text[text]=vector
+        except (ValueError,OSError,TypeError,json.JSONDecodeError):
+            vector_by_text={}
+    missing_texts=[text for text in unique_texts if text not in vector_by_text]
+    print(f'Embeddings reutilizados: {len(unique_texts)-len(missing_texts)}; novos: {len(missing_texts)}',flush=True)
+    if missing_texts:
+        vectors, _engine = encode_texts(missing_texts, batch_size=args.batch_size)
+        if len(vectors) != len(missing_texts) or any(len(vector) != DIMENSIONS for vector in vectors):
+            raise RuntimeError(f'Esperava embeddings de {DIMENSIONS} dimensões para cada texto.')
+        vector_by_text.update({text:json.dumps(vector,separators=(',', ':'),allow_nan=False)
+                               for text,vector in zip(missing_texts,vectors)})
     df['embedding'] = df['text'].map(vector_by_text)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(args.out, index=False, encoding='utf-8-sig')
@@ -56,6 +71,7 @@ def main():
         'rows': len(df),
         'uniqueTexts': len(unique_texts),
         'sourceCsv': str(args.csv),
+        'sourceMtimeNs': args.csv.stat().st_mtime_ns,
     }, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'{len(df)} linhas com embeddings de {DIMENSIONS} dimensões -> {args.out}')
     print(f'Metadados -> {metadata_path}')

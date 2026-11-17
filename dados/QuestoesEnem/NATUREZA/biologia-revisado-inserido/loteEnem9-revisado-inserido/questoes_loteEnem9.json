@@ -1,0 +1,2479 @@
+[
+  {
+    "id_externo": "Questao_68d4376e-541b-4bdb-8897-133aaabeeb4b",
+    "title": "Questão B0237 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Em 1950, Erwin Chargaff e colaboradores estudavam a composição química do DNA e observaram que a quantidade de adenina (A) é igual à de timina (T), e a quantidade de guanina (G) é igual à de citosina (C) na grande maioria das fitas duplas de DNA. Em outras palavras, esses cientistas descobriram que o total de purinas (A + G) e o total de pirimidinas (C + T) eram iguais. Um professor trabalhou esses conceitos em sala de aula e apresentou como exemplo uma fita simples de DNA com 20 adeninas, 25 timinas, 30 guaninas e 25 citosinas.",
+    "introducao_alternativas": "Qual a quantidade de cada um dos nucleotídeos, quando considerada a dupla fita de DNA formada pela fita simples exemplificada pelo professor?",
+    "assunto": "Biologia Molecular e Engenharia Genética",
+    "competencia": 8,
+    "habilidade": 15,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adenina: 20; Timina: 25; Guanina: 25; Citosina: 30.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adenina: 25; Timina: 20; Guanina: 45; Citosina: 45.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adenina: 45; Timina: 45; Guanina: 55; Citosina: 55.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Adenina: 50; Timina: 50; Guanina: 50; Citosina: 50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Adenina: 55; Timina: 55; Guanina: 45; Citosina: 45.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_795a65b6-ed76-4b20-b317-3e668bd82065",
+    "title": "Questão B0548 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.",
+    "introducao_alternativas": "Uma característica da mitocôndria que sustenta essa teoria é a",
+    "assunto": "Bioenergética",
+    "competencia": 4,
+    "habilidade": 16,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Capacidade de produzir moléculas de ATP.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de parede celular semelhante à de procariontes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c3212f6f-1a9d-4a13-8d1a-5b23f2c0ae3b",
+    "title": "Questão B0598 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Um molusco, que vive no litoral oeste dos EUA, pode redefinir tudo o que se sabe sobre a divisão entre animais e vegetais. Isso porque o molusco (Elysia chlorotica) é um híbrido de bicho com planta. Cientistas americanos descobriram que o molusco conseguiu incorporar um gene das algas e, por isso, desenvolveu a capacidade de fazer fotossíntese. É o primeiro animal a se “alimentar” apenas de luz e CO2, como as plantas. GARATONI, B. Superinteressante. Edição 276, mar. 2010 (adaptado).",
+    "introducao_alternativas": "A capacidade de o molusco fazer fotossíntese deve estar associada ao fato de o gene incorporado permitir que ele passe a sintetizar",
+    "assunto": "Bioenergética",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "clorofila, que utiliza a energia do carbono para produzir glicose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "citocromo, que utiliza a energia da água para formar oxigênio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "clorofila, que doa elétrons para converter gás carbônico em oxigênio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "citocromo, que doa elétrons da energia luminosa para produzir glicose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "clorofila, que transfere a energia da luz para compostos orgânicos.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_624f1105-afc1-4c44-a41e-41d8f28c676e",
+    "title": "Questão B3742 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A Caatinga é o único bioma exclusivamente brasileiro, ocupando cerca de 7% a 10% do território nacional. Nesse ambiente seco, mesmo quando chove, não há acúmulo de água, pois o solo é raso e pedregoso. Assim, as plantas desse bioma possuem modificações em suas raízes, caules e folhas, que permitem melhor adaptação a esse ambiente, contra a perda de água e de nutrientes. Geralmente, seus caules são suculentos e suas folhas possuem forma de espinhos e cutículas altamente impermeáveis, que apresentam queda na estação seca. Disponível em: www.ambientebrasil.com.br. Acesso em: 21 maio 2010 (adaptado).",
+    "introducao_alternativas": "Considerando as adaptações nos órgãos vegetativos, a principal característica das raízes dessas plantas, que atribui sua maior adaptação à Caatinga, é o(a)",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "armazenamento de nutrientes por um sistema radicular aéreo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fixação do vegetal ao solo por um sistema radicular do tipo tuberoso.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "fixação do vegetal ao substrato por um sistema radicular do tipo sugador.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "absorção de água por um sistema radicular desenvolvido e profundo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "armazenamento de água do solo por um sistema radicular do tipo respiratório.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6b056002-16ab-42ae-9cc8-77feaf84e057",
+    "title": "Questão B1908 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "No heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é o padrão de herança observado para essa doença?",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_b1908_-_enem_11f2433e-5741-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dominante autossômico, pois a doença aparece em ambos os sexos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4ed7f880-2271-4182-b22a-61456f0bdd9c",
+    "title": "Questão B3895 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino. DIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado).",
+    "introducao_alternativas": "A redução da produção desses hormônios nessa fase está relacionada com o(a)",
+    "assunto": "Reprodução Humana",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "regressão do corpo lúteo ovariano.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "diminuição na produção de ocitocina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "liberação do gameta feminino na ovulação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aumento nos níveis dos hormônios LH e FSH.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "elevação nos níveis sorológicos de adrenalina.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e281fc6b-ffee-4739-bb1c-63d3589951b8",
+    "title": "Questão B3953 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Um anatomista vegetal, examinando os tecidos de uma espécie de angiosperma, evidenciou a presença de: I. epiderme com cutícula fina; II. aerênquima bem desenvolvido; III. feixes vasculares pouco desenvolvidos; IV. estômatos na face superior das folhas.",
+    "introducao_alternativas": "Em que local pode ser encontrado esse vegetal?",
+    "assunto": "Botânica",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em uma restinga, ambiente com solo arenoso e alta luminosidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Em um ambiente aquático, onde há grande disponibilidade hídrica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "No cerrado, ambiente com solo pobre em nutrientes e sujeito a queimadas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Em uma floresta, ambiente com boa disponibilidade hídrica e rica diversidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Em um afloramento rochoso, ambiente com pouco solo e muita luminosidade.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0554362d-1edc-4ec1-a691-51ca238e2cb4",
+    "title": "Questão B2332 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Três dos quatro tipos de testes atualmente empregados para a detecção de príons patogênicos em tecidos cerebrais de gado morto são mostrados nas figuras a seguir. Uma vez identificado um animal morto infectado, funcionários das agências de saúde pública e fazendeiros podem removê-lo do suprimento alimentar ou rastrear os alimentos infectados que o animal possa ter consumido. [IMAGEM_0]",
+    "introducao_alternativas": "Analisando os testes I, II e III, para a detecção de príons patogênicos, identifique as condições em que os resultados foram positivos para a presença de príons nos três testes:",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b2332_-_enem_0857bc46-8e0e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Animal A, lâmina B e gel A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Animal A, lâmina A e gel B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Animal B, lâmina A e gel B.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Animal B, lâmina B e gel A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Animal A, lâmina B e gel B.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_90ce70c9-0dea-4701-b580-7ed340532aac",
+    "title": "Questão B3990 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "As anfetaminas são drogas sintéticas utilizadas como moderadores de apetite no tratamento de obesidade. Essas drogas atuam sobre receptores celulares estimulando a produção de adrenalina, um hormônio catabólico responsável por várias funções fisiológicas no organismo. Entretanto, a produção exagerada desse hormônio pode gerar mudanças fisiológicas indesejáveis e até perigosas para a saúde.",
+    "introducao_alternativas": "A alteração fisiológica observada pelo uso indevido dessas drogas é o(a)",
+    "assunto": "Fisiologia Animal",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diminuição da pressão arterial.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "diminuição da frequência cardíaca.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "aumento da contração dos brônquios.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aumento das secreções gastrointestinais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "aumento da concentração de glicose sanguínea.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7ed317d5-fb17-4479-8415-4a89b704d2a1",
+    "title": "Questão B0080  - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O esquema representa, de maneira simplificada, o processo de produção de etanol utilizando milho como matéria-prima. [IMAGEM_0]",
+    "introducao_alternativas": "A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que",
+    "assunto": "Bioquímica",
+    "competencia": 7,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b0080_-_enem_5cabedda-6ff8-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a glicose seja convertida em sacarose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "as enzimas dessa planta sejam ativadas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a maceração favoreça a solubilização em água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "o amido seja transformado em substratos utilizáveis pela levedura.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "os grãos com diferentes composições químicas sejam padronizados.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3f9cfec4-b7c3-40ea-b1db-cdf3aea4b484",
+    "title": "Questão B3807 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A Lei Federal n.º 9.985/2000, que instituiu o sistema nacional de unidades de conservação, define dois tipos de áreas protegidas. O primeiro, as unidades de proteção integral, tem por objetivo preservar a natureza, admitindo-se apenas o uso indireto dos seus recursos naturais, isto é, aquele que não envolve consumo, coleta, dano ou destruição dos recursos naturais. O segundo, as unidades de uso sustentável, tem por função compatibilizar a conservação da natureza com o uso sustentável de parcela dos recursos naturais. Nesse caso, permite-se a exploração do ambiente de maneira a garantir a perenidade dos recursos ambientais renováveis e dos processos ecológicos, mantendo-se a biodiversidade e os demais atributos ecológicos, de forma socialmente justa e economicamente viável. Considerando essas informações, analise a seguinte situação hipotética. Ao discutir a aplicação de recursos disponíveis para o desenvolvimento de determinada região, organizações civis, universidade e governo resolveram investir na utilização de uma unidade de proteção integral, o Parque Nacional do Morro do Pindaré, e de uma unidade de uso sustentável, a Floresta Nacional do Sabiá. Depois das discussões, a equipe resolveu levar adiante três projetos: - o projeto I consiste de pesquisas científicas embasadas exclusivamente na observação de animais; - o projeto II inclui a construção de uma escola e de um centro de vivência; - o projeto III promove a organização de uma comunidade extrativista que poderá coletar e explorar comercialmente frutas e sementes nativas.",
+    "introducao_alternativas": "Nessa situação hipotética, atendendo-se à lei mencionada acima, é possível desenvolver tanto na unidade de proteção integral quanto na de uso sustentável",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas o projeto I.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "apenas o projeto III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "apenas os projetos I e II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "apenas os projetos II e III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "todos os três projetos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1b051f38-551f-4af1-9864-0e060cbc602c",
+    "title": "Questão B3128 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os corais funcionam como termômetros, capazes de indicar, mudando de coloração, pequenas alterações na temperatura da água dos oceanos. Mas, um alerta, eles estão ficando brancos. O seu clareamento progressivo acontece pela perda de minúsculas algas, chamadas zooxantelas, que vivem dentro de seus tecidos, numa relação de mutualismo. Disponível em: http://super.abril.com.br Acesso em: 6 dez. 2012 (adaptado).",
+    "introducao_alternativas": "O desequilíbrio dessa relação faz com que os pólipos que formam os corais tenham dificuldade em",
+    "assunto": "Zoologia",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produzir o próprio alimento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Obter compostos nitrogenados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar a reprodução sexuada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Absorver o oxigênio dissolvido na água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Adquirir nutrientes derivados da fotossíntese.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b2cd3d6c-2656-4f70-8e73-a734a89151cd",
+    "title": "Questão B0001 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Apesar da grande diversidade biológica, a hipótese de que a vida na Terra tenha tido uma única origem comum é aceita pela comunidade científica. Uma evidência que apoia essa hipótese é a observação de processos biológicos comuns a todos os seres vivos atualmente existentes.",
+    "introducao_alternativas": "Um exemplo de tal processo é o(a)",
+    "assunto": "Introdução à Biologia",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "desenvolvimento embrionário.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reprodução sexuada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "respiração aeróbica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "excreção urinária.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "síntese proteica.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b53be3e0-5dea-4523-a0f5-e837cb4ace67",
+    "title": "Questão B3981 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Um dos fármacos usados como quimioterápico contra o câncer é a colchicina. Ela age como um bloqueador da divisão celular, intervindo na polimerização dos microtúbulos, formadores das fibras do fuso acromático, inibindo, assim, o crescimento do tumor.",
+    "introducao_alternativas": "A colchicina age no tratamento do câncer, pois",
+    "assunto": "Núcleo e Divisão Celular",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inibe a atividade das mitocôndrias, diminuindo a produção de ATP.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "bloqueia a síntese proteica, o que impede a polimerização dos microtúbulos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "impede a polimerização do fuso, que promove a condensação da cromatina nuclear.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "causa a despolimerização de proteínas do fuso, impedindo a separação das células-filhas no final da mitose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "promove a despolimerização das fibras do fuso, impossibilitando a separação dos cromossomos na divisão.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bdc277fc-20f2-4091-956f-7b8213eca7e4",
+    "title": "Questão B0171 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Há processos industriais que envolvem reações químicas na obtenção de diversos produtos ou bens consumidos pelo homem. Determinadas etapas de obtenção desses produtos empregam catalisadores químicos tradicionais, que têm sido, na medida do possível, substituídos por enzimas.",
+    "introducao_alternativas": "Em processos industriais, uma das vantagens de se substituírem os catalisadores químicos tradicionais por enzimas decorre do fato de estas serem",
+    "assunto": "Bioquímica",
+    "competencia": 7,
+    "habilidade": 27,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "consumidas durante o processo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "compostos orgânicos e biodegradáveis.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "inespecíficas para os substratos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "estáveis em variações de temperatura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "substratos nas reações químicas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b6dca29d-8edc-411a-8e15-2048a4305007",
+    "title": "Questão B4038 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Um laboratório farmacêutico desenvolveu um anestésico tópico, em forma de creme, destinado à aplicação na pele de pacientes a serem submetidos a pequenas intervenções dermatológicas. As nanocápsulas são feitas de um polímero 100% biodegradável, dotadas de paredes semipermeáveis, e têm um núcleo oleoso que contém os princípios ativos prilocaína e lidocaína. O nanoanestésico é responsável pelo transporte e entrega dos princípios ativos à região desejada do organismo. [IMAGEM_0]",
+    "introducao_alternativas": "A utilização dessas nanocápsulas implica o(a)",
+    "assunto": "Histologia Animal",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b4038_-_enem_ppl_59e7f7a1-a94e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diminuição do tempo de vida do fármaco, pela migração do medicamento da epiderme para a hipoderme.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "facilidade de sua absorção na epiderme, pela interação do núcleo oleoso com a camada de gordura da pele.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "acréscimo da concentração dos princípios ativos do anestésico na epiderme, ampliando sua região de atuação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "utilização de uma maior quantidade do creme, para manter a eficiência da droga mesmo com a miniaturização da cápsula.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "aumento do transporte e da absorção dos princípios ativos, à medida que elas se degradam ao migrarem da epiderme para a derme.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_636b1510-2f80-4c5e-acfc-b89d2fe80bf8",
+    "title": "Questão B0187 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os efeitos dos antiinflamatórios estão associados à presença de inibidores da enzima chamada ciclooxigenase 2 (COX-2). Essa enzima degrada substâncias liberadas de tecidos lesados e as transforma em prostaglandinas pró-inflamatórias, responsáveis pelo aparecimento de dor e inchaço. Os antiinflamatórios produzem efeitos colaterais decorrentes da inibição de uma outra enzima, a COX-1, responsável pela formação de prostaglandinas, protetoras da mucosa gastrintestinal. O esquema abaixo mostra alguns antiinflamatórios (nome genérico). As setas indicam a maior ou a menor afinidade dessas substâncias pelas duas enzimas. [IMAGEM_0]",
+    "introducao_alternativas": "Com base nessas informações, e correto concluir-se que",
+    "assunto": "Bioquímica",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b0187_-_enem_810e3b46-1948-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o piroxicam é o antiinflamatório que mais pode interferir na formação de prostaglandinas protetoras da mucosa gastrintestinal.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "o rofecoxibe é o antiinflamatório que tem a maior afinidade pela enzima COX-1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a aspirina tem o mesmo grau de afinidade pelas duas enzimas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "o diclofenaco, pela posição que ocupa no esquema, tem sua atividade antiinflamatória neutralizada pelas duas enzimas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o nimesulide apresenta o mesmo grau de afinidade pelas enzimas COX-1 e COX-2.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0092ff28-18f4-4273-94ec-84e3d876fd27",
+    "title": "Questão B3876 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar. SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+    "introducao_alternativas": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+    "assunto": "Bioenergética",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicólise.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fermentação lática.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ciclo do ácido cítrico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Oxidação do piruvato.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fosforilação oxidativa.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7976903b-df8c-4a1f-a58b-449ee029ce1e",
+    "title": "Questão B2654 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números. [IMAGEM_0] CAMPBELL, N. et al. Biologia. São Paulo: Artmed, 2010 (adaptado).",
+    "introducao_alternativas": "A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número",
+    "assunto": "Botânica",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b2654_-_enem_f53c2a28-cd5e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7eecbb55-3ac0-4df4-8063-52ed2e0ff704",
+    "title": "Questão B1820 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Em um hospital havia cinco lotes de bolsas de sangue, rotulados com os códigos I, II, III, IV e V. Cada lote continha apenas um tipo sanguíneo não identificado. Uma funcionária do hospital resolveu fazer a identificação utilizando dois tipos de soro, anti-A e anti-B. Os resultados obtidos estão descritos no quadro. [IMAGEM_0]",
+    "introducao_alternativas": "Quantos litros de sangue eram do grupo sanguíneo do tipo A?",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_b1820_-_enem_ae2f6821-8b87-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "30.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "33.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "55.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0ef6f6d4-84cf-4107-af12-72dd026d3408",
+    "title": "Questão B3989 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O tratamento do esgoto gerado por fábricas e residências pode se tornar mais acessível em virtude de uma nova proposta tecnológica, que utiliza um reator capaz de transformar nitrogênio orgânico, presente no esgoto, em nitrogênio inorgânico. A tecnologia prevê o uso de um cilindro de acrílico com espuma de poliuretano em seu interior, sob a qual se fixam bactérias capazes de tratar o efluente. As bactérias que ficam no exterior da espuma realizam reações de nitrificação desse substrato, e as que ficam no interior da espuma realizam reações de desnitrificação. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 25 jun. 2015 (adaptado).",
+    "introducao_alternativas": "Na primeira etapa do processo, que ocorre no exterior da espuma, a ação das bactérias consiste em",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "converter nitrogênio gasoso (N2) em fertilizante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "usar CO2 para converter nitrato em nitrogênio gasoso (N2).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "transformar a matéria orgânica morta em íons amônio (NH4+).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "capturar nitrogênio gasoso (N2) e convertê-lo em amônia (NH3).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "utilizar O2 para transformar amônia (NH3) em nitrito e, após, em nitrato.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fd9f2d49-c055-4a61-8c44-eba2ec0e7f62",
+    "title": "Questão B3940 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "As fêmeas do mosquito da dengue, Aedes aegypti, têm um olfato extremamente refinado. Além de identificar as coleções de águas para oviposição, elas são capazes de detectar de forma precisa e eficaz a presença humana pela interpretação de moléculas de odor eliminadas durante a sudorese. Após perceber o indivíduo, voam rapidamente em direção à fonte alimentar, iniciando o repasto sanguíneo durante o qual podem transmitir o vírus da dengue. Portanto, o olfato desempenha um papel importante para a sobrevivência dessa espécie. GUIDOBALDI, F.; MAY-CONCHA, I. J.; GUERENSTEIN, P. G. Morphology and Physiology of the Olfactory System of Blood-Feeding Insects. Journal of Physiology-Paris, n. 2-3, abr.-jun. 2014 (adaptado).",
+    "introducao_alternativas": "Medidas que interferem na localização do hospedeiro pelo vetor por meio dessa modalidade sensorial incluem a",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colocação de telas nas janelas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "eliminação de locais de oviposição.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "instalação de borrifadores de água em locais abertos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "conscientização para a necessidade de banhos diários.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "utilização de cremes ou pomadas com princípios ativos.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_78b6082a-a73e-4c6e-aa60-77fbb449d382",
+    "title": "Questão B1721 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Gregor Mendel, no século XIX, investigou os mecanismos da herança genética observando algumas características de plantas de ervilha, como a produção de sementes lisas (dominante) ou rugosas (recessiva), característica determinada por um par de alelos com dominância completa. Ele acreditava que a herança era transmitida por fatores que, mesmo não percebidos nas características visíveis (fenótipo) de plantas híbridas (resultantes de cruzamentos de linhagens puras), estariam presentes e se manifestariam em gerações futuras.",
+    "introducao_alternativas": "A autofecundação que fornece dados para corroborar a ideia dos fatores idealizada por Mendel ocorre entre plantas",
+    "assunto": "Genética",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Facil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "híbridas, de fenótipo dominante, que produzem apenas sementes lisas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "híbridas, de fenótipo dominante, que produzem sementes lisas e rugosas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "de linhagem pura, de fenótipo dominante, que produzem apenas sementes lisas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "de linhagem pura, de fenótipo recessivo, que produzem sementes lisas e rugosas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "de linhagem pura, de fenótipo recessivo, que produzem apenas sementes rugosas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b80498a1-ad21-4b3a-8100-04f951ff4e65",
+    "title": "Questão B3150 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Conhecer o mecanismo de transmissão e disseminação de uma dada enfermidade é de muita importância para fundamentar medidas mais efetivas para o controle da doença. A esquistossomose mansônica, uma doença infecciosa parasitária, é um problema de saúde pública no Brasil. Sua apresentação clínica varia desde a forma assintomática até aquelas extremamente graves. O diagnóstico e o tratamento são relativamente simples, mas a erradicação só é possível com medidas que interrompam o ciclo de vida do parasita. Minas faz Ciência. Minas Gerais, set./nov. 2009 (adaptado).",
+    "introducao_alternativas": "Com base nas informações do texto, avalie qual das propostas seguintes será eficaz no controle da esquistossomose mansônica e na manutenção da saúde geral da população local:",
+    "assunto": "Zoologia",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eliminar os caramujos de regiões afetadas pela esquistossomose, aplicando substâncias tóxicas na água das lagoas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Evitar a contaminação de corpos de águas por ovos de esquistossomo, com a construção de instalações sanitárias.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Evitar utilizar água de lagoa de regiões afetadas pela esquistossomose para beber ou para o preparo de alimentos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Impedir o consumo de carne crua ou mal cozida em regiões afetadas pela esquistossomose.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Impedir o consumo humano de hortaliças regadas com água contaminada por esquistossomo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_423b3b6a-244c-4deb-a1a2-1df2f7cdeb89",
+    "title": "Questão B4030 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Animais invertebrados que vivem em regiões de estuário, cujas águas têm grandes variações de salinidade, apresentam estratégias que permitem adaptações a essas variações. Animais que mantêm osmolaridade interna relativamente constante são chamados de osmorreguladores. Já os animais que não controlam ativamente a condição osmótica de seus líquidos corporais, adaptando-se à osmolaridade do ambiente, são chamados de osmoconformadores. Um pesquisador coletou animais de duas espécies de invertebrados, sendo o Animal A um osmorregulador e o Animal B, um osmoconformador. Ambos foram submetidos, em laboratório, a ambientes aquáticos com diferentes osmolaridades. Em cada situação, foi medida a pressão osmótica interna tanto do Animal A como do Animal B.",
+    "introducao_alternativas": "O gráfico que representa corretamente os dados obtidos pelo pesquisador é:",
+    "assunto": "Fisiologia Animal",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b4030_-_enem_ppl_alt_A_4bb8089f-2ea1-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_b4030_-_enem_ppl_alt_B_5c6d7db5-1115-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b4030_-_enem_ppl_alt_C_c26677b4-1eac-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b4030_-_enem_ppl_alt_D_de8105a2-90d0-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_b4030_-_enem_ppl_alt_E_8d2930c4-abae-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dd0340a3-965d-456d-8a89-b9fe4702ba40",
+    "title": "Questão B1917 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal. RICHARDS. C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).",
+    "introducao_alternativas": "A diferença na manifestação da DMD entre as gêmeas pode ser explicada pela",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dominância incompleta do alelo mutante em relação ao alelo normal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "falha na separação dos cromossomos X no momento da separação dos dois embriões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9ef9fe27-3762-43e9-96d8-cb59feee6399",
+    "title": "Questão B3991 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Fatores como introdução de espécies exóticas, destruição de hábitats e caça predatória têm como impacto a perda de biodiversidade. Isso tem como possível consequência a redução do potencial para gerar alimentos e produzir medicamentos.",
+    "introducao_alternativas": "Uma medida efetiva para a redução desse impacto é o(a)",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "plantio de espécies nativas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "promoção de endocruzamentos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "criação de espécies em cativeiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "isolamento de fragmentos de matas nativas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "manutenção de espécies com mesmo nicho ecológico.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ec87db48-8cab-4533-bab4-4f2ecbca67b6",
+    "title": "Questão B1688 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A cafeína atua no cérebro, bloqueando a ação natural de um componente químico associado ao sono, a adenosina. Para uma célula nervosa, a cafeína se parece com a adenosina e combina-se com seus receptores. No entanto, ela não diminui a atividade das células da mesma forma. Então, ao invés de diminuir a atividade por causa do nível de adenosina, as células aumentam sua atividade, fazendo com que os vasos sanguíneos do cérebro se contraiam, uma vez que a cafeína bloqueia a capacidade da adenosina de dilatá-los. Com a cafeína bloqueando a adenosina, aumenta a excitação dos neurônios, induzindo a hipófise a liberar hormônios que ordenam às suprarrenais que produzam adrenalina, considerada o hormônio do alerta. Disponível em:http://ciencia.hsw.uol.com.br. Acesso em: 23 abr. 2010 (adaptado).",
+    "introducao_alternativas": "Infere-se no texto que o objetivo da adição de cafeína em alguns medicamentos contra a dor de cabeça é",
+    "assunto": "Fisiologia Animal",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contrair os vasos sanguíneos do cérebro, diminuindo a compressão sobre as terminações nervosas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "aumentar a produção de adrenalina, proporcionando uma sensação de analgesia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "aumentar os níveis de adenosina, diminuindo a atividade das células nervosas do cérebro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "induzir a hipófise a liberar hormônios, estimulando a produção de adrenalina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "excitar os neurônios, aumentando a transmissão de impulsos nervosos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8c8e73b2-042b-4e23-8698-0689430dda9d",
+    "title": "Questão B0437 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Uma cozinheira colocou sal a mais no feijão que estava cozinhando. Para solucionar o problema, ela acrescentou batatas cruas e sem tempero dentro da panela. Quando terminou de cozinhá-lo, as batatas estavam salgadas, porque absorveram parte do caldo com excesso de sal. Finalmente, ela adicionou água para completar o caldo do feijão.",
+    "introducao_alternativas": "O sal foi absorvido pelas batatas por",
+    "assunto": "Citologia",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osmose, por envolver apenas o transporte do solvente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fagocitose, porque o sal transportado é uma substância sólida.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "exocitose, uma vez que o sal foi transportado da água para a batata.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "pinocitose, porque o sal estava diluído na água quando foi transportado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "difusão, porque o transporte ocorreu a favor do gradiente de concentração.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_da129f47-63a2-4b0e-8084-24366b4f0d21",
+    "title": "Questão B3866 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O Conselho Nacional do Meio Ambiente (Conama) estabelece os limites máximos de chumbo, cádmio e mercúrio para as familiares pilhas e baterias portáteis comercializadas no território nacional e os critérios e padrões para o seu gerenciamento ambientalmente adequado. Os estabelecimentos que comercializam esses produtos, bem como a rede de assistência técnica autorizada, devem receber dos usuários as pilhas e baterias usadas para repasse aos respectivos fabricantes ou importadores. Resolução Conama n. 401, de 4 de novembro de 2008. Disponível em: www.mma.gov.br. Acesso em: 14 mar. 2013 (adaptado).",
+    "introducao_alternativas": "Do ponto de vista ambiental, a destinação final apropriada para esses produtos é",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "direcionar as pilhas e baterias para compostagem.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "colocar as pilhas e baterias em um coletor de lixo seletivo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "enviar as pilhas e baterias usadas para firmas de recarga.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "acumular as pilhas e baterias em armazéns de estocagem.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "destinar as pilhas e baterias à reutilização de seus componentes.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_be79690b-b34a-4862-a759-35cf77ced436",
+    "title": "Questão B2794 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A reprodução vegetativa de plantas por meio de estacas é um processo natural. O homem, observando esse processo, desenvolveu uma técnica para propagar plantas em escala comercial.",
+    "introducao_alternativas": "A base genética dessa técnica é semelhante àquela presente no(a)",
+    "assunto": "Botânica",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transgenia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "clonagem.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "hibridização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "controle biológico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "melhoramento genético.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d6a86283-7650-4356-8293-6f5bc6253d64",
+    "title": "Questão B1907 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os indivíduos de uma população de uma pequena cidade, fundada por uma família de europeus, são, frequentemente, frutos de casamentos consanguíneos. Grande parte dos grupos familiares dessa localidade apresenta membros acometidos por uma doença rara, identificada por fraqueza muscular progressiva, com início aos 30 anos de idade. Em famílias com presença dessa doença, quando os pais são saudáveis, somente os filhos do sexo masculino podem ser afetados. Mas em famílias cujo pai é acometido pela doença e a mãe é portadora do gene, 50% da descendência, independentemente do sexo, é afetada.",
+    "introducao_alternativas": "Considerando as características populacionais, o sexo e a proporção dos indivíduos afetados, qual é o tipo de herança da doença descrita no texto?",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recessiva, ligada ao cromossomo X.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dominante, ligada ao cromossomo X.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Recessiva, ligada ao cromossomo Y.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Recessiva autossômica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dominante autossômica.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ec0071ac-d549-4421-9d4d-5f535003e4f6",
+    "title": "Questão B3572 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A construção de grandes projetos hidroelétricos também deve ser analisada do ponto de vista do regime das águas e de seu ciclo na região.",
+    "introducao_alternativas": "Em relação ao ciclo da água, pode-se argumentar que a construção de grandes represas",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 9,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não causa impactos na região, uma vez que a quantidade total de água da Terra permanece constante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "não causa impactos na região, uma vez que a água que alimenta a represa prossegue depois rio abaixo com a mesma vazão e velocidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "aumenta a velocidade dos rios, acelerando o ciclo da água na região.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aumenta a evaporação na região da represa, acompanhada também por um aumento local da umidade relativa do ar.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "diminui a quantidade de água disponível para a realização do ciclo da água.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_999f3dc5-8316-48ab-ba88-3aa06868ffb3",
+    "title": "Questão B3955 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Em um grupo de roedores, a presença de um gene dominante (A) determina indivíduos com pelagem na cor amarela. Entretanto, em homozigose é letal, ou seja, provoca a morte dos indivíduos no útero. Já o alelo recessivo (a) não é letal e determina a presença de pelos pretos. Com base nessas informações, considere o heredograma. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a probabilidade de, na próxima ninhada do casal de roedores que está representado na figura pelos números 7 e 8, nascer uma fêmea de pelagem amarela (representada pelo número 11)?",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_b3955_-_enem_ppl_cbb3ad42-25a6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/4 (25%).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/3 (33%).",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/2 (50%).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2/3 (66%).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3/4 (75%).",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_58225f98-436f-4202-93a3-8aadd2074629",
+    "title": "Questão B4028 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O DNA mitocondrial pode ser utilizado para evidenciar um parentesco ou uma descendência. Sabe-se que o zigoto recebe mitocôndrias apenas do gameta feminino. O heredograma apresenta a genealogia de uma família. [IMAGEM_0]",
+    "introducao_alternativas": "O DNA mitocondrial do indivíduo W é igual ao do indivíduo",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b4028_-_enem_ppl_498d47a6-93aa-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8ca975b8-87be-4fb4-b0c7-6b89065dc726",
+    "title": "Questão B3909 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Ao se caracterizarem os aspectos ambientais do setor sucroalcooleiro, é preciso analisar dois setores: o setor agrícola, que se refere às atividades na área que a cultura da cana-de-açúcar ocupa, e o setor industrial, que está relacionado à fabricação de açúcar e álcool. ALVARENGA, R. P.; QUEIROZ, T.R. Produção mais limpa e aspectos ambientais na indústria sucroalcooleira. Disponível em: www.advancesincleanerproduction.net. Acesso em: 3 ago. 2012 (adaptado).",
+    "introducao_alternativas": "Para essa atividade produtiva, como impacto ambiental causado pelo setor industrial, tem-se o (a)",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "compactação do solo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "assoreamento dos rios.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "desmatamento de áreas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "queima da cana-de-açúcar.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "geração de resíduos poluidores.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4b02dc96-43f4-4fd3-bcc8-65fd5353160b",
+    "title": "Questão B3983 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O palmito juçara (Euterpe edulis) é uma planta que ocorre em áreas florestadas e produz frutos com tamanhos variados. Entretanto, pesquisadores perceberam que, em áreas nas quais as aves de maior porte foram extintas, as novas plantas produzem apenas frutos pequenos. ANDRADE, R. O. Escassez de aves pode afetar evolução de plantas. Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 8 jul. 2013 (adaptado).",
+    "introducao_alternativas": "Essa mudança apresentada pelas plantas é uma adaptação vantajosa porque os frutos",
+    "assunto": "Botânica",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atraem aves de pequeno porte, garantindo a ingestão dos frutos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "são transportados pelo vento, aumentando a dispersão de sementes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "facilitam a desidratação das sementes, prolongando sua durabilidade no solo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "aceleram a germinação das sementes, favorecendo a colonização de outras áreas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "armazenam menor quantidade de fotoassimilados, mantendo as reservas da planta.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ee28c130-b939-4788-8c8f-02ee3fc53c1d",
+    "title": "Questão B3736 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Uma região de Cerrado possui lençol freático profundo, estação seca bem marcada, grande insolação e recorrência de incêndios naturais. Cinco espécies de árvores nativas, com as características apresentadas no quadro, foram avaliadas quanto ao seu potencial para uso em projetos de reflorestamento nessa região. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a árvore adequada para o reflorestamento dessa região?",
+    "assunto": "Ecologia",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b3736_-_enem_0db74ef7-5500-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_24bb7cd7-ab53-4eef-80b6-27ec006b0639",
+    "title": "Questão B3861 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O lixo orgânico de casa – constituído de restos de verduras, frutas, legumes, cascas de ovo, aparas de grama, entre outros –, se for depositado nos lixões, pode contribuir para o aparecimento de animais e de odores indesejáveis. Entretanto, sua reciclagem gera um excelente adubo orgânico, que pode ser usado no cultivo de hortaliças, frutíferas e plantas ornamentais. A produção do adubo ou composto orgânico se dá por meio da compostagem, um processo simples que requer alguns cuidados especiais. O material que é acumulado diariamente em recipientes próprios deve ser revirado com auxílio de ferramentas adequadas, semanalmente, de forma a homogeneizá-lo. É preciso também umedecê-lo periodicamente. O material de restos de capina pode ser intercalado entre uma camada e outra de lixo da cozinha. Por meio desse método, o adubo orgânico estará pronto em aproximadamente dois a três meses. Como usar o lixo orgânico em casa? Ciência Hoje, v. 42, jun. 2008 (adaptado). Suponha que uma pessoa, desejosa de fazer seu próprio adubo orgânico, tenha seguido o procedimento descrito no texto, exceto no que se refere ao umedecimento periódico do composto.",
+    "introducao_alternativas": "Nessa situação,",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o processo de compostagem iria produzir intenso mau cheiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "o adubo formado seria pobre em matéria orgânica que não foi transformada em composto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a falta de água no composto vai impedir que microrganismos decomponham a matéria orgânica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a falta de água no composto iria elevar a temperatura da mistura, o que resultaria na perda de nutrientes essenciais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em adubo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9a3ec500-7ced-4e25-a09b-881ad2d7554a",
+    "title": "Questão B4011 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "METABOLISMO DE PROCARIONTES O esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos. [IMAGEM_0]",
+    "introducao_alternativas": "[IMAGEM_1] Em qual etapa numerada ocorre uma transformação redox como a que ocorre nos procariontes nitrificantes?",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 9,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b4011_-_enem_da9e2ddd-3f44-4.png",
+      "questao_b4011_-_enem_a15c828d-60f1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1aa4b449-b4f1-470e-9c3b-92e7d35af59c",
+    "title": "Questão B3977 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Uma ferramenta biotecnológica para identificação de cadáveres é a análise de seu DNA mitocondrial e a comparação com o DNA mitocondrial de pessoas de uma família que esteja reivindicando o corpo. Sabe-se que a herança mitocondrial é materna. Estão disponíveis os seguintes membros de uma família que poderiam doar material para a confirmação da identidade de um cadáver por meio da análise de DNA mitocondrial: 1. a sobrinha, filha de um irmão; 2. a tia, irmã de seu pai; 3. o primo, filho da irmã de sua mãe; 4. o avô materno; 5. a prima, filha do irmão de sua mãe. SYKES, B. As sete filhas de Eva: a ciência que revela nossa herança genética. Rio de Janeiro: Record, 2003 (adaptado).",
+    "introducao_alternativas": "A confirmação da identidade do cadáver será possível com a utilização do DNA mitocondrial do(a)",
+    "assunto": "Biologia Molecular e Engenharia Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sobrinha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "tia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "primo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "avô.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "prima.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bfd9980a-8d47-4270-badf-441dacb33fb9",
+    "title": "Questão B1960 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Após a redescoberta do trabalho de Gregor Mendel, vários experimentos buscaram testar a universalidade de suas leis. Suponha um desses experimentos, realizado em um mesmo ambiente, em que uma planta de linhagem pura com baixa estatura (0,6 m) foi cruzada com uma planta de linhagem pura de alta estatura (1,0 m). Na prole (F1) todas as plantas apresentaram estatura de 0,8 m. Porém, na F2 (F1 x F1) os pesquisadores encontraram os dados a seguir. [IMAGEM_0]",
+    "introducao_alternativas": "Os pesquisadores chegaram à conclusão, a partir da observação da prole, que a altura nessa planta é uma característica que",
+    "assunto": "Genética",
+    "competencia": 8,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b1960_-_enem_474cc471-4132-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não segue as leis de mendel.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "não é herdada, e, sim, ambiental.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "apresenta herança mitocondrial.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "é definida por mais de um gene.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "é definida por um gene com vários alelos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_16d3fa34-bee9-498e-9a62-c12822e5097e",
+    "title": "Questão B3997 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A incapacidade de perceber certas cores é denominada daltonismo. Um tipo raro é classificado de tritanomalia e corresponde a um defeito nos cones sensíveis à cor azul. O gene responsável pela herança situa-se no cromossomo 7, permitindo que homens e mulheres sejam igualmente afetados. Além disso, casais sem tritanomalia podem ter crianças com a herança.",
+    "introducao_alternativas": "O padrão dessa herança rara é",
+    "assunto": "Genética",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ligado ao X e recessivo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "ligado ao Y e recessivo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "ligado ao X e dominante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "autossômico e recessivo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "autossômico e dominante.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c24184f3-7373-48b5-956c-3e9412de74f4",
+    "title": "Questão B0566 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "O 2,4-dinitrofenol (DNP) é conhecido como desacoplador da cadeia de elétrons na mitocôndria e apresenta um efeito emagrecedor. Contudo, por ser perigoso e pela ocorrência de casos letais, seu uso como medicamento é proibido em diversos países, inclusive no Brasil. Na mitocôndria, essa substância captura, no espaço intermembranas, prótons (H+) provenientes da atividade das proteínas da cadeia respiratória, retornando-os à matriz mitocondrial. Assim, esses prótons não passam pelo transporte enzimático na membrana interna. GRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a W eight Loss Agent with Significant Acute Toxicity and Risk of Death. Journal of Medical Toxicology, v. 7, 2011 (adaptado).",
+    "introducao_alternativas": "O efeito emagrecedor desse composto está relacionado ao(à)",
+    "assunto": "Bioenergética",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "redução da produção de ATP, resultando em maior gasto celular de nutrientes.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_af102ed4-82c8-4147-896c-383735a83923",
+    "title": "Questão B2284 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo. [IMAGEM_0]",
+    "introducao_alternativas": "A diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em",
+    "assunto": "Taxionomia",
+    "competencia": 8,
+    "habilidade": 30,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_b2284_-_enem_3b7f552b-a3f4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tipos de células.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "aspectos ecológicos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "relações filogenéticas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "propriedades fisiológicas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "características morfológicas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0e31aeee-f238-49d8-a6ca-81577593b9f0",
+    "title": "Questão B3521 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Os corais funcionam como termômetros, capazes de indicar, mudando de coloração, pequenas alterações na temperatura da água dos oceanos. Mas, um alerta, eles estão ficando brancos. O seu clareamento progressivo acontece pela perda de minúsculas algas, chamadas zooxantelas, que vivem dentro de seus tecidos, numa relação de mutualismo. Disponível em: http://super.abril.com.br Acesso em: 6 dez. 2012 (adaptado).",
+    "introducao_alternativas": "O desequilíbrio dessa relação faz com que os pólipos que formam os corais tenham dificuldade em",
+    "assunto": "Ecologia",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produzir o próprio alimento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Obter compostos nitrogenados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar a reprodução sexuada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Absorver o oxigênio dissolvido na água.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Adquirir nutrientes derivados da fotossíntese.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c348bdc3-97ac-4e42-9b22-4c3ec92d4813",
+    "title": "Questão B3938 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Recentemente um grupo de biólogos descobriu um animal que vive em uma região extremamente árida no território brasileiro. Fizeram a coleta do sangue e da urina desse animal e observaram que sua urina apresenta uma concentração hipertônica em relação ao sangue.",
+    "introducao_alternativas": "Que adaptação desse animal lhe permite viver na região citada?",
+    "assunto": "Fisiologia Animal",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuição da transpiração.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Eliminação de fezes hidratadas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Predominância de hábitos diurnos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminação de muita água na urina.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Excreção de amônia como produto nitrogenado.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_aafa3217-48ca-4b8e-9a9d-20256e6ea268",
+    "title": "Questão B2402 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Um gel vaginal poderá ser um recurso para as mulheres na prevenção contra a AIDS. Esse produto tem como princípio ativo um composto que inibe a transcriptase reversa viral.",
+    "introducao_alternativas": "Essa ação inibidora é importante, pois a referida enzima",
+    "assunto": "Microbiologia",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corta a dupla hélice do DNA, produzindo um molde para o RNA viral.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "produz moléculas de DNA viral que vão infectar células sadias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "polimeriza molécula de DNA, tendo como molde o RNA viral.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "promove a entrada do vírus da aids nos linfócitos T.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "sintetiza os nucleotídeos que compõem o DNA viral.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9a99f241-5804-46d0-b712-fc68849547b1",
+    "title": "Questão B3904 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.",
+    "introducao_alternativas": "Nas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
+    "assunto": "Histologia Animal",
+    "competencia": 8,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "execução de manobras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "metabolismo corpóreo elevado.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "manutenção da aerodinâmica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "deslocamento a grandes velocidades.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "capacidade de voo em grandes altitudes.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0cfeca59-b125-4b01-99f7-fc62fffc3e94",
+    "title": "Questão B2341 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "biologia",
+    "contexto": "Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade deAedes aegypti geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem expressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas. FU, G. et al. Female-specific flightless phenotype for mosquito control.PNAS 107 (10): 4550-4554, 2010. Prevê-se, porém, que a utilização dessa variedade deAedes aegypti demore ainda anos para ser implementada, pois há demanda de muitos estudos com relação ao impacto ambiental.",
+    "introducao_alternativas": "A liberação de machos de Aedes aegypti dessa variedade geneticamente modificada reduziria o número de casos de dengue em uma determinada região porque",
+    "assunto": "Microbiologia",
+    "competencia": 8,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diminuiria o sucesso reprodutivo desses machos transgênicos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "restringiria a área geográfica de voo dessa espécie de mosquito.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "dificultaria a contaminação e reprodução do vetor natural da doença.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "tornaria o mosquito menos resistente ao agente etiológico da doença.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "dificultaria a obtenção de alimentos pelos machos geneticamente modificados.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

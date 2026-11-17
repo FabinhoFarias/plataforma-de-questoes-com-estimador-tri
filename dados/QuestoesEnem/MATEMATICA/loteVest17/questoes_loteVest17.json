@@ -1,0 +1,2419 @@
+[
+  {
+    "id_externo": "Questao_8e2048ae-482d-497b-a237-41f86c88f532",
+    "title": "Questão M1393 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A soma de dois números reais x e y é maior ou igual a 10. A diferença entre eles, em qualquer ordem, é menor do que 4.",
+    "introducao_alternativas": "A representação do conjunto solução dessas desigualdades no plano cartesiano de eixos ortogonais é:",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m1393_-_unesp_2013_alt_A_820fba97-c075-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1393_-_unesp_2013_alt_B_b336f65f-7c9b-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1393_-_unesp_2013_alt_C_be1f38e5-025e-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1393_-_unesp_2013_alt_D_54c1ed92-48b4-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1393_-_unesp_2013_alt_E_98d8825b-aded-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7df9a9d7-eb31-4461-92af-079d945000bf",
+    "title": "Questão M0970 - ESPCEX 2013",
+    "banca": "ESPCEX",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma circunferência tem centro no eixo das abscissas, passa pelo ponto (4, 4) e não intercepta o eixo das coordenadas.",
+    "introducao_alternativas": "Se a área do círculo definido por essa circunferência é 17π, a abscissa de seu centro é",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_93651bef-91de-4690-86e3-09de886d4a92",
+    "title": "Questão M1497 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um torneio de truco terá alunos de 3 clubes de uma cidade. Um dos clubes levará 120 participantes; outro, 180; e outro, 252 participantes. Os competidores serão divididos em grupos, de modo que cada grupo tenha representantes dos três clubes, e o número de participantes de cada clube seja o mesmo em cada grupo.",
+    "introducao_alternativas": "Dessa maneira, o maior número de grupos que podem ser formados é",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "23",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "46",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "69",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_97159b53-bdcf-4e3e-b776-12b466749094",
+    "title": "Questão M2623 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "O módulo do número complexo z = i2014 – i1987 é igual a",
+    "assunto": "Números complexos",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "√2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "√3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4975f57c-082a-4239-86a1-13cd7cd87ff3",
+    "title": "Questão M0063 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na figura estão representados geometricamente os números 0, x, y e 1. Qual é a posição do número x. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0063_-_fuvest_2013_7811f2ed-a868-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À esquerda de 0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 0 e x.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Entre x e y.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Entre y e 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "À direita de 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cae2c82b-3fc4-4491-8ff2-472b5fbae3e8",
+    "title": "Questão M0773 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Sobre uma mesa, uma caixa sem tampa no formato de um cubo de aresta 3 m, está com água até uma altura de 2 m em relação à sua base, conforme mostra a FIG. 1. [IMAGEM_0] Inclinando-se a caixa de tal forma que a aresta AB fique totalmente em contato com a mesa, haverá perda no volume de água, conforme a FIG. 2.",
+    "introducao_alternativas": "Sabendo-se que o ângulo formado, após a inclinação, entre a face ABCD e a superfície plana é de 30° e, desprezando-se a espessura das faces da caixa, a quantidade de água que sobrará na caixa, em m3, é de",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0773_-_professor_ferretto_2013_47396852-a3e1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "18",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4√3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9(√3)/2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "17(√3)/4",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_be19eff3-8321-41ac-aabb-876b0a1d36fe",
+    "title": "Questão M2411 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura indica o empilhamento de três cadeiras idênticas e perfeitamente encaixadas umas nas outras, sendo h a altura da pilha em relação ao chão. [IMAGEM_0]",
+    "introducao_alternativas": "A altura, em relação ao chão, de uma pilha de n cadeiras perfeitamente encaixadas umas nas outras, será igual a 1,4 m se n for igual a",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2411_-_unesp_2013_fc3c5ca4-df52-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "17.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "13.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "15.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "18.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3cbb8758-060f-46fe-9fed-d736d08d5f29",
+    "title": "Questão M0185 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um apostador ganhou um prêmio de R$ 1.000.000,00 na loteria e decidiu investir parte do valor em caderneta de poupança, que rende 6% ao ano, e o restante em um fundo de investimentos, que rende 7,5% ao ano. Apesar do rendimento mais baixo, a caderneta de poupança oferece algumas vantagens e ele precisa decidir como irá dividir o seu dinheiro entre as duas aplicações.",
+    "introducao_alternativas": "Para garantir, após um ano, um rendimento total de pelo menos R$ 72000,00 a parte da quantia a ser aplicada na poupança deve ser de, no máximo,",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 200.000,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 175.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 150.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 125.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 100.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e8ea2cbe-1301-49b0-8ce1-babadc34fe34",
+    "title": "Questão M1439 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Considere um terreno retangular de lados (ax + by) e (bx + ay). Encontre, de forma fatorada, o perímetro deste terreno.",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2(a + b)(x + y).",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4(a + b)(x + y).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2(a – b)(x – y).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4(a – b)(x – y).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(a + b)(x + y).",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6388ad4d-4b25-4ba7-8fb1-f215b558d179",
+    "title": "Questão M0085 - UFJF 2013",
+    "banca": "UFJF",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Define-se o comprimento de cada um dos intervalos [a, b], ]a, b[, ]a, b] e [a, b[ como sendo a diferença (b - a).",
+    "introducao_alternativas": "Dados os intervalos M = [3, 10], N = ]6, 14[, P = [5, 12[, o comprimento do intervalo resultante de (M∩P)∪(P – N) é igual a:",
+    "assunto": "Conjuntos",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_924d5e8a-9063-45d6-abb3-c0d841c4b6da",
+    "title": "Questão M2353 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere a função f, dada por f(x) = bx, com b > 0, b ≠ 1 e x ∈ ℝ, e a sua inversa f–1. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de f–1. Determine b + k. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Função Exponencial",
+    "competencia": 4,
+    "habilidade": 16,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2353_-_fuvest_2013_cea37b9e-416a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5/6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6/5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "13/5",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "18/5",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9dc195b9-6a07-4dd7-9279-a2c24274d6a5",
+    "title": "Questão M0107 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um número natural N tem três algarismos. Quando dele subtraímos 396 resulta o número que é obtido invertendo-se a ordem dos algarismos de N.",
+    "introducao_alternativas": "Se, além disso, a soma do algarismo das centenas e do algarismo das unidades de N é igual a 8, então o algarismo das centenas de N é",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6e877ed4-e643-44c6-9a3b-86531b0c343a",
+    "title": "Questão M2704 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma circunferência de raio 3 cm está inscrita no triângulo isósceles ABC, no qual AB = AC. A altura relativa ao lado BC mede 8 cm.",
+    "introducao_alternativas": "O comprimento de BC é, portanto, igual a",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 cm",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "13 cm",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "12 cm",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9 cm",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7 cm",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2734b379-183b-4cdd-9138-6e2edc564a45",
+    "title": "Questão M1620 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma fábrica de alimentos possui 5000 funcionários. Sabe-se que do total de funcionários, 48% têm mais de 35 anos e 36% possui nível superior. Entre os funcionários que possuem nível superior, 1400 têm mais de 35 anos.",
+    "introducao_alternativas": "Ao escolher um funcionário ao acaso, a probabilidade de ele ter até 35 anos e não possuir nível superior é de",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "32%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "36%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "44%.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_da9d50cd-a674-47ed-a267-25efbe6ac652",
+    "title": "Questão M1358 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "A soma dos valores de x que resolvem a equação [IMAGEM_0] é igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1358_-_unicamp_2013_4b375acc-6263-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14/3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "16/3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "18/3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "20/3.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_31466d45-d321-4d85-8222-ecbb32622f8d",
+    "title": "Questão M2493 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O Coronavirus Resource Center (CRC) da Johns Hopkins University é uma importante plataforma de dados sobre a COVID-19, com atualizações frequentes sobre a evolução da pandemia. Os gráficos apresentados nas alternativas que respondem a esta questão foram retirados desta plataforma. Considere, agora, o contexto fictício de uma palestra ministrada em uma universidade estrangeira por um pesquisador brasileiro. Na ocasião, o cientista fez comentários sobre a situação da pandemia no Brasil, valendo-se de dados da plataforma do CRC: “As I speak now, in June of 2022, I can say we’ve had a tough time during these past two years in our country. This chart, indicating the number of daily deaths over time, shows how we’ve had a couple of months during the pandemic in which the number of daily deaths was over two thousand. Despite having the number of deaths spike to 3 thousand last year – our highest peak to date – levels had been steadily decreasing ever since. This year, though, there was a slight increase in the number of daily deaths, which nearly reached levels attained towards the beginning of the pandemic.” (Fonte dos gráficos: https://coronavirus.jhu.edu. Acesso em 11/06/2022.",
+    "introducao_alternativas": ") Qual dos gráficos a seguir ilustraria corretamente a fala do pesquisador?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2493_-_unicamp_2013_alt_A_c38afb03-a148-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2493_-_unicamp_2013_alt_B_efd15c48-e9ed-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2493_-_unicamp_2013_alt_C_f50e16f6-50cd-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2493_-_unicamp_2013_alt_D_7c22a3cc-5e7f-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_122cdda8-57b8-46b3-bea1-2123594b8e11",
+    "title": "Questão M0705 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma marcenaria são utilizados dois tipos de tábuas de mesmas dimensões. Essas tábuas são de cedro e eucalipto. Existem 162 tábuas de cedro e 108 tábuas de eucalipto que devem ser empilhadas de modo que, em cada pilha, as tábuas sejam do mesmo tipo e todas as pilhas devem ter a mesma altura.",
+    "introducao_alternativas": "O menor número possível de pilhas é:",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_716f86e2-21a3-4dcd-9981-f6e9a829a4e0",
+    "title": "Questão M0801 - UERN 2013",
+    "banca": "UERN",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Seja f(x) uma função do primeiro grau que intercepta os eixos cartesianos nos pontos (0, 4) e (2, 0).",
+    "introducao_alternativas": "O produto dos coeficientes da função inversa de f(x) é",
+    "assunto": "Funções",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "– 1",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "– 2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fe0334be-6d45-443d-8929-ef2507af85e4",
+    "title": "Questão M0286 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um aparelho experimental, um feixe laser emitido no ponto P reflete internamente três vezes e chega ao ponto Q, percorrendo o trajeto PFGHQ. Na figura abaixo, considere que o comprimento do segmento PB é de 6 cm, o do lado AB é de 3 cm, o polígono ABPQ é um retângulo e os ângulos de incidência e reflexão são congruentes, como se indica em cada ponto da reflexão interna. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0286_-_unicamp_2013_7f052786-bae1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 cm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "16 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "18 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_641a0ddd-8251-434a-88aa-8ab3c4b102fa",
+    "title": "Questão M2510 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A representação decimal de certo número inteiro positivo tem dois algarismos.",
+    "introducao_alternativas": "Se o triplo da soma desses algarismos é igual ao próprio número, então o produto dos algarismos é igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "12.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "14.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "16.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7122f877-2c3e-4b60-b8ff-258b2aca8cf4",
+    "title": "Questão M1438 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Após analisar as afirmações a seguir sobre produtos notáveis e fatoração, marque com (V) o que for verdadeiro e, com (F), o que for falso. (__) (3a2 – 2b)2 = 9a4 – 12a2b + 4b2(__) (a – b)3 = a3 – b3 (__) 64a2 – 49b2 = (8a – 7b)(8a + 7b)(__) 4a2 – 16b2 = (2a – 4b)2(__) a3 + b3 = (a + b)(a2 – ab + b2) Assinale a alternativa que contém a ordem CORRETA de preenchimento dos parênteses, de cima para baixo.",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – V – F – V.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "V – V – F – F – F.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "V – F – V – V – F.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "F – F – V – V – V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "F – V – F – V – V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_26342d8f-8db3-4976-9476-a7859059e1d5",
+    "title": "Questão M0910 - MACKENZIE 2013",
+    "banca": "MACKENZIE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "Considerando m e n raízes da equação [IMAGEM_0] = 0, onde x > 0, então m + n é igual a",
+    "assunto": "Determinantes",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0910_-_mackenzie_2013_3c57ce4a-aac0-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3/4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3/2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4/5",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3b1c3633-9af6-4eaa-917b-ceb6a6352d0e",
+    "title": "Questão M0680 - IFMG 2013",
+    "banca": "IFMG",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Ao simplificar a expressão (x3 – 3x2 – 9x + 27) / (x2 – 9) em que x ≠ 3 obtém-se",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "x + 9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "x – 9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "x + 3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "x – 3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "x",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ed9666a1-96e1-4851-b9f2-13ecdb9caf3f",
+    "title": "Questão M1596 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um tanque para uma indústria química é projetado a partir da rotação completa da figura abaixo em torno da reta t. [IMAGEM_0]",
+    "introducao_alternativas": "Sendo a figura formada por um triângulo retângulo, um retângulo e um quadrante de círculo, o volume do tanque é de:",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m1596_-_professor_ferretto_2013_c1c5788f-966f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "72π",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "54π",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "48π",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "66π",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "76π",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e254c351-b33e-4d99-b0fb-1955963b5fe5",
+    "title": "Questão M0828 - IFCE 2013",
+    "banca": "IFCE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere um relógio analógico de doze horas.",
+    "introducao_alternativas": "O ângulo obtuso formado entre os ponteiros que indicam a hora e o minuto, quando o relógio marca exatamente 5 horas e 20 minutos, é",
+    "assunto": "Trigonometria",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "330°.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "320°.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "310°.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "300°.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "290°.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b7762230-9e46-4925-99df-4579a4c128c7",
+    "title": "Questão M2397 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os pontos P e Q sobre a superfície da Terra possuem as seguintes coordenadas geográficas: [IMAGEM_0] Considerando a Terra uma esfera de raio 6.",
+    "introducao_alternativas": "300 km, a medida do menor arco PQ sobre a linha do paralelo 30˚ N é igual a",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2397_-_unesp_2013_6d2824f0-719f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.150π√3 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1.250π√3 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.050π√3 km.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.320π√3 km.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.350π√3 km.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_18fc73e7-83b5-44ff-ab98-3dc688989f80",
+    "title": "Questão M1666 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O baralho é dividido em 4 naipes (copas, paus, ouros e espadas) e composto por 52 cartas.",
+    "introducao_alternativas": "Ao serem retiradas desse baralho duas cartas ao acaso, uma a uma e sem reposição, a quantidade de sequências que se pode obter em que a primeira carta seja de copas e a segunda não seja uma carta de número 10 é igual a",
+    "assunto": "Análise Combinatória ",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "612",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "613",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "614",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "615",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "616",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f2fdeb65-762f-4bcc-822b-a7309a57185e",
+    "title": "Questão M0602 - UESPI 2013",
+    "banca": "UESPI",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um corretor de seguros vendeu seguros para 5 pessoas. Suponha que a probabilidade de uma dessas pessoas viver mais trinta anos seja de 3/5.",
+    "introducao_alternativas": "Qual a probabilidade percentual de exatamente 3 das pessoas estarem vivas daqui a trinta anos?",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Dificil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24,56%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "34,56%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "44,56%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "54,56%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "64,56%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_acfd3e9b-0215-4f2c-b4d7-40269c1183b7",
+    "title": "Questão M0141 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um investidor dispõe de R$ 200,00 por mês para adquirir o maior número possível de ações de certa empresa. No primeiro mês, o preço de cada ação era R$ 9,00. No segundo mês houve uma desvalorização e esse preço caiu para R$ 7,00. No terceiro mês, com o preço unitário das ações a R$ 8,00, o investidor resolveu vender o total de ações que possuía.",
+    "introducao_alternativas": "Sabendo que só é permitida a negociação de um número inteiro de ações, podemos concluir que com a compra e venda de ações o investidor teve",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lucro de R$ 6,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "nem lucro nem prejuízo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "prejuízo de R$ 6,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "lucro de R$ 6,50.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d49f4d81-bb0c-4142-bb41-b60f64756cd6",
+    "title": "Questão M0225 - UERJ 2013",
+    "banca": "UERJ",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma farmácia recebeu 15 frascos de um remédio. De acordo com os rótulos, cada frasco contém 200 comprimidos, e cada comprimido tem massa igual a 20 mg. Admita que um dos frascos contenha a quantidade indicada de comprimidos, mas que cada um destes comprimidos tenha 30 mg. Para identificar esse frasco, cujo rótulo está errado, são utilizados os seguintes procedimentos: - numeram-se os frascos de 1 a 15; - retira-se de cada frasco a quantidade de comprimidos correspondente à sua numeração; - verifica-se, usando uma balança, que a massa total dos comprimidos retirados é igual a 2540 mg.",
+    "introducao_alternativas": "A numeração do frasco que contém os comprimidos mais pesados é:",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "13",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "14",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "15",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "16",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5861148d-f432-4fe1-86f6-3cde100c6ab4",
+    "title": "Questão M0134 - UECE 2013",
+    "banca": "UECE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Ao fatorarmos o número inteiro positivo n, obtemos a expressão n = 2x · 5y onde x e y são números inteiros positivos.",
+    "introducao_alternativas": "Se n admite exatamente 12 divisores positivos e é menor do que o número 199, então, a soma x + y é igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_36e97c90-cd51-4e40-9103-f1abdbe0d732",
+    "title": "Questão M1336 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Durante o surto de covid-19, diversas reportagens procuraram explicar o ritmo de infecções causadas pelo coronavírus nos estados brasileiros. Uma delas mostrou que, nos primeiros 30 dias da pandemia, nos estados que apresentaram maior rapidez de contaminação, o contágio ficou caracterizado por duplicar o número de infectados em um período de tempo variando de 3 a 5 dias. A partir dessa informação, o ilustrador de um jornal sugeriu o esquema seguinte para mostrar a diferença entre os ritmos de contágio. [IMAGEM_0]",
+    "introducao_alternativas": "Dado que a área dos círculos representa o número de infectados e que o círculo inicial possui raio unitário, quais devem ser os valores de r e de R para que a imagem represente corretamente o crescimento indicado nas setas?",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1336_-_unesp_2013_bb411173-5511-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "r = 8 e R = 16.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "r = 6 e R = 10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "r = 8 e R = 32.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "r = 6 e R = 12.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "r = 6 e R = 1024.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7bd960b0-6dca-4bc7-be75-494d0bdb3699",
+    "title": "Questão M2369 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere a região do plano cartesiano A = {(x, y) ∈ℝ2 : |x| + |y| ≤ 1} esboçada na figura. [IMAGEM_0]",
+    "introducao_alternativas": "Dado B = {(x, y) ∈ℝ2 : (x + 1)2 + y2 ≥ 1} a área da região A ∩ B é:",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2369_-_fuvest_2013_44289026-9a90-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 – π/4",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 – π/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4 + π/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 – π/4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 + π/2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4ed817f1-1576-4db8-9ce5-c4734b5d3131",
+    "title": "Questão M2416 - UNESP 2013",
+    "banca": "UNESP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um dado convencional e uma moeda, ambos não viciados, serão lançados simultaneamente. Uma das faces da moeda está marcada com o número 3, e a outra com o número 6.",
+    "introducao_alternativas": "A probabilidade de que a média aritmética entre o número obtido da face do dado e o da face da moeda esteja entre 2 e 4 é igual a",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3/4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1/4",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2a56eee5-0cc7-4b6c-a48b-fc51aaeac908",
+    "title": "Questão M1221 - ESPCEX 2013",
+    "banca": "ESPCEX",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Considere as afirmações: I. Uma elipse tem como focos os pontos F1(–3, 0), F2(3, 0) e a medida do eixo maior é 8. Sua equação é (x2/16) + (y2/7) = 1. II. Os focos de uma hipérbole são F1(–10, 0), F2(10, 0) e sua excentricidade é 5/3. Sua equação é 16x2 – 9y2 = 576. III. A parábola 8x = –y2 + 6y – 9 tem como vértice o ponto V(3, 0). Com base nessas afirmações, assinale a alternativa correta.",
+    "assunto": "Cônicas",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as afirmações são falsas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmações I e III são falsas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as afirmações I e II são verdadeiras.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmações são verdadeiras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a afirmação III é verdadeira.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_33d50585-332a-45ea-9288-bebfd9e7d6fc",
+    "title": "Questão M0871 - MACKENZIE 2013",
+    "banca": "MACKENZIE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "Para a matriz quadrada M = [IMAGEM_0] o valor do determinante de M10 é",
+    "assunto": "Determinantes",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m0871_-_mackenzie_2013_ef7dc3d2-c06f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/32",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/64",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/128",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1/256",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_68fd3f8a-3585-42a9-9649-334a6b735b54",
+    "title": "Questão M1376 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os funcionários de um salão de beleza compraram um presente no valor de R$ 200,00 para a recepcionista do estabelecimento. No momento da divisão igualitária do valor, dois deles desistiram de participar e, por causa disso, cada pessoa que ficou no grupo precisou pagar R$ 5,00 a mais que a quantia originalmente prevista.",
+    "introducao_alternativas": "O valor pago por pessoa que permaneceu na divisão do custo do presente foi:",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 10,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 15,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 20,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 25,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 40,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b14e65e5-1866-476c-8269-91732c68c690",
+    "title": "Questão M1583 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um relógio em uma catedral europeia possui formato circular, e o ponteiro dos minutos mede 4,35 m.",
+    "introducao_alternativas": "Considerando π = 3,1, a distância que a extremidade desse ponteiro percorre durante 20 minutos é, aproximadamente,",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "9 m.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7 m.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 m.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_71e20530-210d-4c92-bf27-124046f17f2c",
+    "title": "Questão M0633 - ESPM 2013",
+    "banca": "ESPM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em 1997 iniciou-se a ocupação de uma fa­zenda improdutiva no interior do país, dan­do origem a uma pequena cidade. Estima­-se que a população dessa cidade tenha crescido segundo a função P = 0,1 + log2(x – 1996), onde P é a população no ano x, em milhares de habitantes.",
+    "introducao_alternativas": "Considerando √2 = 1,4, podemos concluir que a população des­sa cidade atingiu a marca dos 3600 habitan­tes em meados do ano:",
+    "assunto": "Logaritmo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2005",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2002",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2011",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2007",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2004",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3c828934-ccba-4d9d-b6c4-689567de58dd",
+    "title": "Questão M1520 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "",
+    "introducao_alternativas": "Roberta fez uma aplicação financeira em um banco privado que, no regime de capitalização composta, durante um ano e seis meses, à taxa de 8% ao mês, gerou um juro de R$ 11.960,00. Qual foi o capital inicial que Roberta aplicou? Utilize (1,08)18 = 3,99.",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 3.800,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 4.000,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 4.600,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 5.000,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 5.200,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_86141f83-47aa-4946-8ae5-c632b244e2e7",
+    "title": "Questão M0519 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma substância radioativa sofre desintegração ao longo do tempo, de acordo com a relação m(t) = ca–kt, em que a é um número real positivo, t é dado em anos, m(t) a massa da substância em gramas e c, k são constantes positivas. Sabe-se que m0 gramas dessa substância foram reduzidos a 20% em 10 anos.",
+    "introducao_alternativas": "A que porcentagem de m0 ficará reduzida a massa da substância, em 20 anos?",
+    "assunto": "Função Exponencial",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_79e4375d-da3b-47f9-b0d7-0fd51370fcb0",
+    "title": "Questão M0131 - UPE 2013",
+    "banca": "UPE",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Três colegas caminhoneiros, Santos, Yuri e Belmiro, encontraram-se numa sexta-feira, 12 de agosto, em um restaurante de uma BR, durante o almoço. Santos disse que costuma almoçar nesse restaurante de 8 em 8 dias, Yuri disse que almoça no restaurante de 12 em 12 dias, e Belmiro, de 15 em 15 dias. Com base nessas informações, analise as afirmativas seguintes: I. Os três caminhoneiros voltarão a se encontrar novamente no dia 13 de dezembro. II. O dia da semana em que ocorrerá esse novo encontro é uma sexta-feira. III. Santos e Yuri se encontrarão 4 vezes antes do novo encontro dos três colegas.",
+    "introducao_alternativas": "Está CORRETO o que se afirma, apenas, em",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "I e II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "II e III",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b0ca96c4-89cf-4871-a59d-1187642b9b81",
+    "title": "Questão M2703 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "Analise o gráfico abaixo: [IMAGEM_0] Com base nos dados do gráfico, pode-se afirmar, corretamente, que,",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2703_-_fuvest_2013_6235af78-bd23-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no período de 1986 a 2001, o número de pessoas com diagnóstico de AIDS diminuiu.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "no período de 1986 a 2001, o número de homens com diagnóstico de AIDS diminuiu.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "entre pessoas com diagnóstico de AIDS, homens e mulheres ocorrem com frequências iguais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "entre pessoas com diagnóstico de AIDS, o número de homens e mulheres permaneceu praticamente inalterado a partir de 2002.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "entre pessoas com diagnóstico de AIDS, o quociente do número de homens pelo de mulheres tendeu à estabilidade a partir de 2002.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5c9eb2e0-f3cb-4de4-8df1-4333614ad41a",
+    "title": "Questão M2358 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma feira de produtos orgânicos é vendido arroz a granel. A gerente da feira decidiu oferecer descontos progressivos na venda de arroz, de acordo com os seguintes critérios: - Quem comprar exatamente 1 kg de arroz paga R$ 5,00. - Quanto maior for a quantidade que o cliente comprar, maior será́ o total a pagar. - Quanto maior for a quantidade que o cliente comprar, menor será́ o valor por quilo. Cada uma das alternativas listadas apresenta uma possível fórmula para o total que o cliente irá pagar, em reais, se comprar uma quantidade 𝑥, em quilos, de arroz.",
+    "introducao_alternativas": "A única alternativa que atende aos critérios estabelecidos é:",
+    "assunto": "Funções",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5x2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5√x",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5/x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5x – x2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d1937150-e8cb-41f0-ac90-aa7e281066fd",
+    "title": "Questão M0842 - UPF 2013",
+    "banca": "UPF",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Observe a tabela a seguir, que mostra a relação entre três redes sociais da internet e a quantidade de usuários, em milhões de pessoas, que acessam essas redes na Argentina, Brasil e Chile, segundo dados de junho de 2011. [IMAGEM_0]",
+    "introducao_alternativas": "Reescrevendo os dados da tabela em forma de matriz, temos: [IMAGEM_1] Considerando que aij, com 1 ≤ i ≤ 3, 1 ≤ j ≤ 3, são os elementos da matriz A, então cos (a22–a21a33π) rad vale:",
+    "assunto": "Trigonometria",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m0842_-_upf_2013_2c21ddee-f802-4.png",
+      "questao_m0842_-_upf_2013_892d2711-81c4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "-1/2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "– 1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1/2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8bd2c2fe-9ff9-4349-bd0f-6606b8f88dbb",
+    "title": "Questão M2706 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gamão é um jogo de tabuleiro muito antigo, para dois oponentes, que combina a sorte, em lances de dados, com estratégia, no movimento das peças. Pelas regras adotadas, atualmente, no Brasil, o número total de casas que as peças de um jogador podem avançar, numa dada jogada, é determinado pelo resultado do lançamento de dois dados. Esse número é igual à soma dos valores obtidos nos dois dados, se esses valores forem diferentes entre si; e é igual ao dobro da soma, se os valores obtidos nos dois dados forem iguais.",
+    "introducao_alternativas": "Supondo que os dados não sejam viciados, a probabilidade de um jogador poder fazer suas peças andarem pelo menos oito casas em uma jogada é",
+    "assunto": "Probabilidade",
+    "competencia": 1,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5/12",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "17/36",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "19/36",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5403ff0d-27a5-40b2-a63d-c63e9cc8855e",
+    "title": "Questão M1356 - UNICAMP 2013",
+    "banca": "UNICAMP",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No início do expediente do dia 16 de março de 2020, uma farmácia colocou à disposição dos clientes um frasco cilíndrico de 500 ml (500 cm3) de álcool em gel para higienização das mãos. No final do expediente, a coluna de álcool havia baixado 5 cm.",
+    "introducao_alternativas": "Sabendo que a base do cilindro tem diâmetro de 6 cm e admitindo o mesmo consumo de álcool em gel nos dias seguintes, calcula-se que o frasco ficou vazio no dia",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17 de março.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "18 de março.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "19 de março.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "20 de março.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_742ab6a4-8b32-4627-a5a0-4265ddb55a1a",
+    "title": "Questão M0770 - PROFESSOR FERRETTO 2013",
+    "banca": "PROFESSOR FERRETTO",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma metalúrgica desenvolveu uma nova peça de aço que será utilizada na montagem de uma máquina. A peça tem formato de hexágono não regular na forma do desenho da figura. Na figura, os segmentos AB e DC são paralelos entre si, bem como os segmentos AF e DE e os segmentos BC e EF. Também o ângulo BAF mede 90° e o ângulo DEF mede 45°. A metalúrgica fabrica esta peça com todos os lados medindo 5 cm. [IMAGEM_0]",
+    "introducao_alternativas": "",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m0770_-_professor_ferretto_2013_63579c68-aeac-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "25√2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "150",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(25√2)/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "25/2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_006e1369-bcff-4df8-8eb8-20686ed23752",
+    "title": "Questão M0793 - ESPM 2013",
+    "banca": "ESPM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O conjunto imagem de uma função inversí­vel é igual ao domínio de sua inversa.",
+    "introducao_alternativas": "Sendo f:A → B tal que f(x)=2x–1x+1 uma função real inversível, seu conjunto imagem é:",
+    "assunto": "Funções",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ℝ – {1}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "ℝ – {–1}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "ℝ – {–2}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ℝ – {0}",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ℝ – {2}",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_41a4edf1-df82-448d-87b1-e98dc3bac62d",
+    "title": "Questão M2428 - FUVEST 2013",
+    "banca": "FUVEST",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma cidade é dividida em dois Setores: o Setor Sul, com área de 10 km2, e o Setor Norte, com área de 30 km2. [IMAGEM_0]",
+    "introducao_alternativas": "É correto afirmar que o total pluviométrico desse final de semana na cidade inteira foi de",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2428_-_fuvest_2013_d32e877d-59c9-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "17 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "22 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "25 mm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "28 mm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

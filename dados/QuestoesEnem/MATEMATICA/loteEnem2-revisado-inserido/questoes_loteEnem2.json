@@ -1,0 +1,2532 @@
+[
+  {
+    "id_externo": "Questao_7e977f3d-3fc9-44e9-b1a0-cc4f6b73c783",
+    "title": "Questão M2541 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um empresário pretende fazer a propaganda de seus produtos em um canal de televisão. Para isso, decidiu consultar o quadro com a pontuação de audiência, nos últimos três meses, de cinco emissoras de televisão em determinado horário e calcular a média aritmética para escolher aquela com a maior média de audiência nesse período. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com o critério do empresário, que emissora deve ser escolhida?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2541_-_enem_2013_d5857ea1-8c3f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_da935394-fd24-4eb3-a0d7-d0b7392b949c",
+    "title": "Questão M2007 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante. [IMAGEM_0] Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
+    "introducao_alternativas": "O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
+    "assunto": "Trigonometria",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2007_-_enem_2013_2ea8d2b6-c97a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2007_-_enem_2013_alt_A_825321a7-b01f-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2007_-_enem_2013_alt_B_ec76e14f-c1f3-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2007_-_enem_2013_alt_C_76508315-0b89-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2007_-_enem_2013_alt_D_b6afed3a-9066-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2007_-_enem_2013_alt_E_de837d03-2a5a-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c85fe6f3-15ad-4a35-8b39-3921e3277329",
+    "title": "Questão M0564 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma fundição de alumínio utiliza, como matéria-prima, lingotes de alumínio para a fabricação de peças injetadas. Os lingotes são derretidos em um forno e o alumínio, em estado líquido, é injetado em moldes para se solidificar no formato desejado. O gráfico indica as curvas de resfriamento do alumínio fundido no molde para três diferentes fluidos refrigerantes (tipo I, tipo II e tipo III), que são utilizados para resfriar o molde, bem como a curva de resfriamento quando não é utilizado nenhum tipo de fluido refrigerante. A peça só pode ser retirada do molde (desmolde) quando atinge a temperatura de 100°C. Para atender a uma encomenda, a fundição não poderá gastar mais do que 8 segundos para o desmolde da peça após a sua injeção. [IMAGEM_0]",
+    "introducao_alternativas": "Com a exigência para o desmolde das peças injetadas, qual(is) fluido(s) refrigerante(s) poderá(ão) ser utilizado(s) no resfriamento?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0564_-_enem_ppl_2013_6baadf16-33a5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Qualquer um dos fluidos do tipo I, II e III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Somente os fluidos do tipo II e III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Somente o fluido do tipo III.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Não será necessário utilizar nenhum fluido refrigerante.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhum dos fluidos refrigerantes indicados atende às exigências.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8edb81a7-43b7-40fb-aa99-ba64446bebcb",
+    "title": "Questão M0570 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura a seguir apresenta dois gráficos com informações sobre as reclamações diárias recebidas e resolvidas pelo Setor de Atendimento ao Cliente (SAC) de uma empresa, em uma dada semana. O gráfico de linha tracejada informa o número de reclamações recebidas no dia, o de linha continua é o número de reclamações resolvidas no dia. As reclamações podem ser resolvidas no mesmo dia ou demorarem mais de um dia para serem resolvidas. [IMAGEM_0] O gerente de atendimento deseja identificar os dias da semana em que o nível de eficiência pode ser considerado muito bom, ou seja, os dias em que o número de reclamações resolvidas excede o número de reclamações recebidas.",
+    "introducao_alternativas": "O gerente de atendimento pôde concluir, baseado no conceito de eficiência utilizado na empresa e nas informações do gráfico, que o nível de eficiência foi muito bom na",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0570_-_enem_2013_fa525531-1072-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "segunda e na terça-feira.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "terça e na quarta-feira.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "terça e na quinta-feira.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "quinta-feira, no sábado e no domingo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "segunda, na quinta e na sexta-feira.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_896c7ada-d51f-40ec-b3e6-d444c09ed297",
+    "title": "Questão M2281 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um novo condomínio foi construído na Rua X. Alguns lotes já receberam numeração da prefeitura, enquanto outros apresentam apenas o sobrenome do seu proprietário. O servidor da prefeitura numerará os lotes que ainda não foram numerados. Para isso, ele observa o padrão da numeração já existente, conforme apresentado na figura, percebendo que, em cada lado da rua, as sequências das numerações formam progressões aritméticas, e, com isso, atribui um número ao lote da família Costa. [IMAGEM_0]",
+    "introducao_alternativas": "O número atribuído ao lote da família Costa é",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2281_-_enem_ppl_2013_c57ac50c-32d8-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "51.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "73.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "95.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "117.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "161.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a21e1624-24de-4532-8e62-eb99f33fda39",
+    "title": "Questão M1066 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um menino acaba de se mudar para um novo bairro e deseja ir à padaria. Pediu ajuda a um amigo que lhe forneceu um mapa com pontos numerados, que representam cinco locais de interesse, entre os quais está a padaria. Além disso, o amigo passou as seguintes instruções: a partir do ponto em que você se encontra, representado pela letra X, ande para oeste, vire à direita na primeira rua que encontrar, siga em frente e vire à esquerda na próxima rua. A padaria estará logo a seguir. [IMAGEM_0]",
+    "introducao_alternativas": "A padaria está representada pelo ponto numerado com",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1066_-_enem_2013_7c7007e0-b5c6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_41b1ba49-3f67-4460-95ae-d3310dd33bdd",
+    "title": "Questão M1298 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A receita R de uma empresa ao final de um mês é o dinheiro captado com a venda de mercadorias ou com a prestação de serviços nesse mês, e a despesa D é todo o dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa registradas no mês. O gráfico apresenta as receitas e despesas, em milhão de real, de uma empresa ao final dos cinco primeiros meses de um dado ano. [IMAGEM_0] A previsão para os próximos meses é que o lucro mensal não seja inferior ao maior lucro obtido até o mês de maio.",
+    "introducao_alternativas": "Nessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do mês de",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1298_-_enem_2013_aa3a51c4-e318-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "janeiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "fevereiro.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "março.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "abril.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "maio.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0bc3c2d3-4fc7-48d2-8423-fd55acb24fae",
+    "title": "Questão M0008 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A disparidade de volume entre os planetas é tão grande que seria possível colocá-los uns dentro dos outros. O planeta Mercúrio é o menor de todos. Marte é o segundo menor: dentro dele cabem três Mercúrios. Terra é o único com vida: dentro dela cabem sete Martes. Netuno e o quarto maior: dentro dele cabem 58 Terras. Júpiter é o maior dos planetas: dentro dele cabem 23 Netunos.",
+    "introducao_alternativas": "Seguindo o raciocínio proposto, quantas Terras cabem dentro de Júpiter?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": "3",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "406",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 334",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4 002",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9 338",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "28 014",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_700e1bef-4a10-4fb5-93d1-015d2c9951b5",
+    "title": "Questão M2127 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico informa a produção registrada por uma indústria nos meses de janeiro, março e abril. [IMAGEM_0] Por problemas logísticos, não foi feito o levantamento sobre a produção no mês de fevereiro. Entretanto, as informações dos outros três meses sugerem que a produção nesse quadrimestre cresceu 120 exponencialmente, conforme aponta a curva de tendência traçada no gráfico.",
+    "introducao_alternativas": "Assumindo a premissa de que o crescimento nesse período foi exponencial, pode-se inferir que a produção dessa indústria no mês de fevereiro, em milhar de unidade, foi",
+    "assunto": "Função Exponencial",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2127_-_enem_ppl_2013_5a5bbdc0-0f5a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "120.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "240.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "300.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "400.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fa07f1ad-2b9f-4d7b-8f9d-3c66adc9f5a9",
+    "title": "Questão M0430 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma enquete, realizada em março de 2010, perguntava aos internautas se eles acreditavam que as atividades humanas provocam o aquecimento global. Eram três alternativas possíveis e 279 internautas responderam à enquete, como mostra o gráfico. [IMAGEM_0]",
+    "introducao_alternativas": "Analisando os dados do gráfico, quantos internautas responderam “Não” à enquete?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0430_-_enem_2013_9b61ddfb-8b26-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menos de 23.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mais de 23 e menos de 25.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mais de 50 e menos de 75.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mais de 100 e menos de 190.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mais de 200.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_960fd468-f475-4776-81c7-48288d7948b5",
+    "title": "Questão M0960 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um sítio foi adquirido por R$ 200.000,00. O proprietário verificou que a valorização do imóvel, após sua aquisição, cresceu em função do tempo conforme o gráfico, e que sua tendência de valorização se manteve nos anos seguintes. [IMAGEM_0]",
+    "introducao_alternativas": "O valor desse sítio, no décimo ano após sua compra, em real, será de",
+    "assunto": "Geometria Analítica",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0960_-_enem_2013_5d74bc4d-bf52-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "190.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "232.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "272.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "400.000.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "500.000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6f37b214-c374-433d-8ddc-d645184b8102",
+    "title": "Questão M0103 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um mecânico de uma equipe de corrida necessita que as seguintes medidas realizadas em um carro sejam obtidas em metros: a) distância a entre os eixos dianteiro e traseiro; b) altura b entre o solo e o encosto do piloto. [IMAGEM_0]",
+    "introducao_alternativas": "Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0103_-_enem_2013_5e96f83f-deee-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,23 e 0,16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,3 e 1,6",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "23 e 16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "230 e 160",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2300 e 1600",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_39162eb3-b6ee-47ed-b5a0-725414dd8cb7",
+    "title": "Questão M1927 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na intenção de ampliar suas fatias de mercado, as operadoras de telefonia apresentam diferentes planos e promoções. Uma operadora oferece três diferentes planos baseados na quantidade de minutos utilizados mensalmente, apresentados no gráfico. Um casal foi à loja dessa operadora para comprar dois celulares, um para a esposa e outro para o marido. Ela utiliza o telefone, em média, 30 minutos por mês, enquanto ele, em média, utiliza 90 minutos por mês. [IMAGEM_0]",
+    "introducao_alternativas": "Com base nas informações do gráfico, qual é o plano de menor custo mensal para cada um deles?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1927_-_enem_ppl_2013_dfe3830c-2c49-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O plano A para ambos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "O plano B para ambos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "O plano C para ambos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "O plano B para a esposa e o plano C para o marido.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O plano C para a esposa e o plano B para o marido.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b1e3df41-a70b-4854-878b-c2214fd0dfad",
+    "title": "Questão M1994 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m1994_-_enem_2013_70e6cad6-398b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "indígenas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "gestantes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "doentes crônicos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "adultos entre 20 e 29 anos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "crianças de 6 meses a 2 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d267e85f-4cb4-4721-88e0-60f3727075cc",
+    "title": "Questão M1704 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos.",
+    "introducao_alternativas": "O número escrito pelo estudante foi",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "135.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1.350.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "13.500.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "135.000.000,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.350.000.000,00.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3c048644-0d59-42bd-a928-61952d8bd245",
+    "title": "Questão M0410 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma escola, cinco atletas disputam a medalha de ouro em uma competição de salto em distância. Segundo o regulamento dessa competição, a medalha de ouro será dada ao atleta mais regular em uma série de três saltos. Os resultados e as informações dos saltos desses cinco atletas estão no quadro. [IMAGEM_0]",
+    "introducao_alternativas": "A medalha de ouro foi conquistada pelo atleta número",
+    "assunto": "Estatística",
+    "competencia": 7,
+    "habilidade": 27,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0410_-_enem_ppl_2013_cbbf7a86-a7b2-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8654e9c6-c4bd-4c79-894d-00da8a290907",
+    "title": "Questão M2043 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em 1953, o veterinário francês Monsier LeBeau descobriu que um cão de pequeno porte tem um ritmo de envelhecimento maior do que o de um ser humano, sendo mais acentuado nos dois primeiros anos de vida. Depois desse tempo, esse ritmo de envelhecimento diminui e obtêm-se as seguintes relações: – um cão de um ano corresponde a um humano de 15 anos; – um cão de 2 anos corresponde a um humano de 24 anos; – depois de 2 anos de idade, cada ano vivido por um cão equivale a quatro anos vividos por humanos. Disponível em: http://online.wsj.com. Acesso em: 16 nov. 2014 (adaptado). Considere o dia em que um cão de pequeno porte completou 6 anos de idade.",
+    "introducao_alternativas": "Com base nessas informações, a idade humana, em ano, correspondente à idade desse cão, nesse dia, é",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "90.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "44.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "40.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "35.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d81f8881-8529-42fb-959f-caa5614a6a9d",
+    "title": "Questão M0394 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A participação dos estudantes na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) aumenta a cada ano. [IMAGEM_0]",
+    "introducao_alternativas": "Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0394_-_enem_2013_6de4d64a-f2be-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14,6%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "18,2%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "18,4%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "19,0%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "21,0%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7ec22dfc-edf1-4dfa-bef8-c73b69480af8",
+    "title": "Questão M1827 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O presidente de um time de futebol quer contratar um atacante para seu elenco e um empresário lhe ofereceu cinco jogadores. Ele deseja contratar o jogador que obteve a maior média de gols nos anos de 2010 a 2013. O quadro apresenta o número de gols marcados nos anos de 2010 a 2013 por cada um dos cinco jogadores: I, II, III, IV e V. [IMAGEM_0]",
+    "introducao_alternativas": "O presidente do time deve contratar o jogador",
+    "assunto": "Estatística",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m1827_-_enem_ppl_2013_b640b64a-9461-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_879ffdff-e74c-45ce-8e5a-7a195ff9f86b",
+    "title": "Questão M0165 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os calendários usados pelos diferentes povos da Terra são muito variados. O calendário islâmico, por exemplo, é lunar, e nele cada mês tem sincronia com a fase da lua. O calendário maia segue o ciclo de Vênus, com cerca de 584 dias, e cada 5 ciclos de Vênus corresponde a 8 anos de 365 dias da Terra. MATSUURA, Oscar. Calendários e o fluxo do tempo. Scientific American Brasil. Disponível em: http://www.uol.com.br. Acesso em: 14 out. 2008 (adaptado).",
+    "introducao_alternativas": "Quantos ciclos teria, em Vênus, um período terrestre de 48 anos?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 ciclos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "40 ciclos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "73 ciclos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "240 ciclos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "384 ciclos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_46cc63a6-24ae-4a57-8520-33ed7e3b1b7c",
+    "title": "Questão M0414 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para as pessoas que não gostam de correr grandes riscos no mercado financeiro, a aplicação em caderneta de poupança é indicada, pois, conforme a tabela (período 2005 até 2011), a rentabilidade apresentou pequena variação. [IMAGEM_0]",
+    "introducao_alternativas": "Com base nos dados da tabela, a mediana dos percentuais de rentabilidade, no período observado, é igual a",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 26,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0414_-_enem_ppl_2013_39255faa-9383-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6,2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6,6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,8",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,0",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9b52f3cd-03a3-4ecb-a16e-e72cec6dfd8f",
+    "title": "Questão M0425 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pesquisa realizada por estudantes da Faculdade de Estatística mostra, em horas por dia, como os jovens entre 12 e 18 anos gastam seu tempo, tanto durante a semana (de segunda-feira a sexta-feira), como no fim de semana (sábado e domingo). A seguinte tabela ilustra os resultados da pesquisa. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0425_-_enem_2013_d7213df6-5a5f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "21",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "24",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "25",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "27",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_57477d0f-76d7-4908-a12c-91bd15c4cf9e",
+    "title": "Questão M0494 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A tabela seguinte apresenta a média, em kg, de resíduos domiciliares produzidos anualmente por habitante, no período de 1995 a 2005. [IMAGEM_0]",
+    "introducao_alternativas": "Se essa produção continuar aumentando, mantendo o mesmo padrão observado na tabela, a previsão de produção de resíduos domiciliares, por habitante no ano de 2020, em kg, será",
+    "assunto": "Função Afim",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0494_-_enem_2013_76e74e59-65c5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "610.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "640.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "660.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "700.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "710.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d8391be8-c702-4086-9b39-788b68c0a7e4",
+    "title": "Questão M1021 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O Ministério da Saúde e as unidades federadas promovem frequentemente campanhas nacionais e locais de incentivo à doação voluntária de sangue, em regiões com menor número de doadores por habitante, com o intuito de manter a regularidade de estoques nos serviços hemoterápicos. Em 2010, foram recolhidos dados sobre o número de doadores e o número de habitantes de cada região conforme o quadro seguinte. [IMAGEM_0] Os resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.A campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país. Disponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).",
+    "introducao_alternativas": "As regiões brasileiras onde foram intensificadas as campanhas na época são",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1021_-_enem_2013_d6dcbc99-419a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Norte, Centro-Oeste e Sul.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Norte, Nordeste e Sudeste.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Nordeste, Norte e Sul.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Nordeste, Sudeste e Sul.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Centro-Oeste, Sul e Sudeste.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_39c46def-8a21-4ec0-aaeb-ca00108cab31",
+    "title": "Questão M1024 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma cidade, o número de casos de dengue confirmados aumentou consideravelmente nos últimos dias. A prefeitura resolveu desenvolver uma ação contratando funcionários para ajudar no combate à doença, os quais orientarão os moradores a eliminarem criadouros do mosquito Aedes aegypti, transmissor da dengue. A tabela apresenta o número atual de casos confirmados, por região da cidade. [IMAGEM_0] A prefeitura optou pela seguinte distribuição dos funcionários a serem contratados: I. 10 funcionários para cada região da cidade cujo número de casos seja maior que a média dos casos confirmados.II. 7 funcionários para cada região da cidade cujo número de casos seja menor ou igual à média dos casos confirmados.",
+    "introducao_alternativas": "Quantos funcionários a prefeitura deverá contratar para efetivar a ação?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1024_-_enem_2013_0b1704d9-b16b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "59",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "65",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "68",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "71",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "80",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2ccfa441-3967-4f2e-935b-6f97efe94560",
+    "title": "Questão M0517 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um experimento, uma cultura de bactérias tem sua população reduzida pela metade a cada hora, devido à ação de um agente bactericida.",
+    "introducao_alternativas": "Neste experimento, o número de bactérias em função do tempo pode ser modelado por uma função do tipo",
+    "assunto": "Função Exponencial",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "afim.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "seno.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "cosseno.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "logarítmica crescente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "exponencial.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_41d8ad6f-31cc-4bae-afad-b8933fec834b",
+    "title": "Questão M1782 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Cinco amigos marcaram uma viagem à praia em dezembro. Para economizar, combinaram de ir num único carro. Cada amigo anotou quantos quilômetros seu carro fez, em média, por litro de gasolina, nos meses de setembro, outubro e novembro. Ao final desse trimestre, calcularam a média dos três valores obtidos para escolherem o carro mais econômico, ou seja, o que teve a maior média. [IMAGEM_0]",
+    "introducao_alternativas": "Qual carro os amigos deverão escolher para a viagem?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m1782_-_enem_ppl_2013_f7fdb254-8aa1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_201d930b-ac14-4b26-9675-dc9ce9e0060b",
+    "title": "Questão M0160 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Há um novo impulso para produzir combustível a partir de gordura animal. Em abril, a High Plains Bioenergy inaugurou uma biorrefinaria próxima a uma fábrica de processamento de carne suína em Guymon, Oklahoma. A refinaria converte a gordura do porco, juntamente com o o óleo vegetal, em biodiesel. A expectativa da fábrica é transformar 14 milhões de quilogramas de banha em 112 milhões de litros de biodiesel. Revista Scientific American. Brasil, ago. 2009 (adaptado). Considere que haja uma proporção direta entre a massa de banha transformada e o volume de biodiesel produzido.",
+    "introducao_alternativas": "Para produzir 48 milhões de litros de biodiesel, a massa de banha necessária, em quilogramas, será de, aproximadamente,",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 milhões.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "33 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "78 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "146 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "384 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_14be116e-c4bb-4622-bde1-3f6d3ffe9ea8",
+    "title": "Questão M0159 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um dos grandes problemas da poluição dos mananciais (rios, córregos e outros) ocorre pelo hábito de jogar óleo utilizado em frituras nos encanamentos que estão interligados com o sistema de esgoto. Se isso ocorrer, cada 10 litros de óleo poderão contaminar 10 milhões (107) de litros de água potável. Manual de etiqueta. Parte integrante das revistas Veja (ed. 2055), Cláudia (ed. 555), National Geographic (ed. 93) e Nova Escola (ed. 208) (adaptado). Suponha que todas as famílias de uma cidade descartem os óleos de frituras através dos encanamentos e consomem 1 000 litros de óleo em frituras por semana.",
+    "introducao_alternativas": "Qual seria, em litros, a quantidade de água potável contaminada por semana nessa cidade?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "102",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "103",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "104",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "105",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "109",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_491ef566-056f-4390-bbe2-9c8fde5a67c4",
+    "title": "Questão M0568 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico fornece os valores das ações da empresa XPN, no período das 10 às 17 horas, num dia em que elas oscilaram acentuadamente em curtos intervalos de tempo. [IMAGEM_0] Neste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela. [IMAGEM_1]",
+    "introducao_alternativas": "Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0568_-_enem_2013_8de2c24a-a9ff-4.png",
+      "questao_m0568_-_enem_2013_fa79b8bb-e9b5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ca9f3c4a-44ac-4e08-8ec3-dbc3c2f919a9",
+    "title": "Questão M1307 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche, em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído definitivamente no cardápio. Terminado o período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias. [IMAGEM_0]",
+    "introducao_alternativas": "Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1307_-_enem_2013_eb7060d9-64df-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c176e4b1-212c-4fcc-9873-2f563adfa5f0",
+    "title": "Questão M2157 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os pesquisadores de uma empresa especializada em grãos selecionaram cinco diferentes tipos de semente de feijão e concluíram que, quando armazenadas por até seis meses, o poder germinativo de cada um desses tipos expressa, em porcentagem, quantas sementes são capazes de germinar, transcorrido o tempo de armazenamento correspondente. Considere que o tempo zero corresponde ao plantio direto da semente sem armazenamento, conformedescrito no quadro. [IMAGEM_0] Um agricultor irá plantar três áreas distintas utilizando sementes de um mesmo tipo. A primeira área será plantada quando da aquisição das sementes, a segunda, três meses após a primeira e a terceira, três meses após a segunda,respeitando assim o tempo de armazenamento utilizado pelos pesquisadores. Esse agricultor irá optar pela compra do tipo de semente que apresentar a maior média dos três percentuais de poder germinativo. Disponível em: http://sistemasdeproducao.cnptia.embrapa.br. Acesso em: 22 out. 2015 (adaptado).",
+    "introducao_alternativas": "Segundo essas informações, qual será o tipo de semente a ser adquirida por ele?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2157_-_enem_ppl_2013_8ff02bd9-a758-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cd8ff238-87ad-475f-9c47-af8469016be6",
+    "title": "Questão M1981 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo. [IMAGEM_0] Durante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
+    "introducao_alternativas": "Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1981_-_enem_2013_91782439-1529-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5df4f90e-9f4b-4248-839d-056acfba7080",
+    "title": "Questão M2252 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico apresenta o valor total de exportações e o valor total de importações, ao longo de um período, em bilhão de dólares. O saldo da balança comercial brasileira é dado pelo valor total de exportações menos o valor total de importações num mesmo período. [IMAGEM_0] Considere que os saldos da balança comercial brasileira, nos três meses destacados no gráfico, sejam representados por: – S1: saldo em junho de 2009; – S2: saldo em janeiro de 2010; – S3: saldo em junho de 2010.",
+    "introducao_alternativas": "A ordenação dos saldos S1, S2 e S3, do maior para o menor, é",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2252_-_enem_2013_a6ef75b5-3d94-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S1, S3 e S2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "S2, S1 e S3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "S2, S3 e S1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "S3, S1 e S2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "S3, S2 e S1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9b271674-9972-499e-81d9-245301c64025",
+    "title": "Questão M2256 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O uso de aplicativos de transporte tem sido uma alternativa à população que busca preços mais competitivos para se locomover, principalmente nas grandes cidades. As formas usadas para determinar o valor cobrado por cada viagem variam de um aplicativo para outro, mas, em geral, o valor V a ser pago, em real, varia em função de: – tarifa base F: valor fixo, em real, cobrado no início da viagem; – tempo T : tempo, em minuto, de duração da viagem; – distância D: distância percorrida, em quilômetro. Um desses aplicativos cobra R$ 2,00 de valor fixo, acrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 por quilômetro rodado.",
+    "introducao_alternativas": "Nessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,00F + 0,26T + 1,40D.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,00 + 0,26T + 1,40D.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,00 + 0,26T + D.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,26T + 1,40D.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "F + T + D.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b6c53c7a-a11a-4c39-9b2b-aa346eb86f4f",
+    "title": "Questão M0428 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico mostra a variação da extensão média de gelo marítimo, em milhões de quilômetros quadrados, comparando dados dos anos 1995, 1998, 2000, 2005 e 2007. Os dados correspondem aos meses de junho a setembro. O Ártico começa a recobrar o gelo quando termina o verão, em meados de setembro. O gelo do mar atua como o sistema de resfriamento da Terra, refletindo quase toda a luz solar de volta ao espaço. Águas de oceanos escuros, por sua vez, absorvem a luz solar e reforçam o aquecimento do Ártico, ocasionando derretimento crescente do gelo. [IMAGEM_0]",
+    "introducao_alternativas": "Com base no gráfico e nas informações do texto, é possível inferir que houve maior aquecimento global em",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0428_-_enem_2013_69b1c589-fc09-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1995.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1998.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2005.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2007.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1e28a378-f9b0-441b-a369-4363081457d3",
+    "title": "Questão M2077 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma cidade enfrenta racionamento no abastecimento de água. Para minimizar os efeitos da falta de água para seus hóspedes, o gerente de um hotel pretende substituir a caixa-d’água existente por um reservatório. Sabe-se que o consumo médio diário do hotel é de 10 mil litros de água. Mantido o consumo médio diário, o gerente quer que o novo reservatório, uma vez cheio, seja capaz de suprir as necessidades do hotel por, pelo menos, 6 dias completos, mesmo que não haja abastecimento de água nesse período. O espaço de que o hotel dispõe para instalar o novo reservatório tem formato retangular com largura de 5 m e comprimento de 6 m. O gerente analisa cinco opções disponíveis para esse reservatório. [IMAGEM_0]",
+    "introducao_alternativas": "A opção de reservatório que atende à necessidade do hotel e que cabe no espaço disponível é",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": "12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "QuestãoM2077-ENEMPPL2013.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_20bd5188-70ac-402e-b246-4a4bdface3ac",
+    "title": "Questão M2282 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os integrantes de uma banda de rock realizaram um processo seletivo para contratar um novo vocalista. Foram pré-selecionados cinco cantores para a realização de três testes. As frequências, medidas em hertz, alcançadas nesses testes, por cada cantor foram: – I: 380; 410; 470. – II: 330; 350; 490. – III: 420; 420; 390. – IV: 407; 410; 404. – V: 310; 380; 480. Os integrantes da banda decidiram selecionar o cantor que apresentou a maior frequência média nos três testes.",
+    "introducao_alternativas": "O cantor selecionado foi o",
+    "assunto": "Estatística",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e78ca06e-1f9b-4b1e-8621-0b99c41e23b1",
+    "title": "Questão M0418 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Cinco empresas de gêneros alimentícios encontram-se à venda. Um empresário, almejando ampliar os seus investimentos, deseja comprar uma dessas empresas. Para escolher qual delas irá comprar, analisa o lucro (em milhões de reais) de cada uma delas, em função de seus tempos (em anos) de existência, decidindo comprar a empresa que apresente o maior lucro médio anual. O quadro apresenta o lucro (em milhões de reais) acumulado ao longo do tempo (em anos) de existência de cada empresa. [IMAGEM_0]",
+    "introducao_alternativas": "O empresário decidiu comprar a empresa",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0418_-_enem_2013_7c6346c0-d6d4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "G.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "H.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "M.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "P.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f5916ed5-1e30-48b3-9431-506130c97e60",
+    "title": "Questão M0563 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O modelo matemático desenvolvido por Kirschner e Webb descreve a dinâmica da interação das células não infectadas do sistema imunológico humano com os vírus HIV. Os gráficos mostram a evolução no tempo da quantidade de células não infectadas no sistema imunológico de cinco diferentes pacientes infectados pelo vírus HIV. Quando a população das células não infectadas de um sistema imunológico é extinta, o paciente infectado fica mais suscetível à morte, caso contraia alguma outra doença. [IMAGEM_0]",
+    "introducao_alternativas": "A partir desses dados, o sistema imunológico do paciente infectado que ficou mais rapidamente suscetível à morte está representado pelo gráfico.",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": "25",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0563_-_enem_ppl_2013_3fab3f23-5e63-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "D.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "E.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1607f55d-ca56-4a71-83fc-b289edacde5a",
+    "title": "Questão M0392 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico mostra estimativas da produção brasileira de trigo em safras recentes: [IMAGEM_0] ",
+    "introducao_alternativas": "A média da produção brasileira de trigo de 2005/06 a 2009/10, em milhões de toneladas, é de",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": "25",
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0392_-_enem_2013_1841e1af-d4f3-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,87.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,70.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,56.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,49.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,09.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bfed6bda-55cd-48f5-8430-e2a99582baaa",
+    "title": "Questão M2239 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um artesão utiliza dois tipos de componentes, X e Y, nos enfeites que produz. Ele sempre compra todos os componentes em uma mesma loja. O quadro apresenta os preços dos dois tipos de componentes nas lojas I e II. [IMAGEM_0] Ele confeccionará enfeites formados por duas unidades do componente X e uma unidade do componente Y e efetuará a compra na loja que oferecer o menor valor total para a confecção de um enfeite.",
+    "introducao_alternativas": "O artesão efetuará a compra na loja",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2239_-_enem_2013_539b5719-00bd-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, pois o valor é R$ 7,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "I, pois o valor é R$ 4,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "II, pois o valor é R$ 6,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "I, pois anuncia o componente com o menor preço.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "II, pois o componente X, que é o mais utilizado, tem menor preço.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8be300a9-16e9-41a8-9cb1-eef87eb1ba3f",
+    "title": "Questão M2323 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O dono de dois cachorrinhos, um shitzu e um poodle, fez uma pesquisa na internet sobre preços de banho para seus cães em cinco lojas próximas à sua casa. Ele pretendia levar os dois cachorrinhos a um mesmo petshop naquela semana para tomar banho. [IMAGEM_0] O local escolhido foi o que apresentou o menor preço para banho dos dois cachorrinhos.",
+    "introducao_alternativas": "O petshop escolhido foi o",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2323_-_enem_ppl_2013_52fd3d65-bcee-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d1420850-a5e3-43e5-a940-f654d3a8d7f2",
+    "title": "Questão M1888 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Cinco regiões de um país estão buscando recursos no Governo Federal para diminuir a taxa de desemprego de sua população. Para decidir qual região receberia o recurso, foram colhidas as taxas de desemprego, em porcentagem, dos últimos três anos. Os dados estão apresentados na tabela. [IMAGEM_0] Ficou decidido que a região contemplada com a maior parte do recurso seria aquela com a maior mediana das taxas de desemprego dos últimos três anos.",
+    "introducao_alternativas": "A região que deve receber a maior parte do recurso é a",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 26,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1888_-_enem_ppl_2013_c79f595c-a8be-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "D.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "E.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d36f60a6-ed24-4d3f-8fb7-bdb7979da607",
+    "title": "Questão M2113 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A qualidade de sementes é verificada, entre outros fatores, pelo índice de germinação. Uma grande empresa afirma que o índice de germinação de suas sementes é de 90%. Essa empresa e dez pequenos produtores que formam uma cooperativa estão concorrendo a um auxílio financeiro que permitirá aumentar os negócios. Os cooperados querem preparar um documento técnico comparando a qualidade de suas sementes com as da empresa. Eles discutiram a possibilidade de colocar nesse documento frases como: \nI – A média de germinação de nossas sementes é superior ao índice de germinação anunciado pela empresa.\nII – A mediana de germinação de nossas sementes é superior ao índice de germinação anunciado pela empresa.\nIII – A média de germinação de nossas sementes é igual ao índice de germinação anunciado pela empresa.\nIV – A moda de germinação de nossas sementes é igual ao índice de germinação anunciado pela empresa.\nV – A mediana de germinação de nossas sementes é igual ao índice de germinação anunciado pela empresa. \n\nEles decidiram anotar a porcentagem de germinação das sementes de cada cooperado, analisar as frases e decidir qual era a correta para, então, colocá-la no documento. As porcentagens anotadas foram 90%, 65%, 70%, 75%, 95%, 95%, 90%, 80%, 80% e 90%.",
+    "introducao_alternativas": "A frase a ser colocada no documento é a de número",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": "26",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f39bf686-6142-4901-bcfd-ec3e2b12a4c1",
+    "title": "Questão M0320 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura é uma representação simplificada do carrossel de um parque de diversões, visto de cima. Nessa representação, os cavalos estão identificados pelos pontos escuros, e ocupam circunferências de raios 3 m e 4 m, respectivamente, ambas centradas no ponto O. Em cada sessão de funcionamento, o carrossel efetua 10 voltas. [IMAGEM_0]",
+    "introducao_alternativas": "Quantos metros uma criança sentada no cavalo C1 percorrerá a mais do que uma criança no cavalo C2, em uma sessão? Use 3,0 como aproximação para π.",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": "8",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0320_-_enem_ppl_2013_82a80b94-a668-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "55,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60,0",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "175,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "235,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "240,0",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_67e7020d-e4bc-48d9-b50d-2035377b1854",
+    "title": "Questão M0431 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma equipe de especialistas do centro meteorológico de uma cidade mediu a temperatura do ambiente, sempre no mesmo horário, durante 15 dias intercalados, a partir do primeiro dia de um mês. Esse tipo de procedimento é frequente, uma vez que os dados coletados servem de referência para estudos e verificação de tendências climáticas ao longo dos meses e anos. [IMAGEM_0]",
+    "introducao_alternativas": "Em relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a",
+    "assunto": "Estatística",
+    "competencia": 7,
+    "habilidade": 27,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m0431_-_enem_2013_e68d2b40-fa5a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17°C, 17°C e 13,5°C",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "17°C, 18°C e 13,5°C",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "17°C, 13,5°C e 18°C",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "17°C, 18°C e 21,5°C",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "17°C, 13,5°C e 21,5°C",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_04776914-145a-489a-9491-3650ceb91a11",
+    "title": "Questão M2130 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O presidente de um time de futebol contratou, para a temporada de 2016, um atacante e um meio-campista. Para isso, ele recebeu do departamento de futebol dois quadros. O primeiro quadro contém o número de gols marcados por três candidatos a atacantes, nas três temporadas anteriores. [IMAGEM_0] O segundo quadro contém o número de assistências que resultaram em gol, feitas por dois candidatos a meios-campistas, nas três temporadas anteriores. [IMAGEM_1] Após fazer uma análise das médias de gols de cada atacante e das médias de assistências de cada meio-campista nas últimas três temporadas, o presidente contratou o atacante e o meio-campista com maior média de gols e assistências, respectivamente, nessas três temporadas.",
+    "introducao_alternativas": "O atacante e o meio-campista escolhidos por esse presidente foram, respectivamente,",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2130_-_enem_ppl_2013_91983b0d-aade-4.png",
+      "questao_m2130_-_enem_ppl_2013_e32bcbc8-4bbe-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "I e V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "II e V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_db4d3755-f5c7-46be-ab4e-96ccfe1571ce",
+    "title": "Questão M0411 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os candidatos K, L, M, N e P estão disputando uma única vaga de emprego em uma empresa e fizeram provas de português, matemática, direito e informática. A tabela apresenta as notas obtidas pelos cinco candidatos. [IMAGEM_0] Segundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior.",
+    "introducao_alternativas": "O candidato aprovado será",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0411_-_enem_2013_507faa32-3f5a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "K.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "L.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "M.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "N.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "P.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_64d5677f-ad83-4d0a-9a7d-31218d06b1a3",
+    "title": "Questão M0476 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Após realizar uma pesquisa de mercado, uma operadora de telefonia celular ofereceu aos clientes que utilizavam até 500 ligações ao mês o seguinte plano mensal: um valor fixo de R$ 12,00 para os clientes que fazem até 100 ligações ao mês. Caso o cliente faça mais de 100 ligações, será cobrado um valor adicional de R$ 0,10 por ligação, a partir da 101ª até a 300ª; e caso realize entre 300 e 500 ligações, será cobrado um valor fixo mensal de R$ 32,00.",
+    "introducao_alternativas": "Com base nos elementos apresentados, o gráfico que melhor representa a relação entre o valor mensal pago nesse plano e o número de ligações feitas é:",
+    "assunto": "Função Afim",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0476_-_enem_2013_alt_A_6a568700-18e5-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m0476_-_enem_2013_alt_B_e57f10a8-824f-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0476_-_enem_2013_alt_C_516aed4e-ec0f-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0476_-_enem_2013_alt_D_6bca2547-e7ea-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m0476_-_enem_2013_alt_E_32c3667d-b6a7-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

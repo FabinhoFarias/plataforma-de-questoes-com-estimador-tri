@@ -1,0 +1,2508 @@
+[
+  {
+    "id_externo": "Questao_e74d7bc8-e65c-4bc0-96c4-33a78a86e823",
+    "title": "Questão M2791 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida). O jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada. Arthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.",
+    "introducao_alternativas": "Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é",
+    "assunto": "Probabilidade",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Arthur, pois a soma que escolheu é a menor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Caio, pois a soma que escolheu é a maior.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_11b24059-afda-4ba8-af2c-e3ff08f1d4a3",
+    "title": "Questão M2792 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "É possível usar água ou comida para atrair as aves e observá-las. Muitas pessoas costumam usar água com açúcar, por exemplo, para atrair beija-flores. Mas é importante saber que, na hora de fazer a mistura, você deve sempre usar uma parte de açúcar para cinco partes de água. Além disso, em dias quentes, precisa trocar a água de duas a três vezes, pois com o calor ela pode fermentar e, se for ingerida pela ave, pode deixá-la doente. O excesso de açúcar, ao cristalizar, também pode manter o bico da ave fechado, impedindo-a de se alimentar. Isso pode até matá-la. Ciência Hoje das Crianças. FNDE; Instituto Ciência Hoje, ano 19, n. 166, mar. 1996. Pretende-se encher completamente um copo com a mistura para atrair beija-flores. O copo tem formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de diâmetro.",
+    "introducao_alternativas": "A quantidade de água que deve ser utilizada na mistura é cerca de (utilize π = 3)",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 mL.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "24 mL.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "100 mL.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "120 mL.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "600 mL.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6d42b82b-98e9-431e-b274-12db7a454616",
+    "title": "Questão M2794 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O atletismo é um dos esportes que mais se identificam com o espírito olímpico. A figura ilustra uma pista de atletismo. A pista é composta por oito raias e tem largura de 9,76 m. As raias são numeradas do centro da pista para a extremidade e são construídas de segmentos de retas paralelas e arcos de circunferência. Os dois semicírculos da pista são iguais. [IMAGEM_0] BIEMBENGUT, M. S. Modelação Matemática como método de ensino-aprendizagem de Matemática em cursos de 1º e 2º graus. 1990. Dissertação de Mestrado. IGCE/UNESP, Rio Claro,1990 (adaptado).",
+    "introducao_alternativas": "Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2794_-_enem_2013_39534af8-a738-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c0d54ee4-4832-438d-98c7-f68aa08273d9",
+    "title": "Questão M2793 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura apresenta informações biométricas de um homem (Duílio) e de uma mulher (Sandra) que estão buscando alcançar seu peso ideal a partir das atividades físicas (corrida). Para se verificar a escala de obesidade, foi desenvolvida a fórmula que permite verificar o Índice de Massa Corporal (IMC). Esta fórmula é apresentada como IMC = m/h2, onde m é a massa em quilogramas e h é altura em metros. [IMAGEM_0] Veja. Ed. 2055 (adaptado). No quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos. [IMAGEM_1] Nova Escola. N° 172, maio 2004.",
+    "introducao_alternativas": "A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2793_-_enem_2013_93a2dae4-ee39-4.png",
+      "questao_m2793_-_enem_2013_1ff92dd0-297b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1, estando ambos na categoria de sobrepeso.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8fbcb844-a6e2-4452-8078-a0796744ed87",
+    "title": "Questão M2795 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um técnico em refrigeração precisa revisar todos os pontos de saída de ar de um escritório com várias salas. Na imagem apresentada, cada ponto indicado por uma letra é a saída do ar, e os segmentos são as tubulações. [IMAGEM_0]",
+    "introducao_alternativas": "Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2795_-_enem_2013_64c308a5-432c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "K, I e F.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "K, J, I, G, L e F.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "K, L, G, I, J, H e F.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "K, J, H, I, G, L e F.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "K, L, G, I, H, J e F.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0d692ee3-59b4-4ca1-ad4f-9dc1f45ce0ad",
+    "title": "Questão M2796 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O termo agronegócio não se refere apenas à agricultura e à pecuária, pois as atividades ligadas a essa produção incluem fornecedores de equipamentos, serviços para a zona rural, industrialização e comercialização dos produtos. O gráfico seguinte mostra a participação percentual do agronegócio no PIB brasileiro: [IMAGEM_0] Centro de Estudos Avançados em Economia Aplicada (CEPEA). Almanaque abril 2010. São Paulo: Abril, ano 36 (adaptado). Esse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais.",
+    "introducao_alternativas": "Segundo o gráfico, o período de queda ocorreu entre os anos de?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2796_-_enem_2013_80e2ac98-67a2-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1998 e 2001.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2001 e 2003.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2003 e 2006.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2003 e 2007.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2003 e 2008.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_584f1b5c-efa4-465a-927f-244bf1860599",
+    "title": "Questão M2797 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A resistência das vigas de dado comprimento é diretamente proporcional à largura (b) e ao quadrado da altura (d), conforme a figura. A constante de proporcionalidade k varia de acordo com o material utilizado na sua construção. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando-se S como a resistência, a representação algébrica que exprime essa relação é",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2797_-_enem_2013_62961411-737b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S = k.b.d",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "S = b.d2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "S = k.b.d2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "S = k.b / d2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "S = k.d2 / b",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f33d26ab-9b04-46f1-b018-ad6eb58a1e65",
+    "title": "Questão M2798 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere que uma pessoa decida investir uma determinada quantia e que lhe sejam apresentadas três possibilidades de investimento, com rentabilidades líquidas garantidas pelo período de um ano, conforme descritas: Investimento A: 3% ao mês Investimento B: 36% ao ano Investimento C: 18% ao semestre As rentabilidades, para esses investimentos, incidem sobre o valor do período anterior.",
+    "introducao_alternativas": "O quadro fornece algumas aproximações para a análise das rentabilidades: n 1,03n 3 1,093 6 1,194 9 1,305 12 1,426 Para escolher o investimento com a maior rentabilidade anual, essa pessoa deverá",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fb2a8647-8382-4874-877b-82aee8596865",
+    "title": "Questão M2799 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade q de produtos é dado por uma função, simbolizada por CT, enquanto o faturamento que a empresa obtém com a venda da quantidade q também é uma função, simbolizada por FT. O lucro total (LT) obtido pela venda da quantidade q de produtos é dado pela expressão LT(q) = FT(q) – CT(q).",
+    "introducao_alternativas": "Considerando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo?",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9747d97b-6b53-4772-a90c-6a19bbee7ed6",
+    "title": "Questão M2800 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido. Todos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada.",
+    "introducao_alternativas": "O diretor sabe que algum aluno acertará a resposta porque há",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 alunos a mais do que possíveis respostas distintas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20 alunos a mais do que possíveis respostas distintas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "119 alunos a mais do que possíveis respostas distintas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "260 alunos a mais do que possíveis respostas distintas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "270 alunos a mais do que possíveis respostas distintas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5505580f-7a70-40a2-a9fe-88762dfb60f1",
+    "title": "Questão M2801 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um biólogo mediu a altura de cinco árvores distintas e representou-as em uma mesma malha quadriculada, utilizando escalas diferentes, conforme indicações na figura a seguir. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a árvore que apresenta a maior altura real?",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2801_-_enem_2013_d199350b-a366-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7aa67e98-b15d-4a6e-9d3a-970b90620e51",
+    "title": "Questão M2802 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Maria quer inovar em sua loja de embalagens e decidiu vender caixas com diferentes formatos. Nas imagens apresentadas estão as planificações dessas caixas. [IMAGEM_0]",
+    "introducao_alternativas": "Quais serão os sólidos geométricos que Maria obterá a partir dessas planificações?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2802_-_enem_2013_6e31339b-d8d6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cilindro, prisma de base pentagonal e pirâmide.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cone, prisma de base pentagonal e pirâmide.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cone, tronco de pirâmide e pirâmide.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Cilindro, tronco de pirâmide e prisma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Cilindro, prisma e tronco de cone.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8b4cc2b8-4594-4ef9-8844-bb9f6a1588ce",
+    "title": "Questão M2803 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.",
+    "introducao_alternativas": "A quantidade de cartas que forma o monte é",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "21.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "24.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "26.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "28.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "31.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a9fb8208-6ab9-47ed-9253-b857117ba067",
+    "title": "Questão M0123 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.",
+    "introducao_alternativas": "Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "37.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "51.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "88.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "89.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "91.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b74ef8c3-7958-4aa0-ab00-384dae040399",
+    "title": "Questão M2804 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Arthur deseja comprar um terreno de Cléber, que lhe oferece as seguintes possibilidades de pagamento. Opção 1: Pagar à vista, por R$ 55.000,00; Opção 2: Pagar a prazo, dando uma entrada de R$ 30.000,00, e mais uma prestação de R$ 26.000,00 para dali a 6 meses. Opção 3: Pagar a prazo, dando uma entrada de R$ 20.000,00, mais uma prestação de R$ 20.000,00, para dali a 6 meses e outra de R$ 18.000,00 para dali a 12 meses da data da compra. Opção 4: Pagar a prazo dando uma entrada de R$ 15.000,00 e o restante em 1 ano da data da compra, pagando R$ 39.000,00. Opção 5: pagar a prazo, dali a um ano, o valor de R$ 60.000,00. Arthur tem o dinheiro para pagar à vista, mas avalia se não seria melhor aplicar o dinheiro do valor à vista (ou até um valor menor) em um investimento, com rentabilidade de 10% ao semestre, resgatando os valores à medida que as prestações da opção escolhida fossem vencendo.",
+    "introducao_alternativas": "Após avaliar a situação do ponto de vista financeiro e das condições apresentadas, Arthur concluiu que era mais vantajoso financeiramente escolher a opção",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d1ded8de-e57a-406a-8856-1a45c68b16b5",
+    "title": "Questão M2805 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um forro retangular de tecido traz em sua etiqueta a informação de que encolherá após a primeira lavagem mantendo, entretanto, seu formato. A figura a seguir mostra as medidas originais do forro e o tamanho do encolhimento (x) no comprimento e (y) na largura. A expressão algébrica que representa a área do forro após ser lavado é (5 – x) (3 – y). [IMAGEM_0]",
+    "introducao_alternativas": "Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2805_-_enem_2013_421a2c07-5df1-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2xy",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 – 3x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "15 – 5y",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "–5y – 3x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5y + 3x – xy",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_210df0c3-02ac-46f1-b6d9-f700ca61957c",
+    "title": "Questão M2806 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A resistência mecânica S de uma viga de madeira, em forma de um paralelepípedo retângulo, é diretamente proporcional à sua largura (b) e ao quadrado de sua altura (d) e inversamente proporcional ao quadrado da distância entre os suportes da viga, que coincide com o seu comprimento (x), conforme ilustra a figura. A constante de proporcionalidade k é chamada de resistência da viga. [IMAGEM_0] BUSHAW, D. et al. Aplicações da matemática escolar. São Paulo: Atual, 1997.",
+    "introducao_alternativas": "A expressão que traduz a resistência S dessa viga de madeira é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2806_-_enem_2013_8075d701-d6f6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S = k.b.d2 / x2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "S = k.b.d / x2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "S = k.b.d2 / x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "S = k.b2.d / x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "S = k.b.2d / 2x",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_88f7b3aa-457e-43ab-8f60-914a6dff6b00",
+    "title": "Questão M2807 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "João propôs um desafio a Bruno, seu colega de classe: ele iria descrever um deslocamento pela pirâmide a seguir e Bruno deveria desenhar a projeção desse deslocamento no plano da base da pirâmide. [IMAGEM_0] O deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C.",
+    "introducao_alternativas": "O desenho que Bruno deve fazer é",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2807_-_enem_2013_60066ded-87f0-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2807_-_enem_2013_alt_A_99e63848-45a2-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2807_-_enem_2013_alt_B_ac96e5b6-3c88-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2807_-_enem_2013_alt_C_887d9bd3-a114-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2807_-_enem_2013_alt_D_d7eea073-cf8d-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2807_-_enem_2013_alt_E_eb10702f-8d38-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_665ac59c-7e22-4397-a2f9-cde10f0e7a67",
+    "title": "Questão M2808 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "As curvas de oferta e de demanda de um produto representam, respectivamente, as quantidades que vendedores e consumidores estão dispostos a comercializar em função do preço do produto. Em alguns casos, essas curvas podem ser representadas por retas. Suponha que as quantidades de oferta e de demanda de um produto sejam, respectivamente, representadas pelas equações: QO = –20 + 4P QD = 46 – 2P em que QO é quantidade de oferta, QD é a quantidade de demanda e P é o preço do produto. A partir dessas equações, de oferta e de demanda, os economistas encontram o preço de equilíbrio de mercado, ou seja, quando QO e QD se igualam.",
+    "introducao_alternativas": "Para a situação descrita, qual o valor do preço de equilíbrio?",
+    "assunto": "Função Afim",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "11",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "13",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "23",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "33",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_361e9d94-af3a-4d54-9244-f0bda87ead00",
+    "title": "Questão M2809 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.",
+    "introducao_alternativas": "Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "153.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "460.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.218.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.380.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3.066.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_54c2762a-4f96-4143-a25b-9be965610c5e",
+    "title": "Questão M2810 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas. Um professor de Educação Física, ao discutir com a turma o texto sobre a capacidade do maratonista americano, desenhou na lousa uma pista reta de 60 centímetros, que representaria o percurso referido. Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado).",
+    "introducao_alternativas": "Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 11,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 700",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 7.000",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 70.000",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 700.000",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 7.000.000",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_65bcaefe-ea54-49cb-96f8-1d8ba7202066",
+    "title": "Questão M2811 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O losango representado na Figura 1 foi formado pela união dos centros das quatro circunferências tangentes, de raios de mesma medida. [IMAGEM_0] Dobrando-se o raio de duas das circunferências centradas em vértices opostos do losango e ainda mantendo-se a configuração das tangências, obtém-se uma situação conforme ilustrada pela Figura 2. [IMAGEM_1]",
+    "introducao_alternativas": "O perímetro do losango da Figura 2, quando comparado ao perímetro do losango da Figura 1, teve um aumento de",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2811_-_enem_2013_45f99ccb-c025-4.png",
+      "questao_m2811_-_enem_2013_679cd89e-6601-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "200%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "150%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "100%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "50%.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_af2501bf-0ba0-4ebb-be2f-8cb9fcf6d10c",
+    "title": "Questão M2812 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O globo da morte é uma atração muito usada em circos. Ele consiste em uma espécie de jaula em forma de uma superfície esférica feita de aço, onde motoqueiros andam com suas motos por dentro. A seguir, tem-se, na Figura 1, uma foto de um globo da morte e, na Figura 2, uma esfera que ilustra um globo da morte. [IMAGEM_0] Na Figura 2, o ponto A está no plano do chão onde está colocado o globo da morte e o segmento AB passa pelo centro da esfera e é perpendicular ao plano do chão. Suponha que há um foco de luz direcionado para o chão colocado no ponto B e que um motoqueiro faça um trajeto dentro da esfera, percorrendo uma circunferência que passa pelos pontos A e B. Disponível em: www.baixaki.com.br. Acesso em: 29 fev. 2012.",
+    "introducao_alternativas": "A imagem do trajeto feito pelo motoqueiro no plano do chão é melhor representada por",
+    "assunto": "Geometria de Posição",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2812_-_enem_2013_d6e5539b-dd47-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2812_-_enem_2013_alt_A_a582c25f-3712-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2812_-_enem_2013_alt_B_3504b9a6-6272-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2812_-_enem_2013_alt_C_c0d43d5b-d661-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2812_-_enem_2013_alt_D_b7e6ed9a-6d54-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2812_-_enem_2013_alt_E_0f6e4de9-3fe7-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4595a357-fc24-4dd8-ba79-458d58695abf",
+    "title": "Questão M2813 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A tabela a seguir mostra a evolução da receita bruta anual nos três últimos anos de cinco microempresas (ME) que se encontram à venda. [IMAGEM_0] Um investidor deseja comprar duas das empresas listadas na tabela. Para tal, ele calcula a média da receita bruta anual dos últimos três anos (de 2009 até 2011) e escolhe as duas empresas de maior média anual.",
+    "introducao_alternativas": "As empresas que este investidor escolhe comprar são",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2813_-_enem_2013_83cf79dc-51bf-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Balas W e Pizzaria Y.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Chocolates X e Tecelagem Z.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pizzaria Y e Alfinetes V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pizzaria Y e Chocolates X.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tecelagem Z e Alfinetes V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1f5a04e0-b02c-4d85-8e33-b06c23d94586",
+    "title": "Questão M2814 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um laboratório realiza exames em que é possível observar a taxa de glicose de uma pessoa. Os resultados são analisados de acordo com o quadro a seguir. [IMAGEM_0] Um paciente fez um exame de glicose nesse laboratório e comprovou que estava com hiperglicemia. Sua taxa de glicose era de 300 mg/dL. Seu médico prescreveu um tratamento em duas etapas. Na primeira etapa ele conseguiu reduzir sua taxa em 30% e na segunda etapa em 10%.",
+    "introducao_alternativas": "Ao calcular sua taxa de glicose após as duas reduções, o paciente verificou que estava na categoria de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2814_-_enem_2013_2ffbb273-e390-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipoglicemia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "normal.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "pré-diabetes.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "diabetes melito.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "hiperglicemia.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_804e4cc9-8a7d-4cd8-8b08-5bd28ec29431",
+    "title": "Questão M2815 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%. Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado).",
+    "introducao_alternativas": "Levando em consideração o processo de cozimento e a contração sofrida, o volume V de uma travessa de argila, de forma cúbica de aresta a, diminui para um valor que é",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "36% menor que V, porque a área da base diminui de a2 para ((1 − 0,2)a)2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "48,8% menor que V, porque o volume diminui de a3 para (0,8a)3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "51,2% menor que V, porque cada lado diminui para 80% do comprimento original.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "60% menor que V, porque cada lado diminui 20%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b982e473-c140-4a5e-bc71-bf5c8fde29e5",
+    "title": "Questão M2816 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um aluno registrou as notas bimestrais de algumas de suas disciplinas numa tabela. Ele observou que as entradas numéricas da tabela formavam uma matriz 4x4, e que poderia calcular as médias anuais dessas disciplinas usando produto de matrizes. Todas as provas possuíam o mesmo peso, e a tabela que ele conseguiu é mostrada a seguir. [IMAGEM_0]",
+    "introducao_alternativas": "Para obter essas médias, ele multiplicou a matriz obtida a partir da tabela por",
+    "assunto": "Matrizes",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2816_-_enem_2013_27d2f044-49cd-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2816_-_enem_2013_alt_A_946984af-f669-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2816_-_enem_2013_alt_B_63bc2e88-11ce-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2816_-_enem_2013_alt_C_c6b9832c-6020-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2816_-_enem_2013_alt_D_0a2c69b9-ef46-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2816_-_enem_2013_alt_E_9449dc38-6d98-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_34d87f90-ea48-4d40-9267-9b73b0411e8b",
+    "title": "Questão M2818 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Existem no mercado chuveiros elétricos de diferentes potências, que representam consumos e custos diversos. A potência (P) de um chuveiro elétrico é dada pelo produto entre sua resistência elétrica (R) e o quadrado da corrente elétrica (i) que por ele circula. O consumo de energia elétrica (E), por sua vez, é diretamente proporcional à potência do aparelho.",
+    "introducao_alternativas": "Considerando as características apresentadas, qual dos gráficos a seguir representa a relação entre a energia consumida (E) por um chuveiro elétrico e a corrente elétrica (i) que circula por ele?",
+    "assunto": "Função Quadrática",
+    "competencia": 4,
+    "habilidade": 16,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2818_-_enem_2013_alt_A_f94e7217-b0d2-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2818_-_enem_2013_alt_B_84afb1ac-e746-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2818_-_enem_2013_alt_C_1cf1e246-8b40-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2818_-_enem_2013_alt_D_be568f57-dc70-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2818_-_enem_2013_alt_E_700e0f40-8bea-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_43be690e-b1c3-46ea-b876-f80b2dc14154",
+    "title": "Questão M2817 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich. Dado: 1° equivale a 60’ e 1’ equivale a 60”. PAVARIN, G. Galileu, fev. 2012 (adaptado).",
+    "introducao_alternativas": "A representação angular da localização do vulcão com relação a sua longitude na forma decimal é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "124,02˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "124,05˚.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "124,20˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "124,30˚.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "124,50˚.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c8f3e6a7-ef06-47ba-970e-ca4e31e87238",
+    "title": "Questão M2819 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”. HUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).",
+    "introducao_alternativas": "Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão?",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S = k . M",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "S = k . M1/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "S = k1/3 . M1/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "S = k1/3 . M2/3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "S = k1/3 . M2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b73b3852-b4df-43c1-a3f6-fc67b3fd5596",
+    "title": "Questão M2820 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A Lei da Gravitação Universal, de Isaac Newton, estabelece a intensidade da força de atração entre duas massas. Ela é representada pela expressão: F = G m1 m2 / d2 onde m1 e m2 correspondem às massas dos corpos, d à distância entre eles, G à constante universal da gravitação e F à força que um corpo exerce sobre o outro. O esquema representa as trajetórias circulares de cinco satélites, de mesma massa, orbitando a Terra. [IMAGEM_0]",
+    "introducao_alternativas": "Qual gráfico expressa as intensidades das forças que a Terra exerce sobre cada satélite em função do tempo?",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2820_-_enem_2013_655bd938-9e7c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2820_-_enem_2013_alt_A_ae18a219-b8e6-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2820_-_enem_2013_alt_B_0aa3d17c-e5a0-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2820_-_enem_2013_alt_C_f064bc2e-6f7a-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2820_-_enem_2013_alt_D_7eb6088d-1c79-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2820_-_enem_2013_alt_E_0becc84a-ad60-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a235f948-a13d-4585-a984-618461a52c29",
+    "title": "Questão M2821 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um certo teatro, as poltronas são divididas em setores. A figura apresenta a vista do setor 3 desse teatro, no qual as cadeiras escuras estão reservadas e as claras não foram vendidas. [IMAGEM_0]",
+    "introducao_alternativas": "A razão que representa a quantidade de cadeiras reservadas do setor 3 em relação ao total de cadeiras desse mesmo setor é",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2821_-_enem_2013_d31200ff-bc0e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17/70.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "17/53.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "53/70.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "53/17.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "70/17.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5b134ad1-751f-4eca-adac-9ebec9401af7",
+    "title": "Questão M2822 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Durante uma aula de Matemática, o professor sugere aos alunos que seja fixado um sistema de coordenadas cartesianas (x, y) e representa na lousa a descrição de cinco conjuntos algébricos, I, II, III, IV e V, como se segue: I — é a circunferência de equação x2 + y2 = 9; II — é a parábola de equação y = − x2 − 1, com x variando de −1 a 1; III — é o quadrado formado pelos vértices (−2, 1), (−1, 1), (−1, 2) e (−2, 2); IV — é o quadrado formado pelos vértices (1, 1), (2, 1), (2, 2) e (1, 2); V — é o ponto (0, 0). A seguir, o professor representa corretamente os cinco conjuntos sobre uma mesma malha quadriculada, composta de quadrados com lados medindo uma unidade de comprimento, cada, obtendo uma figura.",
+    "introducao_alternativas": "Qual destas figuras foi desenhada pelo professor?",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2822_-_enem_2013_alt_A_90d5876b-777c-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2822_-_enem_2013_alt_B_9da655c8-1096-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2822_-_enem_2013_alt_C_016785ec-4271-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2822_-_enem_2013_alt_D_84db045d-9a2a-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2822_-_enem_2013_alt_E_53d57491-7839-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b69d9a3a-02f4-47be-959c-b965b66bbae3",
+    "title": "Questão M2824 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para aumentar as vendas no início do ano, uma loja de departamentos remarcou os preços de seus produtos 20% abaixo do preço original. Quando chegam ao caixa, os clientes que possuem o cartão fidelidade da loja têm direito a um desconto adicional de 10% sobre o valor total de suas compras. Um cliente deseja comprar um produto que custava R$ 50,00 antes da remarcação de preços. Ele não possui o cartão fidelidade da loja.",
+    "introducao_alternativas": "Caso esse cliente possuísse o cartão fidelidade da loja, a economia adicional que obteria ao efetuar a compra, em reais, seria de",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "14,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,00.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_02145417-2273-435b-b13a-72355a3a7add",
+    "title": "Questão M2825 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para o reflorestamento de uma área, deve-se cercar totalmente, com tela, os lados de um terreno, exceto o lado margeado pelo rio, conforme a figura. Cada rolo de tela que será comprado para confecção da cerca contém 48 metros de comprimento. [IMAGEM_0]",
+    "introducao_alternativas": "A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2825_-_enem_2013_987bc7d3-5ddb-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "11.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "12.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_028919b8-809d-4285-8910-0d78d85e0c31",
+    "title": "Questão M2826 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um programa de edição de imagens possibilita transformar figuras em outras mais complexas. Deseja-se construir uma nova figura a partir da original. A nova figura deve apresentar simetria em relação ao ponto O. [IMAGEM_0]",
+    "introducao_alternativas": "A imagem que representa a nova figura é:",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2826_-_enem_2013_ebc6b322-30dd-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2826_-_enem_2013_alt_A_279c2d34-23b4-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2826_-_enem_2013_alt_B_17eb2f7d-2417-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2826_-_enem_2013_alt_C_0ae62e0c-83db-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2826_-_enem_2013_alt_D_75e10e31-d603-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2826_-_enem_2013_alt_E_ae6195ca-69aa-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_819af9b2-5aca-4a8a-a029-cf191535d16a",
+    "title": "Questão M2827 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em setembro de 1987, Goiânia foi palco do maior acidente radioativo ocorrido no Brasil, quando uma amostra de césio-137, removida de um aparelho de radioterapia abandonado, foi manipulada inadvertidamente por parte da população. A meia-vida de um material radioativo é o tempo necessário para que a massa desse material se reduza à metade. A meia-vida do césio-137 é 30 anos e a quantidade restante de massa de um material radioativo, após t anos, é calculada pela expressão M(t) = A . (2,7)kt, onde A é a massa inicial e k é uma constante negativa. Considere 0,3 como aproximação para log10 2.",
+    "introducao_alternativas": "Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?",
+    "assunto": "Logaritmo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "27",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "36",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "50",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "54",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "100",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dc83330a-1a66-4547-9b90-fa1dcc8835d7",
+    "title": "Questão M2828 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Nos últimos anos, a televisão tem passado por uma verdadeira revolução, em termos de qualidade de imagem, som e interatividade com o telespectador. Essa transformação se deve à conversão do sinal analógico para o sinal digital. Entretanto, muitas cidades ainda não contam com essa nova tecnologia. Buscando levar esses benefícios a três cidades, uma emissora de televisão pretende construir uma nova torre de transmissão, que envie sinal às antenas A, B e C, já existentes nessas cidades. As localizações das antenas estão representadas no plano cartesiano: [IMAGEM_0] A torre deve estar situada em um local equidistante das três antenas.",
+    "introducao_alternativas": "O local adequado para a construção dessa torre corresponde ao ponto de coordenadas",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2828_-_enem_2013_404fb25d-42e0-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(65 ; 35).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(53 ; 30).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(45 ; 35).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(50 ; 20).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(50 ; 30).",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9447181a-afea-4b7b-af1e-7e33f1d81726",
+    "title": "Questão M2829 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma cozinheira, especialista em fazer bolos, utiliza uma forma no formato representado na figura: [IMAGEM_0] Nela identifica-se a representação de duas figuras geométricas tridimensionais.",
+    "introducao_alternativas": "Essas figuras são",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2829_-_enem_2013_f119b05a-c9bd-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um tronco de cone e um cilindro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "um cone e um cilindro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "um tronco de pirâmide e um cilindro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "dois troncos de cone.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "dois cilindros.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8a4a4b27-e61c-418c-bce3-de7ed26075f1",
+    "title": "Questão M2830 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Gangorra é um brinquedo que consiste de uma tábua longa e estreita equilibrada e fixada no seu ponto central (pivô). Nesse brinquedo, duas pessoas sentam-se nas extremidades e, alternadamente, impulsionam-se para cima, fazendo descer a extremidade oposta, realizando, assim, o movimento da gangorra. [IMAGEM_0]",
+    "introducao_alternativas": "A projeção ortogonal da trajetória dos pontos A e B, sobre o plano do chão da gangorra, quando esta se encontra em movimento, é:",
+    "assunto": "Geometria de Posição",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2830_-_enem_2013_6a0b05f3-161c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2830_-_enem_2013_alt_A_5a08f37b-2f28-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2830_-_enem_2013_alt_B_0473cf59-9128-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2830_-_enem_2013_alt_C_e96ad4e6-f1b8-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2830_-_enem_2013_alt_D_dfbabfee-8d34-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2830_-_enem_2013_alt_E_9f784a70-1ef1-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5ce8f9ca-f3cd-4b81-8d2a-ddee950d4aed",
+    "title": "Questão M2831 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere o seguinte jogo de apostas: Numa cartela com 60 números disponíveis, um apostador escolhe de 6 a 10 números. Dentre os números disponíveis, serão sorteados apenas 6. O apostador será premiado caso os 6 números sorteados estejam entre os números escolhidos por ele numa mesma cartela. O quadro apresenta o preço de cada cartela, de acordo com a quantidade de números escolhidos. [IMAGEM_0] Cinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções: Arthur: 250 cartelas com 6 números escolhidos; Bruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos; Caio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos; Douglas: 4 cartelas com 9 números escolhidos; Eduardo: 2 cartelas com 10 números escolhidos.",
+    "introducao_alternativas": "Os dois apostadores com maiores probabilidades de serem premiados são",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2831_-_enem_2013_17d451ff-803c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caio e Eduardo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Arthur e Eduardo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Bruno e Caio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Arthur e Bruno.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Douglas e Eduardo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6ff8f471-a17a-4cd6-a26f-0013e5f06165",
+    "title": "Questão M2832 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um comerciante visita um centro de vendas para fazer cotação de preços dos produtos que deseja comprar. Verifica que se aproveita 100% da quantidade adquirida de produtos do tipo A, mas apenas 90% de produtos do tipo B. Esse comerciante deseja comprar uma quantidade de produtos, obtendo o menor custo/benefício em cada um deles. O quadro mostra o preço por quilograma, em reais, de cada produto comercializado. [IMAGEM_0]",
+    "introducao_alternativas": "Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2832_-_enem_2013_6b88997c-b448-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, A, A, A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "A, B, A, B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "A, B, B, A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "B, A, A, B.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "B, B, B, B.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c65dca9d-f56a-49bf-a607-170e3829352b",
+    "title": "Questão M2833 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O índice de eficiência utilizado por um produtor de leite para qualificar suas vacas é dado pelo produto do tempo de lactação (em dias) pela produção média diária de leite (em kg), dividido pelo intervalo entre partos (em meses). Para esse produtor, a vaca é qualificada como eficiente quando esse índice é, no mínimo, 281 quilogramas por mês, mantendo sempre as mesmas condições de manejo (alimentação, vacinação e outros). Na comparação de duas ou mais vacas, a mais eficiente é a que tem maior índice. [IMAGEM_0]",
+    "introducao_alternativas": "Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2833_-_enem_2013_41705292-d34e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Malhada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mamona.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Maravilha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mateira.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mimosa.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_863558de-f6ed-4b10-aabc-56380cafa3f0",
+    "title": "Questão M2586 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Ao elaborar um programa de condicionamento para um atleta, um preparador físico estipula que ele deve correr 1.000 metros no primeiro dia e, nos dias seguintes, 200 metros a mais do que correu no dia anterior. O treinador deseja que, ao final dos dias de treinamento, o atleta tenha percorrido, em média, 1.700 m por dia.",
+    "introducao_alternativas": "Esse atleta deve participar desse programa por",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 4,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9 dias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8 dias.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5 dias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 dias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 dias.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_59b636be-2144-4004-a9ed-d31e633638b9",
+    "title": "Questão M2587 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um medidor de velocidade funciona com dois sensores instalados sob o asfalto. Um microprocessador recebe os sinais elétricos emitidos pelos sensores, calculando a velocidade v em função da distância fixa entre os sensores e o tempo gasto durante a passagem do veículo, assim, v = distância / tempo. Se a velocidade for maior do que a máxima permitida para a via, um sistema de vídeo é acionado para capturar a imagem do veículo infrator. Dois destes medidores estão instalados em uma avenida, onde a velocidade máxima permitida é de 60 km/h e a distância entre os sensores é de meio metro (0,5 m). Um motorista dirige um carro, nessa avenida, com o velocímetro descalibrado. Ao passar pelo primeiro medidor ele se lembra da existência dos medidores, reduzindo em 10 km/h a velocidade do seu veículo, e passa pelo segundo medidor. Sabe-se que o microprocessador do primeiro medidor registrou que o veículo passou entre os sensores em 0,024 segundos e, pela legislação vigente, a multa é classificada em: Média: se a velocidade do veículo é maior do que 60 km/h e menor ou igual a 72 km/h; Grave: se a velocidade do veículo é maior do que 72 km/h e menor ou igual a 90 km/h; Gravíssima: se a velocidade do veículo é maior do que 90 km/h. (Para transformar a velocidade de m/s para km/h multiplica-se por 3,6).",
+    "introducao_alternativas": "Qual(ais) multa(s) esse infrator recebeu?",
+    "assunto": "Função Afim",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente uma média.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Somente uma grave.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Uma grave e uma média.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Somente uma gravíssima.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Duas multas gravíssimas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bb28d631-ece2-4b6e-9fcc-caecda9ac67f",
+    "title": "Questão M2588 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa, durante sua vida, cometeu crimes, sendo, por consequência, condenada a 10 anos de cadeia. Ainda no tribunal, o juiz, interessado na recuperação dessa pessoa, lhe informou acerca da possibilidade que tinha em reduzir sua pena, caso se dispusesse a trabalhar na marcenaria da penitenciária. Informou-a que a cada 3 dias de trabalho, 1 dia seria “perdoado” em sua pena.",
+    "introducao_alternativas": "Imaginando não haver outras formas de progressão de pena, e considerando que a pessoa trabalhe todos os dias da semana, quanto tempo ela deverá permanecer presa?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre 2 e 3 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 3 e 4 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 4 e 5 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Entre 6 e 7 anos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Entre 7 e 8 anos.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_da6d16e6-a053-4742-85e4-e5a6e50145a9",
+    "title": "Questão M2589 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A direção de uma escola comprará lapiseiras para distribuir para os seus alunos. Sabe-se que x lapiseiras custam y reais.",
+    "introducao_alternativas": "O número máximo de lapiseiras que a direção da escola conseguirá comprar com z reais é o maior inteiro menor do que, ou igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "x z / y",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "y z / x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "z / (y x)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "z / y",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "z / x",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_802ebe29-efa0-45b0-80fa-13df5f369118",
+    "title": "Questão M2590 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pesquisa do Instituto de Pesquisa Econômica (Ipea) investigou qual área faz a economia crescer mais e quais os maiores responsáveis pela diminuição da desigualdade na distribuição de renda. [IMAGEM_0] Revista Nova Escola, ed. 240, mar. 2011 (adaptado).",
+    "introducao_alternativas": "Considerando apenas as áreas que contribuem para o crescimento econômico mais do que o investimento em exportação, qual delas é a que mais influencia para a maior igualdade?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2590_-_enem_2013_444ca0e1-3b00-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bolsa família.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Educação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Investimento em construção civil.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Previdência Social.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Saúde.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8bfe4dd8-ffc5-4f27-93af-cbf021224f54",
+    "title": "Questão M2777 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Até o fim do Império, as mulheres eram tolhidas em seu acesso à escola. Já na década de 1930, o número de meninas e meninos nas instituições de ensino fica igual. Hoje, as mulheres são maioria em todos os níveis de ensino — do fundamental à pós-graduação. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando os dados apresentados tem-se que, escolhida ao acaso uma brasileira com mais de 10 anos, a probabilidade de que ela possua oito anos ou mais de estudos é igual a?",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2777_-_enem_2013_4e54645f-4d64-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17,1%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "29,6%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "34,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "50,5%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "63,0%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8822d5a0-723a-482e-bbc8-e8894ad54bce",
+    "title": "Questão M2834 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um fabricante planeja colocar no mercado duas linhas de cerâmicas para revestimento de pisos. Diversas formas possíveis para as cerâmicas foram apresentadas e decidiu-se que o conjunto P de formas possíveis seria composto apenas por figuras poligonais regulares.",
+    "introducao_alternativas": "Duas formas geométricas que fazem parte de P são",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "triângulo e pentágono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "triângulo e hexágono.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "triângulo e octógono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "hexágono e heptágono.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "hexágono e octógono.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

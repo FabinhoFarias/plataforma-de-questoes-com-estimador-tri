@@ -1,0 +1,2507 @@
+[
+  {
+    "id_externo": "Questao_8ae4915d-e9dc-492e-a7be-b082ca9bcea9",
+    "title": "Questão M0023 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00.",
+    "introducao_alternativas": "De acordo com essas informações, qual foi o valor da cota calculada no acerto final para cada uma das 55 pessoas?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 14,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 17,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 22,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 32,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 57,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_50a90d57-d48d-4308-a921-923557ec690a",
+    "title": "Questão M1247 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada contra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor. Disponível em: www.oficinabrasil.com.br.Acesso em: 25 ago. 2014 (adaptado). Após uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação: 1: rolamento, 2: pastilha de freio, 3: caixa de direção, 4: catalisador e 5: amortecedor. Ao final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta um padrão de formação que consiste na repetição de um bloco de números. Essa sequência descreve a ordem em que os produtos apreendidos foram cadastrados.",
+    "introducao_alternativas": "O 2015º item cadastrado foi um(a)",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rolamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "catalisador.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "amortecedor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "pastilha de freio",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "caixa de direção.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d097ad8c-5908-4570-baf8-f6569619749b",
+    "title": "Questão M1108 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 kg de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento. Disponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).",
+    "introducao_alternativas": "A quantidade de gasolina utilizada, em litro, no reabastecimento, foi",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20/0,075",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20/0,75",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "20/7,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "20 x 0,075",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "20 x 0,75",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3c04ed6c-b240-42a1-9278-7f4c1e41a6bf",
+    "title": "Questão M2263 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folgas nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias. [IMAGEM_0] Para substituição dessa correia, é necessária a especificação de seu comprimento. Considere 3 como valor aproximado para π.",
+    "introducao_alternativas": "A medida do comprimento dessa correia, em centímetro, é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2263_-_enem_2013_636c92b6-6b6a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "54.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "66.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "68.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "72.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2c4d704b-efc8-44e8-99f1-81540a549084",
+    "title": "Questão M1104 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "No tanque de um certo carro de passeio cabem até 50 L de combustível, e o rendimento médio deste carro na estrada é de 15 km/L de combustível. Ao sair para uma viagem de 600 km o motorista observou que o marcador de combustível estava exatamente sobre uma das marcas da escala divisória do medidor, conforme figura a seguir. [IMAGEM_0] Como o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.",
+    "introducao_alternativas": "Qual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ficar sem combustível na estrada?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1104_-_enem_2013_ab6fa4e8-e594-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "570",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "500",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "450",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "187",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "150",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e726e17d-ce3b-4c93-86c1-7fe6b71faab7",
+    "title": "Questão M2144 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na loteria Lotex, cada aposta corresponde à marcação de cinquenta números em um cartão. Caso o apostador marque uma quantidade inferior a cinquenta números, o sistema completará aleatoriamente a sua aposta até integralizar os cinquenta números necessários. Por exemplo, o cartão de aposta retratado representa as escolhas de um jogador antes que o sistema integralize o seu preenchimento. [IMAGEM_0]",
+    "introducao_alternativas": "Com relação ao cartão exibido, o jogador reconhece que o número racional que corresponde ao quociente do número de pontos marcados pelo sistema, em seu jogo, pelo número máximo de pontos para validar a aposta é igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2144_-_enem_ppl_2013_809d758d-6141-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "11/25.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "14/25.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "14/11.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "25/14.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "25/11.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3adf8a92-bd43-4016-a9bf-642f6ab06d2a",
+    "title": "Questão M2125 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um suporte será instalado no box de um banheiro para serem colocados recipientes de xampu, condicionador e sabonete líquido, sendo que o recipiente de cada produto tem a forma de um cilindro circular reto de medida do raio igual a 3 cm. Para maior conforto no interior do box, a proprietária do apartamento decidiu comprar o suporte que tiver a base de menor área, desde que a base de cada recipiente ficasse inteiramente sobre o suporte. Nas figuras, vemos as bases desses suportes, nas quais todas as medidas indicadas estão em centímetro. [IMAGEM_0] [IMAGEM_1] [IMAGEM_2] [IMAGEM_3] [IMAGEM_4] Utilize 3,14 como aproximação para π.",
+    "introducao_alternativas": "Para atender à sua decisão, qual tipo de suporte a proprietária comprou?",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2125_-_enem_ppl_2013_6cfc9486-0e76-4.png",
+      "questao_m2125_-_enem_ppl_2013_cddee546-0f61-4.png",
+      "questao_m2125_-_enem_ppl_2013_ac0803fb-1bef-4.png",
+      "questao_m2125_-_enem_ppl_2013_46c15544-e208-4.png",
+      "questao_m2125_-_enem_ppl_2013_64d29599-014e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b7598b88-2a4b-4bce-a790-a21536800317",
+    "title": "Questão M2116 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um professor tem uma despesa mensal de 10% do seu salário com transporte e 30% com alimentação. No próximo mês, os valores desses gastos sofrerão aumentos de 10% e 20%, respectivamente, mas o seu salário não terá reajuste. Com esses aumentos, suas despesas com transporte e alimentação aumentarão em R$ 252,00.",
+    "introducao_alternativas": "O salário mensal desse professor é de",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 840,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 1.680,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 2.100,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 3.600,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 5.200,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_310afe31-6cb5-4c81-9b39-259f4164b156",
+    "title": "Questão M1723 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades: - Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas conforme ilustrado nas Figuras 1 e 2, para obter o papel dobrado, conforme Figura 3. [IMAGEM_0] - Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto médio do lado do quadrado original, de modo que OR = ¼ OM, traçar um arco de circunferência de raio medindo ½ OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5. [IMAGEM_1]",
+    "introducao_alternativas": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1723_-_enem_2013_e3fc8de4-1771-4.png",
+      "questao_m1723_-_enem_2013_b64c4913-0890-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1723_-_enem_2013_alt_A_084a1484-ee99-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1723_-_enem_2013_alt_B_a3c1df0a-93d1-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m1723_-_enem_2013_alt_C_1ed9bdc0-64d5-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1723_-_enem_2013_alt_D_428afecf-47c4-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1723_-_enem_2013_alt_E_00b0502f-fe67-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e984e95c-1fb7-4f9e-80d7-29629d38e0c4",
+    "title": "Questão M1907 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um programa de televisão criou um perfil em uma rede social, e a ideia era que esse perfil fosse sorteado para um dos seguidores, quando esses fossem em número de um milhão. Agora que essa quantidade de seguidores foi atingida, os organizadores perceberam que apenas 80% deles são realmente fãs do programa. Por conta disso, resolveram que todos os seguidores farão um teste, com perguntas objetivas referentes ao programa, e só poderão participar do sorteio aqueles que forem aprovados. Estatísticas revelam que, num teste dessa natureza, a taxa de aprovação é de 90% dos fãs e de 15% dos que não são fãs.",
+    "introducao_alternativas": "De acordo com essas informações, a razão entre a probabilidade de que um fã seja sorteado e a probabilidade de que o sorteado seja alguém que não é fã do programa é igual a",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "24.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "96.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_239537a3-bd1d-4b23-81fd-b7bad4be95eb",
+    "title": "Questão M1792 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O quadro apresenta dados sobre viagens distintas, realizadas com o mesmo veículo, por diferentes motoristas. Em cada viagem, o veículo foi abastecido com combustível de um preço diferente e trafegou com uma velocidade média distinta. [IMAGEM_0] Sabe-se que esse veículo tem um rendimento de 15 km por litro de combustível se trafegar com velocidade média abaixo de 75 km/h. Já se trafegar com velocidade média entre 75 km/h e 80 km/h o rendimento será de 16 km por litro de combustível. Trafegando com velocidade média entre 81 km/h e 85 km/h, o rendimento será de 12 km por litro de combustível e, acima dessa velocidade média, o rendimento cairá para 10 km por litro de combustível.",
+    "introducao_alternativas": "O motorista que realizou a viagem que teve o menor custo com combustível foi o de número",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1792_-_enem_ppl_2013_d12f5b5c-731f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8173cdba-4ad0-4660-a6e2-f9cc85b1db4c",
+    "title": "Questão M2296 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na construção de um avião de papel, uma criança dobrou uma folha retangular sobrepondo o lado DC ao lado AB. Assim, ela obteve dois novos retângulos, sendo um deles o retângulo DCNM, conforme a figura 1. Em seguida, ela fez uma nova dobradura, mantendo N fixo e sobrepondo o lado CN, de DCNM, a um segmento de MN. Essa sobreposição determinou um ponto P em MN e também um ponto Q em DC, conforme a figura 2. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando as classificações quanto à medida dos ângulos e à medida dos lados, o triângulo NPQ é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2296_-_enem_ppl_2013_aa1ebdbb-e133-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acutângulo e escaleno.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "acutângulo e isósceles não equilátero.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "acutângulo e equilátero.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "retângulo e escaleno.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "retângulo e isósceles não equilátero.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7a796d3a-8e4c-41e8-91a5-4d402c185e15",
+    "title": "Questão M1730 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação. Seguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água terminar seus exercícios físicos.",
+    "introducao_alternativas": "Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou:",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 minutos ou menos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "mais de 35 e menos de 45 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "mais de 45 e menos de 55 minutos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "mais de 60 e menos de 70 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "70 minutos ou mais.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_24d8d500-d85f-4070-91c4-d16a4222ebdb",
+    "title": "Questão M2132 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Black Friday é uma tradição norte-americana que consiste numa queda de preços de uma grande variedade de produtos disponíveis para venda na última sexta-feira do mês de novembro. No Brasil, em muitas lojas, essa prática se estende por todo esse mês. Para esse período, o gerente de uma loja de produtos eletrônicos que tem 5 vendedores estabelece uma meta de vendas de computadores para um total mínimo de 605 unidades. Ele considera que a média de vendas de computadores dos 5 vendedores juntos neste ano se manterá igual à dos últimos 5 anos, conforme apresentada no gráfico. Considere que a participação de cada vendedor na obtenção da meta seja igual. [IMAGEM_0]",
+    "introducao_alternativas": "Para que a meta da loja seja atingida, o gerente deverá estipular, para cada vendedor, um aumento na média de vendas de, no mínimo, quantas unidades?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2132_-_enem_ppl_2013_39005b2a-35bf-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "150.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "121.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "91.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "35.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "30.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a4932544-2429-4238-874f-ad66b0e0b4f1",
+    "title": "Questão M2161 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um síndico precisa pintar os muros, portões e calçamento de um edifício. Os pintores solicitaram três galões de tintaT1 para os muros, um galão de tinta T2 para os portões e dois galões de tinta T3 para o calçamento. Ele pesquisou o preço das tintas em cinco lojas diferentes, obtendo os seguintes valores, em real. [IMAGEM_0] O síndico irá comprar as tintas numa única loja, escolhendo aquela em que o valor total da compra resulte no menor preço médio por galão.",
+    "introducao_alternativas": "Com base nessas informações, a loja escolhida será",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2161_-_enem_ppl_2013_adf2be2b-2c2b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0a89871c-6db4-45b2-924b-499736583cea",
+    "title": "Questão M2199 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um jardineiro cultiva plantas ornamentais e as coloca à venda quando estas atingem 30 centímetros de altura. Esse jardineiro estudou o crescimento de suas plantas, em função do tempo, e deduziu uma fórmula que calcula a altura em função do tempo, a partir do momento em que a planta brota do solo até o momento em que ela atinge sua altura máxima de 40 centímetros. A fórmula é h = 5·log2 (t + 1), em que t é o tempo contado em dia e h, a altura da planta em centímetro.",
+    "introducao_alternativas": "A partir do momento em que uma dessas plantas é colocada à venda, em quanto tempo, em dia, ela alcançará sua altura máxima?",
+    "assunto": "Logaritmo",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "63.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "96.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "128.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "192.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "255.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_83a3016d-20c5-4843-beb0-a0cc3187ae1c",
+    "title": "Questão M0363 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Ao se perfurar um poço no chão, na forma de um cilindro circular reto, toda a terra retirada é amontoada na forma de um cone circular reto, cujo raio da base é o triplo do raio do poço e a altura é 2,4 metros. Sabe-se que o volume desse cone de terra é 20% maior do que o volume do poço cilíndrico, pois a terra fica mais fofa após ser escavada.",
+    "introducao_alternativas": "Qual é a profundidade, em metros, desse poço?",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,44",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "6,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "7,20",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8,64",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "36,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_53862777-09c4-4f99-acf1-90ea49492bd8",
+    "title": "Questão M1936 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma fábrica comercializa chocolates em uma caixa de madeira, como na figura. [IMAGEM_0] A caixa de madeira tem a forma de um paralelepípedo reto-retângulo cujas dimensões externas, em centímetro, estão indicadas na figura. Sabe-se também que a espessura da madeira, em todas as suas faces, é de 0,5 cm.",
+    "introducao_alternativas": "Qual é o volume de madeira utilizado, em centímetro cúbico, na construção de uma caixa de madeira como a descrita para embalar os chocolates?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1936_-_enem_ppl_2013_dbbfc18f-92e3-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "654.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "666.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "673.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "681.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "693.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5c5498f7-a644-4c5f-a668-b7702f6e9f2f",
+    "title": "Questão M2088 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa de publicidade está criando um logotipo que tem o formato indicado na figura. O círculo menor está inscrito no quadrado ABCD, e o círculo maior circunscreve o mesmo quadrado. Considere S1 a área do círculo menor e S2 a área do círculo maior. [IMAGEM_0]",
+    "introducao_alternativas": "A razão da área do círculo maior para o círculo menor é igual a",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2088_-_enem_ppl_2013_bd00b478-a836-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "√2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "16.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_78a60f42-a414-482d-8fd0-6d418062c5d1",
+    "title": "Questão M1935 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Alguns modelos de rádios automotivos estão protegidos por um código de segurança. Para ativar o sistema de áudio, deve-se digitar o código secreto composto por quatro algarismos. No primeiro caso de erro na digitação, a pessoa deve esperar 60 segundos para digitar o código novamente. O tempo de espera duplica, em relação ao tempo de espera anterior, a cada digitação errada. Uma pessoa conseguiu ativar o rádio somente na quarta tentativa, sendo de 30 segundos o tempo gasto para digitação do código secreto a cada tentativa. Nos casos da digitação incorreta, ela iniciou a nova tentativa imediatamente após a liberação do sistema de espera.",
+    "introducao_alternativas": "O tempo total, em segundo, gasto por essa pessoa para ativar o rádio foi igual a",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "420.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "540.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "660.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.020.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f043c39e-ae11-4f29-ad12-30306484c416",
+    "title": "Questão M1031 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma cisterna de 6.000 L foi esvaziada em um período de 3 h. Na primeira hora foi utilizada apenas uma bomba, mas nas duas horas seguintes, a fim de reduzir o tempo de esvaziamento, outra bomba foi ligada junto com a primeira. O gráfico, formado por dois segmentos de reta, mostra o volume de água presente na cisterna, em função do tempo. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?",
+    "assunto": "Função Afim",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1031_-_enem_2013_408fe7e8-6adb-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.000",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1.250",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.500",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2.000",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2.500",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_207241c4-3861-4e27-ba1c-94c8feced374",
+    "title": "Questão M2160 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma formiga move-se sobre um castiçal de vidro transparente, do ponto A para B em linha reta, percorre o arco circular BCD, sendo C localizado na parte da frente do castiçal, e desce o arco DE, como representado na figura. [IMAGEM_0] Os pontos A, B, D e E estão sobre um mesmo plano perpendicular à mesa sobre a qual se contra o castiçal.",
+    "introducao_alternativas": "A projeção ortogonal, sobre o plano da mesa, do trajeto percorrido pela formiga, do ponto A até o ponto E, é melhor representada por",
+    "assunto": "Geometria de Posição",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2160_-_enem_ppl_2013_7483cc4d-3f67-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2160_-_enem_ppl_2013_alt_A_5d422a0a-c7d3-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2160_-_enem_ppl_2013_alt_B_521cca40-9c19-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2160_-_enem_ppl_2013_alt_C_b94712ad-3fbb-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2160_-_enem_ppl_2013_alt_D_f4bf920b-7b2e-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2160_-_enem_ppl_2013_alt_E_e06a60c0-d878-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7d8afe17-0ef5-42e2-bb86-e07147150102",
+    "title": "Questão M1039 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O índice pluviométrico é utilizado para mensurar a precipitação da água da chuva, em milímetros, em determinado período de tempo. Seu cálculo é feito de acordo com o nível de água da chuva acumulada em 1 m2, ou seja, se o índice for de 10 mm, significa que a altura do nível de água acumulada em um tanque aberto, em formato de um cubo com 1 m2 de área de base, é de 10 mm. Em uma região, após um forte temporal, verificou-se que a quantidade de chuva acumulada em uma lata de formato cilíndrico, com raio 300 mm e altura 1.200 mm, era de um terço da sua capacidade. Utilize 3,0 como aproximação para π.",
+    "introducao_alternativas": "O índice pluviométrico da região, durante o período do temporal, em milímetros, é de",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10,8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "12,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "32,4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "108,0.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "324,0.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6cc33002-fc59-41de-8644-f644c56c38d8",
+    "title": "Questão M1847 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir. - Caixas do tipo A: 4 unidades de piso, R$ 35,00; - Caixas do tipo B: 3 unidades de piso, R$ 27,00. Na instalação do porcelanato, as peças podem ser recortadas e devem ser assentadas sem espaçamento entre elas, aproveitando-se ao máximo os recortes feitos.",
+    "introducao_alternativas": "A compra que atende às necessidades do proprietário, proporciona a menor sobra de pisos e resulta no menor preço é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5 caixas do tipo A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 caixa do tipo A e 4 caixas do tipo B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3 caixas do tipo A e 2 caixas do tipo B.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5 caixas do tipo A e 1 caixa do tipo B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 caixas do tipo B.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_41d18169-21d1-4659-bf09-e183a00a3f69",
+    "title": "Questão M1109 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O resultado de uma pesquisa eleitoral, sobre a preferência dos eleitores em relação a dois candidatos, foi representado por meio do Gráfico 1. [IMAGEM_0] Ao ser divulgado esse resultado em jornal, o Gráfico 1 foi cortado durante a diagramação, como mostra o Gráfico 2. [IMAGEM_1] Apesar de os valores apresentados estarem corretos e a largura das colunas ser a mesma, muitos leitores criticaram o formato do Gráfico 2 impresso no jornal, alegando que houve prejuízo visual para o candidato B.",
+    "introducao_alternativas": "A diferença entre as razões da altura da coluna B pela coluna A nos gráficos 1 e 2 é",
+    "assunto": "Matemática Básica",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1109_-_enem_2013_03599c54-d7df-4.png",
+      "questao_m1109_-_enem_2013_34934931-8914-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2/15",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8/35",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_614b0768-e878-4bfc-8e11-3ecab43166e9",
+    "title": "Questão M0162 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Pneus usados geralmente são descartados de forma inadequada, favorecendo a proliferação de insetos e roedores e provocando sérios problemas de saúde pública. Estima-se que, no Brasil, a cada ano, sejam descartados 20 milhões de pneus usados. Como alternativa para dar uma destinação final a esses pneus, a Petrobras, em sua unidade de São Mateus do Sul, no Paraná, desenvolveu um processo de obtenção de combustível a partir da mistura dos pneus com xisto. Esse procedimento permite, a partir de uma tonelada de pneu, um rendimento de cerca de 530 kg de óleo. Disponível em: http://www.ambientebrasil.com.br. Acesso em: 3 out. 2008 (adaptado).",
+    "introducao_alternativas": "Considerando que uma tonelada corresponde, em média, a cerca de 200 pneus, se todos os pneus descartados anualmente fossem utilizados no processo de obtenção de combustível pela mistura com xisto, seriam então produzidas",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5,3 mil toneladas de óleo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "53 mil toneladas de óleo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "530 mil toneladas de óleo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,3 milhões de toneladas de óleo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "530 milhões de toneladas de óleo",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_867d9ec7-a2cf-417d-9da7-ab7ac30b1882",
+    "title": "Questão M1867 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.",
+    "introducao_alternativas": "Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,96",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,98",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,05",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,06",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,08",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_120fe73e-e5e6-4911-9662-c82e3e4c9a9b",
+    "title": "Questão M1841 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções: \n- seguir num ônibus, percorrendo 2,0 km; \n- alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia. \nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade. [IMAGEM_0]",
+    "introducao_alternativas": "A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "12",
+    "dificuldade": "Médio",
+    "arquivos": ["ROSA_Q170-part-2-e1611601351179.jpeg"],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Às segundas, quintas e sextas-feiras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Às terças e quintas-feiras e aos sábados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Às segundas, quartas e sextas-feiras.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Às terças, quartas e sextas-feiras.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Às terças e quartas-feiras e aos sábados.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f390977a-829b-4ff4-a97e-0f3463c98507",
+    "title": "Questão M1855 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado: \n- EC do pneu I: com chuva 6, sem chuva 3; \n- EC do pneu II: com chuva 7, sem chuva –4; \n- EC do pneu III: com chuva –2, sem chuva 10; \n- EC do pneu IV: com chuva 2, sem chuva 8; \n- EC do pneu V: com chuva –6, sem chuva 7. \nO coeficiente de rendimento climático (CRC) de um pneu é calculado como a soma dos produtos dos fatores de EC, com ou sem chuva, pelas correspondentes probabilidades de se ter tais condições climáticas: ele é utilizado para determinar qual pneu deve ser selecionado para uma dada corrida, escolhendo-se o pneu que apresentar o maior CRC naquele dia. No dia de certa corrida, a probabilidade de chover era de 70% e o chefe da equipe calculou o CRC de cada um dos cinco tipos de pneu.",
+    "introducao_alternativas": "O pneu escolhido foi",
+    "assunto": "Probabilidade",
+    "competencia": 5,
+    "habilidade": "21",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2bcdd37e-33d6-4060-a74a-3c456d0ca991",
+    "title": "Questão M2220 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um pintor cobra R$ 240,00 por dia de trabalho, que equivale a 8 horas de trabalho num dia. Quando é chamado para um serviço, esse pintor trabalha 8 horas por dia com exceção, talvez, do seu último dia nesse serviço. Nesse último dia, caso trabalhe até 4 horas, ele cobra metade do valor de um dia de trabalho. Caso trabalhe mais de 4 horas, cobra o valor correspondente a um dia de trabalho. Esse pintor gasta 8 horas para pintar uma vez uma área de 40 m2. Um cliente deseja pintar as paredes de sua casa, com uma área total de 260 m2. Ele quer que essa área seja pintada o maior número possível de vezes para que a qualidade da pintura seja a melhor possível. O orçamento desse cliente para a pintura é de R$ 4.600,00.",
+    "introducao_alternativas": "Quantas vezes, no máximo, as paredes da casa poderão ser pintadas com o orçamento do cliente?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b7781652-7dff-498e-a20d-7634088cebbd",
+    "title": "Questão M0457 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os estilos musicais preferidos pelos jovens brasileiros são o samba, o rock e a MPB. O quadro a seguir registra o resultado de uma pesquisa relativa à preferência musical de um grupo de 1 000 alunos de uma escola. Alguns alunos disseram não ter preferência por nenhum desses três estilos. [IMAGEM_0]",
+    "introducao_alternativas": "Se for selecionado ao acaso um estudante no grupo pesquisado, qual é a probabilidade de ele preferir somente MPB?",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0457_-_enem_2013_13770d1b-900c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "11%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "20%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c0802214-b5b4-46a0-9584-a606e140663c",
+    "title": "Questão M1205 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.",
+    "introducao_alternativas": "Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "29,25 e 0,75",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "28,75 e 1,25",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "28,50 e 1,50",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "27,75 e 2,25",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "25,00 e 5,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9c31febb-a9ef-47a3-9fa0-d95ce2cb4d63",
+    "title": "Questão M2016 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Após uma reforma, um clube decide comprar duchas para serem instaladas no vestiário. O tipo de ducha escolhida, segundo o fabricante, tem probabilidade igual a 1/10 de apresentar funcionamento irregular. O administrador do clube planeja adquirir uma certa quantidade dessas duchas, de forma que a probabilidade de que pelo menos uma das duchas adquiridas apresente funcionamento regular seja igual a, no mínimo, 99/100.",
+    "introducao_alternativas": "A quantidade mínima de duchas que deverá ser adquirida para atender ao planejamento desse administrador é",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "11.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6e4dab9e-5926-4cd4-ada4-ae1a26712407",
+    "title": "Questão M2251 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1.672 m2. Considere que a escala da maquete exibida é 1 : 200. Época, n. 682, jun. 2011 (adaptado).",
+    "introducao_alternativas": "A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,18.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8,36.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "41,80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "83,60.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "418,00.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9f8915db-8846-420c-ab54-5f6626a9a15e",
+    "title": "Questão M2150 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Embora a civilização maia já estivesse em declínio na época da chegada dos espanhóis à América, seu desenvolvimento em vários campos da ciência, em especial, na matemática e na astronomia, era notável. Eles possuíam um sistema numérico avançado e diferente do sistema decimal utilizado pelas sociedades modernas. A imagem representa o sistema de numeração maia, que consistia em 20 símbolos representando os números de 0 a 19. [IMAGEM_0] IMENES, L. M. P. Os números na história da civilização. São Paulo: Editora Scipione, 2003. O zero era representado por uma espécie de tigela e todo número inteiro entre 19 e 360 era escrito em uma colunavertical com duas figuras, na qual a superior representava a quantidade de grupos de 20 unidades e a inferior, a quantidade de unidades. O número era lido de cima para baixo e obtido somando-se as quantidades representadas. [IMAGEM_1]",
+    "introducao_alternativas": "O número 359 é representado, no sistema de numeração maia, como",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2150_-_enem_ppl_2013_6d3442e2-f453-4.png",
+      "questao_m2150_-_enem_ppl_2013_b9b2a416-b75b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2150_-_enem_ppl_2013_alt_A_089f83b0-562b-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2150_-_enem_ppl_2013_alt_B_900c613d-f670-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2150_-_enem_ppl_2013_alt_C_1e01ab07-6e1d-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2150_-_enem_ppl_2013_alt_D_d8c56444-3ac8-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2150_-_enem_ppl_2013_alt_E_034e33fc-2ed1-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5d9977cc-953f-4f62-bc5d-4d3026bde49e",
+    "title": "Questão M1171 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual à quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias. Considere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.",
+    "introducao_alternativas": "O número de pessoas alcançadas pela campanha será dado pela expressão",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(50X/4) + (50Y/9)",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(50X/9) + (50Y/4)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(4X/50) + (4Y/50)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(50/4X) + (50/9Y)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(50/9X) + (50Y/4Y)",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8bc78c7c-5514-4b97-bb23-49107a19e202",
+    "title": "Questão M2246 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6.000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.",
+    "introducao_alternativas": "Qual será a medida, em metro, do maior lado do galinheiro?",
+    "assunto": "Função Quadrática",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "85.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "100.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "175.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "200.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "350.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_890eec41-2c6b-4068-b929-af3f246b6988",
+    "title": "Questão M1796 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O prédio de uma empresa tem cinco andares e, em cada andar, há dois banheiros masculinos e dois femininos. Em cada banheiro estão instalados dois recipientes para sabonete líquido com uma capacidade de 200 mL (0,2 litro) cada um. Os recipientes dos banheiros masculinos são abastecidos duas vezes por semana e os dos banheiros femininos, três vezes por semana, quando estão completamente vazios. O fornecedor de sabonete líquido para a empresa oferece cinco tipos de embalagens: I, II, III, IV e V, com capacidades de 2 L, 3 L, 4 L, 5 L e 6 L respectivamente. Para abastecer completamente os recipientes de sabonete líquido dos banheiros durante a semana, a empresa planeja adquirir quatro embalagens de um mesmo tipo, de forma que não haja sobras de sabonete.",
+    "introducao_alternativas": "Que tipo de embalagem a empresa deve adquirir?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7bdcd3b7-ad13-4add-a988-44519e3f717b",
+    "title": "Questão M0447 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma fábrica de parafusos possui duas máquinas, I e II, para a produção de certo tipo de parafuso. Em setembro, a máquina I produziu 54/100 do total de parafusos produzidos pela fábrica. Dos parafusos produzidos por essa máquina, 25/1000 eram defeituosos. Por sua vez, 38/1000 dos parafusos produzidos no mesmo mês pela máquina II eram defeituosos. O desempenho conjunto das duas máquinas é classificado conforme o quadro, em que P indica a probabilidade de um parafuso escolhido ao acaso ser defeituoso. [IMAGEM_0]",
+    "introducao_alternativas": "O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0447_-_enem_2013_4b40744a-6c9c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "excelente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "bom.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "regular.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ruim.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "péssimo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a9f7cbb3-8482-409b-8f2d-2eb375659e6c",
+    "title": "Questão M0095 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma dona de casa faz um comparativo de custos para decidir se irá adquirir uma máquina lavadora de louças para substituir a lavagem manual. Decide calcular o custo com a lavagem de louças por um período de 30 dias, com duas lavagens por dia. Ela constatou que não precisa considerar os custos do detergente e do sabão, pois, na máquina lavadora e na lavagem manual, são equivalentes. Verificou que gasta em média 90 litros de água em cada lavagem manual. Cada lavagem na máquina gasta 16 litros de água e 0,9 kWh de energia. Sabe-se que a companhia de distribuição de água cobra R$ 6,25 por metro cúbico (pelo consumo de água e dispersão e tratamento de esgoto) e a companhia elétrica cobra R$ 0,45 por kWh consumido.",
+    "introducao_alternativas": "De acordo com essas informações, num período de 30 dias, a lavagem manual ficará mais cara que a da máquina lavadora em quantos reais?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,72",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,45",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,72",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9,45",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "27,75",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f0caa6e4-1529-417a-bac4-249f56cbc2b7",
+    "title": "Questão M2056 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma faculdade oferece dois cursos diferentes na área de Humanas. Para um aluno ingressar nesses cursos, o vestibular contém questões objetivas e uma redação, e a nota final do candidato é a soma dessas notas, utilizando o seguinte critério de pesos: \n– questões objetivas: peso 1 para o curso I e peso 1 para o curso II; \n– redação: peso 2 para o curso I e peso 3 para o curso II.\nUm candidato que concorre aos dois cursos obteve nota X nas questões objetivas e nota Y na redação. Para analisar sua nota para o curso I e para o curso II, o candidato representa sua nota com um produto de matrizes A . B, em que a matriz A representa os pesos, e a matriz B contém as notas obtidas pelo candidato. A matriz resultante A . B é uma matriz coluna, em que, na primeira linha, tem sua nota final para o curso I e, na segunda linha, tem sua nota final para o curso II.",
+    "introducao_alternativas": "Nessas condições, qual representação algébrica gera o resultado final desse candidato nos dois cursos?",
+    "assunto": "Matrizes",
+    "competencia": 5,
+    "habilidade": "19",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2056_-_enem_ppl_2013_alt_A_4813991e-0106-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2056_-_enem_ppl_2013_alt_B_e77c4b36-21be-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2056_-_enem_ppl_2013_alt_C_48458de0-1d9a-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2056_-_enem_ppl_2013_alt_D_c8e44479-35af-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2056_-_enem_ppl_2013_alt_E_50e41676-9120-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3cf4d8d0-9018-4816-88aa-6f28f0e29c7b",
+    "title": "Questão M2062 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Sete países americanos, Argentina, Brasil, Canadá, Chile, Estados Unidos, Paraguai e Uruguai; e sete países europeus, Portugal, Espanha, França, Inglaterra, Itália, Alemanha e Suíça, decidem criar uma comissão com representantes de oito desses países, objetivando criar políticas de incentivo e regulação do turismo entre eles. Na hipótese de criação da comissão, serão escolhidos aleatoriamente quatro representantes de países das Américas e quatro representantes de países europeus, não podendo estar na comissão dois representantes de um mesmo país.",
+    "introducao_alternativas": "Qual é a probabilidade de o Brasil e a França pertencerem a essa comissão?",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/182.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/49.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/13.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "16/49.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_33d33810-0c2a-48cf-8a2a-8e5222ba16cf",
+    "title": "Questão M1920 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura traz o esboço da planta baixa de uma residência. Algumas medidas internas dos cômodos estão indicadas. A espessura de cada parede externa da casa é 0,20 m e das paredes internas, 0,10 m. [IMAGEM_0] Sabe-se que, na localidade onde se encontra esse imóvel, o Imposto Predial Territorial Urbano (IPTU) é calculado conforme a área construída da residência. Nesse cálculo, são cobrados R$ 4,00 por cada metro quadrado de área construída.",
+    "introducao_alternativas": "O valor do IPTU desse imóvel, em real, é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1920_-_enem_ppl_2013_9b5e58e8-024c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "250,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "250,80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "258,64.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "276,48.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "286,00.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9e81b7ed-e666-4fc2-9bd1-b70404256a0e",
+    "title": "Questão M1803 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em sua vez de jogar, um jogador precisa dar uma tacada na bola branca, de forma a acertar a bola 9 e fazê-la cair em uma das caçapas de uma mesa de bilhar. Como a bola 8 encontra-se entre a bola branca e a bola 9, esse jogador adota a estratégia de dar uma tacada na bola branca em direção a uma das laterais da mesa, de forma que, ao rebater, ela saia em uma trajetória retilínea, formando um ângulo de 90˚ com a trajetória da tacada, conforme ilustrado na figura. [IMAGEM_0] Com essa estratégia, o jogador conseguiu encaçapar a bola 9. Considere um sistema cartesiano de eixos sobre o plano da mesa, no qual o ponto de contato da bola com a mesa define sua posição nesse sistema. As coordenadas do ponto que representa a bola 9 são (3; 3), o centro da caçapa de destino tem coordenadas (6; 0) e a abscissa da bola branca é 0,5, como representados na figura.",
+    "introducao_alternativas": "Se a estratégia deu certo, a ordenada da posição original da bola branca era",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1803_-_enem_ppl_2013_9acd176b-a958-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,5.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_49445db0-576a-409c-b7c5-e732d19e5ba0",
+    "title": "Questão M1788 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um artista utilizou uma caixa cúbica transparente para a confecção de sua obra, que consistiu em construir um polígono IMNKPQ no formato de um hexágono regular, disposto no interior da caixa. Os vértices desse polígono estão situados em pontos médios de arestas da caixa. Um esboço da sua obra pode ser visto na figura. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando as diagonais do hexágono, distintas de IK, quantas têm o mesmo comprimento de IK?",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1788_-_enem_ppl_2013_03ddc839-90a0-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5e2d039f-19a4-4af4-8832-c6453ec4342b",
+    "title": "Questão M2248 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma caneca com água fervendo é retirada de um forno de micro- ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minuto, pode ser modelada pela função T(t) = a + 80bt, representada no gráfico a seguir. [IMAGEM_0]",
+    "introducao_alternativas": "Os valores das constantes a e b são",
+    "assunto": "Função Exponencial",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2248_-_enem_2013_976a4889-e252-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a = 20; b = log(0,5).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a = 100; b = 0,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a = 20; b = (0,5)1/10.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a = 20; b = 401/10 / 80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a = 20; b = 40.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c7e9a1b0-5173-4e95-b94e-de175895bbe1",
+    "title": "Questão M2078 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado. Os engenheiros contratados elaboraram um projeto com cinco possíveis modificações, destacadas nos setores (I), (II), (III), (IV) e (V) pelas linhas tracejadas, como mostra a figura. No entanto, na temporada atual, só é permitido que se façam duas dessas alterações. Todos os trechos passíveis de modificação, tanto no traçado original quanto no novo traçado, são semicircunferências ou segmentos de reta. [IMAGEM_0] Pretende-se que a nova pista tenha extensão mais próxima que a da original após duas modificações. Os trechos em comum da pista original e da nova pista não serão alterados. Utilize 3 como aproximação para π.",
+    "introducao_alternativas": "Para atender às condições apresentadas, quais setores deverão ser modificados?",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2078_-_enem_ppl_2013_5f75d47b-349b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II e III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "II e V.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "IV e V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d87ab294-b59f-4c41-a4ef-ff97c3ee7447",
+    "title": "Questão M1754 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Pesquisas indicam que o número de bactérias X é duplicado a cada quarto de hora. Um aluno resolveu fazer uma observação para verificar a veracidade dessa afirmação. Ele usou uma população inicial de 105 bactérias X e encerrou a observação ao final de uma hora. Suponha que a observação do aluno tenha confirmado que o número de bactérias X se duplica a cada quarto de hora.",
+    "introducao_alternativas": "Após uma hora do início do período de observação desse aluno, o número de bactérias X foi de",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2–2 x 105",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2–1 x 105",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "22 x 105",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "23 x 105",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "24 x 105",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2bf64c05-540f-4abb-90eb-6c63976b589f",
+    "title": "Questão M1746 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um construtor pretende murar um terreno e, para isso, precisa calcular o seu perímetro. O terreno está representado no plano cartesiano, conforme a figura, no qual foi usada a escala 1: 500. Use 2,8 como aproximação para √8. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com essas informações, o perímetro do terreno, em metros, é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1746_-_enem_ppl_2013_5cf0bf0f-b6c5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "110.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "120.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "124.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "130.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "144.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5f304a4c-03f3-4dda-84ff-6200a4d43c42",
+    "title": "Questão M1934 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A água comercializada em garrafões pode ser classificada como muito ácida, ácida, neutra, alcalina ou muito alcalina, dependendo de seu pH, dado pela expressão pH = log10 1H, em que H é a concentração de íons de hidrogênio, em mol por decímetro cúbico. A classificação da água de acordo com seu pH é mostrada no quadro. [IMAGEM_0] Para o cálculo da concentração H, uma distribuidora mede dois parâmetros A e B, em cada fonte, e adota H como sendo o quociente de A por B. Em análise realizada em uma fonte, obteve A = 10–7 e a água dessa fonte foi classificada como neutra.",
+    "introducao_alternativas": "O parâmetro B, então, encontrava-se no intervalo",
+    "assunto": "Logaritmo",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1934_-_enem_ppl_2013_985d976e-8533-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(–1014,5, –1013]",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "[10–6/7, 10–1)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "[10–1, 101/2)",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "[1013, 1014,5)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "[106x107, 107,5x107)",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

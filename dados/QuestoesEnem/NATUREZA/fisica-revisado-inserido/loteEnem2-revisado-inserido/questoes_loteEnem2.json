@@ -1,0 +1,2502 @@
+[
+  {
+    "id_externo": "Questao_fd130ee8-9f70-4280-911e-1c723833f9f2",
+    "title": "Questão F2061 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A preocupação com a sustentabilidade faz com que se procurem, cada vez mais, métodos eficientes para a economia de energia elétrica. Um procedimento que se pode adotar é a substituição das lâmpadas incandescentes por lâmpadas de LED nas residências. Uma lâmpada incandescente, que opera 8 horas por dia, foi substituída por uma de LED. Elas apresentam 60 W e 8 W de potência nominal de consumo, respectivamente.",
+    "introducao_alternativas": "A redução do consumo de energia elétrica, em quilowatt-hora, obtida durante trinta dias foi",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,24.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,92.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "12,48.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "14,40.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d3208016-a881-4c97-b370-85a2e1443adc",
+    "title": "Questão F2057 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Carregadores elétricos são projetados para fornecerem energia a baterias recarregáveis, como as usadas em aparelhos celulares e máquinas fotográficas. As especificações típicas de um desses dispositivos são: \nCarregador: Entrada AC 100-240 V / 200 mA / 50-60 Hz Saída DC 5,0 V / 1000 mA \nBateria recarregável: 1,5 V / 4000 mAh ",
+    "introducao_alternativas": "Usando o carregador com corrente máxima, o tempo total de recarga dessa bateria totalmente descarregada, em hora, é",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": "5",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5/6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_022ba5af-e85f-4cca-a3fc-f67383d9cbba",
+    "title": "Questão F1280 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera a necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g/cm³, um investidor negocia a aquisição de um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10 g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme esquematizado. [IMAGEM_0]",
+    "introducao_alternativas": "Com base nos dados obtidos, o investidor adquiriu as moedas",
+    "assunto": "Hidrostática",
+    "competencia": 5,
+    "habilidade": "19",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1280_-_enem_8c5fb8cb-7303-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A e B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "A e C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "B e C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "B e D.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "C e D.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8de9ba0b-66d7-4f47-8d05-a4c61bf3043e",
+    "title": "Questão F0397 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Entre os anos de 1028 e 1038, Alhazen (lbn al-Haytham: 965-1040 d.C.) escreveu sua principal obra, o Livro da Óptica, que, com base em experimentos, explicava o funcionamento da visão e outros aspectos da ótica, por exemplo, o funcionamento da câmara escura. O livro foi traduzido e incorporado aos conhecimentos científicos ocidentais pelos europeus. Na figura, retirada dessa obra, é representada a imagem invertida de edificações em tecido utilizado como anteparo. [IMAGEM_0]",
+    "introducao_alternativas": "Se fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)",
+    "assunto": "Óptica",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f0397_-_enem_f935451f-da6d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "íris",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "retina",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "pupila",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "córnea",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "cristalino",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b1169649-53af-41b6-8406-2aafa48b0a78",
+    "title": "Questão F0261 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "As altas temperaturas de combustão e o atrito entre suas peças móveis são alguns dos fatores que provocam o aquecimento dos motores à combustão interna. Para evitar o superaquecimento e consequentes danos a esses motores, foram desenvolvidos os atuais sistemas de refrigeração, em que um fluido arrefecedor com propriedades especiais circula pelo interior do motor, absorvendo o calor que, ao passar pelo radiador, é transferido para a atmosfera.",
+    "introducao_alternativas": "Qual propriedade o fluido arrefecedor deve possuir para cumprir seu objetivo com maior eficiência?",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alto calor específico.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Alto calor latente de fusão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Baixa condutividade térmica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Baixa temperatura de ebulição.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Alto coeficiente de dilatação térmica.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dac54d13-dc3b-4420-9bb9-531052b4afc1",
+    "title": "Questão F2036 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Alguns modelos mais modernos de fones de ouvido têm um recurso, denominado “cancelador de ruídos ativo”, constituído de um circuito eletrônico que gera um sinal sonoro semelhante ao sinal externo (ruído), exceto pela sua fase oposta.",
+    "introducao_alternativas": "Qual fenômeno físico é responsável pela diminuição do ruído nesses fones de ouvido?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Refração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Interferência.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Efeito Doppler.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_68de8b45-85d2-4c14-a7f9-208b61de62a5",
+    "title": "Questão F0032 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma empresa de transportes precisa efetuar a entrega de uma encomenda o mais breve possível. Para tanto, a equipe de logística analisa o trajeto desde a empresa até o local da entrega. Ela verifica que o trajeto apresenta dois trechos de distâncias diferentes e velocidades máximas permitidas diferentes. No primeiro trecho, a velocidade máxima permitida é de 80 km/h e a distância a ser percorrida é de 80 km. No segundo trecho, cujo comprimento vale 60 km, a velocidade máxima permitida é 120 km/h.",
+    "introducao_alternativas": "Supondo que as condições de trânsito sejam favoráveis para que o veículo da empresa ande continuamente na velocidade máxima permitida, qual será o tempo necessário, em horas, para a realização da entrega?",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,5",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,0",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1b78bcf9-ded3-4c42-88b7-cb149475697f",
+    "title": "Questão F2080 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Escrito em 1897, pelo britânico H. G. Wells (1866-1946), O homem invisível é um livro que narra a história de um cientista que teria desenvolvido uma forma de tornar todos os tecidos do seu corpo transparentes à luz, ao fazer o índice de refração absoluto do corpo humano corresponder ao do ar. Contudo, Wells não explorou no livro o fato de que esse efeito comprometeria a visão de seu protagonista.",
+    "introducao_alternativas": "Nesse caso, qual seria a deficiência visual provocada?",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Miopia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cegueira.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Daltonismo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Astigmatismo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Hipermetropia.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_faeb30f3-b222-45f0-b942-794f08d6b4a9",
+    "title": "Questão F1290 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "No seu estudo sobre a queda dos corpos, Aristóteles afirmava que se abandonarmos corpos leves e pesados de uma mesma altura, o mais pesado chegaria mais rápido ao solo. Essa ideia está apoiada em algo que é difícil de refutar, a observação direta da realidade baseada no senso comum. \nApós uma aula de física, dois colegas estavam discutindo sobre a queda dos corpos, e um tentava convencer o outro de que tinha razão: \nColega A: “O corpo mais pesado cai mais rápido que um menos pesado, quando largado de uma mesma altura. Eu provo, largando uma pedra e uma rolha. A pedra chega antes. Pronto! Tá provado!”. \nColega B: Eu não acho! Peguei uma folha de papel esticado e deixei cair. Quando amassei, ela caiu mais rápido. Como isso é possível? Se era a mesma folha de papel, deveria cair do mesmo jeito. Tem que ter outra explicação!”. HÜLSENDEGER, M. Uma análise das concepções dos alunos sobre a queda dos corpos. Caderno Brasileiro de Ensino de Física, n. 3, dez. 2004 (adaptado).",
+    "introducao_alternativas": "O aspecto físico comum que explica a diferença de comportamento dos corpos em queda nessa discussão é o(a)",
+    "assunto": "Cinemática",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "peso dos corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "resistência do ar.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "massa dos corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "densidade dos corpos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "aceleração da gravidade.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_744c1d83-e26f-476c-8a0e-13613fcc8d14",
+    "title": "Questão F0298 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Aumentar a eficiência na queima de combustível dos motores à combustão e reduzir suas emissões de poluentes são a meta de qualquer fabricante de motores. É também o foco de uma pesquisa brasileira que envolve experimentos com plasma, o quarto estado da matéria e que está presente no processo de ignição. A interação da faísca emitida pela vela de ignição com as moléculas de combustível gera o plasma que provoca a explosão liberadora de energia que, por sua vez, faz o motor funcionar.",
+    "introducao_alternativas": "No entanto, a busca da eficiência referenciada no texto apresenta como fator limitante",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o tipo de combustível, fóssil, que utilizam. Sendo um insumo não renovável, em algum momento estará esgotado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "um dos princípios da termodinâmica, segundo o qual o rendimento de uma máquina térmica nunca atinge o ideal.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "o funcionamento cíclico de todo os motores. A repetição contínua dos movimentos exige que parte da energia seja transferida ao próximo ciclo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "as forças de atrito inevitável entre as peças. Tais forças provocam desgastes contínuos que com o tempo levam qualquer material à fadiga e ruptura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a temperatura em que eles trabalham. Para atingir o plasma, é necessária uma temperatura maior que a de fusão do aço com que se fazem os motores.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4ae3e388-4991-4cc3-8ca4-372d3c954008",
+    "title": "Questão F2114 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A transferência de calor por radiação pode ser observada realizando-se a experiência de colocar a mesma quantidade de água quente em dois copos metálicos com as mesmas características, sendo que a superfície externa de um deles é pintada de preto (copo 1), e a do outro é espelhada (copo 2). Sabe-se que todo material emite e absorve energia radiante e que bons emissores são também bons absorvedores dessa energia. [IMAGEM_0]",
+    "introducao_alternativas": "Ao se colocar um termômetro dentro de cada copo observa-se, após alguns minutos, que a temperatura da água",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f2114_-_enem_ppl_4cb3c9ee-4311-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dos dois copos diminui igualmente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "do copo 1 diminui, e a do copo 2 permanece a mesma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "do copo 2 diminui, e a do copo 1 permanece a mesma.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "do copo 1 diminui mais rapidamente do que a do copo 2.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "do copo 2 diminui mais rapidamente do que a do copo 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ac0d114b-1f9a-46f9-a466-7ea13bd66554",
+    "title": "Questão F2016 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A figura apresenta o esquema do encanamento de uma casa onde se detectou a presença de vazamento de água em um dos registros. Ao estudar o problema, o morador concluiu que o vazamento está ocorrendo no registro submetido à maior pressão hidrostática. [IMAGEM_0]",
+    "introducao_alternativas": "Em qual registro ocorria o vazamento?",
+    "assunto": "Hidrostática",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2016_-_enem_ppl_74ec0bcf-a370-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c9c925d9-c52d-4c94-ba74-94c0a3cf8a1c",
+    "title": "Questão F0577 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Num experimento, um professor deixa duas bandejas de mesma massa, uma de plástico e outra de alumínio, sobre a mesa do laboratório. Após algumas horas, ele pede aos alunos que avaliem a temperatura das duas bandejas, usando para isso o tato. Seus alunos afirmam, categoricamente, que a bandeja de alumínio encontra-se numa temperatura mais baixa. Intrigado, ele propõe uma segunda atividade, em que coloca um cubo de gelo sobre cada uma das bandejas, que estão em equilíbrio térmico com o ambiente, e os questiona em qual delas a taxa de derretimento do gelo será maior.",
+    "introducao_alternativas": "O aluno que responder corretamente ao questionamento do professor dirá que o derretimento ocorrerá",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "mais rapidamente na bandeja de alumínio, pois ela tem um calor específico menor que a de plástico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3e7fe72d-4aae-4a4f-8b48-060537298df7",
+    "title": "Questão F1463 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”. [IMAGEM_0]",
+    "introducao_alternativas": "Que fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f1463_-_enem_057a3c1d-016e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Absorção.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Polarização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Refração.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7e028bcb-7673-44fb-9990-cb25d02f0fbd",
+    "title": "Questão F1845 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Durante a formação de uma tempestade, são observadas várias descargas elétricas, os raios, que podem ocorrer: das nuvens para o solo (descarga descendente), do solo para as nuvens (descarga ascendente) ou entre uma nuvem e outra. As descargas ascendentes e descendentes podem ocorrer por causa do acúmulo de cargas elétricas positivas ou negativas, que induz uma polarização oposta no solo.",
+    "introducao_alternativas": "Essas descargas elétricas ocorrem devido ao aumento da intensidade do(a)",
+    "assunto": "Eletrostática",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "campo magnético da Terra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "corrente elétrica gerada dentro das nuvens.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "resistividade elétrica do ar entre as nuvens e o solo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "campo elétrico entre as nuvens e a superfície da Terra.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "força eletromotriz induzida nas cargas acumuladas no solo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_423c6bd6-9e64-42ce-854d-65fd345fee9f",
+    "title": "Questão F1299 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital. [IMAGEM_0]",
+    "introducao_alternativas": "Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": 5,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1299_-_enem_6d57f434-37ed-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1299_-_enem_alt_A_89af0349-6f4c-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f1299_-_enem_alt_B_9112dfd7-f045-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1299_-_enem_alt_C_82ffd215-4537-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1299_-_enem_alt_D_b3a0ba50-0bf4-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1299_-_enem_alt_E_93fd6c8b-7d0e-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ac54725a-bc74-45b6-8909-7f61ec804f0e",
+    "title": "Questão F2121 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Tendo em vista a necessidade de economia de energia elétrica, os climatizadores de ar surgem como uma alternativa econômica. Esses dispositivos utilizam a evaporação da água como método de troca de calor, conforme esquematizado na figura. [IMAGEM_0] O ar externo (quente) é aspirado para o interior do painel evaporativo e, em contato com a água fria, tem sua temperatura diminuída. Umidificado e mais frio, o ar é empurrado pelo ventilador ao ambiente interno. Quanto maior é a redução de temperatura produzida pelo climatizador, maior é a sua eficiência. A Tabela 1 apresenta a redução de temperatura produzida por um desses aparelhos, em função da temperatura de entrada do ar e de sua umidade relativa (UR) percentual; enquanto a Tabela 2 apresenta os valores médios de temperatura (T) e os valores da UR do ar de cinco cidades brasileiras, no mês de setembro. [IMAGEM_1]",
+    "introducao_alternativas": "Considerando os dados apresentados para o mês de setembro, em qual destas cidades o climatizador de ar é mais eficiente?",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2121_-_enem_ppl_f09b1e6f-dc52-4.png",
+      "questao_f2121_-_enem_ppl_32cb14f5-312e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Barbalha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Belém.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cáceres.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Corumbá.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Janaúba.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0499a0f4-1330-4bd8-950c-aced943d029b",
+    "title": "Questão F0275 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O uso mais popular de energia solar está associado ao fornecimento de água quente para fins domésticos. Na figura a seguir, é ilustrado um aquecedor de água constituído de dois tanques pretos dentro de uma caixa termicamente isolada e com cobertura de vidro, os quais absorvem energia solar. [IMAGEM_0]",
+    "introducao_alternativas": "Nesse sistema de aquecimento,",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 23,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0275_-_enem_713f6f7c-2c26-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os tanques, por serem de cor preta, são maus absorvedores de calor e reduzem as perdas de energia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a cobertura de vidro deixa passar a energia luminosa e reduz a perda de energia térmica utilizada para o aquecimento.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "a água circula devido à variação de energia luminosa existente entre os pontos X e Y.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a camada refletiva tem como função armazenar energia luminosa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o vidro, por ser bom condutor de calor, permite que se mantenha constante a temperatura no interior da caixa.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bc323610-b5eb-493a-b9de-0719f94d2cc9",
+    "title": "Questão F2031 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A fritura de alimentos é um processo térmico que ocorre a temperaturas altas, aproximadamente a 170 ˚C. Nessa condição, alimentos ricos em carboidratos e proteínas sofrem uma rápida desidratação em sua superfície, tornando-a crocante. Uma pessoa quer fritar todas as unidades de frango empanado congelado de uma caixa. Para tanto, ela adiciona todo o conteúdo de uma vez em uma panela com óleo vegetal a 170 ˚C, cujo volume é suficiente para cobrir todas as unidades. Mas, para sua frustração, ao final do processo elas se mostram encharcadas de óleo e sem crocância.",
+    "introducao_alternativas": "As unidades ficaram fora da aparência desejada em razão da",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "evaporação parcial do óleo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "diminuição da temperatura do óleo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "desidratação excessiva das unidades.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "barreira térmica causada pelo empanamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ausência de proteínas e carboidratos nas unidades.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e454fe04-604b-4b1d-a088-81d6d3dce040",
+    "title": "Questão F2070 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas. [IMAGEM_0] Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração.",
+    "introducao_alternativas": "A escolha que corresponde à combinação correta é",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2070_-_enem_a603a2f9-905b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "v = 0 e a ≠ 0 para cima.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "v ≠ 0 para cima e a = 0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "v = 0 e a ≠ 0 para baixo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "v ≠ 0 para cima e a ≠ 0 para cima.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "v ≠ 0 para baixo e a ≠ 0 para baixo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2f6b47dd-c8fd-4d76-8f78-b6dacf2b85d4",
+    "title": "Questão F0277 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Numa área de praia, a brisa marítima é uma consequência da diferença no tempo de aquecimento do solo e da água, apesar de ambos estarem submetidos às mesmas condições de irradiação solar. No local (solo) que se aquece mais rapidamente, o ar fica mais quente e sobe, deixando uma área de baixa pressão, provocando o deslocamento do ar da superfície que está mais fria (mar). [IMAGEM_0] À noite, ocorre um processo inverso ao que se verifica durante o dia. [IMAGEM_1]",
+    "introducao_alternativas": "Como a água leva mais tempo para esquentar (de dia), mas também leva mais tempo para esfriar (à noite), o fenômeno noturno (brisa terrestre) pode ser explicado da seguinte maneira:",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0277_-_enem_bffa9a18-e362-4.png",
+      "questao_f0277_-_enem_2caccac1-2520-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ar que está sobre a água se aquece mais; ao subir, deixa uma área de baixa pressão, causando um deslocamento de ar do continente para o mar.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "O ar mais quente desce e se desloca do continente para a água, a qual não conseguiu reter calor durante o dia.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "O ar que está sobre o mar se esfria e dissolve-se na água; forma-se, assim, um centro de baixa pressão, que atrai o ar quente do continente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "O ar que está sobre a água se esfria, criando um centro de alta pressão que atrai massas de ar continental.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O ar sobre o solo, mais quente, é deslocado para o mar, equilibrando a baixa temperatura do ar que está sobre o mar.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e57009f2-ec98-4510-86a6-9a5eb16725b3",
+    "title": "Questão F0322 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Visando reduzir a poluição sonora de uma cidade, a Câmara de Vereadores aprovou uma lei que impõe o limite máximo de 40 dB (decibéis) para o nível sonoro permitido após as 22 horas.",
+    "introducao_alternativas": "Ao aprovar a referida lei, os vereadores estão limitando qual característica da onda?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A altura da onda sonora.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "A amplitude da onda sonora.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "A frequência da onda sonora.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "A velocidade da onda sonora.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O timbre da onda sonora.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_13b3ed33-7aac-4c34-b09f-4aeb496698c2",
+    "title": "Questão F1473 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantém suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:  [IMAGEM_0] ",
+    "introducao_alternativas": "A razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+    "assunto": "Termologia",
+    "competencia": 4,
+    "habilidade": "17",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "1-3.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,1",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,1",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8eab6e38-94fe-441a-807d-c8cf4b50dcda",
+    "title": "Questão F0595 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um estudante, precisando instalar um computador, um monitor e uma lâmpada em seu quarto, verificou que precisaria fazer a instalação de duas tomadas e um interruptor na rede elétrica. Decidiu esboçar com antecedência o esquema elétrico. “O circuito deve ser tal que as tomadas e a lâmpada devem estar submetidas à tensão nominal da rede elétrica e a lâmpada deve poder ser ligada ou desligada por um interruptor sem afetar os outros dispositivos” — pensou. [IMAGEM_0]",
+    "introducao_alternativas": "Qual dos circuitos esboçados atende às exigências?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": 5,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f0595_-_enem_007422f2-d174-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0595_-_enem_alt_A_e50d271b-6f82-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0595_-_enem_alt_B_9d0e4151-6870-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0595_-_enem_alt_C_0e3fb6c4-8690-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0595_-_enem_alt_D_29e7461e-b2f7-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f0595_-_enem_alt_E_a5d13cfc-2ee3-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_22b8dcee-b0cb-4324-b4be-e0e1ad10d169",
+    "title": "Questão F1464 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência. Como teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela. [IMAGEM_0]",
+    "introducao_alternativas": "Nesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1464_-_enem_26976cee-90dd-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, 2, 3.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1, 3, 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2, 1, 3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3, 1, 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3, 2, 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_be86e5c5-6616-4ebb-8730-ba06523d40d8",
+    "title": "Questão F0548 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Os olhos humanos normalmente têm três tipos de cones responsáveis pela percepção das cores: um tipo para tons vermelhos, um para tons azuis e outro para tons verdes. As diversas cores que enxergamos são o resultado da percepção das cores básicas, como indica a figura. [IMAGEM_0] A protanopia é um tipo de daltonismo em que há diminuição ou ausência de receptores da cor vermelha. Considere um teste com dois voluntários: uma pessoa com visão normal e outra com caso severo de protanopia. Nesse teste, eles devem escrever a cor dos cartões que lhes são mostrados. São utilizadas as cores indicadas na figura.",
+    "introducao_alternativas": "Para qual cartão os dois voluntários identificarão a mesma cor?",
+    "assunto": "Óptica",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0548_-_enem_7d97bd4f-6510-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vermelho.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Magenta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Amarelo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Branco.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Azul.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_86a2595f-0f2a-48e3-b4d1-6132b73b7e8b",
+    "title": "Questão F2048 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Baterias são dispositivos que acumulam energia e estão presentes em inúmeros aparelhos portáteis. Uma bateria ideal não possui resistência interna. Entretanto, baterias reais apresentam resistência interna disponibilizando uma tensão efetiva V inferior à sua tensão nominal ε, conforme a figura. Uma vez que se sabe o valor da tensão nominal da bateria, determina-se sua carga pelo conhecimento da corrente i enquanto está conectada a um circuito de resistência R, de tensão efetiva V, e da resistência interna r da bateria. [IMAGEM_0]",
+    "introducao_alternativas": "De posse de um voltímetro V de um amperímetro A e de uma resistência-teste R, a configuração adequada para avaliar a carga da bateria é:",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2048_-_enem_ppl_6023b69f-d533-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f2048_-_enem_ppl_alt_A_9f3fb3da-fed9-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2048_-_enem_ppl_alt_B_e2b134ba-156f-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2048_-_enem_ppl_alt_C_a8e3ece1-71a5-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2048_-_enem_ppl_alt_D_0f4f873a-5ddb-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2048_-_enem_ppl_alt_E_d4dbb83f-42b5-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_93ff530a-1130-472e-8e34-1cc619117f9d",
+    "title": "Questão F0630 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em viagens de avião, é solicitado aos passageiros o desligamento de todos os aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.",
+    "introducao_alternativas": "A propriedade das ondas emitidas que justifica o procedimento adotado é o fato de",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "terem fases opostas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "serem ambas audíveis.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "terem intensidades inversas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "serem de mesma amplitude.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "terem frequências próximas.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_03ab03af-75e8-43e4-8f30-f7a8db7966ab",
+    "title": "Questão F1972 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Para a proteção contra curtos-circuitos em residências são utilizados disjuntores, compostos por duas lâminas de metais diferentes, com suas superfícies soldadas uma à outra, ou seja, uma lâmina bimetálica. Essa lâmina toca o contato elétrico, fechando o circuito e deixando a corrente elétrica passar. Quando da passagem de uma corrente superior à estipulada (limite), a lâmina se curva para um dos lados, afastando-se do contato elétrico e, assim, interrompendo o circuito. Isso ocorre porque os metais da lâmina possuem uma característica física cuja resposta é diferente para a mesma corrente elétrica que passa no circuito.",
+    "introducao_alternativas": "A característica física que deve ser observada para a escolha dos dois metais dessa lâmina bimetálica é o coeficiente de",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 18,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dureza.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "elasticidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "dilatação térmica.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "compressibilidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "condutividade elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3e6b76fa-2440-498a-99a7-d53deddc1261",
+    "title": "Questão F0565 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A epilação a laser (popularmente conhecida como depilação a laser) consiste na aplicação de uma fonte de luz para aquecer e causar uma lesão localizada e controlada nos folículos capilares. Para evitar que outros tecidos sejam danificados, selecionam-se comprimentos de onda que são absorvidos pela melanina presente nos pelos, mas que não afetam a oxi-hemoglobina do sangue e a água dos tecidos da região em que o tratamento será aplicado. A figura mostra como é a absorção de diferentes comprimentos de onda pela melanina, oxi-hemoglobina e água. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é o comprimento de onda, em nm, ideal para a epilação a laser?",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0565_-_enem_26706476-41c6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "400",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "700",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.100",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "900",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "500",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2f268937-b120-4e12-a14f-9185ac014007",
+    "title": "Questão F2088 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O ser humano é incapaz de enxergar a radiação infravermelha e as ondas de rádio (baixas frequências), assim como a ultravioleta e os raios X (altas frequências). A observação dessas faixas do espectro pode ser realizada por meios indiretos, por exemplo, usando um cintilador, que é uma placa utilizada como sensor para detectar um feixe de raios X, pois emite luz quando o feixe incide sobre ela.",
+    "introducao_alternativas": "Para que uma pessoa enxergue a incidência de raios X no cintilador, é necessário que essa placa",
+    "assunto": "Ondulatória",
+    "competencia": 4,
+    "habilidade": 13,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reflita o feixe de raios X, alterando sua polarização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "transmita o feixe de raios X, alterando sua polarização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "absorva o feixe de raios X, reemitindo parte de sua energia na região do visível.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "absorva o feixe de raios X, reemitindo parte de sua energia na região do ultravioleta.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "absorva o feixe de raios X, reemitindo parte de sua energia na região do infravermelho.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0012eb0e-2688-4600-867f-609699da8e24",
+    "title": "Questão F2032 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em um manual de instruções de uma geladeira, constam as seguintes recomendações: \n- Mantenha a porta de seu refrigerador aberta apenas o tempo necessário; \n- É importante não obstruir a circulação do ar com a má distribuição dos alimentos nas prateleiras; \n- Deixe um espaço de, no mínimo, 5 cm entre a parte traseira do produto (dissipador serpentinado) e a parede.",
+    "introducao_alternativas": "Com base nos princípios da termodinâmica, as justificativas para essas recomendações são, respectivamente:",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": "19",
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reduzir a saída de frio do refrigerador para o ambiente, garantir a transmissão do frio entre os alimentos na prateleira e permitir a troca de calor entre o dissipador de calor e o ambiente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reduzir a saída de frio do refrigerador para o ambiente, garantir a convecção do ar interno, garantir o isolamento térmico entre a parte interna e a externa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Reduzir o fluxo de calor do ambiente para a parte interna do refrigerador, garantir a convecção do ar interno e permitir a troca de calor entre o dissipador e o ambiente.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reduzir o fluxo de calor do ambiente para a parte interna do refrigerador, garantir a transmissão do frio entre os alimentos na prateleira e permitir a troca de calor entre o dissipador e o ambiente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reduzir o fluxo de calor do ambiente para a parte interna do refrigerador, garantir a convecção do ar interno e garantir o isolamento térmico entre as partes interna e externa.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_061e2711-362a-440f-9a01-7c41745acdb2",
+    "title": "Questão F0274 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um aquecedor solar consiste essencialmente em uma serpentina de metal, a ser exposta ao sol, por meio da qual flui água a ser aquecida. A parte inferior da serpentina é soldada a uma chapa metálica, que é o coletor solar. A forma da serpentina tem a finalidade de aumentar a área de contato com o coletor e com a própria radiação solar sem aumentar muito o tamanho do aquecedor. O metal, sendo bom condutor, transmite e energia da radiação solar absorvida para as paredes internas e, daí, por condução, para a água. A superfície deve ser recoberta com um material, denominado material seletivo quente, para que absorva o máximo de radiação solar e emita o mínimo de radiação infravermelha. [IMAGEM_0]",
+    "introducao_alternativas": "Os aquecedores solares mais eficientes e, portanto, mais atrativos do ponto de vista econômico, devem ser construídos utilizando como material metálico e material seletivo quente, respectivamente,",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0274_-_enem_7bc7757a-462f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aço e material seletivo quente A.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "aço e material seletivo quente B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "cobre e material seletivo quente C.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "zinco e material seletivo quente B.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "cobre e material seletivo quente A.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_927f8ab6-037a-4c84-a244-8be6223b3713",
+    "title": "Questão F2105 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fR. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
+    "introducao_alternativas": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fR e f0 medidas pelo radar?",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mais grave do que o som emitido e fR < f0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mais agudo do que o som emitido e fR < f0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mais agudo do que o som emitido e fR = f0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mais agudo do que o som emitido e fR > f0.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mais grave do que o som emitido e fR > f0.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_59edbc37-8ce0-4988-bc41-54f00c98611c",
+    "title": "Questão F2082 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "As baterias de lítio para carros elétricos são capazes de armazenar cerca de 700 Wh de energia em um volume de 1 L, enquanto a combustão de 1 L de etanol hidratado em um motor a combustão disponibiliza 6.300 Wh de energia. Os motores a combustão têm uma eficiência baixa, com apenas 30% da energia do combustível sendo transformada em movimento. Já os motores elétricos apresentam eficiência três vezes maior. Para estudar a viabilidade de se utilizar a mesma plataforma de um carro movido a álcool, com tanque de 40 L de combustível, para a produção de modelos elétricos, uma equipe de engenharia precisa estimar o volume da bateria de lítio que corresponda, no carro elétrico, à mesma quantidade energética desse carro a álcool. VASCONCELOS, Y. Mais energia. Pesquisa Fapesp, n. 261, nov. 2017 (adaptado).",
+    "introducao_alternativas": "O volume aproximado, em litro, da bateria de lítio a ser utilizada é",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "36.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "120.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "360.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "400.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.080.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1998c0b0-eb69-4ed5-9ca8-c81ddf4ab79c",
+    "title": "Questão F0162 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Durante um reparo na estação espacial internacional, um cosmonauta, de massa 90 kg, substitui uma bomba do sistema de refrigeração, de massa 360 kg, que estava danificada. Inicialmente, o cosmonauta e a bomba estão em repouso em relação à estação. Quando ele empurra a bomba para o espaço, ele é empurrado no sentido oposto. Nesse processo, a bomba adquire uma velocidade de 0,2 m/s em relação à estação.",
+    "introducao_alternativas": "Qual é o valor da velocidade escalar adquirida pelo cosmonauta, em relação à estação, após o empurrão?",
+    "assunto": "Dinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,05 m/s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,20 m/s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,40 m/s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,50 m/s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,80 m/s",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4ed0acb4-6164-478b-a471-5a8a69ad4fe0",
+    "title": "Questão F1469 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença do campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica. A figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C estão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
+    "assunto": "Eletromagnetismo",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1469_-_enem_d6e2b5cf-3103-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1469_-_enem_alt_A_4a8e7003-5eda-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1469_-_enem_alt_B_d9dac8a8-d38e-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1469_-_enem_alt_C_59bcabaa-56a1-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f1469_-_enem_alt_D_0fc80062-906f-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1469_-_enem_alt_E_d2a32fd2-fe9b-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_221cdd3e-707b-4612-ac94-81d0fa2ff4fa",
+    "title": "Questão F0529 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Talvez você já tenha bebido suco usando dois canudinhos iguais. Entretanto, pode-se verificar que, se colocar um canudo imerso no suco e outro do lado de fora do líquido, fazendo a sucção simultaneamente em ambos, você terá dificuldade em bebê-lo.",
+    "introducao_alternativas": "Essa dificuldade ocorre porque o(a):",
+    "assunto": "Hidrostática",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "força necessária para a sucção do ar e do suco simultaneamente dobra de valor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "densidade do ar é menor que a do suco, portanto, o volume de ar aspirado é muito maior que o volume de suco.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "velocidade com que o suco sobe deve ser constante nos dois canudos, o que é impossível com um dos canudos de fora.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "peso da coluna de suco é consideravelmente maior que o peso da coluna de ar, o que dificulta a sucção do líquido.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "pressão no interior da boca assume praticamente o mesmo valor daquela que atua sobre o suco.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cf03b18a-93b3-44e9-94e7-517cbdcc01b1",
+    "title": "Questão F2029 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um agricultor deseja utilizar um motor para bombear água (ρágua = 1 kg/L) de um rio até um reservatório onde existe um desnível de 30 m de altura entre o rio e o reservatório, como representado na figura. Ele necessita de uma vazão constante de 3.600 litros de água por hora. Considere a aceleração da gravidade igual a 10 m/s². [IMAGEM_0]",
+    "introducao_alternativas": "Considerando a situação apresentada e desprezando efeitos de perdas mecânicas e elétricas, qual deve ser a potência mínima do motor para realizar a operação?",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2029_-_enem_ppl_591e3bf3-cdaa-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,0 . 10¹ W",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5,0 . 10¹ W",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,0 . 10² W",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3,6.10^4 W",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1,1.10^6 W",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_bde1efe0-6a2f-4399-867c-0cc388ae522e",
+    "title": "Questão F2019 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O princípio básico de produção de imagens em equipamentos de ultrassonografia é a produção de ecos. O princípio pulso-eco refere-se à emissão de um pulso curto de ultrassom que atravessa os tecidos do corpo. No processo de interação entre o som e órgãos ou tecidos, uma das grandezas relevantes é a impedância acústica, relacionada à resistência do meio à passagem do som, definida pelo produto da densidade (ρ) do material pela velocidade (v) do som nesse meio. Quanto maior a diferença de impedância acústica entre duas estruturas, maior será a intensidade de reflexão do pulso e mais facilmente será possível diferenciá-las. A tabela mostra os diferentes valores de densidade e velocidade para alguns órgãos ou tecidos. [IMAGEM_0] \nCAVALCANTE, M. A.; PEÇANHA, R.; LEITE, V. F. Princípios básicos de imagens ultrassônicas e a determinação da velocidade do som no ar através do eco. Física na Escola, n. 1, 2012 (adaptado).",
+    "introducao_alternativas": "Em uma imagem de ultrassom, as estruturas mais facilmente diferenciáveis são",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "image-588.webp"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osso e gordura.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "cérebro e osso.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "gordura e cérebro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "músculo e cérebro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "gordura e músculo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6cb41ce1-f365-4536-9997-f01391bf2ce7",
+    "title": "Questão F0551 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica q é lançado em uma região de campo magnético constante B→, descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo t de voo para N voltas do íon. Logo, com base nos valores q, B, N e t, pode-se determinar a massa do íon. [IMAGEM_0]",
+    "introducao_alternativas": "A massa do íon medida por esse dispositivo será:",
+    "assunto": "Eletromagnetismo",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_f0551_-_enem_addac75d-f864-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "qBt/2πN",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "qBt/πN",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2qBt/πN",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "qBt/N",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2qBt/N",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ac95b0bd-8f3d-4f6b-abdb-4c71dc9311a9",
+    "title": "Questão F0342 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em um violão afinado, quando se toca a corda Lá com seu comprimento efetivo (harmônico fundamental), o som produzido tem frequência de 440 Hz.",
+    "introducao_alternativas": "Se a mesma corda do violão é comprimida na metade do seu comprimento, a frequência do novo harmônico",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se reduz à metade, porque o comprimento de onda dobrou.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "dobra, porque o comprimento de onda foi reduzido à metade.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "quadruplica, porque o comprimento de onda foi reduzido à metade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "quadruplica, porque o comprimento de onda foi reduzido à quarta parte.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "não se modifica, porque é uma característica independente do comprimento da corda que vibra.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fd5f377f-4e42-413e-963d-46a4fe5508e7",
+    "title": "Questão F0536 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O sonorizador é um dispositivo físico implantado sobre a superfície de uma rodovia de modo que provoque uma trepidação e ruído quando da passagem de um veículo sobre ele, alertando para uma situação atípica à frente, como obras, pedágios ou travessia de pedestres. Ao passar sobre os sonorizadores, a suspensão do veículo sofre vibrações que produzem ondas sonoras, resultando em um barulho peculiar. Considere um veículo que passe com velocidade constante igual a 108 km/h sobre um sonorizador cujas faixas são separadas por uma distância de 8 cm. Disponível em: www.denatran.gov.br. Acesso em: 2 set. 2015 (adaptado).",
+    "introducao_alternativas": "A frequência da vibração do automóvel percebida pelo condutor durante a passagem nesse sonorizador é mais próxima de:",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8,6 hertz.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "13,5 hertz.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "375 hertz.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.350 hertz.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4.860 hertz.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b525680b-eeb9-4846-9ac7-f05b58c18adc",
+    "title": "Questão F2043 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Alguns recipientes de cozinha apresentam condutividade térmica apropriada para acondicionar e servir alimentos. Assim, os alimentos acondicionados podem manter a temperatura, após o preparo, por um tempo maior. O quadro contém a condutividade térmica (k) de diferentes materiais utilizados na produção desses recipientes. [IMAGEM_0]",
+    "introducao_alternativas": "Considerando recipientes de mesma espessura, qual o material recomendado para manter o alimento aquecido por um maior intervalo de tempo?",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": "18",
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "image-172.png.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_93ab2303-3620-4fff-8dc8-7c9b4f55708e",
+    "title": "Questão F1988 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Para reciclar um motor de potência elétrica igual a 200 W, um estudante construiu um elevador e verificou que ele foi capaz de erguer uma massa de 80 kg a uma altura de 3 metros durante 1 minuto. Considere a aceleração da gravidade 10 m/s².",
+    "introducao_alternativas": "Qual a eficiência aproximada do sistema para realizar tal tarefa?",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": "23",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20%",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "40%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "50%",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "100%",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a678549b-8923-4e7a-b25f-ada601701f8e",
+    "title": "Questão F2028 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em 20 de julho de 1969, Neil Armstrong tornou-se o primeiro homem a pisar na superfície da Lua. Ele foi seguido por Edwin Aldrin, ambos da missão Apollo 11. Eles, e os astronautas que os seguiram, experimentaram a ausência de atmosfera e estavam sujeitos às diferenças gravitacionais. A aceleração da gravidade na Lua tem 1/6 do valor na Terra.",
+    "introducao_alternativas": "Em relação às condições na Terra, um salto oblíquo na superfície da Lua teria alcance",
+    "assunto": "Cinemática",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "menor, pois a força normal com o solo é menor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "menor, pois a altura do salto seria maior.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "igual, pois o impulso aplicado pelo astronauta é o mesmo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "maior, pois a aceleração da gravidade é seis vezes menor.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "maior, pois na ausência de atmosfera não há resistência do ar.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7c0ddcfa-ca0c-4806-82fb-cb6577c354e9",
+    "title": "Questão F0226 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Para oferecer acessibilidade aos portadores de dificuldade de locomoção, é utilizado, em ônibus e automóveis, o elevador hidráulico. Nesse dispositivo é usada uma bomba elétrica, para forçar um fluido a passar de uma tubulação estreita para outra mais larga, e dessa forma acionar um pistão que movimenta a plataforma. Considere um elevador hidráulico cuja área da cabeça do pistão seja cinco vezes maior do que a área da tubulação que sai da bomba. Desprezando o atrito e considerando uma aceleração gravitacional de 10 m/s2, deseja-se elevar uma pessoa de 65kg em uma cadeira de rodas de 15 kg sobre a plataforma de 20 kg.",
+    "introducao_alternativas": "Qual deve ser a força exercida pelo motor da bomba sobre o fluido, para que o cadeirante seja elevado com velocidade constante?",
+    "assunto": "Hidrostática",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 N",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "100 N",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "200 N",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1000 N",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5000 N",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0338a657-ebe5-4ee3-8dd2-4b645a339421",
+    "title": "Questão F1975 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "As miragens existem e podem induzir à percepção de que há água onde não existe. Elas são a manifestação de um fenômeno óptico que ocorre na atmosfera. Disponível em: www.invivo.fiocruz.br. Acesso em: 29 fev. 2012.",
+    "introducao_alternativas": "Esse fenômeno óptico é consequência da",
+    "assunto": "Óptica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "refração da luz nas camadas de ar próximas do chão quente.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "reflexão da luz ao incidir no solo quente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "reflexão difusa da luz na superfície rugosa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "dispersão da luz nas camadas de ar próximas do chão quente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "difração da luz nas camadas de ar próximas do chão quente.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_675c1bb3-c779-4fb5-8918-25851a141806",
+    "title": "Questão F1302 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindos do coração. A imagem apresenta o resultado típico obtido em um paciente saudável e a intensidade do sinal (VEC) em função do tempo. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com o eletrocardiograma apresentado, qual foi número de batimentos cardíacos por minuto desse paciente durante o exame?",
+    "assunto": "Ondulatória",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1302_-_enem_7d22bab6-fa2e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "60",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "100",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "120",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "180",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7cf74ff8-df0d-4fca-8d5b-87f4c5ecec85",
+    "title": "Questão F2047 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "[IMAGEM_0] O quadro contém as especificações técnicas de um forno de micro-ondas, em que é possível distinguir entre a potência consumida pelo eletrodoméstico quando ligado em uma rede elétrica sob determinadas condições de tensão elétrica e frequência e a máxima potência fornecida aos alimentos nele aquecidos. Também distinguem-se a frequência de micro-ondas, à qual o alimento é submetido, e a frequência da rede elétrica. Utiliza-se esse equipamento para descongelar um alimento durante 15 minutos, em potência máxima.",
+    "introducao_alternativas": "Durante o descongelamento, a frequência da onda eletromagnética que aquece o alimento e a quantidade aproximada de energia fornecida para aquecê-lo são, respectivamente,",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2047_-_enem_ppl_a0174944-3acb-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2450 MHz e 630 kJ.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2450 MHz e 114 kJ.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2390 MHz e 630 kJ.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "60 Hz e 114 kJ.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "60 Hz e 127 kJ.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

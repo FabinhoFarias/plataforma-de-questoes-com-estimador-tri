@@ -1,0 +1,2513 @@
+[
+  {
+    "id_externo": "Questao_29a2b240-c8ae-4f3d-aa33-5831c2630ee3",
+    "title": "Questão M1060 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa possui um espaço retangular de lados 11,5m e 14m no quintal de sua casa e pretende fazer um pomar doméstico de maçãs. Ao pesquisar sobre o plantio dessa fruta, descobriu que as mudas de maçã devem ser plantadas em covas com uma única muda e com espaçamento mínimo de 3 metros entre elas e as laterais do terreno. Ela sabe que conseguirá plantar um número maior de mudas em seu pomar se dispuser as covas em filas alinhadas paralelamente ao lado de maior extensão.",
+    "introducao_alternativas": "O número máximo de mudas que essa pessoa poderá plantar no espaço disponível é",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "9.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "12.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "20.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_05f1e4f9-840f-4e36-ae1d-25b33bda3850",
+    "title": "Questão M1012 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura. [IMAGEM_0] No setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.",
+    "introducao_alternativas": "Com base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m1012_-_enem_2013_42deeb4a-f557-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C6, 4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "C9, 3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "C10, 4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "64",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "46",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cfc9be51-79b3-494e-9a6f-c8c050d9cc90",
+    "title": "Questão M1896 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A baixa procura por carne bovina e o aumento de oferta de animais para abate fizeram com que o preço da arroba do boi apresentasse queda para o consumidor. No ano de 2012, o preço da arroba do boi caiu de R$ 100,00 para R$ 93,00. Disponível em: www.diariodemarilia.com.br. Acesso em: 14 ago. 2012.",
+    "introducao_alternativas": "Com o mesmo valor destinado à aquisição de carne, em termos de perda ou ganho, o consumidor",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ganhou 6,5% em poder aquisitivo de carne.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "ganhou 7% em poder aquisitivo de carne.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "ganhou 7,5% em poder aquisitivo de carne.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "perdeu 7% em poder aquisitivo de carne.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "perdeu 7,5% em poder aquisitivo de carne.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_baac17bc-d8ab-41fa-bcce-de6c39d8bc13",
+    "title": "Questão M1237 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta. As diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura. [IMAGEM_0] O ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.",
+    "introducao_alternativas": "O valor mais próximo da medida do diâmetro da segunda catraca, em centímetro e com uma casa decimal, é",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1237_-_enem_2013_d8df804b-5db8-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,7.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10,5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2a70020a-4598-44d1-b52f-4fca14431187",
+    "title": "Questão M2046 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um professor de matemática desenvolveu uma atividade educacional relacionada aos Jogos Olímpicos e confeccionou uma maquete que representa uma piscina nas dimensões olímpicas. Admitiu que a piscina olímpica deve ter capacidade mínima de 2.500.000 litros e construiu sua maquete, referente a esse valor mínimo, na forma de paralelepípedo reto retângulo com dimensões internas 2 cm, 25 cm e 50 cm, cujo volume é 2.500 cm³. Considere que 1 L = 10³ cm³.",
+    "introducao_alternativas": "A maquete confeccionada pelo professor foi elaborada na escala",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": "H11",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 100.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 1.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 2.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 50.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 1.000.000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7d2ff466-823a-487b-b566-e3cbf8f376b8",
+    "title": "Questão M0183 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma indústria produz malhas de proteção solar para serem aplicadas em vidros, de modo a diminuir a passagem de luz, a partir de fitas plásticas entrelaçadas perpendicularmente. Nas direções vertical e horizontal, são aplicadas fitas de 1 milímetro de largura, tal que a distância entre elas é de (d-1) milímetros, conforme a figura. O material utilizado não permite a passagem da luz, ou seja, somente o raio de luz que atingir as lacunas deixadas pelo entrelaçamento consegue transpor essa proteção. A taxa de cobertura do vidro é o percentual da área da região coberta pelas fitas da malha, que são colocadas paralelamente às bordas do vidro. [IMAGEM_0] Essa indústria recebeu a encomenda de uma malha de proteção solar para ser aplicada em um vidro retangular de 5m de largura por 9m de comprimento.",
+    "introducao_alternativas": "A medida de d, em milímetros, para que a taxa de cobertura da malha seja de 75% é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0183_-_enem_2013_536285f4-50a3-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "11/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4/3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2/3",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_469c7af8-071e-4586-ae6c-6580ab02dc60",
+    "title": "Questão M1883 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um motorista de um carro flex (bicombustível) calcula que, abastecido com 45 litros de gasolina ou com 60 litros de etanol, o carro percorre a mesma distância.",
+    "introducao_alternativas": "Chamando de x o valor do litro de gasolina e de y o valor do litro de etanol, a situação em que abastecer com gasolina é economicamente mais vantajosa do que abastecer com etanol é expressa por",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(x/y) = (4/3)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(x/y) = (3/4)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(x/y) > (4/3)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(x/y) > (3/4)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(x/y)",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cb5e955f-10a4-4c33-a048-37089caa4b4c",
+    "title": "Questão M1256 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento. Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros. O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo √X, o terceiro X1/3, o quarto X2 e o último X3. Nenhum desses países zerou ou atingiu o índice máximo.",
+    "introducao_alternativas": "Qual desses países obteve o maior IDH?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O primeiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "O segundo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "O terceiro.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "O quarto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O quinto.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_29fef712-dd7b-41d5-b787-7fa3dd5f8b54",
+    "title": "Questão M0535 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um engenheiro projetou um automóvel cujos vidros das portas dianteiras foram desenhados de forma que suas bordas superiores fossem representadas pela curva de equação y = log(x), conforme a figura. [IMAGEM_0] A forma do vidro foi concebida de modo que o eixo x sempre divida ao meio a altura h do vidro e a base do vidro seja paralela ao eixo x. Obedecendo a essas condições, o engenheiro determinou uma expressão que fornece a altura h do vidro em função da medida n de sua base, em metros.",
+    "introducao_alternativas": "A expressão algébrica que determina a altura do vidro é",
+    "assunto": "Logaritmo",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m0535_-_enem_2013_ae5b6e0c-7b77-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "log((n+n2+4)/2) - log((n-n2+4)/2)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "log(1+n/2) - log(1-n/2)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "log(1+n/2) + log(1-n/2)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "log((n+n2+4)/2)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2·log((n+n2+4)/2)",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4f745d20-17fa-4db2-a976-a2c4bfb4aedb",
+    "title": "Questão M1722 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal conforme os tipos de situações ilustradas na Figura 1. [IMAGEM_0] O jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas. [IMAGEM_1]",
+    "introducao_alternativas": "A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1722_-_enem_2013_be92d733-fb32-4.png",
+      "questao_m1722_-_enem_2013_ab00cf23-1efd-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(1/46) + (1/45)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "(1/46) + 2/(46x45)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "(1/46) + 8/(46x45)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(1/46) + 43/(46x45)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(1/46) + 49/(46x45)",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_36aabc5a-e31a-4ec6-8727-e095d0c191bb",
+    "title": "Questão M2033 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma quadra oficial de futebol de salão ocupa uma área que corresponde à área de um retângulo com comprimento de 40 m e largura de 20 m. Para segurança dos atletas, as linhas demarcatórias da quadra, nas laterais e nos fundos, deverão estar a uma distância de, no mínimo, 2 m de obstáculos que não fazem parte da quadra, tais como rede de proteção, tela, grade ou parede.  Disponível em: www.cbfs.com.br. Acesso em: 20 out. 2019 (adaptado). \nA gerência do Departamento de Obras de uma Prefeitura avalia adquirir um terreno e nele construir uma quadra oficial de futebol de salão. Há cinco terrenos disponíveis, e a gerência comprará o terreno que tiver menor área, desde que comporte a construção da quadra garantindo todas as demandas que ofereçam segurança aos atletas. Planeja-se ainda que a quadra seja construída de modo que o seu lado maior seja paralelo à rua. A figura ilustra os terrenos disponíveis e que estão sendo avaliados. [IMAGEM_0]",
+    "introducao_alternativas": "Qual dos cinco terrenos a gerência deve adquirir a fim de atender a todas as exigências apresentadas?",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2033_-_enem_ppl_2013_bb24079b-378a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_db53e31d-797c-4cd8-92d8-fefb748a9a32",
+    "title": "Questão M1942 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "As Artes Marciais Mistas, tradução do inglês: MMA – mixed martial arts são realizadas num octógono regular. De acordo com a figura, em certo momento os dois lutadores estão respectivamente nas posições G e F, e o juiz está na posição I. O triângulo IGH é equilátero e GÎF é o ângulo formado pelas semirretas com origem na posição do juiz, respectivamente passando pelas posições de cada um dos lutadores. [IMAGEM_0]",
+    "introducao_alternativas": "A medida do ângulo GÎF é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1942_-_enem_ppl_2013_7fb51482-9664-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "120˚",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "75˚",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "67,5˚",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "60˚",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "52,5˚",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_367df0c2-7d2e-430f-a41a-a3b6e7fd1dd4",
+    "title": "Questão M0439 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O HPV é uma doença sexualmente transmissível. Uma vacina com eficácia de 98% foi criada com o objetivo de prevenir a infecção por HPV e, dessa forma, reduzir o número de pessoas que venham a desenvolver câncer de colo de útero. Uma campanha de vacinação foi lançada em 2014 pelo SUS, para um público-alvo de meninas de 11 a 13 anos de idade. Considera-se que, em uma população não vacinada, o HPV acomete 50% desse público ao longo de suas vidas. Em certo município, a equipe coordenadora da campanha decidiu vacinar meninas entre 11 e 13 anos de idade em quantidade suficiente para que a probabilidade de uma menina nessa faixa etária, escolhida ao acaso, vir a desenvolver essa doença seja, no máximo, de 5,9%. Houve cinco propostas de cobertura, de modo a atingir essa meta: \nProposta I: vacinação de 90% do público-alvo.\nProposta II: vacinação de 55,8% do público-alvo.\nProposta III: vacinação de 88,2% do público-alvo.\nProposta IV: vacinação de 49% do público-alvo.\nProposta V: vacinação de 95,9% do público-alvo. \nPara diminuir os custos, a proposta escolhida deveria ser também aquela que vacinasse a menor quantidade possível de pessoas.",
+    "introducao_alternativas": "A proposta implementada foi a de número",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": "H28",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1b2f675c-ccbc-423d-8406-8f12cebb76c3",
+    "title": "Questão M0323 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A ideia de usar rolos circulares para deslocar objetos pesados provavelmente surgiu com os antigos egípcios ao construírem as pirâmides. [IMAGEM_0]",
+    "introducao_alternativas": "Representando por R o raio da base dos rolos cilíndricos, em metros, a expressão do deslocamento horizontal y do bloco de pedra em função de R, após o rolo ter dado uma volta completa sem deslizar, é",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0323_-_enem_2013_214c7c0f-2d64-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "y = R.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "y = 2R.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "y = πR.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "y = 2πR.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "y = 4πR.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6946da03-dcd0-4aed-8984-a151769b5d19",
+    "title": "Questão M0311 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura apresenta dois mapas, em que o estado do Rio de Janeiro é visto em diferentes escalas. [IMAGEM_0] Há interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.",
+    "introducao_alternativas": "Esse número é",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m0311_-_enem_2013_7f3a2f83-e815-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "menor que 10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "maior que 10 e menor que 20.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "maior que 20 e menor que 30.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "maior que 30 e menor que 40.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "maior que 40.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a2fc596c-0941-4b39-a597-ad803de3fd08",
+    "title": "Questão M1938 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa tem massa corporal de 167 kg. Sob orientação de um nutricionista, submeteu-se a um regime alimentar, em que se projeta que a perda de quilos mensais seja inferior a 5 kg. Após iniciar o regime, observou-se, nos três primeiros meses, uma perda de 4 kg por mês, e nos quatro meses seguintes, uma perda mensal de 3 kg. Daí em diante, segundo as recomendações do nutricionista, deveria haver uma perda mensal fixa em cada um dos meses subsequentes, objetivando alcançar a massa corporal de 71 kg ao final do regime.",
+    "introducao_alternativas": "Segundo as projeções e recomendações do nutricionista, para alcançar seu objetivo, a duração mínima, em mês, que essa pessoa deverá manter o seu regime será de",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "21.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "22.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "25.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_99294289-2450-47a0-98d9-9c706fd887eb",
+    "title": "Questão M2152 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um imposto é digo cumulativo se incide em duas ou mais etapas da circulação de mercadorias, sem que na etapa posterior possa ser abatido o montante pago na etapa anterior. PIS e Cofins são exemplos de impostos cumulativos e correspondem a um percentual total de 3,65%, queincide em cada etapa da comercialização de um produto. Considere um produto com preço inicial C. Suponha que ele é revendido para uma loja pelo preço inicial acrescidodos impostos descritos. Em seguida, o produto é revendido por essa loja ao consumidor pelo valor pago acrescido novamente dos mesmos impostos. Disponível em: www.centraltributaria.com.br. Acesso em: 15 jul. 2015 (adaptado).",
+    "introducao_alternativas": "Qual a expressão algébrica que corresponde ao valor pago em impostos pelo consumidor?",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C x 0,0365",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2C x 0,0365",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "C x 1,03652",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "C x (1 + 2 x 0,0365)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2C x 0,0365 + C x 0,03652",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e8c7387a-2153-49c2-80bf-fa2bf835b379",
+    "title": "Questão M1295 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo ∆ e estrela *, definidas sobre o conjunto dos números reais por x∆y = x²+ xy – y² e x * y = xy + x. O navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma das duas maiores soluções da equação (a∆b) * (b∆a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios. Um navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b = 1.",
+    "introducao_alternativas": "Dessa forma, o valor recebido pelo navio receptor será",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": "H3",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "√5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "√3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "√1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "(-1+√5)/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "(3+√5)/2",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e7812348-0724-40a8-b7aa-e82ff5f6df4d",
+    "title": "Questão M1809 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na reforma e estilização de um instrumento de percussão, em formato cilíndrico (bumbo), será colada uma faixa decorativa retangular, como a indicada na Figura 1, suficiente para cobrir integralmente, e sem sobra, toda a superfície lateral do instrumento. [IMAGEM_0]",
+    "introducao_alternativas": "Como ficará o instrumento após a colagem?",
+    "assunto": "Geometria de Posição",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m1809_-_enem_ppl_2013_20540de9-19cb-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m1809_-_enem_ppl_2013_alt_A_af9e47f4-ad16-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "data:image/png;base64,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"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1809_-_enem_ppl_2013_alt_C_d03b352d-370b-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1809_-_enem_ppl_2013_alt_D_b063964b-4d90-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m1809_-_enem_ppl_2013_alt_E_1d5df0ee-09c5-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cf281e9e-e6af-4ce2-8b58-852006839f0a",
+    "title": "Questão M2709 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O mapa ao lado representa um bairro de determinada cidade, no qual as flechas indicam o sentido das mãos do tráfego. Sabe-se que esse bairro foi planejado e que cada quadra representada na figura é um terreno quadrado, de lado igual a 200 metros. [IMAGEM_0]",
+    "introducao_alternativas": "Desconsiderando-se a largura das ruas, qual seria o tempo, em minutos, que um ônibus, em velocidade constante e igual a 40 km/h, partindo do ponto X, demoraria para chegar até o ponto Y?",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2709_-_enem_2013_ba87afdc-306a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,5 min.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,15 min.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2e074fdd-9ec0-479b-b04d-045fe4157b4c",
+    "title": "Questão M2710 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos. [IMAGEM_0] Disponível em: www.economist.com. Acesso em: 9 jul. 2009 (adaptado).",
+    "introducao_alternativas": "Em 2050, a probabilidade de se escolher, aleatoriamente, uma pessoa com 60 anos ou mais de idade, na população dos países desenvolvidos, será um número mais próximo de",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2710_-_enem_2013_1b52b58b-763a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7/20.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8/25.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3/25.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d7bbfed1-d591-47bc-84ae-144b565c14e5",
+    "title": "Questão M2711 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Dados da Associação Nacional de Empresas de Transportes Urbanos (ANTU) mostram que o número de passageiros transportados mensalmente nas principais regiões metropolitanas do país vem caindo sistematicamente. Eram 476,7 milhões de passageiros em 1995, e esse número caiu para 321,9 milhões em abril de 2001. Nesse período, o tamanho da frota de veículos mudou pouco, tendo no final de 2008 praticamente o mesmo tamanho que tinha em 2001. O gráfico a seguir mostra um índice de produtividade utilizado pelas empresas do setor, que é a razão entre o total de passageiros transportados por dia e o tamanho da frota de veículos. [IMAGEM_0] Disponível em: http://www.ntu.org.br. Acesso em 16 jul. 2009 (adaptado).",
+    "introducao_alternativas": "Supondo que as frotas totais de veículos naquelas regiões metropolitanas em abril de 2001 e em outubro de 2008 eram do mesmo tamanho, os dados do gráfico permitem inferir que o total de passageiros transportados no mês de outubro de 2008 foi aproximadamente igual a",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2711_-_enem_2013_6812a2a5-684d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "355 milhões.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "400 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "426 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "441 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "477 milhões.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2cdfe2fd-0666-4728-a612-d04170ad811a",
+    "title": "Questão M2713 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O governo cedeu terrenos para que famílias construíssem suas residências com a condição de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. Ao receber o terreno retangular ABCD, em que AB = BC/2, Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual AE = AB/5 é lado do quadrado. [IMAGEM_0]",
+    "introducao_alternativas": "Nesse caso, a área definida por Antônio atingiria exatamente o limite determinado pela condição se ele",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2713_-_enem_2013_2bf9b827-6f21-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "duplicasse a medida do lado do quadrado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "triplicasse a medida do lado do quadrado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "triplicasse a área do quadrado.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ampliasse a medida do lado do quadrado em 4%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ampliasse a área do quadrado em 4%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_22b62138-4682-4aab-a4f2-5657bd5fd885",
+    "title": "Questão M2714 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A suspeita de que haveria uma relação causal entre tabagismo e câncer de pulmão foi levantada pela primeira vez a partir de observações clínicas. Para testar essa possível associação, foram conduzidos inúmeros estudos epidemiológicos. Dentre esses, houve o estudo do número de casos de câncer em relação ao número de cigarros consumidos por dia, cujos resultados são mostrados no gráfico a seguir. [IMAGEM_0] Centers for Disease Control and Prevention CDC-EIS Summer Course – 1992 (adaptado).",
+    "introducao_alternativas": "De acordo com as informações do gráfico,",
+    "assunto": "Matemática Básica",
+    "competencia": 7,
+    "habilidade": 26,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2714_-_enem_2013_aadb0e30-caca-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_026b7361-e15e-4367-821c-c9a2d864b262",
+    "title": "Questão M2715 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas. [IMAGEM_0] Disponível em: www.ibge.gov.br.",
+    "introducao_alternativas": "Considerando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2715_-_enem_2013_75888b4f-da69-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "23.940.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "32.228.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "920.800.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "23.940.800.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "32.228.000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0072cdf6-cefd-4160-86ff-f79b371cfd20",
+    "title": "Questão M2716 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte. [IMAGEM_0] Um compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for 1/2, poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras.",
+    "introducao_alternativas": "Um trecho musical de oito compassos, cuja fórmula é 3/4, poderia ser preenchido com",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2716_-_enem_2013_47c022ca-7f6b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 fusas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3 semínimas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8 semínimas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "24 colcheias e 12 semínimas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "16 semínimas e 8 semicolcheias.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1f829ace-b7c5-4675-95bf-b0f536d9136e",
+    "title": "Questão M2717 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "As figuras a seguir exibem um trecho de um quebra- cabeças que está sendo montado. Observe que as peças são quadradas e há 8 peças no tabuleiro da figura A e 8 peças no tabuleiro da figura B. As peças são retiradas do tabuleiro da figura B e colocadas no tabuleiro da figura A na posição correta, isto é, de modo a completar os desenhos. [IMAGEM_0] Disponível em: http://pt.eternityii.com. Acesso em: 14 jul. 2009.",
+    "introducao_alternativas": "É possível preencher corretamente o espaço indicado pela seta no tabuleiro da figura A colocando a peça",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2717_-_enem_2013_0e15fc2f-074f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 após girá-la 90˚ no sentido horário.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 após girá-la 180˚ no sentido anti-horário.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2 após girá-la 90˚ no sentido anti-horário.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 após girá-la 180˚ no sentido horário.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 após girá-la 270˚ no sentido anti-horário.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9fe90741-e482-4974-aee4-00e29dce7da0",
+    "title": "Questão M2718 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O controle de qualidade de uma empresa fabricante de telefones celulares aponta que a probabilidade de um aparelho de determinado modelo apresentar defeito de fabricação é de 0,2%.",
+    "introducao_alternativas": "Se uma loja acaba de vender 4 aparelhos desse modelo para um cliente, qual é a probabilidade de esse cliente sair da loja com exatamente dois aparelhos defeituosos?",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": "H28",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 x (0,2%)⁴.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4 x (0,2%)².",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6 x (0,2%)² x (99,8%)².",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 x (0,2%).",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 x (0,2%) x (99,8%).",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e0035c3d-5b5f-49f6-8452-ee1a60c67e6d",
+    "title": "Questão M2719 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A tabela mostra alguns dados da emissão de dióxido de carbono de uma fábrica, em função do número de toneladas produzidas. [IMAGEM_0] Cadernos do Gestar II, Matemática TP3. Disponível em: www.mec.gov.br. Acesso em: 14 jul. 2009.",
+    "introducao_alternativas": "Os dados na tabela indicam que a taxa média de variação entre a emissão de dióxido de carbono (em ppm) e a produção (em toneladas) é",
+    "assunto": "Estatística",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2719_-_enem_2013_4bdec0bc-14aa-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inferior a 0,18.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "superior a 0,18 e inferior a 0,50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "superior a 0,50 e inferior a 1,50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "superior a 1,50 e inferior a 2,80.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "superior a 2,80.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3d224335-f207-4391-b9a1-0b9377481300",
+    "title": "Questão M2720 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pousada oferece pacotes promocionais para atrair casais a se hospedarem por até oito dias. A hospedagem seria em apartamento de luxo e, nos três primeiros dias, a diária custaria R$ 150,00, preço da diária fora da promoção. Nos três dias seguintes, seria aplicada uma redução no valor da diária, cuja taxa média de variação, a cada dia, seria de R$ 20,00. Nos dois dias restantes, seria mantido o preço do sexto dia. Nessas condições, um modelo para a promoção idealizada é apresentado no gráfico a seguir, no qual o valor da diária é função do tempo medido em número de dias. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com os dados e com o modelo, comparando o preço que um casal pagaria pela hospedagem por sete dias fora da promoção, um casal que adquirir o pacote promocional por oito dias fará uma economia de",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2720_-_enem_2013_9e86266f-9d56-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 90,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 110,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 130,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 150,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 170,00.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e3118d6a-92fc-46d3-88c3-d7f6cb8bc626",
+    "title": "Questão M2721 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em Florença, Itália, na Igreja de Santa Croce, é possível encontrar um portão em que aparecem os anéis de Borromeo. Alguns historiadores acreditavam que os círculos representavam as três artes: escultura, pintura e arquitetura, pois elas eram tão próximas quanto inseparáveis. [IMAGEM_0] Scientific American, ago. 2008.",
+    "introducao_alternativas": "Qual dos esboços a seguir melhor representa os anéis de Borromeo?",
+    "assunto": "Geometria de Posição",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2721_-_enem_2013_9d95cb89-b7fe-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2721_-_enem_2013_alt_A_e3d1b12e-d849-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2721_-_enem_2013_alt_B_54c6386d-0e60-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2721_-_enem_2013_alt_C_33f1d285-1144-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2721_-_enem_2013_alt_D_d7d90747-1533-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2721_-_enem_2013_alt_E_6278de47-54cc-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6affc9ef-f1f1-464f-9d92-0163484f58fa",
+    "title": "Questão M2722 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5.a nação mais rica do planeta, o Brasil é a 10.a, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007. [IMAGEM_0] Disponível em: www.cartacapital.com.br. Acesso em: 7 jul. 2009.",
+    "introducao_alternativas": "Os dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2722_-_enem_2013_d92291a9-63da-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inferior a 300 milhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "superior a 600 milhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a862004d-4dd8-44c8-82d7-3800d8fb0e6a",
+    "title": "Questão M2723 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Suponha que, na escultura do artista Emanoel Araújo, mostrada na figura a seguir, todos os prismas numerados em algarismos romanos são retos, com bases triangulares, e que as faces laterais do poliedro II são perpendiculares à sua própria face superior, que, por sua vez, é um triângulo congruente ao triângulo base dos prismas. Além disso, considere que os prismas I e III são perpendiculares ao prisma IV e ao poliedro II. [IMAGEM_0] Disponível em: www.escritosriodearte.com.br. Acesso em: 28 jul. 2009. Imagine um plano paralelo à face α do prisma I, mas que passe pelo ponto P pertencente à aresta do poliedro II, indicado na figura.",
+    "introducao_alternativas": "A interseção desse plano imaginário com a escultura contém,",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2723_-_enem_2013_0be915a7-61de-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dois triângulos congruentes com correspondentes paralelos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "dois retângulos congruentes e com correspondentes paralelos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "dois trapézios congruentes com correspondentes perpendiculares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "dois paralelogramos congruentes com correspondentes paralelos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "dois quadriláteros congruentes com correspondentes perpendiculares.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f7d7bda3-48c8-43ac-8992-8e99991af8bd",
+    "title": "Questão M2724 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura a seguir mostra as medidas reais de uma aeronave que será fabricada para utilização por companhias de transporte aéreo. Um engenheiro precisa fazer o desenho desse avião em escala de 1:150. [IMAGEM_0]",
+    "introducao_alternativas": "Para o engenheiro fazer esse desenho em uma folha de papel, deixando uma margem de 1 cm em relação às bordas da folha, quais as dimensões mínimas, em centímetros, que essa folha deverá ter?",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2724_-_enem_2013_b2aedf45-f212-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,9 cm x 3,4 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,9 cm x 4,4 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "20 cm x 25 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "21 cm x 26 cm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "192 cm x 242 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d91b4a4e-a543-4f59-a7ab-346e26b45365",
+    "title": "Questão M2725 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las. Sabendo que a capacidade da caixa é de 13.",
+    "introducao_alternativas": "824 cm³, então o número máximo de esferas que podem ser transportadas em uma caixa é igual a",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": "H8",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "16.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "24.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "32.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_747613de-f04c-44a1-a3ec-6f9281089d04",
+    "title": "Questão M2726 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para cada indivíduo, a sua inscrição no Cadastro de Pessoas Físicas (CPF) é composto por um número de 9 algarismos e outro número de 2 algarismos, na forma d1d2, em que os dígitos d1 e d2 são denominados dígitos verificadores. Os dígitos verificadores são calculados, a partir da esquerda, da seguinte maneira: os 9 primeiros algarismos são multiplicados pela sequência 10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10, o segundo por 9, e assim sucessivamente); em seguida, calcula-se o resto r da divisão da soma dos resultados das multiplicações por 11, e se esse resto r for 0 ou 1, d1 é zero, caso contrário d1 = (11 – r). O dígito d2 é calculado pela mesma regra, na qual os números a serem multiplicados pela sequência dada são contados a partir do segundo algarismo, sendo d1 o último algarismo, isto é, d2 é zero se o resto s da divisão por 11 das somas das multiplicações for 0 ou 1, caso contrário, d2 = (11 – s). Suponha que João tenha perdido seus documentos, inclusive o cartão de CPF e, ao dar queixa da perda na delegacia, não conseguisse lembrar quais eram os dígitos verificadores, recordando-se apenas que os nove primeiros algarismos eram 123.456.789.",
+    "introducao_alternativas": "Neste caso, os dígitos verificadores d1 e d2 esquecidos são, respectivamente,",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0 e 9.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 e 4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 e 7.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9 e 1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0 e 1.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7c8fbbf0-05b7-4946-924f-a49f9e26eaf9",
+    "title": "Questão M2727 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Suponha que a etapa final de uma gincana escolar consista em um desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos. Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10 alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0.",
+    "introducao_alternativas": "Se o aluno da equipe Gama que faltou tivesse comparecido, essa equipe",
+    "assunto": "Estatística",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "teria a pontuação igual a 6,5 se ele obtivesse nota 0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "seria a vencedora se ele obtivesse nota 10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "seria a segunda colocada se ele obtivesse nota 8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "permaneceria na terceira posição, independentemente da nota obtida pelo aluno.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d3ee248d-669c-43de-9d3c-b2d83e044cf2",
+    "title": "Questão M2729 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Doze times se inscreveram em um torneio de futebol amador. O jogo de abertura do torneio foi escolhido da seguinte forma: primeiro foram sorteados 4 times para compor o Grupo A. Em seguida, entre os times do Grupo A, foram sorteados 2 times para realizar o jogo de abertura do torneio, sendo que o primeiro deles jogaria em seu próprio campo, e o segundo seria o time visitante.",
+    "introducao_alternativas": "A quantidade total de escolhas possíveis para o Grupo A e a quantidade total de escolhas dos times do jogo de abertura podem ser calculadas através de",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma combinação e um arranjo, respectivamente.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "um arranjo e uma combinação, respectivamente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "um arranjo e uma permutação, respectivamente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "duas combinações.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "dois arranjos.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1b9b8332-82ef-4a47-989d-e4b0143b82bb",
+    "title": "Questão M2730 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na tabela, são apresentados dados da cotação mensal do ovo extra branco vendido no atacado, em Brasília, em reais, por caixa de 30 dúzias de ovos, em alguns meses dos anos 2007 e 2008. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com esses dados, o valor da mediana das cotações mensais do ovo extra branco nesse período era igual a",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 26,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2730_-_enem_2013_6b8f4308-3a7e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 73,10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 81,50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 82,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 83,00.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 85,30.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_fd735c20-d283-441a-b012-866b487f0270",
+    "title": "Questão M2731 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O quadro apresenta informações da área aproximada de cada bioma brasileiro. [IMAGEM_0] Disponível em: www.ibge.gov.br. Acesso em: 10 jul. 2009 (adaptado). É comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas.",
+    "introducao_alternativas": "Nesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2731_-_enem_2013_6a8a0bd5-36ce-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.400.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "14.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "140.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.400.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "14.000.000.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1d5df0f0-f5fa-4f90-ad5c-70c27b982388",
+    "title": "Questão M2732 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da água é de 1.050 m³/s. O cálculo da vazão, Q em m³/s, envolve o produto da área A do setor transversal (por onde passa a água), em m², pela velocidade da água no local, v, em m/s, ou seja, Q = Av. Planeja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes. [IMAGEM_0] Disponível em: www2.uel.br.",
+    "introducao_alternativas": "Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": "H12",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2732_-_enem_2013_56dba2a9-9b5f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "90 m³/s.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "750 m³/s.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.050 m³/s.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.512 m³/s.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2.009 m³/s.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e50d0044-cb0e-435d-a589-12c734bca269",
+    "title": "Questão M2733 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A população brasileira sabe, pelo menos intuitivamente, que a probabilidade de acertar as seis dezenas da mega sena não é zero, mas é quase. Mesmo assim, milhões de pessoas são atraídas por essa loteria, especialmente quando o prêmio se acumula em valores altos. Até junho de 2009, cada aposta de seis dezenas, pertencentes ao conjunto {01, 02, 03, ..., 59, 60}, custava R$ 1,50. Disponível em: www.caixa.gov.br. Acesso em: 7 jul. 2009. Considere que uma pessoa decida apostar exatamente R$126,00 e que esteja mais interessada em acertar apenas cinco das seis dezenas da mega sena, justamente pela dificuldade desta última.",
+    "introducao_alternativas": "Nesse caso, é melhor que essa pessoa faça 84 apostas de seis dezenas diferentes, que não tenham cinco números em comum, do que uma única aposta com nove dezenas, porque a probabilidade de acertar a quina no segundo caso em relação ao primeiro é, aproximadamente,",
+    "assunto": "Probabilidade",
+    "competencia": 7,
+    "habilidade": 28,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "112 vezes menor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "212 vezes menor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4 vezes menor.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9 vezes menor.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "14 vezes menor.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d54c3a21-2bb3-40f4-97d6-29cd081ef51b",
+    "title": "Questão M2734 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Nos últimos anos, o volume de petróleo exportado pelo Brasil tem mostrado expressiva tendência de crescimento, ultrapassando as importações em 2008. Entretanto, apesar de as importações terem se mantido praticamente no mesmo patamar desde 2001, os recursos gerados com as exportações ainda são inferiores àqueles despendidos com as importações, uma vez que o preço médio por metro cúbico do petróleo importado é superior ao do petróleo nacional. Nos primeiros cinco meses de 2009, foram gastos 2,84 bilhões de dólares com importações e gerada uma receita de 2,24 bilhões de dólares com as exportações. O preço médio por metro cúbico em maio de 2009 foi de 340 dólares para o petróleo importado e de 230 dólares para o petróleo exportado. O quadro a seguir mostra os dados consolidados de 2001 a 2008 e dos primeiros cinco meses de 2009. [IMAGEM_0] Disponível em: http://www.anp.gov.br. Acesso em: 15 jul. 2009 (adaptado). Considere que as importações e exportações de petróleo de junho a dezembro de 2009 sejam iguais a 7/5 das importações e exportações, respectivamente, ocorridas de janeiro a maio de 2009.",
+    "introducao_alternativas": "Nesse caso, supondo que os preços para importação e exportação não sofram alterações, qual seria o valor mais aproximado da diferença entre os recursos despendidos com as importações e os recursos gerados com as exportações em 2009?",
+    "assunto": "Matemática Básica",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2734_-_enem_2013_1fd15faa-73ae-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "600 milhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "840 milhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,34 bilhão de dólares.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,44 bilhão de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,00 bilhões de dólares.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_301a98c4-ef9e-4998-819b-eedb1e204a05",
+    "title": "Questão M2735 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A resolução das câmeras digitais modernas é dada em megapixels, unidade de medida que representa um milhão de pontos. As informações sobre cada um desses pontos são armazenadas, em geral, em 3 bytes. Porém, para evitar que as imagens ocupem muito espaço, elas são submetidas a algoritmos de compressão, que reduzem em até 95% a quantidade de bytes necessários para armazená-las. Considere 1 KB = 1.000 bytes, 1MB = 1.000 KB, 1 GB = 1.000 MB. Utilizando uma câmera de 2.0 megapixels cujo algoritmo de compressão é de 95%, João fotografou 150 imagens para seu trabalho escolar.",
+    "introducao_alternativas": "Se ele deseja armazená-las de modo que o espaço restante no dispositivo seja o menor espaço possível, ele deve utilizar",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um CD de 700 MB.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "um pendrive de 1 GB.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "um HD externo de 16 GB.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "um memory stick de 16 MB.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "um cartão de memória de 64 MB.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_327682b5-4d3a-4842-b73c-6bea61f8314f",
+    "title": "Questão M2736 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja Q a projeção ortogonal de P sobre o eixo x, como mostra a figura, e suponha que o ponto P percorra, no sentido anti-horário, uma distância d ≤ r sobre a circunferência. [IMAGEM_0]",
+    "introducao_alternativas": "Então, o ponto Q percorrerá, no eixo x, uma distância dada por",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2736_-_enem_2013_18493068-855f-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2736_-_enem_2013_alt_A_1504743d-77e8-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2736_-_enem_2013_alt_B_45d7e7a5-537b-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2736_-_enem_2013_alt_C_9f69f334-aa55-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2736_-_enem_2013_alt_D_e2c4147f-bd31-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2736_-_enem_2013_alt_E_dc435ded-f1f5-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_14b6018e-6a9d-402e-baba-ecb3fc8de177",
+    "title": "Questão M2737 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Joana frequenta uma academia de ginástica onde faz exercícios de musculação. O programa de Joana requer que ela faça 3 séries de exercícios em 6 aparelhos diferentes, gastando 30 segundos em cada série. No aquecimento, ela caminha durante 10 minutos na esteira e descansa durante 60 segundos para começar o primeiro exercício no primeiro aparelho. Entre uma série e outra, assim como ao mudar de aparelho, Joana descansa por 60 segundos. Suponha que, em determinado dia, Joana tenha iniciado seus exercícios às 10h30min e finalizado às 11h7min.",
+    "introducao_alternativas": "Nesse dia e nesse tempo, Joana",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não poderia fazer sequer a metade dos exercícios e dispor dos períodos de descanso especificados em seu programa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "poderia ter feito todos os exercícios e cumprido rigorosamente os períodos de descanso especificados em seu programa.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "poderia ter feito todos os exercícios, mas teria de ter deixado de cumprir um dos períodos de descanso especificados em seu programa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "conseguiria fazer todos os exercícios e cumpriria todos os períodos de descanso especificados em seu programa, e ainda se permitiria uma pausa de 7 min.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "não poderia fazer todas as 3 séries dos exercícios especificados em seu programa; em alguma dessas séries deveria ter feito uma série a menos e não deveria ter cumprido um dos períodos de descanso.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_39fb08a1-ebd3-41f4-9613-50ff60c5e92c",
+    "title": "Questão M2738 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "João deve 12 parcelas de R$ 150,00 referentes ao cheque especial de seu banco e cinco parcelas de R$ 80,00 referentes ao cartão de crédito. O gerente do banco lhe ofereceu duas parcelas de desconto no cheque especial, caso João quitasse esta dívida imediatamente ou, na mesma condição, isto é, quitação imediata, com 25% de desconto na dívida do cartão. João também poderia renegociar suas dívidas em 18 parcelas mensais de R$ 125,00. Sabendo desses termos, José, amigo de João, ofereceu-lhe emprestar o dinheiro que julgasse necessário pelo tempo de 18 meses, com juros de 25% sobre o total emprestado.",
+    "introducao_alternativas": "A opção que dá a João o menor gasto seria",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "renegociar suas dívidas com o banco.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "pegar emprestado de José o dinheiro referente à quitação de duas dúvidas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "recusar o empréstimo de José e pagar todas as parcelas pendentes nos devidos prazos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "pegar emprestado de José o dinheiro referente à quitação do cheque especial e pagar as parcelas do cartão de crédito.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "pegar emprestado de José o dinheiro referente à quitação do cartão de crédito e pagar as parcelas do cheque especial.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_57e45f2e-8946-40a7-bddf-1b31e0fbb260",
+    "title": "Questão M2739 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um artesão construiu peças de artesanato interceptando uma pirâmide de base quadrada com um plano. Após fazer um estudo das diferentes peças que poderia obter, ele concluiu que uma delas poderia ter uma das faces pentagonal.",
+    "introducao_alternativas": "Qual dos argumentos a seguir justifica a conclusão do artesão?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma pirâmide de base quadrada tem 4 arestas laterais e a interseção de um plano com a pirâmide intercepta suas arestas laterais. Assim, esses pontos formam um polígono de 4 lados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Uma pirâmide de base quadrada tem 4 faces triangulares e, quando um plano intercepta essa pirâmide, divide cada face em um triângulo e um trapézio. Logo, um dos polígonos tem 4 lados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Uma pirâmide de base quadrada tem 5 faces e a interseção de uma face com um plano é um segmento de reta. Assim, se o plano interceptar todas as faces, o polígono obtido nessa interseção tem 5 lados.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "O número de lados de qualquer polígono obtido como interseção de uma pirâmide com um plano é igual ao número de faces da pirâmide. Como a pirâmide tem 5 faces, o polígono tem 5 lados.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "O número de lados de qualquer polígono obtido interceptando-se uma pirâmide por um plano é igual ao número de arestas laterais da pirâmide. Como a pirâmide tem 4 arestas laterais, o polígono tem 4 lados.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9077ff6c-09a0-42c3-a111-368a01cb61c8",
+    "title": "Questão M2712 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma resolução do Conselho Nacional de Política Energética (CNPE) estabeleceu a obrigatoriedade de adição de biodísel ao óleo dísel comercializado nos postos. A exigência é que, a partir de 1.o de julho de 2009, 4% do volume da mistura final seja formada por biodísel. Até junho de 2009, esse percentual era de 3%. Essa medida estimula a demanda de biodísel, bem como possibilita a redução da importação de dísel de petróleo. Disponível em: http://www1.folha.uol.com.br. Acesso em: 12 jul. 2009 (adaptado). Estimativas indicam que, com a adição de 4% de biodísel ao dísel, serão consumidos 925 milhões de litros de biodísel no segundo semestre de 2009.",
+    "introducao_alternativas": "Considerando-se essa estimativa, para o mesmo volume da mistura final dísel/biodísel consumida no segundo semestre de 2009, qual seria o consumo de biodísel com a adição de 3%?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "27,75 milhões de litros.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "37,00 milhões de litros.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "231,25 milhões de litros.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "693,75 milhões de litros.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "888,00 milhões de litros.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f1622bad-0f40-4322-b225-b4be00194f07",
+    "title": "Questão M2728 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4. [IMAGEM_0] SIQUEIRA, S. Brasil Regiões. Disponível em: www.santiagosiqueira.pro.br. Acesso em: 28 jul. 2009 (adaptado). Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135˚ graus no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF.",
+    "introducao_alternativas": "Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2728_-_enem_2013_8cb0d0ce-0f47-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Belo Horizonte, e em seguida embarcou para Curitiba.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Belo Horizonte, e em seguida embarcou para Salvador.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Boa Vista, e em seguida embarcou para Porto Velho.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Goiânia, e em seguida embarcou para o Rio de Janeiro.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Goiânia, e em seguida embarcou para Manaus.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

@@ -1,0 +1,2505 @@
+[
+  {
+    "id_externo": "Questao_be5b3d40-db48-4722-b6d0-f84d7f67a838",
+    "title": "Questão M2981 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para acompanhar o fluxo de visitantes em seu prédio, uma empresa estabeleceu um código de identificação para a visitação. De acordo com a regra estabelecida, cada visitante será identificado com um código sequencial numérico com 7 dígitos, determinado, da esquerda para a direita, da seguinte forma: – o primeiro dígito indica o andar ao qual o visitante se dirige, que é um número de 1 a 4; – os dois próximos dígitos correspondem ao número do setor da empresa ao qual o visitante se destina. Esse número varia de 01 a 20; – os três dígitos seguintes correspondem ao número do funcionário da empresa com quem o visitante irá se reunir. Esse número varia de 001 a 135; – o último dígito indica se o visitante chegou à empresa pela manhã, dígito 0, ou à tarde, dígito 1. Um visitante chegou à empresa às 10 horas da manhã para se reunir com o funcionário identificado pelo número 109, que trabalha no setor 08 da empresa, localizado no 2º andar.",
+    "introducao_alternativas": "O código de identificação desse visitante é",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0109082.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0281090.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1010982.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "2081090.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2810910.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dde086d6-bedb-4f9e-8cf0-95d77f44932f",
+    "title": "Questão M2976 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Quatro candidatos se apresentaram para realizar a prova de um concurso. Antes de iniciar a prova, os celulares dos quatro candidatos foram recolhidos pelo aplicador, que os guardou, cada um, dentro de um envelope preto. Ao término da prova, o aplicador devolveu os quatro envelopes com os celulares aos quatro candidatos, de maneira aleatória, já que não havia feito a identificação dos envelopes.",
+    "introducao_alternativas": "A probabilidade de que todos os candidatos tenham recebido de volta os envelopes com os seus respectivos celulares é",
+    "assunto": "Probabilidade",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/10",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/24",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1/256",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_488527c3-07dc-4cbc-8531-46eb913dda94",
+    "title": "Questão M2977 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um jogo digital, há três personagens: um herói e dois vilões. A programação é feita de tal forma que o herói sempre será atacado pelo vilão que estiver mais próximo dele. Uma das maneiras de “confundir” os vilões é movimentar o herói por trajetórias que o mantenha equidistante dos vilões, gerando indefinição entre eles e, com isso, não sendo atacado. Para a programação de uma das etapas desse jogo, o programador considerou, no plano cartesiano, o quadrado STUV como a região de movimentação dos personagens, onde V e T representam as posições fixas dos vilões, e S, a posição inicial do herói, como apresentado na figura. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2977_-_enem_2013_a47b3ff6-6bc8-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "y = –3x + 20",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "y = –3x + 16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "y = –3x – 20",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "y = 3x + 16",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "y = 3x – 16",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8960ee28-6d92-4f7b-98ba-30c522261c47",
+    "title": "Questão M2972 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma livraria comercializa livros dos seguintes gêneros literários: ficção científica, autoajuda, romance e biografia. O gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais. [IMAGEM_0] O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete.",
+    "introducao_alternativas": "O gênero de livro do qual o gerente deverá encomendar mais exemplares é",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2972_-_enem_2013_d495e763-e22d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ficção, pois é o que apresenta maior demanda.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "biografia, pois é o gênero que tem a menor demanda.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "autoajuda, pois a quantidade em estoque é inferior à demanda.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "biografia, pois é o gênero que tem a menor quantidade de livros em estoque.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "romance, pois é o que apresenta o menor estoque de livros de autores brasileiros.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6fab211f-3902-4434-bfc4-855105e2d46e",
+    "title": "Questão M2973 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Dez casais fundaram um grupo de dança e decidiram constituir uma diretoria com três cargos: presidente, secretário e tesoureiro. Para maior representatividade, decidiu-se que no máximo uma pessoa por casal poderá ocupar um cargo nessa diretoria.",
+    "introducao_alternativas": "Quantas diretorias diferentes podem ser constituídas por esses 10 casais?",
+    "assunto": "Análise Combinatória ",
+    "competencia": 1,
+    "habilidade": 2,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 x 9 x 8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20 x 18 x 16",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "20 x 19 x 18",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10 x 9 x 8 x 2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "20 x 18 x 16 x 2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_051ef5aa-a544-47fa-b002-5f10bbcef1de",
+    "title": "Questão M2974 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura. [IMAGEM_0] Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.",
+    "introducao_alternativas": "Em qual escala esse desenho representa a obra de arte?",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 11,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2974_-_enem_2013_6a30e1bc-672a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 1,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 2,25",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 10",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 100",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 150",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_70e75e9c-a21c-4bdb-99a2-90d0b50bbad9",
+    "title": "Questão M2975 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O cortisol é um hormônio produzido pelas glândulas adrenais e pode ser considerado um importante marcador do estresse fisiológico. Em um estudo desenvolvido com enfermeiros, foi verificado que a concentração de cortisol salivar em um dia de trabalho, denotada por T, era, em média, 1,59 vezes a concentração de cortisol salivar em um dia de folga, denotada por F. ROCHA, M. C. P. et al. Estresse em enfermeiros: o uso do cortisol salivar no dia de trabalho e de folga. Rev. Esc. Enferm. USP, n. 5, 2013 (adaptado).",
+    "introducao_alternativas": "Nesse estudo, a relação obtida entre T e F foi?",
+    "assunto": "Matemática Básica",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "T = 1,59 + F",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "F = 1,59 + T",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "T/F = 1,59",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "F/T = 1,59",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "F.T = 1,59",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3f87b402-afa4-442d-8c92-dd6734590e45",
+    "title": "Questão M2982 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um estacionamento possui 120 vagas para veículos, e todas essas vagas estão ocupadas. Cada cliente paga uma mensalidade para utilizar uma vaga, que é calculada com base nas despesas mensais do estacionamento e no lucro pretendido. As despesas mensais do estacionamento são: R$ 14.240,00 com manutenção mais R$ 36,00 de seguro por veículo. O lucro do estacionamento é determinado pela diferença do valor arrecadado com as mensalidades pelas despesas efetuadas. A partir do mês seguinte, o valor do seguro por veículo aumentará em 20%, e as despesas com manutenção permanecerão sem alterações. Com isso, o dono do estacionamento reajustará as mensalidades para obter um lucro mensal de R$ 10.000,00. Apesar desse reajuste, todas as vagas continuarão ocupadas.",
+    "introducao_alternativas": "O valor, em real, da mensalidade reajustada será?",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "185,60.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "226,09.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "245,20.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "268,93.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "285,60.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e7e25c67-bafb-4188-9d6c-0142be18ef05",
+    "title": "Questão M2983 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O dono de uma sorveteria armazena sorvete em potes de 20.000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+    "introducao_alternativas": "A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "50.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "80.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "800.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_64b316c9-05ff-4552-8a6c-3dfb4d48529b",
+    "title": "Questão M3005 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa necessita armazenar uma quantidade V de líquido e possui um recipiente no formato de cilindro circular reto, com raio da base medindo r, o qual comporta apenas 4/9 dessa quantidade. Essa pessoa comprou, então, um novo recipiente no mesmo formato, com raio da base medindo R, mantendo a mesma medida da área lateral do primeiro recipiente, e que comporta exatamente a quantidade V de líquido.",
+    "introducao_alternativas": "A razão R/r entre os raios dos dois recipientes é",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4/9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5/9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5/4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9/4",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_85f6fbdb-7ef4-4bcc-a93f-20859a39808b",
+    "title": "Questão M3006 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um matemático brasileiro recebeu, em 2014, a Medalha Fields, premiação popularmente conhecida como o “Nobel da Matemática”. Ele é o primeiro ganhador da América Latina. Como parte da premiação, ele ainda recebeu cerca de R$ 31,3 mil pela conquista. Disponível em: www1.folha.uol.com.br. Acesso em: 5 nov. 2014 (adaptado).",
+    "introducao_alternativas": "Qual é o valor, em real, representado pelo algarismo 1 no valor da premiação recebida pelo matemático brasileiro?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Facil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "10",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "100",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.000",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10.000",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_2b026cae-e3df-444b-900b-26372e1279c3",
+    "title": "Questão M3007 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura é um mosaico desenhado sobre uma malha quadriculada, obtido pela justaposição de um quadrilátero, quatro triângulos e quatro hexágonos. O quadrilátero de cor amarela é um quadrado. [IMAGEM_0]",
+    "introducao_alternativas": "Quantos polígonos regulares contornados por linhas contínuas podem ser identificados nesse desenho?",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3007_-_enem_2013_7b7d7c90-ea9d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "7",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ed867fda-a04f-46ec-acee-5a8e8bc0231a",
+    "title": "Questão M3008 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A imagem apresenta uma tirinha com os personagens Caco e Tuca. Na tirinha, o macaco Caco e o tucano Tuca estão utilizando um mapa para procurar um tesouro. [IMAGEM_0] Disponível em: www.humorcomciencia.com. Acesso em: 22 out. 2019. Cansado de escavar à procura do tesouro, Tuca percebeu que, mesmo que o mapa levasse a algum tesouro, eles encontrariam problemas nessa busca, pois a unidade de medida indicada no mapa é o passo, uma unidade não convencional, logo, não presente no Sistema Internacional de Unidades (SI), que é um conjunto padronizado de definições para unidades de medida utilizado em quase todo o mundo.",
+    "introducao_alternativas": "Com relação à grandeza expressa em passo na tirinha, no SI, sua unidade padrão é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m3008_-_enem_2013_cfa10d9e-69d4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "metro.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "grama.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "segundo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "metro cúbico.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "metro por segundo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a38c9798-5763-437e-a03c-172d1b03f093",
+    "title": "Questão M3009 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Para as olimpíadas internas de um colégio, foram formadas 16 equipes, cada uma identificada por um escudo. Cada escudo será dividido em 4 regiões distintas, conforme a Figura 1. [IMAGEM_0] Foram escolhidas três cores para colorir as regiões de todos os escudos. Em cada região, será utilizada uma única cor, e o escudo de cada equipe será colorido com até três dessas cores. Regiões com lado em comum não podem ter a mesma cor. Não pode haver duas equipes com uma mesma configuração de cores no escudo. A Figura 2 apresenta dois escudos possíveis. [IMAGEM_1] Cinco responsáveis pelas olimpíadas analisaram a viabilidade de se confeccionarem os escudos, e cada um formulou um argumento: I. é viável, pois há 18 escudos possíveis; II. é viável, pois há 72 escudos possíveis; III. é viável, pois há 81 escudos possíveis; IV. não é viável, pois há apenas 6 escudos possíveis; V. não é viável, pois há apenas 12 escudos possíveis.",
+    "introducao_alternativas": "O argumento correto foi o",
+    "assunto": "Análise Combinatória ",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Difícil",
+    "arquivos": [
+      "questao_m3009_-_enem_2013_4b3923de-4276-4.png",
+      "questao_m3009_-_enem_2013_29b53966-feef-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dc5cfa6e-abba-4ec9-b526-5fa351baac8a",
+    "title": "Questão M3010 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um vendedor de balões para festas comprou um recipiente cheio de gás hélio, no formato de cilindro circular reto com 40 cm de diâmetro interno da base e 1 m de altura. Ele vai adquirir balões em uma loja que só os vende em pacotes fechados, cada um com 5 balões esféricos que, após enchidos com gás hélio, têm 30 cm de diâmetro. O volume adquirido desse gás, em condições normais de pressão, é igual a 12 vezes o volume do recipiente comprado. No caso dos balões esféricos, o volume de gás hélio no seu interior é igual à capacidade volumétrica desses balões quando cheios. O vendedor pretende encher o maior número possível de balões com o gás comprado.",
+    "introducao_alternativas": "O número mínimo de pacotes de balões que o vendedor deve comprar de forma a utilizar todo o volume de gás hélio adquirido é",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "11.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "12.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "22.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "24.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "25.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8efcb99d-14e9-43e9-a417-2b74f0826fd6",
+    "title": "Questão M3011 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um rapaz decidiu comprar um automóvel, esperando revendê-lo em um ano. Baseou sua decisão de compra na despesa que teria com o automóvel nesse período, em custos tanto com manutenção quanto com combustível, prevendo que rodaria 60.000 km com o automóvel em um ano e considerando que a média do preço do litro da gasolina nesse período seria de R$ 5,00. Pesquisou em diversas revendedoras e restringiu sua escolha a cinco dos automóveis que havia visto. Optou por comprar o que lhe desse a menor despesa, de acordo com os dados que obteve, apresentados no quadro. [IMAGEM_0]",
+    "introducao_alternativas": "O rapaz comprou o automóvel",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3011_-_enem_2013_73b69971-8457-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_624e4238-d283-4f23-afde-95bc939c108f",
+    "title": "Questão M3012 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um jogador de videogame tem quatro personagens com diferentes habilidades para avançar no jogo. Para uma missão, é apresentado um quadro que descreve os níveis de cada personagem em suas diferentes habilidades, no qual 10 é o maior nível de qualquer habilidade. O jogador sabe que, para avançar nessa missão, deve escolher um personagem cuja média entre os níveis de suas diferentes habilidades seja igual ou superior a 6. [IMAGEM_0]",
+    "introducao_alternativas": "De acordo com as informações apresentadas, os possíveis personagens para avançar nessa missão são",
+    "assunto": "Estatística",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m3012_-_enem_2013_d1fbc356-bfd7-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "I e III.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_db9cee49-f829-4215-aaeb-e077710cbb89",
+    "title": "Questão M3013 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A prefeitura de um município, dependendo do consumo mensal C de água, em litro, concederá ao consumidor um dos cinco tipos de desconto: – tipo I, se 29.000 ≤ C ≤ 30.000; – tipo II, se 27.500 ≤ C – tipo III, se 26.000 ≤ C – tipo IV, se 24.000 ≤ C – tipo V, se C O desconto será aplicado no valor da conta a ser paga, e não será concedido desconto para contas com consumo superior a 30.000 L. Um consumidor, no primeiro mês, não obteve desconto. Se consumisse 40% a menos de água, alcançaria o consumo máximo estabelecido para conseguir o desconto do tipo I. No segundo mês, seu consumo de água reduziu 20% em relação ao consumo do primeiro mês; e no terceiro mês, seu consumo de água reduziu 30% em relação ao consumo do segundo mês.",
+    "introducao_alternativas": "Assim, no terceiro mês, esse consumidor receberá desconto do tipo",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0a897681-f1b2-4ad9-acf8-3c2d543adb48",
+    "title": "Questão M3014 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "De acordo com pesquisas realizadas pela Inserção de Imigrantes no Mercado de Trabalho Brasileiro (IIMTB), o número de estrangeiros trabalhando com carteira assinada no Brasil cresceu entre os anos de 2011 e 2012, passando de 80.000 para 96.000, e também cresceu entre os anos de 2012 e 2013, quando passou de 96.000 para 120.000. Disponível em: www.redebrasilatual.com.br. Acesso em: 10 abr. 2015 (adaptado). À época, os pesquisadores da IIMTB estimaram que o aumento percentual desse número, tanto de 2013 para 2014 quanto de 2014 para 2015, seria igual à média dos percentuais anuais de aumento observados nos períodos de 2011 a 2012 e de 2012 a 2013. Considere que essa estimativa tenha se concretizado.",
+    "introducao_alternativas": "A quantidade de estrangeiros trabalhando com carteira assinada no Brasil em 2015 foi de",
+    "assunto": "Estatística",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "147.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "174.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "180.000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "180.075.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "228.000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1753469b-97ac-4504-885c-34e910852dca",
+    "title": "Questão M3015 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um ciclista, durante seu treinamento, percorreu duas voltas completas na pista de automobilismo. Essa pista é formada por três trechos retilíneos e cinco trechos curvilíneos, que são arcos de circunferências, conforme ilustrado na figura. [IMAGEM_0] Um dos arcos é subtendido por um ângulo reto, e a medida de seu raio é 90 m. A medida do raio dos demais arcos é 260 m, e as medidas de seus ângulos centrais estão indicadas na figura. Utilize 3 como valor aproximado para π.",
+    "introducao_alternativas": "Qual foi a distância, em metro, percorrida pelo ciclista?",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3015_-_enem_2013_13afc378-fcb6-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7.620",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "7.110",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5.540",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5.285",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4.900",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_79a45223-3722-449b-b8da-6463f7c4d3b6",
+    "title": "Questão M3016 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um site publicou este gráfico, que apresenta a evolução dos preços de dois produtos, em alguns dias de janeiro a julho de 2021. Por exemplo, o Produto 1 atingiu o valor recorde de 304 reais em 16 de maio, e atingiu 153 reais em 4 de julho. [IMAGEM_0]",
+    "introducao_alternativas": "Em qual(is) período(s) os preços de ambos os produtos tiveram aumento ao mesmo tempo?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3016_-_enem_2013_003a1615-fc2b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De 17 de janeiro a 2 de maio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "De 17 de janeiro a 16 de maio.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "De 17 de janeiro a 4 de julho.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "De 17 de janeiro a 2 de fevereiro e de 14 de fevereiro a 2 de maio.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "De 17 de janeiro a 2 de fevereiro e de 14 de fevereiro a 16 de maio.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f3e6216d-62e3-4a3d-8aa7-9897b4aeda3d",
+    "title": "Questão M3017 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A figura representa uma bola de basquete dentro de uma caixa no formato de paralelepípedo reto de base quadrada, cuja altura mede 27 cm. A bola, quando cheia, tem o formato de uma esfera de 30 cm de diâmetro, que tangencia as faces laterais e a base inferior da caixa, e parte dela fica no exterior da caixa. A tampa tem uma abertura circular que se ajusta perfeitamente à bola. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a medida da área da tampa da caixa, em centímetro quadrado?",
+    "assunto": "Geometria Espacial",
+    "competencia": 2,
+    "habilidade": 7,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3017_-_enem_2013_bfdc8db6-6bbb-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "π.92",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "π.152",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "302 – π.32",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "302 – π.92",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "302 – π.152",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a716ae19-1b40-4c13-8ff5-5e9fc1bd0d67",
+    "title": "Questão M3018 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma citação presente no livro dos recordes destaca que o maior pneu do mundo é produzido para um tipo de caminhão utilizado em mineração. A largura de cada pneu desse tipo de caminhão mede 148 cm e seu diâmetro externo mede 403 cm. Disponível em: https://dinamicarpneus.com.br. Acesso em: 2 dez. 2018 (adaptado). Uma loja de pneus pretende distribuir aos seus clientes uma miniatura desse tipo de caminhão, confeccionada com dimensões proporcionais às medidas reais. Após receber as miniaturas confeccionadas, foi verificado que a largura de cada pneu dessa miniatura mede 7,4 cm.",
+    "introducao_alternativas": "O diâmetro externo de cada pneu dessa miniatura, em centímetro, mede",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,72.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,29.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "12,75.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "20,15.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "27,55.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_397b1646-60d4-4f66-8262-449845f4b464",
+    "title": "Questão M2985 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Os quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste. [IMAGEM_0]",
+    "introducao_alternativas": "O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra",
+    "assunto": "Geometria Analítica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Medio",
+    "arquivos": [
+      "questao_m2985_-_enem_2013_7fcb7505-4c92-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "P.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Q.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "R.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "S.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "T.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1665aa03-d802-4ae9-b838-fd4f35bbed75",
+    "title": "Questão M3019 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma cidade, existem cinco caminhos ligando dois pontos turísticos. Um turista, dispondo de um carro para ir de um desses pontos turísticos ao outro, buscou informações sobre essas opções de caminhos e obteve as que estão apresentadas no esquema. [IMAGEM_0] O turista escolheu o caminho que lhe permite chegar a seu destino no menor tempo possível, trafegando nas velocidades máximas permitidas em cada trecho.",
+    "introducao_alternativas": "O caminho escolhido foi o",
+    "assunto": "Matemática Básica",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3019_-_enem_2013_8a7e4605-0f36-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_13b02318-89a6-4e2d-8013-4596d1a861da",
+    "title": "Questão M2986 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma empresa produziu, em um determinado mês, 110 toneladas de plástico a partir de derivados de petróleo e 80 toneladas a partir de plásticos reciclados. O custo para reciclar uma tonelada de plástico é de R$ 500,00, que equivale a 5% do custo para produzir a mesma quantidade de plástico a partir de derivados de petróleo. Para o mês seguinte, a meta dessa empresa é produzir a mesma quantidade de plástico que foi produzida nesse mês, mas com redução de, pelo menos, 50% no custo de produção.",
+    "introducao_alternativas": "Para que no mês seguinte a empresa atinja a meta, a quantidade mínima de toneladas de plástico que devem ser produzidas a partir de reciclagem deverá ser",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "135.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "140.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "155.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "160.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "175.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_804cd58c-2fdb-4681-8897-4b303b3dc4bc",
+    "title": "Questão M2987 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma escola, todos os estudantes do ensino médio praticam uma das três modalidades esportivas oferecidas como atividade física, e cada um deles pratica somente uma dessas atividades. Os gráficos trazem alguns dados relativos aos quantitativos de estudantes que praticam essas modalidades esportivas nessa escola, apesar de algumas quantidades não terem sido informadas. [IMAGEM_0]",
+    "introducao_alternativas": "[IMAGEM_1] Qual é a quantidade de estudantes no ensino médio dessa escola?",
+    "assunto": "Conjuntos",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2987_-_enem_2013_7c407dac-b063-4.png",
+      "questao_m2987_-_enem_2013_33f14fa7-ba8a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "720.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "360.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "320.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "288.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "240.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_613c42fe-0da9-49ff-b9c4-649cbef2f2c7",
+    "title": "Questão M2988 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O dono de uma embarcação deve partir do ponto P e chegar ao ponto R por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma: 1º – partir do ponto P na direção 110 e navegar por 4 horas, alcançando um ponto Q;2º – partir do ponto Q na direção 90 e navegar por 2 horas, alcançando o ponto de destino R. No entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340, em vez de 110. Com isso, realizou os seguintes deslocamentos: 1º – partiu do ponto P na direção 340 e navegou por 4 horas, alcançando um ponto S;2º – partiu do ponto S na direção 90 e navegou por 2 horas, alcançando o ponto T. A figura apresenta a bússola, a rota planejada e a rota executada. [IMAGEM_0] [IMAGEM_1] O dono da embarcação só percebeu o equívoco ao chegar ao ponto T. Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea. Considere 0,64 como aproximação para cos 50°.",
+    "introducao_alternativas": "A direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente,",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2988_-_enem_2013_2303bc9b-dffb-4.png",
+      "questao_m2988_-_enem_2013_6eebde10-6707-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "135 e 7 horas e 15 minutos.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "45 e 7 horas e 15 minutos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "135 e 12 horas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "135 e 6 horas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "45 e 6 horas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_e320ab8e-7f80-4463-8465-b124b0abc9b1",
+    "title": "Questão M2989 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um estudo clínico, 55 mulheres foram distribuídas, aleatoriamente, em 5 grupos de 11 pessoas. Para testar uma nova medicação, será escolhido um grupo no qual a maioria das mulheres tenham idades entre 20 e 30 anos. Os demais grupos tomarão placebo ou medicações já existentes no mercado. O quadro, parcialmente preenchido, informa alguns dados relativos às idades das mulheres desses grupos. [IMAGEM_0] Mesmo com o quadro incompleto, foi possível selecionar um desses grupos porque, apenas com os dados apresentados no quadro, foi identificado um grupo que, certamente, atendia ao critério de escolha.",
+    "introducao_alternativas": "O grupo escolhido foi o",
+    "assunto": "Estatística",
+    "competencia": 7,
+    "habilidade": 29,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2989_-_enem_2013_31648925-178c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_836b7a41-4840-4933-a1ab-3448df6e5a39",
+    "title": "Questão M3020 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um estudante posicionou uma haste entre uma parede e uma vela. A haste, com 20 cm de comprimento, foi colocada paralela à parede, na qual projetava uma sombra de comprimento H. O estudante mediu a distância entre a chama da vela e a parede, encontrando 140 cm, e elaborou um esquema para ilustrar a situação, como na figura, em que X representa a distância entre a haste e a chama da vela. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a relação entre H e X nesse experimento?",
+    "assunto": "Geometria Plana",
+    "competencia": 2,
+    "habilidade": 8,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3020_-_enem_2013_eb415c8e-665d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "H/X = 1/7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "H/X = 7",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "H.X = 700",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "H.X = 1400",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "H.X = 2800",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_eebe5eb7-ea3b-412f-a574-ef4c751d8e91",
+    "title": "Questão M2990 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Pace é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundo, que esse corredor leva para percorrer 1 km. O esquema apresenta o tempo, em segundo, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km. [IMAGEM_0] O melhor pace que esse corredor alcançou em corridas de 5 km foi 281 s/km.",
+    "introducao_alternativas": "Para que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2990_-_enem_2013_3445b922-1f2d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "9",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "15",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1cbf36cc-5b6a-470d-af72-18cd4083ab9d",
+    "title": "Questão M3021 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O mapa de cobertura e uso da terra no Brasil do IBGE aponta que, entre 2000 e 2014, a área agrícola em nosso país aumentou de 39.877.600 hectares (ha) para 55.854.900 ha, enquanto a área florestal diminuiu de 351.394.800 ha para 317.559.700 ha. Disponível em: www.ibge.gov.br. Acesso em: 1 dez. 2018 (adaptado). Considere que, nesse período, a taxa de variação entre as áreas agrícola e florestal seja constante ao longo dos anos.",
+    "introducao_alternativas": "O gráfico que melhor representa a relação entre as áreas agrícola e florestal, no período de 2000 a 2014, é",
+    "assunto": "Estatística",
+    "competencia": 4,
+    "habilidade": 15,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m3021_-_enem_2013_alt_A_8cabdcff-13a2-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3021_-_enem_2013_alt_B_ff3c561c-db01-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3021_-_enem_2013_alt_C_9f783dc1-c9c5-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3021_-_enem_2013_alt_D_7b6853e9-bc04-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m3021_-_enem_2013_alt_E_c7492733-39b1-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_de555ed4-7359-4b39-8851-f63b61d245b8",
+    "title": "Questão M2991 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma pessoa tem um carro bicombustível, que funciona a gás natural veicular (GNV) e a gasolina. O rendimento do carro, medido em km/m3, no caso do gás, ou medido em km/L, no caso da gasolina, depende, entre outros fatores, da velocidade, em km/h, em que o carro trafega. Essa relação está em conformidade com estes gráficos. [IMAGEM_0] [IMAGEM_1] Durante um feriado, essa pessoa realizou uma viagem de 240 km. Para obter uma estimativa de gasto de combustível, assuma que em todo o trajeto se manteve uma velocidade constante de 60 km/h. Considere que, durante metade do caminho, foi utilizado apenas GNV e, na outra metade, apenas gasolina. O que foi pago pelo metro cúbico de GNV e pelo litro de gasolina correspondeu, respectivamente, a R$ 2,00 e a R$ 3,00.",
+    "introducao_alternativas": "Qual foi a diferença, em real, entre os gastos totais com gasolina e com GNV?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2991_-_enem_2013_cb77371e-7015-4.png",
+      "questao_m2991_-_enem_2013_db5dfc08-6951-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "14",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "21",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "30",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d77bdcc8-f22a-4502-ba0f-e4dfc1203777",
+    "title": "Questão M2992 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos: – pacote com 20 aulas teóricas;– pacote com 10 aulas práticas;– aluguel do veículo para realização das aulas práticas. Uma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores. [IMAGEM_0] Ela contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
+    "introducao_alternativas": "A autoescola que será contratada é a",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m2992_-_enem_2013_3e5a4035-df0e-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, com o custo total de R$ 1.400,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II, com o custo total de R$ 280,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "II, com o custo total de R$ 1.300,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "III, com o custo total de R$ 460,00.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "III, com o custo total de R$ 1.200,00.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d5ae664c-c598-48d6-8a3e-3857ca39e4fe",
+    "title": "Questão M3022 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Um engenheiro foi contratado para determinar o tipo de material usado na construção das paredes de uma sala. Com base em um estudo do fluxo de calor através da parede, é possível deduzir qual é o tipo de material. Sabe-se que o fluxo de calor q é igual ao produto das grandezas: constante k (condutividade térmica), área da parede A (na qual o calor flui por condução), variação de temperatura ∆T (variação entre temperatura externa e interna) e o inverso do comprimento L (da espessura da parede). Esse engenheiro fez uma medição e obteve os seguintes dados: – fluxo de calor q = 400 kcal/h; – área da parede A = 10 m2; – espessura da parede L = 0,2 m; – variação da temperatura ∆T = 10 °C. Com esses valores, determinou a condutividade térmica k desse material, em kcal/(h.m.°C). O quadro apresenta cinco tipos de materiais existentes, com suas respectivas condutividades. [IMAGEM_0]",
+    "introducao_alternativas": "O material determinado pelo engenheiro para ser utilizado nas paredes foi o do tipo",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m3022_-_enem_2013_b36acc6d-483a-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9ee78a0c-ccf2-4397-9ad1-4876c77bab61",
+    "title": "Questão M2993 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A produtividade de soja em uma área cultivada é a média da quantidade de sacas de 50 quilogramas que são produzidas por hectare. O quadro apresenta a área cultivada e a produtividade de soja em certa propriedade, ao longo de cinco safras, com períodos de um ano, de 2011 a 2016. [IMAGEM_0]",
+    "introducao_alternativas": "O gráfico de linhas que representa a produção de soja dessa propriedade, em tonelada, nessas cinco safras é",
+    "assunto": "Estatística",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2993_-_enem_2013_3d2550af-1900-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_m2993_-_enem_2013_alt_A_ff456474-9e2c-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2993_-_enem_2013_alt_B_18be5fe5-6709-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2993_-_enem_2013_alt_C_4d000d24-dfcb-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2993_-_enem_2013_alt_D_d2f1bc34-5082-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_m2993_-_enem_2013_alt_E_a47658f6-5980-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a3812a1f-a715-4b8f-93cc-dd18f5fc6e51",
+    "title": "Questão M3023 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma empresa trabalham 50 funcionários, dos quais, inicialmente, 40 tomam café diariamente. Essa empresa tem uma máquina que produz, diariamente, 12.000 mililitros de café. A máquina está programada para liberar uma quantidade de mililitros de café a cada acionamento. Os 12.000 mL de café são suficientes, sem sobra, para que cada um desses 40 funcionários possa utilizar essa máquina 5 vezes por dia. Pretende-se reprogramar a máquina para que essa quantidade de café produzida seja suficiente para que cada um dos 50 funcionários possa utilizar essa máquina 3 vezes por dia.",
+    "introducao_alternativas": "Na reprogramação, a quantidade de café, em mililitro, que deverá ser liberada a cada uso é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "48.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "80.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "100.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "150.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "240.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6e5be6cb-92e9-4069-8d19-90ec682692c6",
+    "title": "Questão M3024 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na produção de uma unidade de um produto, uma empresa gastava R$ 40,00 na compra de matéria-prima e mais R$ 40,00 em custos diversos. Essa empresa vendia esse produto por R$ 120,00 a unidade. Em decorrência de mudanças no mercado consumidor, os custos diversos aumentaram em 50%, embora o custo com matéria-prima tenha permanecido o mesmo. Assim, a empresa reajustará o preço de venda desse produto de forma que, ao conceder um desconto de 20%, o lucro, em real, por unidade vendida permaneça o mesmo.",
+    "introducao_alternativas": "De quanto será o reajuste, em real, no preço de venda desse produto?",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "20,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "25,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "50,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "55,00",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b2dc67e4-e461-4027-9dc1-48739859786f",
+    "title": "Questão M2994 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura. [IMAGEM_0] [IMAGEM_1] A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejado a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido. Para garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L.",
+    "introducao_alternativas": "A quantidade máxima de garrafas que serão colocadas nessa caixa, garantindo um funcionamento eficiente, é igual a",
+    "assunto": "Geometria Espacial",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_m2994_-_enem_2013_b55af559-64b8-4.png",
+      "questao_m2994_-_enem_2013_54e037c3-3d6d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "8.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "2.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_441057aa-0667-4f87-90c1-79066cfba8ee",
+    "title": "Questão M3026 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O controle de temperatura em sistemas mecânicos é fundamental para prevenir acidentes e manter o bom funcionamento das máquinas. Carros, aviões e computadores são exemplos de máquinas que têm sistemas de controle de temperatura. O gerente de uma fábrica orientou seus funcionários a manterem a temperatura de uma máquina abaixo do limite de segurança, definido como 80% da temperatura de referência, que é de 50 °C. Para isso, o monitoramento dessa máquina é feito diariamente em dez instantes e, sempre que sua temperatura atingir ou ultrapassar o limite de segurança, o funcionário deverá acionar o sistema de resfriamento. O gráfico apresenta as temperaturas registradas nos dez instantes de monitoramento. [IMAGEM_0]",
+    "introducao_alternativas": "Quantas vezes, ao longo desse dia, o sistema de resfriamento foi acionado?",
+    "assunto": "Estatística",
+    "competencia": 6,
+    "habilidade": 25,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_m3026_-_enem_2013_b5acdc60-aba3-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_04363b20-b04b-4ccd-941b-ff20c19c4fed",
+    "title": "Questão M3025 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O ministro da Fazenda de um país anunciou que a arrecadação de impostos no ano anterior atingiu a marca de 1.138,32 milhões de dólares.",
+    "introducao_alternativas": "Em notação científica, a arrecadação de impostos anunciada, em dólar, foi de",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,13832 x 103.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,13832 x 106.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,13832 x 108.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,13832 x 109.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1,13832 x 1010.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_242b81a4-002a-4071-8c1f-5007d2425be4",
+    "title": "Questão M3027 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Uma fábrica de refrigerantes criou um novo tipo de bebida ao adicionar uma quantidade de um tipo de xarope a 10 litros de um refrigerante que já tem em sua fórmula 15% desse xarope em sua composição. Com isso, 25% da composição desse novo tipo de bebida é formada por esse xarope.",
+    "introducao_alternativas": "Qual quantidade desse xarope, em litro, foi adicionada aos 10 litros de refrigerante para se criar esse novo tipo de bebida?",
+    "assunto": "Matemática Básica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4/3",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5/2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_583052d9-2ac9-4fca-900c-d997cf67cee2",
+    "title": "Questão M3028 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma loja de informática, 5 dispositivos de armazenagem de dados contêm as seguintes capacidades, expressas em gigabytes (GB): 32, 64, 128, 256 e 512. Nessa loja, esses dispositivos têm os preços P1, P2, P3, P4 e P5, respectivamente, os quais são determinados considerando-se R$ 10,00 por GB.",
+    "introducao_alternativas": "Qual é o termo geral da sequência desses preços?",
+    "assunto": "Progressões - PA e PG",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2n+4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "5 x 2n+6",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10 x 2n+4",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "10 x (2n + 4)",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "10 x (2n–1 + 32)",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_3d5bdbc1-9a57-4062-a320-e7a47bfd2eca",
+    "title": "Questão M3029 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em uma loja, um computador é vendido por R$ 2.000,00 à vista ou, de forma financiada, mediante uma entrada e mais 15 parcelas mensais iguais, envolvendo cobrança de juros. Inicialmente, um cliente propôs dar R$ 500,00 de entrada e, para esse caso, o vendedor calculou em R$ 150,00 o valor das prestações mensais. Para facilitar a escolha do cliente, o vendedor informou que cada R$ 1,00 de redução no valor das prestações corresponde a um acréscimo de R$ 10,00 no valor da entrada. Com essas informações, o cliente decidiu pela compra financiada, pagando prestações mensais de R$ 120,00.",
+    "introducao_alternativas": "Quanto, em real, esse cliente deve acrescentar ao valor inicial de sua proposta de entrada para viabilizar as prestações no valor de R$ 120,00?",
+    "assunto": "Matemática Comercial e Financeira",
+    "competencia": 5,
+    "habilidade": 21,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "200,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "300,00",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "600,00",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "800,00",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8d95e78c-9a32-4c5f-aed6-d25ddac800c3",
+    "title": "Questão M3030 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na avaliação de riscos em investimentos no setor financeiro, compreender o desvio padrão das taxas de retorno ao longo de um período permite analisar riscos potenciais associados a um investimento. Quanto maior o desvio padrão, maior a variação das taxas de retorno e, consequentemente, maior o risco associado ao investimento. Um desvio padrão mais baixo indica um investimento mais estável e previsível. Uma classificação de risco de investimento que adota o desvio padrão (dp) como medida para avaliação é: – muito baixo: dp – baixo: 5% ≤ dp – moderado: 10% ≤ dp – alto: 20% ≤ dp – muito alto: dp ≥ 30%. Um investidor analisou, ao longo de cinco meses, as taxas de retorno de um tipo de investimento na bolsa de valores e identificou, respectivamente, retornos mensais de 3%, 15%, 6%, 9% e 12%. Ele pretende aplicar um capital nesse tipo de investimento e adotará o desvio padrão como medida para avaliar a classificação do risco associado.",
+    "introducao_alternativas": "A classificação do risco desse tipo de investimento é",
+    "assunto": "Estatística",
+    "competencia": 7,
+    "habilidade": 27,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "muito baixo.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "baixo.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "moderado.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "alto.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "muito alto.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_78bbfab9-9b32-4157-a905-33f0a508aac7",
+    "title": "Questão M3031 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O índice de massa corporal (IMC) é uma medida internacional usada para determinar se uma pessoa está com a massa corporal ideal. No cálculo do IMC, são utilizadas a massa corporal da pessoa, em quilograma, e a sua altura, em metro. O valor do IMC é dado pela razão entre a massa do indivíduo pelo quadrado de sua altura.",
+    "introducao_alternativas": "A unidade de medida do IMC é",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 10,
+    "dificuldade": "Facil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "kg.m–2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "kg.m–1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "kg.m2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "m.kg–1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "m2.kg–1",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_88e28901-14a0-41d8-8931-d94b19817b95",
+    "title": "Questão M3032 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Em 2011, um tsunami atingiu os reatores da usina nuclear de Fukushima, no Japão, liberando radiação para o meio ambiente e provocando um dos maiores acidentes radioativos da história. Inicialmente, foi delimitada uma área de isolamento correspondente a um círculo com raio de 30 km, centrado no local do acidente radioativo. Disponível em: https://noticias.uol.com.br. Acesso em: 24 abr. 2024 (adaptado). Considere que, para aumentar a margem de segurança, o raio do círculo da área de isolamento foi ampliado para 40 km, mantendo-se o mesmo centro. Use 3 como valor aproximado para π.",
+    "introducao_alternativas": "O aumento da medida da área de isolamento, em quilômetro quadrado, foi de",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.100.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "4.800.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7.500.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "14.700.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8bb9e5b0-1014-4585-8491-47b5e131a0b3",
+    "title": "Questão M3033 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "O proprietário de um terreno plano, em formato de quadrado e com área medindo 360.000 m2, solicitou a um topógrafo que representasse esse terreno em um mapa cuja escala é 1:2.500. Porém, nesse mapa, alguns detalhes do terreno ficaram imperceptíveis. Com isso, foi desenhado um novo mapa, com escala de 1:1.600.",
+    "introducao_alternativas": "Qual é a medida, em metro, arredondada para duas casas decimais, do aumento do segmento que representa o lado do terreno, quando se compara o mapa novo com o mapa original?",
+    "assunto": "Geometria Plana",
+    "competencia": 3,
+    "habilidade": 11,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,02",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,05",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,07",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,14",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,67",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8265bf79-6ce5-4493-8732-e2905cfc2da3",
+    "title": "Questão M3034 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "Na área da computação, bit é a unidade de medida básica que deu origem ao byte, formado por 8 bits. Essas unidades deram origem a outras duas unidades de medida de taxa de transferência de informações, sendo estas o megabit por segundo (Mbps) e o megabyte por segundo (MB/s), em que 1 MB/s representa 8 Mbps. Um consumidor, sabendo que as empresas de acesso à internet divulgam seus serviços usando essas taxas, pretende contratar a empresa com maior taxa de transferência de informações ao custo mais baixo, encontrando na sua pesquisa dois anúncios: – Empresa X: internet de 50 megabits (50 Mbps) por apenas R$ 50,00; – Empresa Y: internet de 50 megabytes (50MB/s) por apenas R$ 100,00.",
+    "introducao_alternativas": "Para o consumidor obter o que pretende, deve escolher a empresa",
+    "assunto": "Matemática Básica",
+    "competencia": 3,
+    "habilidade": 12,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X, pois a taxa de transferência de informações é 8 vezes a da empresa Y, e o custo por MB/s é 1/16 do custo da concorrente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "X, pois a taxa de transferência de informações é 8 vezes a da empresa Y, e o custo por MB/s é a metade do custo da concorrente.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "X, pois as taxas de transferência de informações são iguais e esta empresa é a que apresenta o menor custo por Mbps.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Y, pois a taxa de transferência de informações é 8 vezes a da empresa X, e o custo por Mbps é 1/4 do custo da concorrente.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Y, pois a taxa de transferência de informações é 8 vezes a da empresa X, e o custo por Mbps é 1/8 do custo da concorrente.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9caa0868-ff5b-4bbd-ab74-14052009f37d",
+    "title": "Questão M3035 - ENEM 2013",
+    "banca": "ENEM",
+    "ano": 2013,
+    "grande_area": "Matematica",
+    "disciplina": "matematica",
+    "contexto": "A escassez de água em todo o planeta indica que a preservação desse recurso deve ser praticada e disseminada em todos os países, independentemente da reserva que possuem. Disponível em: www.gentequeeduca.org.br. Acesso em: 9 jul. 2015. Pensando nisso, uma empresa fornecedora de água potável elaborou uma nova fórmula de cobrança visando um consumo mais consciente. Residências com consumo mensal de até 5 m3 de água pagarão uma taxa mínima de R$ 40,00 por mês, e aquelas cujo consumo mensal exceder a 5 m3 pagarão, além dos R$ 40,00, mais R$ 12,00 por metro cúbico de água que exceder a 5 m3.",
+    "introducao_alternativas": "A representação algébrica que fornece o valor mensal V, em real, cobrado pelo consumo de x m3 de água, quando x supera 5 m3, é",
+    "assunto": "Função Afim",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V = 12x – 20",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "V = 12x – 40",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "V = 12x – 60",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "V = 12x",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "V = 52x",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]

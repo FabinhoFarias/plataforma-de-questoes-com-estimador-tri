@@ -1,0 +1,2506 @@
+[
+  {
+    "id_externo": "Questao_4f2d7b9e-03da-49f3-a99a-c377485dbd1c",
+    "title": "Questão F1923 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Os manuais dos fornos micro-ondas desaconselham, sob pena de perda da garantia, que eles sejam ligados em paralelo juntamente a outros aparelhos eletrodomésticos por meio de tomadas múltiplas, popularmente conhecidas como “benjamins” ou “tês”, devido ao alto risco de incêndio e derretimento dessas tomadas, bem como daquelas dos próprios aparelhos.",
+    "introducao_alternativas": "Os riscos citados são decorrentes da",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "resistividade da conexão, que diminui devido à variação de temperatura do circuito.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "corrente elétrica superior ao máximo que a tomada múltipla pode suportar.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "resistência elétrica elevada na conexão simultânea de aparelhos eletrodomésticos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "tensão insuficiente para manter todos os aparelhos eletrodomésticos em funcionamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "intensidade do campo elétrico elevada, que causa o rompimento da rigidez dielétrica da tomada múltipla.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_692e234f-6d77-47e5-bde2-a3c29ff2cdb0",
+    "title": "Questão F1980 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Para irrigar sua plantação, um produtor rural construiu um reservatório a 20 metros de altura a partir da barragem de onde será bombeada a água. Para alimentar o motor elétrico das bombas, ele instalou um painel fotovoltaico. A potência do painel varia de acordo com a incidência solar, chegando a um valor de pico de 80 W ao meio-dia. Porém, entre as 11 horas e 30 minutos e as 12 horas e 30 minutos, disponibiliza uma potência média de 50 W. Considere a aceleração da gravidade igual a 10 m/s² e uma eficiência de transferência energética de 100%.",
+    "introducao_alternativas": "Qual é o volume de água, em litros, bombeado para o reservatório no intervalo de tempo citado?",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": "23",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "150",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "250",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "450",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "900",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "1.440",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9ef11076-b0bb-4da8-930c-a778e8db876b",
+    "title": "Questão F1474 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O eixo de rotação da Terra apresenta uma inclinação em relação ao plano de sua órbita em torno do Sol, interferindo na duração do dia e da noite ao longo do ano. [IMAGEM_0] Uma pessoa instala em sua residência uma placa fotovoltaica, que transforma energia solar em elétrica. Ela monitora a energia total produzida por essa placa em 4 dias do ano, ensolarados e sem nuvens, e lança os resultados no gráfico. [IMAGEM_1]",
+    "introducao_alternativas": "Próximo a que região se situa a residência onde as placas foram instaladas?",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1474_-_enem_23fac05f-9ba9-4.png",
+      "questao_f1474_-_enem_e3dcf029-3289-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trópico de Capricórnio.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Trópico de Câncer.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Polo Norte.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Polo Sul.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Equador.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f12e5ca4-3a97-4442-9c21-242b159daff7",
+    "title": "Questão F2079 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um estudante leu em um site da internet que os povos antigos determinavam a duração das estações do ano observando a variação do tamanho da sombra de uma haste vertical projetada no solo. Isso ocorria porque, se registrarmos o tamanho da menor sombra ao longo de um dia (ao meio-dia solar), esse valor varia ao longo do ano, o que permitiu aos antigos usar esse instrumento rudimentar como um calendário solar primitivo. O estudante também leu que, ao longo de um ano (sempre ao meio-dia solar): (I) a sombra é máxima no solstício de inverno; (II) a sombra é mínima no solstício de verão. O estudante, que morava em Macapá (na Linha do Equador), ficou intrigado com essas afirmações e resolveu verificar se elas eram verdadeiras em diferentes regiões do mundo. Contactou seus amigos virtuais em Salvador (Região Tropical) e Porto Alegre (Região Temperada) e pediu que eles registrassem o tamanho da menor sombra de uma haste vertical padronizada, ao longo do dia, durante um ano. [IMAGEM_0]",
+    "introducao_alternativas": "Qual(is) cidade(s) indicada(s) no texto e no gráfico contradiz(em) a afirmação II?",
+    "assunto": "Óptica",
+    "competencia": 1,
+    "habilidade": 3,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2079_-_enem_ppl_a888eda0-7826-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Salvador.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Porto Alegre.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Macapá e Salvador.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Macapá e Porto Alegre.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Porto Alegre e Salvador.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_faed00f0-53c4-41de-91cc-6d34aebcdf6a",
+    "title": "Questão F1272 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores.",
+    "introducao_alternativas": "Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
+    "assunto": "Hidrostática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aumento da pressão interna e os riscos de explosão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "dilatação da panela e a desconexão com sua tampa.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "perda da qualidade nutritiva do alimento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "deformação da borracha de vedação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "consumo de gás desnecessário.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_44b10465-8544-4fc0-93a0-c4fe932f7490",
+    "title": "Questão F1971 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um pesquisador avaliou o efeito da temperatura do motor (em velocidade constante) e da velocidade média de um veículo (com temperatura do motor constante) sobre a emissão de monóxido de carbono (CO) em dois tipos de percurso, aclive e declive, com iguais distâncias percorridas em linha reta. Os resultados são apresentados nas duas figuras. [IMAGEM_0]",
+    "introducao_alternativas": "A partir dos resultados, a situação em que ocorre maior emissão de poluentes é aquela na qual o percurso é feito com o motor",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1971_-_enem_ppl_911d7e26-1bb4-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aquecido, em menores velocidades médias e em pista em declive.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "aquecido, em maiores velocidades médias e em pista em aclive.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "frio, em menores velocidades médias e em pista em declive.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "frio, em menores velocidades médias e em pista em aclive.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "frio, em maiores velocidades médias e em pista em aclive.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_57b3da42-6694-4c15-975f-13ee6f1a3f2b",
+    "title": "Questão F2084 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Para se utilizar um controle remoto que funciona com uma diferença de potencial de 3 V, compraram-se duas pilhas tipo AA de 1,5 V cada uma. Sabe-se que a ligação em série dessas pilhas possibilita um aumento da diferença de potencial do conjunto e da energia total disponível. Quando ligadas em paralelo, no entanto, só ocorre o aumento da energia total disponível.",
+    "introducao_alternativas": "Qual dos esquemas representa a ligação correta das pilhas utilizadas no controle remoto?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2084_-_enem_ppl_alt_A_237e1a23-a64c-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f2084_-_enem_ppl_alt_B_23bf022e-77e4-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2084_-_enem_ppl_alt_C_c9fd1d31-6088-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2084_-_enem_ppl_alt_D_841ba2d3-c4f3-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2084_-_enem_ppl_alt_E_6683b770-82f3-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_988d7071-63a6-4062-a976-91666e93b631",
+    "title": "Questão F0629 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma manifestação comum das torcidas em estádios de futebol é a ola mexicana. Os espectadores de uma linha, sem sair do lugar e sem se deslocarem lateralmente, ficam de pé e se sentam, sincronizados com os da linha adjacente. O efeito coletivo se propaga pelos espectadores do estádio, formando uma onda progressiva, conforme ilustração. [IMAGEM_0] Calcula-se que a velocidade de propagação dessa “onda humana” é de 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm. Disponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).",
+    "introducao_alternativas": "Nessa ola mexicana, a frequência da onda, em hertz, é um valor mais próximo de",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0629_-_enem_df9e6876-76a5-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,3.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,5.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,0.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,9.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,7.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_02a53cee-8446-4110-b6ac-f7b8edab3cfe",
+    "title": "Questão F0315 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.",
+    "introducao_alternativas": "O fenômeno descrito é a",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "difração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "refração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "polarização.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "interferência.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "ressonância.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a2969bdf-e7bc-4394-910b-0b32d565e2db",
+    "title": "Questão F2099 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O diagrama P-V a seguir representa o ciclo de Otto para um motor de combustão interna, como os motores a gasolina ou a etanol, utilizados nos automóveis. [IMAGEM_0] As etapas representadas no diagrama estão descritas no quadro. [IMAGEM_1]",
+    "introducao_alternativas": "A transformação da energia térmica em energia útil ocorre na etapa",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 21,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2099_-_enem_86946f5c-2254-4.png",
+      "questao_f2099_-_enem_65d2f14a-828d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "III.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "IV.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "V.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "VI.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_69eac57b-69c6-4642-9885-1019388d97c3",
+    "title": "Questão F0316 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Ao assistir a uma apresentação musical, um músico que estava na plateia percebeu que conseguia ouvir quase perfeitamente o som da banda, perdendo um pouco de nitidez nas notas mais agudas. Ele verificou que havia muitas pessoas bem mais altas à sua frente, bloqueando a visão direta do palco e o acesso aos alto-falantes. Sabe-se que a velocidade do som no ar é 340m/s e que a região de frequências das notas emitidas é de, aproximadamente, 20Hz a 4000Hz.",
+    "introducao_alternativas": "Qual fenômeno ondulatório é o principal responsável para que o músico percebesse essa diferenciação do som?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difração.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reflexão.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Refração.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Atenuação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Interferência.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ae392de8-4589-4038-a8a4-01f653dcc592",
+    "title": "Questão F1276 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma pessoa percebe que a bateria de seu veículo fica descarregada após cinco dias sem uso. No início desse período, a bateria funcionava normalmente e estava com o total de sua carga nominal, de 60 Ah. Pensando na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do veículo desligados, ele associa um amperímetro digital ao circuito do veículo.",
+    "introducao_alternativas": "Qual dos esquemas indica a maneira com que o amperímetro deve ser ligado e a leitura por ele realizada?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1276_-_enem_alt_A_fb3bf24c-b457-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f1276_-_enem_alt_B_81cf8b3b-1f5e-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1276_-_enem_alt_C_45029d3f-d40c-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1276_-_enem_alt_D_31ecedf7-4a02-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1276_-_enem_alt_E_9ae60bc5-ca9f-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_4db803f2-d3d3-435b-91e0-2674d34dc81f",
+    "title": "Questão F1470 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano. Corrente elétrica Dano físico Até 10 mA Dor e contração muscular De 10 mA até20 mA Aumento das contrações musculares De 20 mA até 100 mA Parada respiratória De 100 mA até3 A Fibrilação ventricular Acima de 3 A Parada cardíaca e queimaduras A corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência elétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ. Apesar de incomum, é possível sofrer um acidente utilizando baterias de 12V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.",
+    "introducao_alternativas": "Qual associação de baterias foi responsável pelo acidente?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f1470_-_enem_alt_A_b4fea9c1-d739-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1470_-_enem_alt_B_5cab3005-e698-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1470_-_enem_alt_C_d6672671-7f22-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1470_-_enem_alt_D_431872ae-bcce-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1470_-_enem_alt_E_06b423e6-4518-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_34a33cc3-7d96-406b-9630-70eba15bc299",
+    "title": "Questão F0331 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O morcego emite pulsos de curta duração de ondas ultrassônicas, os quais voltam na forma de ecos após atingirem objetos no ambiente, trazendo informações a respeito das suas dimensões, suas localizações e dos seus possíveis movimentos. Isso se dá em razão da sensibilidade do morcego em detectar o tempo gasto para os ecos voltarem, bem como das pequenas variações nas frequências e nas intensidades dos pulsos ultrassônicos. Essas características lhe permitem caçar pequenas presas mesmo quando estão em movimento em relação a si. Considere uma situação unidimensional em que uma mariposa se afasta, em movimento retilíneo e uniforme, de um morcego em repouso.",
+    "introducao_alternativas": "A distância e velocidade da mariposa, na situação descrita, seriam detectadas pelo sistema de um morcego por quais alterações nas características dos pulsos ultrassônicos?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida diminuída.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Intensidade aumentada, o tempo de retorno diminuído e a frequência percebida diminuída.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Intensidade diminuída, o tempo de retorno diminuído e a frequência percebida aumentada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida aumentada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Intensidade aumentada, o tempo de retorno aumentado e a frequência percebida aumentada.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_98d223cd-3762-458f-bec9-21fee076590c",
+    "title": "Questão F2002 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Sabe-se que a posição em que o Sol nasce ou se põe no horizonte muda de acordo com a estação do ano. Olhando-se em direção ao poente, por exemplo, para um observador no Hemisfério Sul, o Sol se põe mais à direita no inverno do que no verão.",
+    "introducao_alternativas": "O fenômeno descrito deve-se à combinação de dois fatores: a inclinação do eixo de rotação terrestre e a",
+    "assunto": "Gravitação",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "precessão do periélio terrestre.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "translação da Terra em torno do Sol.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "nutação do eixo de rotação da Terra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "precessão do eixo de rotação da Terra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "rotação da Terra em torno de seu próprio eixo.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_c2a8bfc1-b516-4d78-935b-993f2c3ecaf5",
+    "title": "Questão F2098 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "(Adaptada) Um estudante comprou uma cafeteira elétrica de 1.000 W de potência e com capacidade de 0,5 L de água (500 g). Enquanto o café estava em preparação na capacidade máxima da cafeteira, ele marcou que demorou 3 minutos para a cafeteira ferver toda a água (100°C) a partir da temperatura ambiente de 20°C. Em seguida, para avaliar a eficiência da cafeteira, ele calculou esse tempo desprezando quaisquer perdas energéticas. É necessária 1 cal (4,2 J) para elevar em 1°C a temperatura de 1 grama de água.",
+    "introducao_alternativas": "Qual a eficiência energética calculada pelo estudante?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "93,33%.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "75%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "60%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7,5%.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5,1%.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_75d5cb18-1e08-4268-b679-295995f7042b",
+    "title": "Questão F2077 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança.",
+    "introducao_alternativas": "Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "42.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "72.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "288.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "360.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_eae4c23d-1908-4a4b-8f7c-5d3126c99605",
+    "title": "Questão F0013 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em um experimento, um professor levou para a sala de aula um saco de arroz, um pedaço de madeira triangular e uma barra de ferro cilíndrica e homogênea. Ele propôs que fizessem a medição da massa da barra utilizando esses objetos. Para isso, os alunos fizeram marcações na barra, dividindo-a em oito partes iguais, e em seguida apoiaram-na sobre a base triangular, com o saco de arroz pendurado em uma de suas extremidades, até atingir a situação de equilíbrio. [IMAGEM_0]",
+    "introducao_alternativas": "Nessa situação, qual foi a massa da barra obtida pelos alunos?",
+    "assunto": "Estática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0013_-_enem_7837c043-dbcf-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3,00 kg",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,75 kg",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,00 kg",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,00 kg",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "15,00 kg",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1df25697-4156-4bd1-bed6-3d7264bccc16",
+    "title": "Questão F0031 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Antes das lombadas eletrônicas, eram pintadas faixas nas ruas para controle da velocidade dos automóveis. A velocidade era estimada com o uso de binóculos e cronômetros. O policial utilizava a relação entre a distância percorrida e o tempo gasto, para determinar a velocidade de um veículo. Cronometrava-se o tempo que um veículo levava para percorrer a distância entre duas faixas fixas, cuja distância era conhecida. A lombada eletrônica é um sistema muito preciso, porque a tecnologia elimina erros do operador. A distância entre os sensores é de 2 metros, e o tempo é medido por um circuito eletrônico.",
+    "introducao_alternativas": "O tempo mínimo, em segundos, que o motorista deve gastar para passar pela lombada eletrônica, cujo limite é de 40 km/h, sem receber uma multa, é de",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,05.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "11,1.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,18.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "22,2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,50.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1c7dd01d-7a05-4511-9774-15e9e35e4077",
+    "title": "Questão F0185 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A Lei da Gravitação Universal, de Isaac Newton, estabelece a intensidade da força de atração entre duas massas. Ela é representada pela expressão: \n[IMAGEM_0]\nonde m1 e m2 correspondem às massas dos corpos, d à distância entre eles, G à constante universal da gravitação e F à força que um corpo exerce sobre o outro. O esquema representa as trajetórias circulares de cinco satélites, de mesma massa, orbitando a Terra. [IMAGEM_1]",
+    "introducao_alternativas": "Qual gráfico expressa as intensidades das forças que a Terra exerce sobre cada satélite em função do tempo?",
+    "assunto": "Gravitação",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0185_-_enem_5209628b-790b-4Q154-ENEM2013-1.png",
+      "questao_f0185_-_enem_5209628b-790b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0185_-_enem_alt_A_e8bde4c0-89c4-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f0185_-_enem_alt_B_2f766b55-8343-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0185_-_enem_alt_C_9f651999-78ab-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0185_-_enem_alt_D_b7526b03-3007-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f0185_-_enem_alt_E_31f4d630-4e90-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_acc4124f-b22e-4a67-b743-1828962f0cfb",
+    "title": "Questão F2007 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A capacidade de uma bateria com acumuladores, tal como a usada no sistema elétrico de um automóvel, é especificada em ampère-hora (Ah). Uma bateria de 12 V e 100 Ah fornece 12 J para cada coulomb de carga que flui através dela.",
+    "introducao_alternativas": "Se um gerador, de resistência interna desprezível, que fornece uma potência elétrica média igual a 600 W, fosse conectado aos terminais da bateria descrita, quanto tempo ele levaria para recarregá-la completamente?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,5 h",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 h",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "12 h",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "50 h",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "100 h",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_aa9b7467-cdad-465e-b681-68bc1f5dd282",
+    "title": "Questão F0064 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O trem de passageiros da Estrada de Ferro Vitória-Minas (EFVM), que circula diariamente entre a cidade de Cariacica, na Grande Vitória, e a capital mineira Belo Horizonte, está utilizando uma nova tecnologia de frenagem eletrônica. Com a tecnologia anterior, era preciso iniciar a frenagem cerca de 400 metros antes da estação. Atualmente, essa distância caiu para 250 metros, o que proporciona redução no tempo de viagem.",
+    "introducao_alternativas": "Considerando uma velocidade de 72 km/h, qual o módulo da diferença entre as acelerações de frenagem depois e antes da adoção dessa tecnologia?",
+    "assunto": "Cinemática",
+    "competencia": 5,
+    "habilidade": "17",
+    "dificuldade": "Difícil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,08 m/s²",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,30 m/s²",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,10 m/s²",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,60 m/s²",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,90 m/s²",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_157ce4f6-6f9f-406a-ac5e-54b5e2216f60",
+    "title": "Questão F1300 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas. Após realizar um percurso de 110 km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador ideal que opera a uma tensão de 220 V e é percorrido por uma corrente de 20 A.",
+    "introducao_alternativas": "Quantas horas são necessárias para recarregar a energia utilizada nesse percurso?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 6,
+    "habilidade": 23,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,005",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,125",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,0",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "8,0",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_88089493-05bc-45ac-b027-0956dca9d61b",
+    "title": "Questão F0578 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Três lâmpadas idênticas foram ligadas no circuito esquematizado. A bateria apresenta resistência interna desprezível, e os fios possuem resistência nula. Um técnico fez uma análise do circuito para prever a corrente elétrica nos pontos: A, B, C, D e E; e rotulou essas correntes de IA, IB, IC, ID e IE, respectivamente. [IMAGEM_0]",
+    "introducao_alternativas": "O técnico concluiu que as correntes que apresentam o mesmo valor são",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": 5,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0578_-_enem_f66304cd-7d04-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IA = IE e IC = ID.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "IA = IB = IE e IC = ID.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "IA = IB, apenas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "IA = IB = IE, apenas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "IC = IB, apenas.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_cc57c090-2916-4a8b-ab68-f2c7c38e2623",
+    "title": "Questão F2011 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "[IMAGEM_0]",
+    "introducao_alternativas": "A faixa espectral da radiação solar que contribui fortemente para o efeito mostrado na tirinha é caracterizada como",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": "22",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2011_-_enem_ppl_86f502d5-0347-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "visível.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "amarela.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "vermelha.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "ultravioleta.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "infravermelha.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0faea156-b8de-44e3-9d43-8ae655e78162",
+    "title": "Questão F0273 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em um experimento foram utilizadas duas garrafas PET, uma pintada de branco e a outra de preto, acopladas cada uma a um termômetro. No ponto médio da distância entre as garrafas, foi mantida acesa, durante alguns minutos, uma lâmpada incandescente. Em seguida a lâmpada foi desligada. Durante o experimento, foram monitoradas as temperaturas das garrafas: a) enquanto a lâmpada permaneceu acesa e b) após a lâmpada ser desligada e atingirem equilíbrio térmico com o ambiente. [IMAGEM_0]",
+    "introducao_alternativas": "A taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0273_-_enem_fbfc97ea-2026-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "igual no aquecimento e igual no resfriamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "maior no aquecimento e igual no resfriamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "menor no aquecimento e igual no resfriamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "maior no aquecimento e menor no resfriamento.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "maior no aquecimento e maior no resfriamento.",
+        "e_correta": true,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b17d976a-f6b3-418a-b921-47e94cda9425",
+    "title": "Questão F0576 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova (carrinhos) podem se mover com atrito desprezível. A figura ilustra um trilho horizontal com dois carrinhos (1 e 2) em que se realiza um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g, passa a se mover com velocidade escalar constante, o carrinho 2 está em repouso. No momento em que o carrinho 1 se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Os sensores eletrônicos distribuídos ao longo do trilho determinam as posições e registram os instantes associados à passagem de cada carrinho, gerando os dados do quadro. [IMAGEM_0]",
+    "introducao_alternativas": "Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a:",
+    "assunto": "Dinâmica",
+    "competencia": 5,
+    "habilidade": "17",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0576_-_enem_9703823e-5563-4.png",
+      "questao_f0576_-_enem_f65efcf6-6300-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50,0 g.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "250,0 g.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "300,0 g.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "450,0 g.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "600,0 g.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_6b4bc206-ce71-49ee-9fe9-93a8b50bf2e0",
+    "title": "Questão F2106 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Mirascópio 3D: produtor de ilusão instantânea O equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E1 e E2, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E1 coincide com o foco de E2 e vice-versa. Na abertura circular de E2, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E1. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E2 e E1, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade. [IMAGEM_0]",
+    "introducao_alternativas": "A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2106_-_enem_9b96e7d9-ce3d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "real e 5 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "real e 3,8 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "real e 7,6 cm.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "virtual e 7,6 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "virtual e 3,8 cm.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5a4cff3a-1cd1-4a54-bf3b-4780af035ce4",
+    "title": "Questão F1303 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura. [IMAGEM_0] Considere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.",
+    "introducao_alternativas": "As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1303_-_enem_0c5c9a2c-e2cc-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "f1 < f2 e v1 < v2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "f1 < f2 e v1= v2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "f1 < f2 e v1> v2",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "f1> f2 e v1= v2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "f1> f2 e v1> v2",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_7ab93833-259f-4e50-8b70-72a947eefc01",
+    "title": "Questão F2004 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O aproveitamento da luz solar como fonte de energia renovável tem aumentado significativamente nos últimos anos. Uma das aplicações é o aquecimento de água (ρágua = 1 kg/L) para uso residencial. Em um local, a intensidade da radiação solar efetivamente captada por um painel solar com área de 1 m² é de 0,03 kW/m². O valor do calor específico da água é igual 4,2 kJ/kg.˚C.",
+    "introducao_alternativas": "Nessa situação, em quanto tempo é possível aquecer 1 litro de água de 20 ˚C até 70 ˚C?",
+    "assunto": "Termologia",
+    "competencia": 6,
+    "habilidade": "22",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "490 s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.800 s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6.300 s",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "7.000 s",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "9.800 s",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_a899f234-8ec5-40ff-8236-1024ce7b799e",
+    "title": "Questão F0557 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível. [IMAGEM_0]",
+    "introducao_alternativas": "Mesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está instalada, pois o(a)",
+    "assunto": "Eletromagnetismo",
+    "competencia": 2,
+    "habilidade": 6,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0557_-_enem_15a36eaa-cad9-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_621fa595-72ae-420e-992a-8b8af563ed7f",
+    "title": "Questão F2012 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Ao soltar um martelo e uma pena na Lua em 1973, o astronauta David Scott confirmou que ambos atingiram juntos a superfície. O cientista italiano Galileu Galilei (1564-1642), um dos maiores pensadores de todos os tempos, previu que, se minimizarmos a resistência do ar, os corpos chegariam juntos à superfície. OLIVEIRA, A. A influência do olhar Disponível em: www.cienciahoje.org.br. Acesso em: 15 ago. 2016 (adaptado). Na demonstração, o astronauta deixou cair em um mesmo instante e de uma mesma altura um martelo de 1,32 kg e uma pena de 30 g.",
+    "introducao_alternativas": "Durante a queda no vácuo, esses objetos apresentam iguais",
+    "assunto": "Dinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inércias.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "impulsos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "trabalhos.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "acelerações.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "energias potenciais.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_021620d5-6ab5-43ea-9c00-3a7a768fab55",
+    "title": "Questão F0301 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em altos-fornos siderúrgicos, as temperaturas acima de 600 °C são mensuradas por meio de pirômetros óticos. Esses dispositivos apresentam a vantagem de medir a temperatura de um objeto aquecido sem necessidade de contato. Dentro de um pirômetro ótico, um filamento metálico é aquecido pela passagem de corrente elétrica até que sua cor seja a mesma que a do objeto aquecido em observação. Nessa condição, a temperatura conhecida do filamento é idêntica à do objeto aquecido em observação.",
+    "introducao_alternativas": "A propriedade da radiação eletromagnética avaliada nesse processo é a",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": 22,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "amplitude.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "coerência.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "frequência.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "intensidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "velocidade.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_20ddf863-c319-4388-bf12-ec2b19c6af98",
+    "title": "Questão F0262 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70°C. No entanto, a temperatura ideal da água para um banho é de 30°C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25°C.",
+    "introducao_alternativas": "Qual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 19,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,111.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,125.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,357.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,428.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,833.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_91929ad9-6039-4df7-9d17-a01194c6cdf8",
+    "title": "Questão F2095 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A altura de uma nota musical é determinada pela frequência da vibração que a nota causa. No piano, considere como referência a nota Lá, cuja frequência é 440 hertz, e a existência de outras notas Lá com frequências acima e abaixo desta. A tabela a seguir mostra as frequências de algumas notas Lá, em função do número n de oitavas abaixo e acima do Lá de referência, e o gráfico corresponde a uma função contínua que passa pelos pontos dados na tabela. [IMAGEM_0]",
+    "introducao_alternativas": "A partir dessas informações, verifica-se que",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": "1",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f2095_-_enem_ppl_50655ac3-9c5b-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a variação da frequência da nota Lá é constante e igual a 2.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "a frequência da nota Lá cresce exponencialmente em função do número n de oitavas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "para cada oitava acima da nota Lá usada como referência, a variação da frequência é 110 hertz.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "a função que estabelece a relação entre o número de oitavas e a frequência da nota Lá é decrescente somente entre −2 e 0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "a função que estabelece a relação entre o número de oitavas e a frequência da nota Lá é decrescente para as oitavas abaixo e crescente para as oitavas acima do Lá usado como referência.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d6cd2d48-903f-456b-9faf-7af962e9656a",
+    "title": "Questão F1275 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26ºC a 28ºC),bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam-se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ/kg.K e a densidade 1 kg/L.",
+    "introducao_alternativas": "Se o sistema de aquecimento for desligado por 1 h, qual o valor mais próximo para a redução da temperatura da água do aquário?",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": "19",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,0 ºC",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,6 ºC",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,9 ºC",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,6 ºC",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,3 ºC",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_dad6d672-f439-44de-ade4-47ede49a4543",
+    "title": "Questão F1894 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "A figura mostra a bateria de um computador portátil, a qual necessita de uma corrente elétrica de 2 A para funcionar corretamente. [IMAGEM_0]",
+    "introducao_alternativas": "Quando a bateria está completamente carregada, o tempo máximo, em minuto, que esse notebook pode ser usado antes que ela “descarregue” completamente é",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f1894_-_enem_ppl_7d47f098-4c23-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24,0.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "36,7.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "132.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "333.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "528.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1c31d969-bf03-443c-935a-4fec853d02d6",
+    "title": "Questão F0554 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo. [IMAGEM_0]",
+    "introducao_alternativas": "Qual modelo de cinto oferece menor risco de lesão interna ao motorista?",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0554_-_enem_a458c573-c42d-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_0e890bf1-0067-4603-adb2-d8eb0a0f232c",
+    "title": "Questão F1979 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O sonar é um equipamento eletrônico que permite a localização de objetos e a medida de distâncias no fundo do mar, pela emissão de sinais sônicos e ultrassônicos e a recepção dos respectivos ecos. O fenômeno do eco corresponde à reflexão de uma onda sonora por um objeto, a qual volta ao receptor pouco tempo depois de o som ser emitido. No caso do ser humano, o ouvido é capaz de distinguir sons separados por, no mínimo, 0,1 segundo.",
+    "introducao_alternativas": "Considerando uma condição em que a velocidade do som no ar é 340 m/s, qual é a distância mínima a que uma pessoa deve estar de um anteparo refletor para que se possa distinguir o eco do som emitido?",
+    "assunto": "Ondulatória",
+    "competencia": 6,
+    "habilidade": 20,
+    "dificuldade": "Medio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17 m",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "34 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "68 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.700 m",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "3.400 m",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_95f3eafe-f611-4e1c-aedc-631f7e388a55",
+    "title": "Questão F2074 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão P0 no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era T0. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+    "introducao_alternativas": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
+    "assunto": "Termologia",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2074_-_enem_alt_A_d6d1a6ac-73b8-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2074_-_enem_alt_B_8e9a4981-7aea-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2074_-_enem_alt_C_076f2d82-6fc1-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f2074_-_enem_alt_D_b39513ae-49d1-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f2074_-_enem_alt_E_658aad21-eaab-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_5a98bea1-fc8d-48db-aedf-1e5273834d11",
+    "title": "Questão F2063 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Na tirinha de Maurício de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira. [IMAGEM_0]",
+    "introducao_alternativas": "Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+    "assunto": "Ondulatória",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f2063_-_enem_e822fe50-2433-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Altura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "Período.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "Amplitude.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "Velocidade.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "Comprimento de onda.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d63c277e-22a0-4e60-a5b7-dd8a71113e46",
+    "title": "Questão F0534 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Muitos smartphones e tablets não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque. A imagem é uma simplificação do circuito formado pelas placas, em que A e B representam pontos onde o circuito pode ser fechado por meio do toque. [IMAGEM_0]",
+    "introducao_alternativas": "Qual é a resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto A?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 2,
+    "habilidade": 5,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0534_-_enem_3ed7f2a9-9d22-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,3 kΩ",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,0 kΩ",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "6,0 kΩ",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,7 kΩ",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "12,0 kΩ",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_9218bb2b-3d4e-4543-8db5-ea006a990a86",
+    "title": "Questão F1974 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Folhas de papel, como as utilizadas para a impressão de documentos, são opacas e permeáveis aos líquidos. Esse material é constituído de microfibras entrelaçadas de celulose, que são transparentes à luz. Quando sobre elas se derrama glicerina, elas se tornam translúcidas. Uma imagem da superfície de uma folha de papel, ampliada por um microscópio eletrônico de varredura, pode ser vista na figura. [IMAHEM_0] No quadro é apresentada a razão (n) entre a velocidade da luz no vácuo e no respectivo material (celulose, glicerina ou ar). [IMAGEM_1]",
+    "introducao_alternativas": "Nessa situação, o papel se tornou translúcido porque a luz é",
+    "assunto": "Óptica",
+    "competencia": 6,
+    "habilidade": "22",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1974_-_enem_ppl_bccd6fe9-faa2-4.png",
+      "questao_f1974_-_enem_ppl_bccd6fe9-faa2-4image.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mais refletida.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "mais absorvida.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "mais espalhada.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "menos refratada.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "menos transmitida.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_1e48e153-7d56-42cb-9631-418b51579d08",
+    "title": "Questão F1466 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força F, conforme ilustra a imagem, em que CM representa o centro de massa da muleta. [IMAGEM_0] Mantendo-se a força (F) paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso (P), normal (N) e de atrito estático (fe).",
+    "introducao_alternativas": "O esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+    "assunto": "Estática",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1466_-_enem_0f02d510-d70c-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1466_-_enem_alt_A_5157ad0b-20bb-4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1466_-_enem_alt_B_139e8c40-2f08-4.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1466_-_enem_alt_C_e3e9fc51-2884-4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "e_correta": false,
+        "imagem_url": "questao_f1466_-_enem_alt_D_c480eb99-34cd-4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "e_correta": true,
+        "imagem_url": "questao_f1466_-_enem_alt_E_9d139702-99bf-4.png"
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_f80bbffe-968a-4c59-a44b-249913825d5f",
+    "title": "Questão F1286 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou. [IMAGEM_0] Durante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão. [IMAGEM_1] Considere que a aceleração da gravidade seja igual a 10 m/s² e que a densidade da água seja de ρ = 1.000 kg/m³.",
+    "introducao_alternativas": "Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+    "assunto": "Hidrostática",
+    "competencia": 6,
+    "habilidade": "20",
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f1286_-_enem_6f9db27c-8be6-4.png",
+      "questao_f1286_-_enem_b09eff2c-b747-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "80",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "60",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "40",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "20",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_8e85690d-6361-447c-908f-1b8fea2f60a8",
+    "title": "Questão F0603 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas. YODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).",
+    "introducao_alternativas": "Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)",
+    "assunto": "MHS",
+    "competencia": 1,
+    "habilidade": 1,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comprimento da haste seja mantido constante.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "massa do corpo suspenso pela haste seja pequena.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "material da haste possua alta condutividade térmica.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "amplitude da oscilação seja constante a qualquer temperatura.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "energia potencial gravitacional do corpo suspenso se mantenha constante.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_187b244b-be18-4497-af9f-680ab670a189",
+    "title": "Questão F2046 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "No manual de instruções de um conjunto de 30 lâmpadas idênticas, usadas para enfeite, está especificado que o conjunto deve ser ligado em uma rede elétrica de 120 V resultando em uma corrente total de 4,5 A. No entanto, o manual não informa a potência nominal de cada lâmpada para a aquisição de lâmpadas individuais de reposição em caso de queima. Depois de ligar o conjunto, percebe-se que, ao retirar qualquer lâmpada, um terço das demais não acende.",
+    "introducao_alternativas": "Qual a potência nominal de cada lâmpada?",
+    "assunto": "Eletrodinâmica",
+    "competencia": 5,
+    "habilidade": 17,
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 W",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "18 W",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "55 W",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "180 W",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "540 W",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_d395f131-d623-477d-9029-7227d9df056b",
+    "title": "Questão F0131 - ENEM",
+    "banca": "ENEM",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "Um carro solar é um veículo que utiliza apenas a energia solar para a sua locomoção. Tipicamente, o carro contém um painel fotovoltaico que converte a energia do Sol em energia elétrica que, por sua vez, alimenta um motor elétrico. A imagem mostra o carro solar Tokai Challenger, desenvolvido na Universidade de Tokai, no Japão, e que venceu o World Solar Challenge de 2009, uma corrida internacional de carros solares, tendo atingido uma velocidade média acima de 100 km/h. [IMAGEM_0] Considere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1.000 W / m2, que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m2 e rendimento de 30%.",
+    "introducao_alternativas": "Desprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
+    "assunto": "Dinâmica",
+    "competencia": 6,
+    "habilidade": 23,
+    "dificuldade": "Médio",
+    "arquivos": [
+      "questao_f0131_-_enem_5f75f2f5-00ce-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,0 s.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,0 s.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "10 s.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "33 s.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "300 s.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_b57ffc58-46a5-489a-b2ee-1e261633531c",
+    "title": "Questão F2091 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O lançamento de 60 satélites altamente refletores pela empresa SpaceX está preocupando os cientistas: a “superpopulação” de satélites ameaça a nossa observação das estrelas. A SpaceX espera que um dia seja possível ter 12 mil satélites na órbita da Terra, permitindo o acesso à internet de alta velocidade, com a qual toda a humanidade só pode sonhar. A SpaceX é só uma das companhias no setor da internet via satélite. “Se muitos dos satélites dessas novas mega constelações tiverem esse tipo de brilho constante, então em 20 anos ou menos, o olho humano passará a ver, durante boa parte da noite em qualquer lugar do mundo, mais satélites do que estrelas”. \nAstrônomos alertam: satélites da SpaceX podem mudar céu noturno. Disponível em: https://br.sputniknews.com. Acesso em: 21 nov. 2019 (adaptado).",
+    "introducao_alternativas": "A preocupação dos astrônomos baseia-se no fato de esses satélites",
+    "assunto": "Óptica",
+    "competencia": 1,
+    "habilidade": "2",
+    "dificuldade": "Médio",
+    "arquivos": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "refletirem a luz do Sol durante o período noturno, ofuscando a luz das demais estrelas.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "emitirem para a Terra muita radiação luminosa que se sobrepõe à das estrelas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "refratarem a luz das estrelas, desviando os raios dos telescópios posicionados na superfície da Terra.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "refletirem a luz do Sol durante o período diurno, ofuscando a luz das demais estrelas.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "emitirem de volta para o espaço a luz das estrelas que seria captada pelos telescópios posicionados na superfície da Terra.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  },
+  {
+    "id_externo": "Questao_ca2f3725-cfe0-4803-8076-d8d243a04707",
+    "title": "Questão F2062 - ENEM PPL",
+    "banca": "ENEM PPL",
+    "ano": null,
+    "grande_area": "Natureza",
+    "disciplina": "fisica",
+    "contexto": "O audiograma corresponde a uma maneira objetiva de se representar a sensibilidade auditiva para diferentes frequências sonoras. Quanto maior a sensibilidade, menor é a intensidade necessária para que o som seja detectado. No gráfico, cada curva tracejada corresponde a uma determinada porcentagem de uma mesma população testada. A curva cheia superior corresponde aos níveis de intensidade sonora relatados como dolorosos. [IMAGEM_0]",
+    "introducao_alternativas": "A faixa de frequência, em Hz, na qual a maioria da população testada tem maior sensibilidade auditiva, encontra-se",
+    "assunto": "Ondulatória",
+    "competencia": 4,
+    "habilidade": 14,
+    "dificuldade": "Fácil",
+    "arquivos": [
+      "questao_f2062_-_enem_ppl_43a11009-59ba-4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abaixo de 80.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "B",
+        "texto": "entre 80 e 100.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "C",
+        "texto": "entre 2000 e 4000.",
+        "e_correta": true,
+        "imagem_url": null
+      },
+      {
+        "letra": "D",
+        "texto": "entre 4000 e 10000.",
+        "e_correta": false,
+        "imagem_url": null
+      },
+      {
+        "letra": "E",
+        "texto": "acima de 10000.",
+        "e_correta": false,
+        "imagem_url": null
+      }
+    ],
+    "interpretacao_contextual": true,
+    "consistencia_textual": true
+  }
+]
